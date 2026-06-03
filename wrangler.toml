@@ -1,0 +1,7 @@
+# Cloudflare Pages configuration
+# This tells Pages to serve the `public/` directory as the static site.
+# No build command is needed — the GitHub Action runs the generator before deploying.
+
+[build]
+  publish = "public"
+  command = ""          # leave blank; GitHub Actions handles the build step

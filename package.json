@@ -1,0 +1,14 @@
+{
+  "name": "scaler-chronicles",
+  "version": "1.0.0",
+  "description": "The Scaler Chronicles — automated daily newspaper",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "dev": "node scripts/generate.js && npx serve public"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {}
+}
