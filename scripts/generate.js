@@ -216,8 +216,8 @@ async function main() {
     fetchHeadlines({ category: 'business',      language: 'en' }, 3),
     fetchHeadlines({ category: 'technology',    language: 'en' }, 3),
     fetchHeadlines({ category: 'science',       language: 'en' }, 3),
-    fetchEverything('world news OR global OR international', 3),
-    fetchHeadlines({ category: 'general', language: 'en', country: 'us' }, 3),
+    fetchHeadlines({ category: 'general', language: 'en', country: 'gb' }, 3),
+    fetchHeadlines({ category: 'general', language: 'en', country: 'au' }, 3),
     fetchHeadlines({ category: 'sports',  language: 'en' }, 3),
     fetchHeadlines({ category: 'health',  language: 'en' }, 3),
     fetchHeadlines({ category: 'entertainment', language: 'en' }, 3),
@@ -411,7 +411,7 @@ async function main() {
     .article-deck{font-family:var(--f-disp);font-style:italic;font-size:.85rem;color:var(--ink-mid);margin-bottom:8px;line-height:1.45}
     .article-byline{font-size:.6rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:7px;border-bottom:1px solid rgba(42,31,14,.18);padding-bottom:5px}
     .article-body{font-size:.76rem;line-height:1.72;color:var(--ink-mid)}
-    .article-img{width:100%;background:var(--paper-dark);border:1px solid rgba(42,31,14,.15);margin-bottom:7px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+    .article-img{width:100%;aspect-ratio:16/9;background:var(--paper-dark);border:1px solid rgba(42,31,14,.15);margin-bottom:7px;display:flex;align-items:center;justify-content:center;overflow:hidden;flex-shrink:0}
     .article-img img{width:100%;height:100%;object-fit:cover;filter:sepia(25%) contrast(1.05);display:block;transition:filter .3s}
     .article:hover .article-img img{filter:sepia(10%) contrast(1.08)}
     .img-ph{font-size:.6rem;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-faint);font-family:var(--f-body);padding:20px}
