@@ -351,7 +351,18 @@ async function main() {
       --f-disp:'IM Fell English',Georgia,serif;
     }
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-    body{background:#2c2418;font-family:var(--f-body);color:var(--ink);min-height:100vh;padding:32px 16px 60px}
+    body{
+  background-color: #1a110a;
+  background-image:
+    radial-gradient(circle, #8b6914 1px, transparent 1px),
+    radial-gradient(circle, #5c3d0a 1px, transparent 1px);
+  background-size: 28px 28px, 14px 14px;
+  background-position: 0 0, 7px 7px;
+  font-family:var(--f-body);
+  color:var(--ink);
+  min-height:100vh;
+  padding:32px 16px 60px;
+}
     .view{display:none}.view.active{display:block;animation:fadeUp .38s cubic-bezier(.22,1,.36,1)}
     @keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
 
@@ -629,8 +640,8 @@ async function main() {
 
   <footer class="newspaper-footer">
     <span>© 2026 The Scaler Chronicles.</span>
-    <span>${todayFmt} · Auto-generated daily edition</span>
-    <span>Powered by NewsAPI &amp; Unsplash</span>
+    <span>${todayFmt} · Daily edition</span>
+    <span>Made By Shenz Nazeer</span>
   </footer>
 </div>
 </div><!-- /view-front -->
