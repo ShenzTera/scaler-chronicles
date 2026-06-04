@@ -211,63 +211,72 @@ async function main() {
     fetchEverything('climate change OR environment OR renewable energy OR carbon emissions', 3),
   ]);
 
-  /* ── 2. Fetch images for lead + section heroes ── */
+  /* ── 2. Fetch images for EVERY article in every batch ── */
   const lead = generalBatch[0];
+
+  // Helper: get images for all articles in a batch using a topic fallback
+  async function batchImages(articles, topicFallback) {
+    return Promise.all(articles.map(a => bestImage(a, topicFallback)));
+  }
+
   const [
-    leadImg, bizImg, techImg, sciImg, worldImg, sportImg, healthImg, entertainImg, envImg,
+    generalImgs, bizImgs, techImgs, sciImgs,
+    worldImgs, politicsImgs, sportImgs, healthImgs,
+    entertainImgs, envImgs,
   ] = await Promise.all([
-    bestImage(lead,              'world news breaking'),
-    bestImage(bizBatch[0],       'business finance economy'),
-    bestImage(techBatch[0],      'technology innovation'),
-    bestImage(sciBatch[0],       'science research laboratory'),
-    bestImage(worldBatch[0],     'world international news'),
-    bestImage(sportBatch[0],     'sport athletics competition'),
-    bestImage(healthBatch[0],    'health medicine wellness'),
-    bestImage(entertainBatch[0], 'entertainment film music'),
-    bestImage(envBatch[0],       'nature environment climate'),
+    batchImages(generalBatch,   'world news breaking'),
+    batchImages(bizBatch,       'business finance economy'),
+    batchImages(techBatch,      'technology innovation computers'),
+    batchImages(sciBatch,       'science research laboratory'),
+    batchImages(worldBatch,     'world international news'),
+    batchImages(politicsBatch,  'politics government parliament'),
+    batchImages(sportBatch,     'sport athletics competition'),
+    batchImages(healthBatch,    'health medicine wellness'),
+    batchImages(entertainBatch, 'entertainment film music'),
+    batchImages(envBatch,       'nature environment climate'),
   ]);
 
   /* ── 3. Build article objects ── */
   const A = {
-    lead:      makeArticle(lead,              leadImg,      'Breaking News'),
-    lead2:     makeArticle(generalBatch[1],   '',           'Top Story'),
-    lead3:     makeArticle(generalBatch[2],   '',           'Top Story'),
+    lead:      makeArticle(lead,              generalImgs[0],   'Breaking News'),
+    lead2:     makeArticle(generalBatch[1],   generalImgs[1],   'Top Story'),
+    lead3:     makeArticle(generalBatch[2],   generalImgs[2],   'Top Story'),
 
-    biz1:      makeArticle(bizBatch[0],       bizImg,       'Business'),
-    biz2:      makeArticle(bizBatch[1],       '',           'Business'),
-    biz3:      makeArticle(bizBatch[2],       '',           'Business'),
+    biz1:      makeArticle(bizBatch[0],       bizImgs[0],       'Business'),
+    biz2:      makeArticle(bizBatch[1],       bizImgs[1],       'Business'),
+    biz3:      makeArticle(bizBatch[2],       bizImgs[2],       'Business'),
 
-    tech1:     makeArticle(techBatch[0],      techImg,      'Technology'),
-    tech2:     makeArticle(techBatch[1],      '',           'Technology'),
-    tech3:     makeArticle(techBatch[2],      '',           'Technology'),
+    tech1:     makeArticle(techBatch[0],      techImgs[0],      'Technology'),
+    tech2:     makeArticle(techBatch[1],      techImgs[1],      'Technology'),
+    tech3:     makeArticle(techBatch[2],      techImgs[2],      'Technology'),
 
-    sci1:      makeArticle(sciBatch[0],       sciImg,       'Science'),
-    sci2:      makeArticle(sciBatch[1],       '',           'Science'),
-    sci3:      makeArticle(sciBatch[2],       '',           'Science'),
+    sci1:      makeArticle(sciBatch[0],       sciImgs[0],       'Science'),
+    sci2:      makeArticle(sciBatch[1],       sciImgs[1],       'Science'),
+    sci3:      makeArticle(sciBatch[2],       sciImgs[2],       'Science'),
 
-    world1:    makeArticle(worldBatch[0],     worldImg,     'World'),
-    world2:    makeArticle(worldBatch[1],     '',           'World'),
-    world3:    makeArticle(worldBatch[2],     '',           'World'),
+    world1:    makeArticle(worldBatch[0],     worldImgs[0],     'World'),
+    world2:    makeArticle(worldBatch[1],     worldImgs[1],     'World'),
+    world3:    makeArticle(worldBatch[2],     worldImgs[2],     'World'),
 
-    pol1:      makeArticle(politicsBatch[0],  '',           'Politics'),
-    pol2:      makeArticle(politicsBatch[1],  '',           'Politics'),
-    pol3:      makeArticle(politicsBatch[2],  '',           'Politics'),
+    pol1:      makeArticle(politicsBatch[0],  politicsImgs[0],  'Politics'),
+    pol2:      makeArticle(politicsBatch[1],  politicsImgs[1],  'Politics'),
+    pol3:      makeArticle(politicsBatch[2],  politicsImgs[2],  'Politics'),
 
-    sport1:    makeArticle(sportBatch[0],     sportImg,     'Sport'),
-    sport2:    makeArticle(sportBatch[1],     '',           'Sport'),
-    sport3:    makeArticle(sportBatch[2],     '',           'Sport'),
+    sport1:    makeArticle(sportBatch[0],     sportImgs[0],     'Sport'),
+    sport2:    makeArticle(sportBatch[1],     sportImgs[1],     'Sport'),
+    sport3:    makeArticle(sportBatch[2],     sportImgs[2],     'Sport'),
 
-    health1:   makeArticle(healthBatch[0],    healthImg,    'Health'),
-    health2:   makeArticle(healthBatch[1],    '',           'Health'),
-    health3:   makeArticle(healthBatch[2],    '',           'Health'),
+    health1:   makeArticle(healthBatch[0],    healthImgs[0],    'Health'),
+    health2:   makeArticle(healthBatch[1],    healthImgs[1],    'Health'),
+    health3:   makeArticle(healthBatch[2],    healthImgs[2],    'Health'),
 
-    ent1:      makeArticle(entertainBatch[0], entertainImg, 'Entertainment'),
-    ent2:      makeArticle(entertainBatch[1], '',           'Entertainment'),
-    ent3:      makeArticle(entertainBatch[2], '',           'Entertainment'),
+    ent1:      makeArticle(entertainBatch[0], entertainImgs[0], 'Entertainment'),
+    ent2:      makeArticle(entertainBatch[1], entertainImgs[1], 'Entertainment'),
+    ent3:      makeArticle(entertainBatch[2], entertainImgs[2], 'Entertainment'),
 
-    env1:      makeArticle(envBatch[0],       envImg,       'Environment'),
-    env2:      makeArticle(envBatch[1],       '',           'Environment'),
-    env3:      makeArticle(envBatch[2],       '',           'Environment'),
+    env1:      makeArticle(envBatch[0],       envImgs[0],       'Environment'),
+    env2:      makeArticle(envBatch[1],       envImgs[1],       'Environment'),
+    env3:      makeArticle(envBatch[2],       envImgs[2],       'Environment'),
   };
 
   /* ── 4. Save archive JSON ── */
