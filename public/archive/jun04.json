@@ -1,0 +1,84 @@
+{
+  "date": "Thursday, June 4, 2026",
+  "key": "jun04",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Scott Pelley fired from ‘60 Minutes’ after confrontation with new boss - The Washington Post",
+      "deck": "The termination marks the latest shake-up during a tumultuous period for the iconic newsmagazine.",
+      "byline": "By Scott Nover, Liam Scott",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/06/03/scott-pelley-fired-60-minutes-after-confrontation-with-new-boss/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ZIHEAOS57QI7DHCG2YQRG4XO3Y.jpg&w=1440",
+      "body": "60 Minutes correspondent Scott Pelley was fired Tuesday, one day after a fiery confrontation with his new boss, executive producer Nick Bilton, according to two people familiar with the matter.\r\nIn a… [+83 chars]"
+    },
+    "biz": {
+      "tag": "Business",
+      "headline": "Stock futures are little changed after S&P 500 closes at another record: Live updates - CNBC",
+      "deck": "The three major indexes rose to fresh record highs on Tuesday.",
+      "byline": "By Lisa Kailai Han",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/02/stock-market-today-live-updates.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108313259-1779982389071-Traders-Photo-20260528-KK-PRESS-022.jpg?v=1779982579&w=1920&h=1080",
+      "body": "U.S. stock futures were little changed early Wednesday after all three major indexes closed at fresh records during the regular session.\r\nFutures for S&amp;P 500 futures and Nasdaq 100 traded near th… [+1991 chars]"
+    },
+    "tech": {
+      "tag": "Technology",
+      "headline": "Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5 - Eurogamer",
+      "deck": "Cars from The Fast and Furious, Back to the Future, and more present.",
+      "byline": "By Connor Makar",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/stuntman-hollywood-revealed-at-sony-state-of-play-coming-soon-to-ps5",
+      "imgSrc": "https://assetsio.gnwcdn.com/stuntman-hollywood-white-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "body": "Stuntman Hollywood - an explosive return for the beloved racing series - has been revealed at tonight's State of Play livestream.\r\nAn arcade racer, Stuntman Hollywood features many cars from a variet… [+1278 chars]"
+    },
+    "sci": {
+      "tag": "Science",
+      "headline": "Scientists sterilized soil. It kept breathing for six years. - Boing Boing",
+      "deck": "Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing — taking in oxygen…",
+      "byline": "By Ellsworth Toohey",
+      "source": "Boing Boing",
+      "url": "https://boingboing.net/2026/06/02/scientists-sterilized-soil-it-kept-breathing-for-six-years.html",
+      "imgSrc": "https://images.unsplash.com/photo-1581093577421-f561a654a353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwcmVzZWFyY2glMjBsYWJvcmF0b3J5fGVufDB8MHx8fDE3ODA1NTYwODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "body": "Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing taking in oxygen and giving off carbon dioxide… [+717 chars]"
+    },
+    "worldA": {
+      "tag": "World",
+      "headline": "Story loading…",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": ""
+    },
+    "worldB": {
+      "tag": "Politics",
+      "headline": "Calix, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CALX",
+      "deck": "LOS ANGELES, June 3, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Calix, Inc. (\"Calix\" or \"the Company\") (NYSE: CALX) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promu…",
+      "byline": "By PRNewswire",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/calix-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--calx-302789502.html",
+      "imgSrc": "",
+      "body": "LOS ANGELES, June 3, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Calix, Inc. (\"Calix\" or \"the Company\") (NYSE: CALX) for violations of §§10(b) and 20(a)… [+1752 chars]"
+    },
+    "sport": {
+      "tag": "Sport",
+      "headline": "Morgan Rogers among ‘at least 10 names’ on Chelsea’s summer wishlist — report",
+      "deck": "And if wishes were fishes…",
+      "byline": "By David Pasztor",
+      "source": "SB Nation",
+      "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/169148/morgan-rogers-among-at-least-10-names-on-chelseas-summer-wishlist-report",
+      "imgSrc": "https://s.yimg.com/ny/api/res/1.2/tvXp_70lfZJ.t0O8bkjtYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/7aeb1ddbbf1e0a068dde735afc200fb0",
+      "body": "Chelsea will likely need to be more of a selling club this summer after failing to secure any sort of European football for next season not to mention our continuing lack of front-of-shirt sponsorshi… [+1247 chars]"
+    },
+    "health": {
+      "tag": "Health",
+      "headline": "MBF GROUP S.A.: Zawarcie umowy konsorcjum dotyczącej udziału w programie Europejskiej Agencji Obrony (EDA) w ramach inicjatywy HEDI",
+      "deck": "Spis treści:1. RAPORT BIEŻĄCY2. MESSAGE (ENGLISH VERSION)3. INFORMACJE O PODMIOCIE4. PODPISY OSÓB REPREZENTUJĄCYCH SPÓŁKĘ td.td-text, th.td-text { word-break: keep-all; overflow-wrap: break-word; box-sizing: border-box;...",
+      "byline": "By Redaktor Bankier.pl",
+      "source": "Bankier.pl",
+      "url": "https://www.bankier.pl/wiadomosc/MBF-GROUP-S-A-Zawarcie-umowy-konsorcjum-dotyczacej-udzialu-w-programie-Europejskiej-Agencji-Obrony-EDA-w-ramach-inicjatywy-HEDI-9145267.html",
+      "imgSrc": "https://galeria.bankier.pl/p/0/f/5cf4b304c96a2e-thumb-1000.jpg",
+      "body": "The Management Board of MBF Group S.A., with its registered office in \r\n Warsaw (the Company, the Issuer) announces that on 2 June 2026 it \r\n entered into a consortium and project cooperation agreeme… [+4686 chars]"
+    }
+  }
+}

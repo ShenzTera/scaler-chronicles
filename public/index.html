@@ -2,20 +2,432 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
-  <title>The Scaler Chronicles — Loading…</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>The Scaler Chronicles — Thursday, June 4, 2026</title>
+  <meta name="description" content="The Scaler Chronicles: curated world news in classic broadsheet style."/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=IM+Fell+English:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"/>
   <style>
-    body { background: #2c2418; color: #f5efe0; font-family: Georgia, serif;
-           display: flex; align-items: center; justify-content: center;
-           min-height: 100vh; margin: 0; text-align: center; }
-    h1   { font-size: 2.5rem; margin-bottom: 1rem; }
-    p    { opacity: .6; font-style: italic; }
+    :root {
+      --paper:      #f5efe0;
+      --paper-dark: #e8dfc8;
+      --ink:        #1a1209;
+      --ink-mid:    #3a2e1e;
+      --ink-faint:  #7a6a52;
+      --rule:       #2a1f0e;
+      --red:        #8b1a1a;
+      --glass-bg:   rgba(245,239,224,0.55);
+      --f-head:     'Playfair Display', Georgia, serif;
+      --f-body:     'Libre Baskerville', Georgia, serif;
+      --f-disp:     'IM Fell English', Georgia, serif;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{background:#2c2418 repeating-linear-gradient(90deg,rgba(0,0,0,.04) 0 1px,transparent 1px 40px) repeating-linear-gradient(0deg,rgba(0,0,0,.04) 0 1px,transparent 1px 40px);font-family:var(--f-body);color:var(--ink);min-height:100vh;padding:32px 16px 60px}
+
+    .view{display:none}.view.active{display:block;animation:fadeUp .38s cubic-bezier(.22,1,.36,1)}
+    @keyframes fadeUp{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+
+    /* NEWSPAPER */
+    .newspaper{max-width:960px;margin:0 auto;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='.04'/%3E%3C/svg%3E"),linear-gradient(180deg,#f7f0e0 0%,#ede0c0 100%);background-color:var(--paper);box-shadow:0 2px 4px rgba(0,0,0,.3),0 8px 20px rgba(0,0,0,.4),0 20px 60px rgba(0,0,0,.3),inset 0 0 80px rgba(200,180,140,.15);border:1px solid #c8b898;padding:0 0 40px}
+
+    /* MASTHEAD */
+    .masthead{border-bottom:4px double var(--rule);padding:18px 24px 12px;text-align:center;background:linear-gradient(180deg,#f0e6cc,var(--paper))}
+    .masthead::before{content:'';display:block;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);height:6px;margin-bottom:12px}
+    .newspaper-name{font-family:var(--f-head);font-size:clamp(2.8rem,7vw,5.2rem);font-weight:900;line-height:1;color:var(--ink);text-shadow:2px 2px 0 rgba(0,0,0,.12)}
+    .mast-icon{font-size:1.6rem;margin:0 12px;opacity:.7}
+    .tagline{font-family:var(--f-disp);font-style:italic;font-size:.78rem;color:var(--ink-mid);letter-spacing:.12em;margin-top:4px;text-transform:uppercase}
+    .meta-bar{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);margin-top:10px;padding:4px 0;font-size:.7rem;color:var(--ink-mid);letter-spacing:.08em;text-transform:uppercase}
+
+    /* LABELS */
+    .section-label{display:flex;align-items:center;gap:10px;margin:20px 24px 0;font-family:var(--f-head);font-size:.72rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--paper)}
+    .section-label span{background:var(--ink);padding:3px 10px}
+    .section-label::after{content:'';flex:1;height:1px;background:var(--ink);opacity:.35}
+    .h-rule{border:none;border-top:1px solid var(--rule);margin:0 24px;opacity:.4}
+    .h-rule-bold{border:none;border-top:3px double var(--rule);margin:0 24px;opacity:.6}
+
+    /* GRIDS */
+    .columns{display:grid;padding:16px 24px}
+    .col-3{grid-template-columns:repeat(3,1fr)}
+    .col-2{grid-template-columns:repeat(2,1fr)}
+    .col-1-2{grid-template-columns:2fr 1fr 1fr}
+
+    /* ARTICLE CARDS */
+    .article{padding:16px;cursor:pointer;transition:background .2s;position:relative;border-right:1px solid rgba(42,31,14,.2)}
+    .article:last-child{border-right:none}
+    .article:hover{background:var(--glass-bg);backdrop-filter:blur(6px)}
+    .article::after{content:'READ MORE →';position:absolute;bottom:10px;right:14px;font-size:.58rem;letter-spacing:.12em;color:var(--red);opacity:0;transition:opacity .2s;font-weight:700;font-family:var(--f-body)}
+    .article:hover::after{opacity:1}
+    .article-featured{padding:20px 24px;border-bottom:3px double var(--rule);cursor:pointer;transition:background .2s;position:relative}
+    .article-featured:hover{background:var(--glass-bg)}
+    .article-featured::after{content:'READ FULL STORY →';position:absolute;bottom:12px;right:24px;font-size:.6rem;letter-spacing:.14em;color:var(--red);opacity:0;transition:opacity .2s;font-weight:700;font-family:var(--f-body)}
+    .article-featured:hover::after{opacity:1}
+    .article-tag{font-size:.58rem;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--red);margin-bottom:5px}
+    .article-headline{font-family:var(--f-head);font-size:1.18rem;font-weight:700;line-height:1.2;color:var(--ink);margin-bottom:6px}
+    .article-headline.xl{font-size:2rem;line-height:1.1}
+    .article-headline.lg{font-size:1.5rem}
+    .article-deck{font-family:var(--f-disp);font-style:italic;font-size:.85rem;color:var(--ink-mid);margin-bottom:8px;line-height:1.4}
+    .article-byline{font-size:.62rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:8px;border-bottom:1px solid rgba(42,31,14,.2);padding-bottom:6px}
+    .article-body{font-size:.78rem;line-height:1.7;color:var(--ink-mid)}
+    .article-img{width:100%;aspect-ratio:4/3;background:var(--paper-dark);border:1px solid rgba(42,31,14,.2);margin-bottom:8px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+    .article-img img{width:100%;height:100%;object-fit:cover;filter:sepia(30%) contrast(1.05);display:block}
+    .img-ph{font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-faint);font-family:var(--f-body)}
+    .article-caption{font-size:.6rem;font-style:italic;color:var(--ink-faint);border-top:1px solid rgba(42,31,14,.2);padding-top:4px;margin-bottom:8px}
+    .read-more-link{display:inline-block;margin-top:8px;font-size:.62rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--red);text-decoration:none}
+    .read-more-link:hover{text-decoration:underline}
+
+    /* AD */
+    .ad-block{border:2px solid var(--rule);padding:14px;margin:14px 24px;text-align:center;background:linear-gradient(135deg,#ede0c0,#f5efe0)}
+    .ad-block::before{content:'— ADVERTISEMENT —';display:block;font-size:.55rem;letter-spacing:.22em;color:var(--ink-faint);margin-bottom:8px}
+    .ad-label{font-family:var(--f-head);font-size:1.1rem;font-weight:900;color:var(--ink)}
+    .ad-text{font-size:.7rem;color:var(--ink-mid);margin-top:4px;font-style:italic}
+
+    .newspaper-footer{border-top:3px double var(--rule);margin:24px 24px 0;padding-top:10px;display:flex;justify-content:space-between;font-size:.62rem;color:var(--ink-faint);letter-spacing:.05em}
+
+    /* ARCHIVE BAR */
+    .archive-bar{max-width:960px;margin:28px auto 0;background:rgba(20,14,6,.75);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.1);border-radius:3px;padding:20px 28px 22px;box-shadow:0 8px 32px rgba(0,0,0,.5)}
+    .archive-bar-title{font-family:var(--f-head);font-size:.68rem;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:rgba(245,239,224,.5);margin-bottom:14px;display:flex;align-items:center;gap:10px}
+    .archive-bar-title::before,.archive-bar-title::after{content:'';flex:1;height:1px;background:rgba(245,239,224,.18)}
+    .archive-days{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
+    .day-btn{background:rgba(245,239,224,.07);border:1px solid rgba(245,239,224,.18);color:rgba(245,239,224,.75);font-family:var(--f-body);font-size:.68rem;letter-spacing:.06em;cursor:pointer;padding:8px 16px;border-radius:2px;transition:all .2s;display:flex;flex-direction:column;align-items:center;gap:2px;min-width:82px}
+    .day-btn .day-name{font-weight:700;font-size:.75rem;text-transform:uppercase;letter-spacing:.12em}
+    .day-btn .day-date{font-size:.6rem;color:rgba(245,239,224,.42)}
+    .day-btn:hover{background:rgba(245,239,224,.17);border-color:rgba(245,239,224,.45);color:var(--paper);transform:translateY(-2px);box-shadow:0 4px 16px rgba(0,0,0,.4)}
+    .day-btn.today{background:var(--red);border-color:var(--red);color:var(--paper)}
+    .day-btn.today .day-date{color:rgba(245,239,224,.7)}
+
+    /* BACK BAR */
+    .back-bar{max-width:960px;margin:0 auto 12px;display:flex;align-items:center;gap:14px}
+    .back-btn{background:rgba(245,239,224,.12);border:1px solid rgba(245,239,224,.25);color:rgba(245,239,224,.85);font-family:var(--f-body);font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;cursor:pointer;padding:7px 16px;border-radius:2px;transition:all .18s}
+    .back-btn:hover{background:rgba(245,239,224,.22);color:var(--paper)}
+    .back-bar-label{font-family:var(--f-disp);font-style:italic;font-size:.8rem;color:rgba(245,239,224,.45)}
+
+    /* FULL ARTICLE PAGE */
+    .article-page{max-width:800px;margin:0 auto;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='.04'/%3E%3C/svg%3E"),linear-gradient(180deg,#f7f0e0,#ede0c0);background-color:var(--paper);box-shadow:0 4px 30px rgba(0,0,0,.5),0 0 0 1px rgba(200,180,140,.5);border-radius:2px;overflow:hidden}
+    .ap-accent{height:5px;background:linear-gradient(90deg,var(--red),#c0392b,var(--red))}
+    .ap-inner{padding:44px 52px 60px}
+    .ap-nav{display:flex;align-items:center;justify-content:space-between;margin-bottom:28px;border-bottom:1px solid rgba(42,31,14,.18);padding-bottom:14px}
+    .ap-nav .ap-back{font-size:.62rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--red);cursor:pointer;background:none;border:none;font-family:var(--f-body);transition:opacity .15s}
+    .ap-nav .ap-back:hover{opacity:.65}
+    .ap-nav .ap-paper{font-family:var(--f-head);font-size:.85rem;font-weight:900;color:var(--ink-faint)}
+    .ap-tag{font-size:.62rem;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--red);margin-bottom:10px}
+    .ap-headline{font-family:var(--f-head);font-size:clamp(1.9rem,4vw,3rem);font-weight:900;line-height:1.08;color:var(--ink);margin-bottom:12px}
+    .ap-deck{font-family:var(--f-disp);font-style:italic;font-size:1.08rem;color:var(--ink-mid);border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:10px 0;margin-bottom:16px}
+    .ap-byline{font-size:.65rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:24px}
+    .ap-image{width:100%;max-height:360px;object-fit:cover;filter:sepia(25%) contrast(1.05);margin-bottom:8px;border:1px solid rgba(42,31,14,.2);display:block}
+    .ap-img-wrap{margin-bottom:22px}
+    .ap-img-ph{width:100%;aspect-ratio:16/9;background:var(--paper-dark);border:1px solid rgba(42,31,14,.18);display:flex;align-items:center;justify-content:center}
+    .ap-img-ph span{font-size:.65rem;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-faint)}
+    .ap-caption{font-size:.63rem;font-style:italic;color:var(--ink-faint);padding-top:5px;border-bottom:1px solid rgba(42,31,14,.12);padding-bottom:8px}
+    .ap-body{font-size:.88rem;line-height:1.9;color:var(--ink-mid);column-count:2;column-gap:32px;column-rule:1px solid rgba(42,31,14,.18)}
+    .ap-body p{margin-bottom:14px}
+    .ap-body p:first-child::first-letter{font-family:var(--f-head);font-size:3.8rem;font-weight:900;float:left;line-height:.82;margin:6px 6px 0 0;color:var(--ink)}
+    .ap-source-link{display:inline-block;margin-top:18px;font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--red);text-decoration:none;border:1px solid var(--red);padding:6px 14px}
+    .ap-source-link:hover{background:var(--red);color:var(--paper)}
+    .ap-bottom-nav{max-width:800px;margin:16px auto 0;display:flex;gap:12px;align-items:center}
+
+    @media(max-width:640px){
+      .col-3,.col-2,.col-1-2{grid-template-columns:1fr}
+      .article{border-right:none;border-bottom:1px solid rgba(42,31,14,.2)}
+      .ap-inner{padding:24px 18px 40px}
+      .ap-body{column-count:1}
+      .day-btn{min-width:68px;padding:7px 10px}
+      .newspaper-footer{flex-direction:column;gap:4px}
+    }
   </style>
 </head>
 <body>
-  <div>
-    <h1>⚜ The Scaler Chronicles ⚜</h1>
-    <p>The first daily edition will be published shortly.<br>
-       Check back after the GitHub Action has run.</p>
+
+<!-- ═══ VIEW: FRONT PAGE ═══ -->
+<div class="view active" id="view-front">
+<div class="newspaper">
+
+  <header class="masthead">
+    <div class="newspaper-name">
+      <span class="mast-icon">⚜</span> The Scaler Chronicles <span class="mast-icon">⚜</span>
+    </div>
+    <div class="tagline">"Bringing A Modern Touch To Traditional Newspaper — Est. 2026"</div>
+    <div class="meta-bar">
+      <span>Thursday, June 4, 2026</span>
+      <span style="font-style:italic">Vol. I · Daily Edition</span>
+      <span>$0</span>
+    </div>
+  </header>
+
+  <!-- LEAD STORY -->
+  <article class="article-featured" onclick="openArticle('lead')">
+    <div class="article-tag">Breaking News</div>
+    <h1 class="article-headline xl" style="max-width:680px">Scott Pelley fired from ‘60 Minutes’ after confrontation with new boss - The Washington Post</h1>
+    <p class="article-deck">The termination marks the latest shake-up during a tumultuous period for the iconic newsmagazine.</p>
+    <div class="article-byline">By Scott Nover, Liam Scott</div>
+    <p class="article-body">60 Minutes correspondent Scott Pelley was fired Tuesday, one day after a fiery confrontation with his new boss, executive producer Nick Bilton, according to two people familiar with the matter.
+In a… [+83 chars]</p>
+  </article>
+
+  <div class="section-label"><span>Top Stories</span></div>
+  <div class="columns col-3">
+    
+    <article class="article" onclick="openArticle('biz')">
+      <div class="article-tag">Business</div>
+      <div class="article-img"><img src="https://image.cnbcfm.com/api/v1/image/108313259-1779982389071-Traders-Photo-20260528-KK-PRESS-022.jpg?v=1779982579&amp;w=1920&amp;h=1080" alt="Stock futures are little changed after S&amp;P 500 closes at another record: Live updates - CNBC" loading="lazy"></div>
+      <div class="article-caption">Source: CNBC</div>
+      <h2 class="article-headline lg">Stock futures are little changed after S&amp;P 500 closes at another record: Live updates - CNBC</h2>
+      <div class="article-byline">By Lisa Kailai Han</div>
+      <p class="article-body">U.S. stock futures were little changed early Wednesday after all three major indexes closed at fresh records during the regular session.
+Futures for S&amp;amp;P 500 futures and Nasdaq 100 traded near th… [+1991 chars]</p>
+    </article>
+    
+    <article class="article" onclick="openArticle('tech')">
+      <div class="article-tag">Technology</div>
+      <div class="article-img"><img src="https://assetsio.gnwcdn.com/stuntman-hollywood-white-car.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp" alt="Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5 - Eurogamer" loading="lazy"></div>
+      <div class="article-caption">Source: Eurogamer.net</div>
+      <h2 class="article-headline lg">Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5 - Eurogamer</h2>
+      <div class="article-byline">By Connor Makar</div>
+      <p class="article-body">Stuntman Hollywood - an explosive return for the beloved racing series - has been revealed at tonight&#39;s State of Play livestream.
+An arcade racer, Stuntman Hollywood features many cars from a variet… [+1278 chars]</p>
+    </article>
+    
+    <article class="article" onclick="openArticle('sci')">
+      <div class="article-tag">Science</div>
+      <div class="article-img"><img src="https://images.unsplash.com/photo-1581093577421-f561a654a353?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwcmVzZWFyY2glMjBsYWJvcmF0b3J5fGVufDB8MHx8fDE3ODA1NTYwODZ8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="Scientists sterilized soil. It kept breathing for six years. - Boing Boing" loading="lazy"></div>
+      <div class="article-caption">Source: Boing Boing</div>
+      <h2 class="article-headline lg">Scientists sterilized soil. It kept breathing for six years. - Boing Boing</h2>
+      <div class="article-byline">By Ellsworth Toohey</div>
+      <p class="article-body">Quanta&#39;s &quot;The Dirt That Refused To Die&quot; follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing taking in oxygen and giving off carbon dioxide… [+717 chars]</p>
+    </article>
   </div>
+
+  <hr class="h-rule-bold">
+  <div class="section-label"><span>World &amp; Politics</span></div>
+  <div class="columns col-1-2">
+    <article class="article" onclick="openArticle('worldA')" style="border-right:1px solid rgba(42,31,14,.25)">
+      <div class="article-tag">World</div>
+      <div class="article-img" style="aspect-ratio:16/9">
+        <span class="img-ph">[ World Image ]</span>
+      </div>
+      <div class="article-caption">Source: </div>
+      <h2 class="article-headline xl">Story loading…</h2>
+      <p class="article-deck"></p>
+      <div class="article-byline"></div>
+      <p class="article-body" style="column-count:2;column-gap:14px;column-rule:1px solid rgba(42,31,14,.18)"></p>
+    </article>
+    <div style="display:flex;flex-direction:column">
+      <article class="article" onclick="openArticle('worldB')" style="flex:1;border-bottom:1px solid rgba(42,31,14,.2)">
+        <div class="article-tag">Politics</div>
+        <h2 class="article-headline">Calix, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CALX</h2>
+        <div class="article-byline">By PRNewswire</div>
+        <p class="article-body">LOS ANGELES, June 3, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Calix, Inc. (&quot;Calix&quot; or &quot;the Company&quot;) (NYSE: CALX) for violations of §§10(b) and 20(a)… [+1752 chars]</p>
+      </article>
+    </div>
+  </div>
+
+  <hr class="h-rule">
+  <div class="ad-block">
+    <div class="ad-label">✦ Your Advertisement Here ✦</div>
+    <div class="ad-text">Insert sponsor message — or delete this block</div>
+  </div>
+  <hr class="h-rule">
+
+  <div class="section-label"><span>Sport &amp; Health</span></div>
+  <div class="columns col-2">
+    
+    <article class="article" onclick="openArticle('sport')">
+      <div class="article-tag">Sport</div>
+      <div class="article-img"><img src="https://s.yimg.com/ny/api/res/1.2/tvXp_70lfZJ.t0O8bkjtYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/7aeb1ddbbf1e0a068dde735afc200fb0" alt="Morgan Rogers among ‘at least 10 names’ on Chelsea’s summer wishlist — report" loading="lazy"></div>
+      <div class="article-caption">Source: SB Nation</div>
+      <h2 class="article-headline lg">Morgan Rogers among ‘at least 10 names’ on Chelsea’s summer wishlist — report</h2>
+      <div class="article-byline">By David Pasztor</div>
+      <p class="article-body">Chelsea will likely need to be more of a selling club this summer after failing to secure any sort of European football for next season not to mention our continuing lack of front-of-shirt sponsorshi… [+1247 chars]</p>
+    </article>
+    
+    <article class="article" onclick="openArticle('health')">
+      <div class="article-tag">Health</div>
+      <div class="article-img"><img src="https://galeria.bankier.pl/p/0/f/5cf4b304c96a2e-thumb-1000.jpg" alt="MBF GROUP S.A.: Zawarcie umowy konsorcjum dotyczącej udziału w programie Europejskiej Agencji Obrony (EDA) w ramach inicjatywy HEDI" loading="lazy"></div>
+      <div class="article-caption">Source: Bankier.pl</div>
+      <h2 class="article-headline lg">MBF GROUP S.A.: Zawarcie umowy konsorcjum dotyczącej udziału w programie Europejskiej Agencji Obrony (EDA) w ramach inicjatywy HEDI</h2>
+      <div class="article-byline">By Redaktor Bankier.pl</div>
+      <p class="article-body">The Management Board of MBF Group S.A., with its registered office in 
+ Warsaw (the Company, the Issuer) announces that on 2 June 2026 it 
+ entered into a consortium and project cooperation agreeme… [+4686 chars]</p>
+    </article>
+  </div>
+
+  <footer class="newspaper-footer">
+    <span>© 2026 The Scaler Chronicles.</span>
+    <span>Thursday, June 4, 2026 · Auto-generated daily edition</span>
+    <span>Powered by NewsAPI &amp; Unsplash</span>
+  </footer>
+</div>
+</div><!-- /view-front -->
+
+<!-- ═══ VIEW: ARCHIVE ═══ -->
+<div class="view" id="view-archive">
+  <div class="back-bar">
+    <button class="back-btn" onclick="showView('front')">← Today's Edition</button>
+    <span class="back-bar-label" id="archive-label">Archive</span>
+  </div>
+  <div id="archive-content"></div>
+</div>
+
+<!-- ═══ VIEW: FULL ARTICLE ═══ -->
+<div class="view" id="view-article">
+  <div class="back-bar">
+    <button class="back-btn" onclick="goBack()">← Back</button>
+  </div>
+  <div class="article-page">
+    <div class="ap-accent"></div>
+    <div class="ap-inner">
+      <nav class="ap-nav">
+        <button class="ap-back" onclick="goBack()">← Back</button>
+        <span class="ap-paper">The Scaler Chronicles</span>
+      </nav>
+      <div id="ap-tag" class="ap-tag"></div>
+      <h1 id="ap-headline" class="ap-headline"></h1>
+      <p id="ap-deck" class="ap-deck"></p>
+      <div id="ap-byline" class="ap-byline"></div>
+      <div id="ap-img-wrap" class="ap-img-wrap"></div>
+      <div id="ap-body" class="ap-body"></div>
+      <div id="ap-source-wrap"></div>
+    </div>
+  </div>
+  <div class="ap-bottom-nav">
+    <button class="back-btn" onclick="goBack()">← Back to Paper</button>
+  </div>
+</div>
+
+<!-- ═══ ARCHIVE BAR ═══ -->
+<div class="archive-bar">
+  <div class="archive-bar-title">Past Editions</div>
+  <div class="archive-days" id="archive-days">
+    <button class="day-btn today" data-key="jun04" onclick="loadEdition(this)">
+       <span class="day-name">THU</span>
+       <span class="day-date">Jun 4</span>
+     </button>
+  </div>
+</div>
+
+<script>
+/* ── Article data (injected at build time) ── */
+const ARTICLES = {
+  "lead": {"tag":"Breaking News","headline":"Scott Pelley fired from ‘60 Minutes’ after confrontation with new boss - The Washington Post","deck":"The termination marks the latest shake-up during a tumultuous period for the iconic newsmagazine.","byline":"By Scott Nover, Liam Scott","source":"The Washington Post","url":"https://www.washingtonpost.com/business/2026/06/03/scott-pelley-fired-60-minutes-after-confrontation-with-new-boss/","imgSrc":"https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ZIHEAOS57QI7DHCG2YQRG4XO3Y.jpg&w=1440","body":"60 Minutes correspondent Scott Pelley was fired Tuesday, one day after a fiery confrontation with his new boss, executive producer Nick Bilton, according to two people familiar with the matter.\r\nIn a… [+83 chars]"},
+  "biz": {"tag":"Business","headline":"Stock futures are little changed after S&P 500 closes at another record: Live updates - CNBC","deck":"The three major indexes rose to fresh record highs on Tuesday.","byline":"By Lisa Kailai Han","source":"CNBC","url":"https://www.cnbc.com/2026/06/02/stock-market-today-live-updates.html","imgSrc":"https://image.cnbcfm.com/api/v1/image/108313259-1779982389071-Traders-Photo-20260528-KK-PRESS-022.jpg?v=1779982579&w=1920&h=1080","body":"U.S. stock futures were little changed early Wednesday after all three major indexes closed at fresh records during the regular session.\r\nFutures for S&amp;P 500 futures and Nasdaq 100 traded near th… [+1991 chars]"},
+  "tech": {"tag":"Technology","headline":"Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5 - Eurogamer","deck":"Cars from The Fast and Furious, Back to the Future, and more present.","byline":"By Connor Makar","source":"Eurogamer.net","url":"https://www.eurogamer.net/stuntman-hollywood-revealed-at-sony-state-of-play-coming-soon-to-ps5","imgSrc":"https://assetsio.gnwcdn.com/stuntman-hollywood-white-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp","body":"Stuntman Hollywood - an explosive return for the beloved racing series - has been revealed at tonight's State of Play livestream.\r\nAn arcade racer, Stuntman Hollywood features many cars from a variet… [+1278 chars]"},
+  "sci": {"tag":"Science","headline":"Scientists sterilized soil. It kept breathing for six years. - Boing Boing","deck":"Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing — taking in oxygen…","byline":"By Ellsworth Toohey","source":"Boing Boing","url":"https://boingboing.net/2026/06/02/scientists-sterilized-soil-it-kept-breathing-for-six-years.html","imgSrc":"https://images.unsplash.com/photo-1581093577421-f561a654a353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwcmVzZWFyY2glMjBsYWJvcmF0b3J5fGVufDB8MHx8fDE3ODA1NTYwODZ8MA&ixlib=rb-4.1.0&q=80&w=1080","body":"Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing taking in oxygen and giving off carbon dioxide… [+717 chars]"},
+  "worldA": {"tag":"World","headline":"Story loading…","deck":"","byline":"","imgSrc":"","body":""},
+  "worldB": {"tag":"Politics","headline":"Calix, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CALX","deck":"LOS ANGELES, June 3, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Calix, Inc. (\"Calix\" or \"the Company\") (NYSE: CALX) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promu…","byline":"By PRNewswire","source":"PRNewswire","url":"https://www.prnewswire.com/news-releases/calix-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--calx-302789502.html","imgSrc":"","body":"LOS ANGELES, June 3, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Calix, Inc. (\"Calix\" or \"the Company\") (NYSE: CALX) for violations of §§10(b) and 20(a)… [+1752 chars]"},
+  "sport": {"tag":"Sport","headline":"Morgan Rogers among ‘at least 10 names’ on Chelsea’s summer wishlist — report","deck":"And if wishes were fishes…","byline":"By David Pasztor","source":"SB Nation","url":"https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/169148/morgan-rogers-among-at-least-10-names-on-chelseas-summer-wishlist-report","imgSrc":"https://s.yimg.com/ny/api/res/1.2/tvXp_70lfZJ.t0O8bkjtYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/7aeb1ddbbf1e0a068dde735afc200fb0","body":"Chelsea will likely need to be more of a selling club this summer after failing to secure any sort of European football for next season not to mention our continuing lack of front-of-shirt sponsorshi… [+1247 chars]"},
+  "health": {"tag":"Health","headline":"MBF GROUP S.A.: Zawarcie umowy konsorcjum dotyczącej udziału w programie Europejskiej Agencji Obrony (EDA) w ramach inicjatywy HEDI","deck":"Spis treści:1. RAPORT BIEŻĄCY2. MESSAGE (ENGLISH VERSION)3. INFORMACJE O PODMIOCIE4. PODPISY OSÓB REPREZENTUJĄCYCH SPÓŁKĘ td.td-text, th.td-text { word-break: keep-all; overflow-wrap: break-word; box-sizing: border-box;...","byline":"By Redaktor Bankier.pl","source":"Bankier.pl","url":"https://www.bankier.pl/wiadomosc/MBF-GROUP-S-A-Zawarcie-umowy-konsorcjum-dotyczacej-udzialu-w-programie-Europejskiej-Agencji-Obrony-EDA-w-ramach-inicjatywy-HEDI-9145267.html","imgSrc":"https://galeria.bankier.pl/p/0/f/5cf4b304c96a2e-thumb-1000.jpg","body":"The Management Board of MBF Group S.A., with its registered office in \r\n Warsaw (the Company, the Issuer) announces that on 2 June 2026 it \r\n entered into a consortium and project cooperation agreeme… [+4686 chars]"}
+};
+
+/* ── Archive day data ── */
+const ARCHIVE_DATA = {
+
+};
+
+let previousView = 'front';
+
+function showView(name) {
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  const t = document.getElementById('view-' + name);
+  if (t) t.classList.add('active');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function loadEdition(btn) {
+  const key = btn.dataset.key;
+  if (key === 'jun04') { showView('front'); return; }
+  const ed = ARCHIVE_DATA[key];
+  if (!ed) { alert('Edition not found: ' + key); return; }
+  const lead = ed.lead || {};
+  let colsHTML = '';
+  if (ed.cols && ed.cols.length) {
+    const cards = ed.cols.map((a, i) => {
+      if (!a || !a.headline) return '';
+      const archiveId = key + '-col' + i;
+      ARTICLES[archiveId] = a;
+      const img = a.imgSrc
+        ? `<img src="${a.imgSrc}" alt="" loading="lazy">`
+        : '<span class="img-ph">[ Image ]</span>';
+      return `<article class="article" onclick="openArticle('${archiveId}')">
+        <div class="article-tag">${a.tag||''}</div>
+        <div class="article-img">${img}</div>
+        <h2 class="article-headline lg">${a.headline||''}</h2>
+        <div class="article-byline">${a.byline||''}</div>
+        <p class="article-body">${(a.body||'').substring(0,200)}…</p>
+      </article>`;
+    }).join('');
+    colsHTML = `<hr class="h-rule-bold"><div class="section-label"><span>More Stories</span></div><div class="columns col-3">${cards}</div>`;
+  }
+  const archiveLeadId = key + '-lead';
+  ARTICLES[archiveLeadId] = lead;
+  const leadImg = lead.imgSrc
+    ? `<div class="article-img" style="aspect-ratio:16/9"><img src="${lead.imgSrc}" alt="" loading="lazy"></div>`
+    : '';
+  document.getElementById('archive-content').innerHTML = `
+    <div class="newspaper">
+      <header class="masthead">
+        <div class="newspaper-name"><span class="mast-icon">⚜</span> The Scaler Chronicles <span class="mast-icon">⚜</span></div>
+        <div class="tagline">"Bringing A Modern Touch To Traditional Newspaper — Est. 2026"</div>
+        <div class="meta-bar"><span>${ed.date}</span><span style="font-style:italic">Archive Edition</span><span>$0</span></div>
+      </header>
+      <article class="article-featured" onclick="openArticle('${archiveLeadId}')">
+        <div class="article-tag">${lead.tag||''}</div>
+        ${leadImg}
+        <h1 class="article-headline xl" style="max-width:620px">${lead.headline||''}</h1>
+        <p class="article-deck">${lead.deck||''}</p>
+        <div class="article-byline">${lead.byline||''}</div>
+        <p class="article-body">${(lead.body||'').substring(0,280)}…</p>
+      </article>
+      ${colsHTML}
+      <footer class="newspaper-footer">
+        <span>© 2026 The Scaler Chronicles.</span>
+        <span>${ed.date} · Archive</span>
+        <span>The Scaler Chronicles</span>
+      </footer>
+    </div>`;
+  document.getElementById('archive-label').textContent = ed.date + ' — Archive';
+  previousView = 'archive';
+  showView('archive');
+}
+
+function openArticle(id) {
+  const a = ARTICLES[id];
+  if (!a) { alert('Article not found: ' + id); return; }
+  document.getElementById('ap-tag').textContent      = a.tag || '';
+  document.getElementById('ap-headline').textContent = a.headline || '';
+  document.getElementById('ap-deck').textContent     = a.deck || '';
+  document.getElementById('ap-byline').textContent   = a.byline || '';
+
+  let imgHTML = a.imgSrc
+    ? `<img class="ap-image" src="${a.imgSrc}" alt="${a.headline||''}" loading="lazy">`
+    : '<div class="ap-img-ph"><span>[ No image available ]</span></div>';
+  if (a.caption) imgHTML += `<div class="ap-caption">${a.caption}</div>`;
+  document.getElementById('ap-img-wrap').innerHTML = imgHTML;
+
+  document.getElementById('ap-body').innerHTML =
+    '<p>' + (a.body || 'Full article text not available in preview mode.') + '</p>';
+
+  const sourceWrap = document.getElementById('ap-source-wrap');
+  if (a.url) {
+    sourceWrap.innerHTML =
+      `<a class="ap-source-link" href="${a.url}" target="_blank" rel="noopener">
+         Read Full Story at ${a.source || 'Source'} →
+       </a>`;
+  } else {
+    sourceWrap.innerHTML = '';
+  }
+
+  const cur = document.querySelector('.view.active');
+  previousView = cur ? cur.id.replace('view-', '') : 'front';
+  showView('article');
+}
+
+function goBack() { showView(previousView); }
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') {
+    if (document.getElementById('view-article').classList.contains('active')) goBack();
+  }
+});
+</script>
 </body>
 </html>
