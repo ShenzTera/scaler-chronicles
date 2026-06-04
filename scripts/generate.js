@@ -337,7 +337,9 @@ async function main() {
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover"/>
+<meta name="theme-color" content="#1a110a"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
   <title>The Scaler Chronicles — ${todayFmt}</title>
   <meta name="description" content="The Scaler Chronicles: curated world news in classic broadsheet style."/>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
@@ -476,13 +478,69 @@ async function main() {
     .ap-bottom-nav{max-width:800px;margin:14px auto 0;display:flex;gap:12px}
 
     @media(max-width:660px){
-      .col-3,.col-2,.col-1-2,.col-2-1{grid-template-columns:1fr}
-      .article{border-right:none;border-bottom:1px solid rgba(42,31,14,.18)}
-      .ap-inner{padding:22px 16px 36px}
-      .ap-body{column-count:1}
-      .day-btn{min-width:64px;padding:6px 8px}
-      .newspaper-footer{flex-direction:column;gap:4px}
-    }
+  /* Layout */
+  body{padding:0 0 40px}
+  .col-3,.col-2,.col-1-2,.col-2-1{grid-template-columns:1fr}
+  .columns{padding:8px 12px}
+
+  /* Newspaper shell */
+  .newspaper{border-left:none;border-right:none;box-shadow:0 4px 20px rgba(0,0,0,.4)}
+
+  /* Masthead */
+  .masthead{padding:12px 14px 10px}
+  .masthead::before{margin-bottom:8px}
+  .newspaper-name{font-size:2.4rem;line-height:1.05}
+  .mast-icon{font-size:1.1rem;margin:0 6px}
+  .tagline{font-size:.68rem;letter-spacing:.06em}
+  .meta-bar{font-size:.6rem;padding:3px 0;flex-direction:column;align-items:center;gap:2px}
+
+  /* Ticker */
+  .ticker-wrap{padding:4px 0}
+  .ticker-track{font-size:.6rem}
+  .ticker-label{font-size:.58rem;padding:2px 8px}
+
+  /* Lead story — stack vertically on mobile */
+  .article-featured{padding:14px}
+  .article-featured > div:first-child{grid-template-columns:1fr !important;gap:12px}
+  .article-featured > div:first-child img{aspect-ratio:16/9 !important;max-height:220px}
+  .article-featured > div:last-child{grid-template-columns:1fr !important}
+
+  /* Cards */
+  .article{border-right:none;border-bottom:1px solid rgba(42,31,14,.18);padding:12px}
+  .article-img{aspect-ratio:16/9 !important}
+  .article-headline.xl{font-size:1.6rem}
+  .article-headline.lg{font-size:1.2rem}
+  .article-headline.md{font-size:1rem}
+  .article-body{font-size:.8rem;line-height:1.65}
+
+  /* Section labels */
+  .section-label{margin:14px 12px 0;font-size:.65rem}
+  .h-rule,.h-rule-bold{margin:0 12px}
+  .ad-block{margin:10px 12px}
+
+  /* Full article view */
+  .ap-inner{padding:20px 16px 36px}
+  .ap-headline{font-size:1.7rem}
+  .ap-body{column-count:1;font-size:.84rem}
+  .ap-body p:first-child::first-letter{font-size:2.8rem}
+
+  /* Archive bar */
+  .archive-bar{margin:16px 0 0;border-radius:0;padding:16px 12px 18px}
+  .day-btn{min-width:58px;padding:6px 8px;font-size:.62rem}
+
+  /* Back bar */
+  .back-bar{padding:0 12px;margin-bottom:8px}
+
+  /* Footer */
+  .newspaper-footer{flex-direction:column;gap:3px;text-align:center;padding:8px 12px;font-size:.58rem}
+}
+
+/* Extra small phones */
+@media(max-width:380px){
+  .newspaper-name{font-size:1.9rem}
+  .article-headline.xl{font-size:1.35rem}
+  .day-btn{min-width:50px;padding:5px 6px}
+}
   </style>
 </head>
 <body>
