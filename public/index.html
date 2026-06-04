@@ -76,7 +76,7 @@
     .article-deck{font-family:var(--f-disp);font-style:italic;font-size:.85rem;color:var(--ink-mid);margin-bottom:8px;line-height:1.45}
     .article-byline{font-size:.6rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:7px;border-bottom:1px solid rgba(42,31,14,.18);padding-bottom:5px}
     .article-body{font-size:.76rem;line-height:1.72;color:var(--ink-mid)}
-    .article-img{width:100%;background:var(--paper-dark);border:1px solid rgba(42,31,14,.15);margin-bottom:7px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+    .article-img{width:100%;aspect-ratio:16/9;background:var(--paper-dark);border:1px solid rgba(42,31,14,.15);margin-bottom:7px;display:flex;align-items:center;justify-content:center;overflow:hidden;flex-shrink:0}
     .article-img img{width:100%;height:100%;object-fit:cover;filter:sepia(25%) contrast(1.05);display:block;transition:filter .3s}
     .article:hover .article-img img{filter:sepia(10%) contrast(1.08)}
     .img-ph{font-size:.6rem;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-faint);font-family:var(--f-body);padding:20px}
@@ -228,7 +228,7 @@
   <div class="ticker-wrap">
     <span class="ticker-label">Breaking</span>
     <span class="ticker-track">
-      ◆ Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com&nbsp;&nbsp;&nbsp;&nbsp;◆ Why Ferrari Is Making a Car No One Wants - The Free Press&nbsp;&nbsp;&nbsp;&nbsp;◆ The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft&#39;s Surface Laptop Ultra - PCMag&nbsp;&nbsp;&nbsp;&nbsp;◆ Zack Snyder to write and direct ‘Escape From New York&#39;&nbsp;&nbsp;&nbsp;&nbsp;◆ &#39;Hope is now on its way&#39;: National Media Reactions to Kentucky landing Milan Momcilovic - On3&nbsp;&nbsp;&nbsp;&nbsp;◆ Can the rush for vaccines slow the latest Ebola outbreak? - Financial Times&nbsp;&nbsp;&nbsp;&nbsp;◆ Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News&nbsp;&nbsp;&nbsp;&nbsp;◆ Indonesia, Denmark explore cooperation in green job creation&nbsp;&nbsp;&nbsp;&nbsp;◆ Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com&nbsp;&nbsp;&nbsp;&nbsp;◆ Why Ferrari Is Making a Car No One Wants - The Free Press&nbsp;&nbsp;&nbsp;&nbsp;◆ The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft&#39;s Surface Laptop Ultra - PCMag&nbsp;&nbsp;&nbsp;&nbsp;◆ Zack Snyder to write and direct ‘Escape From New York&#39;&nbsp;&nbsp;&nbsp;&nbsp;◆ &#39;Hope is now on its way&#39;: National Media Reactions to Kentucky landing Milan Momcilovic - On3&nbsp;&nbsp;&nbsp;&nbsp;◆ Can the rush for vaccines slow the latest Ebola outbreak? - Financial Times&nbsp;&nbsp;&nbsp;&nbsp;◆ Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News&nbsp;&nbsp;&nbsp;&nbsp;◆ Indonesia, Denmark explore cooperation in green job creation
+      ◆ Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com&nbsp;&nbsp;&nbsp;&nbsp;◆ Why Ferrari Is Making a Car No One Wants - The Free Press&nbsp;&nbsp;&nbsp;&nbsp;◆ The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft&#39;s Surface Laptop Ultra - PCMag&nbsp;&nbsp;&nbsp;&nbsp;◆ Story unavailable&nbsp;&nbsp;&nbsp;&nbsp;◆ &#39;Hope is now on its way&#39;: National Media Reactions to Kentucky landing Milan Momcilovic - On3&nbsp;&nbsp;&nbsp;&nbsp;◆ Can the rush for vaccines slow the latest Ebola outbreak? - Financial Times&nbsp;&nbsp;&nbsp;&nbsp;◆ Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News&nbsp;&nbsp;&nbsp;&nbsp;◆ Indonesia, Denmark explore cooperation in green job creation&nbsp;&nbsp;&nbsp;&nbsp;◆ Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com&nbsp;&nbsp;&nbsp;&nbsp;◆ Why Ferrari Is Making a Car No One Wants - The Free Press&nbsp;&nbsp;&nbsp;&nbsp;◆ The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft&#39;s Surface Laptop Ultra - PCMag&nbsp;&nbsp;&nbsp;&nbsp;◆ Story unavailable&nbsp;&nbsp;&nbsp;&nbsp;◆ &#39;Hope is now on its way&#39;: National Media Reactions to Kentucky landing Milan Momcilovic - On3&nbsp;&nbsp;&nbsp;&nbsp;◆ Can the rush for vaccines slow the latest Ebola outbreak? - Financial Times&nbsp;&nbsp;&nbsp;&nbsp;◆ Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News&nbsp;&nbsp;&nbsp;&nbsp;◆ Indonesia, Denmark explore cooperation in green job creation
     </span>
   </div>
 
@@ -394,70 +394,58 @@
     
   <article class="article" onclick="openArticle('world1')">
     <div class="article-tag">World</div>
-    <div class="article-img" style="aspect-ratio:4/3">
-      <img src="https://l-files.livejournal.net/og_image/3616053/517264?v=1780474688" alt="Zack Snyder to write and direct ‘Escape From New York&#39;" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
-    </div>
-    <div class="article-caption">Source: Livejournal.com</div>
-    <h2 class="article-headline lg">Zack Snyder to write and direct ‘Escape From New York&#39;</h2>
-    <div class="article-byline">By queen_bartonia</div>
-    <p class="article-body">Zack Snyder is set to write and direct a reimagining of ‘Escape From New York,’ the dystopian cult classic from John Carpenter, Deadline can confirm.The project is intended for rel…</p>
+    <div class="article-img" style="aspect-ratio:4/3"><span class="img-ph">[ World ]</span></div>
+  <div class="article-caption">Source: </div>
+    <h2 class="article-headline lg">Story unavailable</h2>
+    <div class="article-byline"></div>
+    <p class="article-body"></p>
   </article>
     
   <article class="article" onclick="openArticle('world2')">
     <div class="article-tag">World</div>
-    <div class="article-img" style="aspect-ratio:4/3">
-      <img src="https://s.yimg.com/ny/api/res/1.2/W3envnQUrgUr01d8cpsMqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODc7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/c1b6c3d29471b0c14b7376c6ec3b8681" alt="Knicks Bulletin: ‘I’m always ready. Always stay ready’" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
-    </div>
-    <div class="article-caption">Source: Posting and Toasting</div>
-    <h2 class="article-headline md">Knicks Bulletin: ‘I’m always ready. Always stay ready’</h2>
-    <div class="article-byline">By Antonio Losada</div>
-    <p class="article-body">The time has come for the Knicks to play an NBA Finals game. The day is today, and you, like everybody and their mother, will surely be watching. Here’s a mammoth bulletin to get y…</p>
+    <div class="article-img" style="aspect-ratio:4/3"><span class="img-ph">[ World ]</span></div>
+  <div class="article-caption">Source: </div>
+    <h2 class="article-headline md">Story unavailable</h2>
+    <div class="article-byline"></div>
+    <p class="article-body"></p>
   </article>
     
   <article class="article" onclick="openArticle('world3')">
     <div class="article-tag">World</div>
-    <div class="article-img" style="aspect-ratio:4/3">
-      <img src="https://l-files.livejournal.net/og_image/3616053/517263?v=1780474663" alt="A look back at all the Series finales in May" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
-    </div>
-    <div class="article-caption">Source: Livejournal.com</div>
-    <h2 class="article-headline md">A look back at all the Series finales in May</h2>
-    <div class="article-byline">By a_files06</div>
-    <p class="article-body">-May saw 5 long standing shows from various networks finally come to an end.-Those shows would be Outlander, Hacks, Euphoria, THe Boys, and Good Omens.-To kick things off, we had O…</p>
+    <div class="article-img" style="aspect-ratio:4/3"><span class="img-ph">[ World ]</span></div>
+  <div class="article-caption">Source: </div>
+    <h2 class="article-headline md">Story unavailable</h2>
+    <div class="article-byline"></div>
+    <p class="article-body"></p>
   </article>
   </div>
   <div class="columns col-3" style="padding-top:0">
     
   <article class="article" onclick="openArticle('pol1')">
     <div class="article-tag">Politics</div>
-    <div class="article-img" style="aspect-ratio:4/3">
-      <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHLAmkF2OqEA/v0/1200x800.jpg" alt="Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
-    </div>
-    <div class="article-caption">Source: Bloomberg</div>
-    <h2 class="article-headline md">Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com</h2>
-    <div class="article-byline">By Alicia Diaz</div>
-    <p class="article-body">The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier lev…</p>
+    <div class="article-img" style="aspect-ratio:4/3"><span class="img-ph">[ Politics ]</span></div>
+  <div class="article-caption">Source: </div>
+    <h2 class="article-headline md">Story unavailable</h2>
+    <div class="article-byline"></div>
+    <p class="article-body"></p>
   </article>
     
   <article class="article" onclick="openArticle('pol2')">
     <div class="article-tag">Politics</div>
-    <div class="article-img" style="aspect-ratio:4/3">
-      <img src="https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/28/e3701147-eba8-4a01-908e-fe9ee924c916/thumbnail/1200x630/e010584aec4922725fb281116204b454/gettyimages-1244589015.jpg" alt="California primary election results for key 2026 races including governor, LA mayor and more - CBS News" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
-    </div>
-    <div class="article-caption">Source: CBS News</div>
-    <h2 class="article-headline md">California primary election results for key 2026 races including governor, LA mayor and more - CBS News</h2>
-    <div class="article-byline">By Dean  Fioresi</div>
-    <p class="article-body">Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California&#39;s June 2 primary elections.</p>
+    <div class="article-img" style="aspect-ratio:4/3"><span class="img-ph">[ Politics ]</span></div>
+  <div class="article-caption">Source: </div>
+    <h2 class="article-headline md">Story unavailable</h2>
+    <div class="article-byline"></div>
+    <p class="article-body"></p>
   </article>
     
   <article class="article" onclick="openArticle('pol3')">
     <div class="article-tag">Politics</div>
-    <div class="article-img" style="aspect-ratio:4/3">
-      <img src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F3a%2Fbd493c334214bdc504ad3caaa996%2Fap26152578654950.jpg" alt="Iran fires missiles in Kuwait and Bahrain, U.S. strikes Iran facility in response - NPR" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
-    </div>
-    <div class="article-caption">Source: NPR</div>
-    <h2 class="article-headline md">Iran fires missiles in Kuwait and Bahrain, U.S. strikes Iran facility in response - NPR</h2>
-    <div class="article-byline">By The Associated Press</div>
-    <p class="article-body">The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response.</p>
+    <div class="article-img" style="aspect-ratio:4/3"><span class="img-ph">[ Politics ]</span></div>
+  <div class="article-caption">Source: </div>
+    <h2 class="article-headline md">Story unavailable</h2>
+    <div class="article-byline"></div>
+    <p class="article-body"></p>
   </article>
   </div>
 
@@ -693,12 +681,12 @@ const ARTICLES = {
   "sci1": {"tag":"Science","headline":"Almost all the gold on Earth — every wedding ring, every coin, every gram in every bank vault — was forged in the collision of dead stars billions of years ago, in events so violent that a single one can produce hundreds of Earth-masses of gold, and the heavy - Space Daily","deck":"On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ended in a collision lasting fractions of a second. The gravitational waves from th…","byline":"By Space Daily","source":"Space Daily","url":"https://spacedaily.com/d-almost-all-the-gold-on-earth-every-wedding-ring-every-coin-every-gram-in-every-bank-vault-was-forged-in-the-collision-of-dead-stars-billions-of-years-ago-in-events-so-violent-that/","imgSrc":"https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-03T112832.427.png","teaser":"On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ende…","body":["On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ended in a collision la…"]},
   "sci2": {"tag":"Science","headline":"Night sky June 2026: What you can see tonight - Space","deck":"Find out what's up in your night sky during June 2026 and how to see it in this Space.com stargazing guide.","byline":"By Jules-Pierre Malartre","source":"Space.com","url":"https://www.space.com/what-to-see-night-sky-june-2026","imgSrc":"https://cdn.mos.cms.futurecdn.net/qbBcnnxYC4TjjxsAdTTEv9-1920-80.jpg","teaser":"Find out what's up in your night sky during June 2026 and how to see it in this Space.com stargazing guide.","body":["Find out what's up in your night sky during June 2026 and how to see it in this Space.com stargazing guide. "]},
   "sci3": {"tag":"Science","headline":"Scientists sterilized soil. It kept breathing for six years. - Boing Boing","deck":"Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing — taking in oxygen…","byline":"By Ellsworth Toohey","source":"Boing Boing","url":"https://boingboing.net/2026/06/02/scientists-sterilized-soil-it-kept-breathing-for-six-years.html","imgSrc":"https://images.unsplash.com/photo-1611037500498-88243304bb11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxTY2llbnRpc3RzJTIwc3RlcmlsaXplZCUyMHNvaWwuJTIwSXR8ZW58MHwwfHx8MTc4MDU1ODU0MHww&ixlib=rb-4.1.0&q=80&w=1080","teaser":"Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing — taking in oxygen…","body":["Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing taking in oxygen and giving off carbon dioxide…"]},
-  "world1": {"tag":"World","headline":"Zack Snyder to write and direct ‘Escape From New York'","deck":"Zack Snyder is set to write and direct a reimagining of ‘Escape From New York,’ the dystopian cult classic from John Carpenter, Deadline can confirm.The project is intended for release in theaters. More details ⬇️ https://t.co/BGNMIlDFBA — Deadline (@DEADLIN…","byline":"By queen_bartonia","source":"Livejournal.com","url":"https://ohnotheydidnt.livejournal.com/132419802.html","imgSrc":"https://l-files.livejournal.net/og_image/3616053/517264?v=1780474688","teaser":"Zack Snyder is set to write and direct a reimagining of ‘Escape From New York,’ the dystopian cult classic from John Carpenter, Deadline can confirm.The project is intended for rel…","body":["Zack Snyder is set to write and direct a reimagining of Escape From New York, the dystopian cult classic from John Carpenter, Deadline can confirm. The project is intended for release in theaters. M…"]},
-  "world2": {"tag":"World","headline":"Knicks Bulletin: ‘I’m always ready. Always stay ready’","deck":"The time has come for the Knicks to play an NBA Finals game. The day is today, and you, like everybody and their mother, will surely be watching. Here’s a mammoth bulletin to get you ready for what will come later. Mike Brown On Mitchell Robinson’s status hea…","byline":"By Antonio Losada","source":"Posting and Toasting","url":"https://www.postingandtoasting.com/knicks-news/83714/knicks-bulletin","imgSrc":"https://s.yimg.com/ny/api/res/1.2/W3envnQUrgUr01d8cpsMqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODc7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/c1b6c3d29471b0c14b7376c6ec3b8681","teaser":"The time has come for the Knicks to play an NBA Finals game. The day is today, and you, like everybody and their mother, will surely be watching. Here’s a mammoth bulletin to get y…","body":["The time has come for the Knicks to play an NBA Finals game. The day is today, and you, like everybody and their mother, will surely be watching. Heres a mammoth bulletin to get you ready for what …"]},
-  "world3": {"tag":"World","headline":"A look back at all the Series finales in May","deck":"-May saw 5 long standing shows from various networks finally come to an end.-Those shows would be Outlander, Hacks, Euphoria, THe Boys, and Good Omens.-To kick things off, we had Outlander that ran from 2014-2026 on Starz for a total of 8 seasons/101 episodes…","byline":"By a_files06","source":"Livejournal.com","url":"https://ohnotheydidnt.livejournal.com/132419419.html","imgSrc":"https://l-files.livejournal.net/og_image/3616053/517263?v=1780474663","teaser":"-May saw 5 long standing shows from various networks finally come to an end.-Those shows would be Outlander, Hacks, Euphoria, THe Boys, and Good Omens.-To kick things off, we had O…","body":["-May saw 5 long standing shows from various networks finally come to an end. -Those shows would be Outlander, Hacks, Euphoria, THe Boys, and Good Omens. -To kick things off, we had Outlander that r…"]},
-  "pol1": {"tag":"Politics","headline":"Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com","deck":"The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier levies were struck down by the US Supreme Court.","byline":"By Alicia Diaz","source":"Bloomberg","url":"https://www.bloomberg.com/news/articles/2026-06-03/us-proposes-broad-tariffs-of-at-least-10-citing-forced-labor","imgSrc":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHLAmkF2OqEA/v0/1200x800.jpg","teaser":"The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier lev…","body":["The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trumps biggest move to rebuild his protectionist wall since his earlier levies were struck down…"]},
-  "pol2": {"tag":"Politics","headline":"California primary election results for key 2026 races including governor, LA mayor and more - CBS News","deck":"Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California's June 2 primary elections.","byline":"By Dean  Fioresi","source":"CBS News","url":"https://www.cbsnews.com/losangeles/live-updates/live-updates-california-primary-election-results-for-key-2026-races/","imgSrc":"https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/28/e3701147-eba8-4a01-908e-fe9ee924c916/thumbnail/1200x630/e010584aec4922725fb281116204b454/gettyimages-1244589015.jpg","teaser":"Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California's June 2 primary elections.","body":["Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California's June 2 primary elections. Los Angeles mayoral candidate Nithya Raman spoke to supporters at her election watch party about an hour after polls closed.","\"I'm here because I love Los Angeles with all of my heart. This is the mo…"]},
-  "pol3": {"tag":"Politics","headline":"Iran fires missiles in Kuwait and Bahrain, U.S. strikes Iran facility in response - NPR","deck":"The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response.","byline":"By The Associated Press","source":"NPR","url":"https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates","imgSrc":"https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F3a%2Fbd493c334214bdc504ad3caaa996%2Fap26152578654950.jpg","teaser":"The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response.","body":["The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response. DUBAI, United Arab Emirates The U.S. military said Tuesday that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S.","launched strikes on an Iranian facility in r…"]},
+  "world1": {"tag":"World","headline":"Story unavailable","deck":"","byline":"","imgSrc":"","body":[],"teaser":"","url":"","source":""},
+  "world2": {"tag":"World","headline":"Story unavailable","deck":"","byline":"","imgSrc":"","body":[],"teaser":"","url":"","source":""},
+  "world3": {"tag":"World","headline":"Story unavailable","deck":"","byline":"","imgSrc":"","body":[],"teaser":"","url":"","source":""},
+  "pol1": {"tag":"Politics","headline":"Story unavailable","deck":"","byline":"","imgSrc":"","body":[],"teaser":"","url":"","source":""},
+  "pol2": {"tag":"Politics","headline":"Story unavailable","deck":"","byline":"","imgSrc":"","body":[],"teaser":"","url":"","source":""},
+  "pol3": {"tag":"Politics","headline":"Story unavailable","deck":"","byline":"","imgSrc":"","body":[],"teaser":"","url":"","source":""},
   "sport1": {"tag":"Sport","headline":"'Hope is now on its way': National Media Reactions to Kentucky landing Milan Momcilovic - On3","deck":"How big is Milan Momcilovic's commitment for Kentucky? Many national media members believe it could save Mark Pope's job.","byline":"By Tyler Thompson","source":"On3.com","url":"https://www.on3.com/teams/kentucky-wildcats/news/milan-momcilovic-kentucky-commitment-national-media-reaction/","imgSrc":"https://on3static.com/uploads/dev/assets/cms/2026/06/02111446/milan-momcilovic-kentucky-commitment-national-media-reaction.png","teaser":"How big is Milan Momcilovic's commitment for Kentucky? Many national media members believe it could save Mark Pope's job.","body":["How big is Milan Momcilovic's commitment for Kentucky? Many national media members believe it could save Mark Pope's job. The news that Milan Momcilovic is coming to Kentucky is the talk of college basketball today. The Cats have climbed into the Top 25 of many pundits preseason rankings, proof of the impact Momcilovic,…"]},
   "sport2": {"tag":"Sport","headline":"What to expect from Spurs vs. Knicks 2026 NBA Finals matchup - NBA.com","deck":"The 2026 NBA Finals could mark an end to the Knicks’ 53-year championship dry spell or the possible launch of a 2nd Spurs dynasty.","byline":"By Shaun Powell","source":"Heat.com","url":"https://www.nba.com/news/what-to-expect-2026-finals-knicks-spurs","imgSrc":"https://cdn.nba.com/manage/2026/06/v2_Tune-in-GM1-Finals-26-NYK-SAS_16x9-YTThumbnail.jpg","teaser":"The 2026 NBA Finals could mark an end to the Knicks’ 53-year championship dry spell or the possible launch of a 2nd Spurs dynasty.","body":["The 2026 NBA Finals could mark an end to the Knicks’ 53-year championship dry spell or the possible launch of a 2nd Spurs dynasty. The Spurs and Knicks are ready to meet and decide an 8th champion in 8 seasons during the 2026 NBA Finals.","Welcome to the 2026 NBA Finals, a series that ultimately should determine an ending or a be…"]},
   "sport3": {"tag":"Sport","headline":"Garrett Crochet Diagnosed With Low-Grade Lat Strain - MLB Trade Rumors","deck":"There's some clarity on the Garrett Crochet injury, as the Red Sox's ace has been diagnosed with a low-grade lat strain.","byline":"By Anthony Franco","source":"MLB Trade Rumors","url":"https://www.mlbtraderumors.com/2026/06/garrett-crochet-diagnosed-with-low-grade-lat-strain.html","imgSrc":"https://cdn.mlbtraderumors.com/files/2026/06/USATSI_28832607-1024x683.jpg","teaser":"There's some clarity on the Garrett Crochet injury, as the Red Sox's ace has been diagnosed with a low-grade lat strain.","body":["There's some clarity on the Garrett Crochet injury, as the Red Sox's ace has been diagnosed with a low-grade lat strain. Garrett Crochet has been diagnosed with a low-grade lat strain, Red Sox interim manager Chad Tracy told the Boston beat after tonight’s loss to Baltimore (relayed by Christopher Smith of MassLive).","L…"]},
