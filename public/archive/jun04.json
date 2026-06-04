@@ -4,81 +4,397 @@
   "articles": {
     "lead": {
       "tag": "Breaking News",
-      "headline": "Scott Pelley fired from ‘60 Minutes’ after confrontation with new boss - The Washington Post",
-      "deck": "The termination marks the latest shake-up during a tumultuous period for the iconic newsmagazine.",
-      "byline": "By Scott Nover, Liam Scott",
-      "source": "The Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/06/03/scott-pelley-fired-60-minutes-after-confrontation-with-new-boss/",
-      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ZIHEAOS57QI7DHCG2YQRG4XO3Y.jpg&w=1440",
-      "body": "60 Minutes correspondent Scott Pelley was fired Tuesday, one day after a fiery confrontation with his new boss, executive producer Nick Bilton, according to two people familiar with the matter.\r\nIn a… [+83 chars]"
+      "headline": "Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com",
+      "deck": "The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier levies were struck down by the US Supreme Court.",
+      "byline": "By Alicia Diaz",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-03/us-proposes-broad-tariffs-of-at-least-10-citing-forced-labor",
+      "imgSrc": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHLAmkF2OqEA/v0/1200x800.jpg",
+      "teaser": "The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier lev…",
+      "body": [
+        "The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trumps biggest move to rebuild his protectionist wall since his earlier levies were struck down…"
+      ]
     },
-    "biz": {
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "California primary election results for key 2026 races including governor, LA mayor and more - CBS News",
+      "deck": "Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California's June 2 primary elections.",
+      "byline": "By Dean  Fioresi",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/losangeles/live-updates/live-updates-california-primary-election-results-for-key-2026-races/",
+      "imgSrc": "",
+      "teaser": "Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California's June 2 primary elections.",
+      "body": [
+        "Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California's June 2 primary elections. Los Angeles mayoral candidate Nithya Raman spoke to supporters at her election watch party about an hour after polls closed.",
+        "\"I'm here because I love Los Angeles with all of my heart. This is the mo…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Iran fires missiles in Kuwait and Bahrain, U.S. strikes Iran facility in response - NPR",
+      "deck": "The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response.",
+      "byline": "By The Associated Press",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
+      "imgSrc": "",
+      "teaser": "The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response.",
+      "body": [
+        "The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response. DUBAI, United Arab Emirates The U.S. military said Tuesday that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S.",
+        "launched strikes on an Iranian facility in r…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Why Ferrari Is Making a Car No One Wants - The Free Press",
+      "deck": "The $640,000 electric vehicle is a case study in why we can’t have nice things.",
+      "byline": "By Jack Baruth",
+      "source": "Thefp.com",
+      "url": "https://www.thefp.com/p/new-ferrari-electric-car",
+      "imgSrc": "https://substackcdn.com/image/fetch/$s_!knGq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9a397e9-c3b6-4e9f-b8f7-de75bbc1665d_2000x1125.jpeg",
+      "teaser": "The $640,000 electric vehicle is a case study in why we can’t have nice things.",
+      "body": [
+        "The $640,000 electric vehicle is a case study in why we can’t have nice things. When you think about Ferrari, chances are you think about a sleek Italian car that looks kind of like a spaceship and costs more money than the average single-family house.",
+        "Maybe you think about TV s…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Alaska Airlines debuts new 14,000-square-foot lounge at Portland International Airport - KATU",
+      "deck": "Alaska Airlines unveiled its new lounge today during a press event at Portland International Airport.",
+      "byline": "By Bobby Corser",
+      "source": "KATU",
+      "url": "https://katu.com/news/local/alaska-airlines-debuts-new-14000-square-foot-lounge-at-portland-international-airport-pdx-mount-hood-mezzanine",
+      "imgSrc": "",
+      "teaser": "Alaska Airlines unveiled its new lounge today during a press event at Portland International Airport.",
+      "body": [
+        "PORTLAND, Ore. (KATU) Alaska Airlines unveiled its new lounge today during a press event at Portland International Airport. READ MORE | Ships for Fleet Week to arrive Tuesday; prepare for bridge lif…"
+      ]
+    },
+    "biz3": {
       "tag": "Business",
       "headline": "Stock futures are little changed after S&P 500 closes at another record: Live updates - CNBC",
       "deck": "The three major indexes rose to fresh record highs on Tuesday.",
       "byline": "By Lisa Kailai Han",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/02/stock-market-today-live-updates.html",
-      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108313259-1779982389071-Traders-Photo-20260528-KK-PRESS-022.jpg?v=1779982579&w=1920&h=1080",
-      "body": "U.S. stock futures were little changed early Wednesday after all three major indexes closed at fresh records during the regular session.\r\nFutures for S&amp;P 500 futures and Nasdaq 100 traded near th… [+1991 chars]"
+      "imgSrc": "",
+      "teaser": "The three major indexes rose to fresh record highs on Tuesday.",
+      "body": [
+        "The three major indexes rose to fresh record highs on Tuesday. U.S. stock futures were little changed early Wednesday after all three major indexes closed at fresh records during the regular session. Futures for S&amp;P 500 futures and Nasdaq 100 traded near th…"
+      ]
     },
-    "tech": {
+    "tech1": {
+      "tag": "Technology",
+      "headline": "The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft's Surface Laptop Ultra - PCMag",
+      "deck": "Microsoft's new flagship Surface is the poster child for Nvidia's agentic-AI-first laptop platform. Here's what we learned from our first encounter with the hardware.",
+      "byline": "By John Burek",
+      "source": "PCMag.com",
+      "url": "https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-ultra-computex-2026",
+      "imgSrc": "https://i.pcmag.com/imagery/articles/07fhEKMVC2xfTJS6TIOVqu5-1.fit_lim.size_1200x630.v1780445130.jpg",
+      "teaser": "Microsoft's new flagship Surface is the poster child for Nvidia's agentic-AI-first laptop platform. Here's what we learned from our first encounter with the hardware.",
+      "body": [
+        "Microsoft's new flagship Surface is the poster child for Nvidia's agentic-AI-first laptop platform. Here's what we learned from our first encounter with the hardware. "
+      ]
+    },
+    "tech2": {
       "tag": "Technology",
       "headline": "Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5 - Eurogamer",
       "deck": "Cars from The Fast and Furious, Back to the Future, and more present.",
       "byline": "By Connor Makar",
       "source": "Eurogamer.net",
       "url": "https://www.eurogamer.net/stuntman-hollywood-revealed-at-sony-state-of-play-coming-soon-to-ps5",
-      "imgSrc": "https://assetsio.gnwcdn.com/stuntman-hollywood-white-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "body": "Stuntman Hollywood - an explosive return for the beloved racing series - has been revealed at tonight's State of Play livestream.\r\nAn arcade racer, Stuntman Hollywood features many cars from a variet… [+1278 chars]"
+      "imgSrc": "",
+      "teaser": "Cars from The Fast and Furious, Back to the Future, and more present.",
+      "body": [
+        "Cars from The Fast and Furious, Back to the Future, and more present. Stuntman Hollywood - an explosive return for the beloved racing series - has been revealed at tonight's State of Play livestream. An arcade racer, Stuntman Hollywood features many cars from a variet…"
+      ]
     },
-    "sci": {
+    "tech3": {
+      "tag": "Technology",
+      "headline": "‘Wolverine’ Game Developers Break Down New Footage, X-Men Cameos, ‘Low-Gore’ Option, Claw Combat and How Logan Can Die - Variety",
+      "deck": "The 'Wolverine' video game developers break down the new trailer, X-Men cameos, gameplay and more.",
+      "byline": "By Jennifer Maas",
+      "source": "Variety",
+      "url": "https://variety.com/2026/gaming/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/",
+      "imgSrc": "",
+      "teaser": "The 'Wolverine' video game developers break down the new trailer, X-Men cameos, gameplay and more.",
+      "body": [
+        "The 'Wolverine' video game developers break down the new trailer, X-Men cameos, gameplay and more. If there’s one key thing that PlayStation‘s Insomniac Games wants you to take away from the new gameplay footage for its upcoming “Marvel’s Wolverine,” it’s that this video game will be as bloody as …"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "Almost all the gold on Earth — every wedding ring, every coin, every gram in every bank vault — was forged in the collision of dead stars billions of years ago, in events so violent that a single one can produce hundreds of Earth-masses of gold, and the heavy - Space Daily",
+      "deck": "On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ended in a collision lasting fractions of a second. The gravitational waves from th…",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/d-almost-all-the-gold-on-earth-every-wedding-ring-every-coin-every-gram-in-every-bank-vault-was-forged-in-the-collision-of-dead-stars-billions-of-years-ago-in-events-so-violent-that/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-03T112832.427.png",
+      "teaser": "On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ende…",
+      "body": [
+        "On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ended in a collision la…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Night sky June 2026: What you can see tonight - Space",
+      "deck": "Find out what's up in your night sky during June 2026 and how to see it in this Space.com stargazing guide.",
+      "byline": "By Jules-Pierre Malartre",
+      "source": "Space.com",
+      "url": "https://www.space.com/what-to-see-night-sky-june-2026",
+      "imgSrc": "",
+      "teaser": "Find out what's up in your night sky during June 2026 and how to see it in this Space.com stargazing guide.",
+      "body": [
+        "Find out what's up in your night sky during June 2026 and how to see it in this Space.com stargazing guide. "
+      ]
+    },
+    "sci3": {
       "tag": "Science",
       "headline": "Scientists sterilized soil. It kept breathing for six years. - Boing Boing",
       "deck": "Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing — taking in oxygen…",
       "byline": "By Ellsworth Toohey",
       "source": "Boing Boing",
       "url": "https://boingboing.net/2026/06/02/scientists-sterilized-soil-it-kept-breathing-for-six-years.html",
-      "imgSrc": "https://images.unsplash.com/photo-1581093577421-f561a654a353?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwcmVzZWFyY2glMjBsYWJvcmF0b3J5fGVufDB8MHx8fDE3ODA1NTYwODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "body": "Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing taking in oxygen and giving off carbon dioxide… [+717 chars]"
+      "imgSrc": "",
+      "teaser": "Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing — taking in oxygen…",
+      "body": [
+        "Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing taking in oxygen and giving off carbon dioxide…"
+      ]
     },
-    "worldA": {
+    "world1": {
       "tag": "World",
-      "headline": "Story loading…",
+      "headline": "Story unavailable",
       "deck": "",
       "byline": "",
       "imgSrc": "",
-      "body": ""
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
     },
-    "worldB": {
+    "world2": {
+      "tag": "World",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "pol1": {
       "tag": "Politics",
-      "headline": "Calix, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - CALX",
-      "deck": "LOS ANGELES, June 3, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Calix, Inc. (\"Calix\" or \"the Company\") (NYSE: CALX) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promu…",
+      "headline": "Iba a salir en cuestión de días, pero Hell Let Loose: Vietnam se lleva a sus 100 jugadores por partida a agosto",
+      "deck": "Se han identificado \"varias áreas\" en las que es necesario seguir trabajando tras las betas cerrada y abierta Team 17 and Expression Games have announced that the launch of Hell Let Loose: Vietnam will be delayed until August 13. The game had been planned to …",
+      "byline": "By Luke Reilly",
+      "source": "IGN",
+      "url": "https://es.ign.com/hell-let-loose-vietnam/230094/iba-a-salir-en-cuestion-de-dias-pero-hell-let-loose-vietnam-se-lleva-a-sus-100-jugadores-por-partida",
+      "imgSrc": "",
+      "teaser": "Se han identificado \"varias áreas\" en las que es necesario seguir trabajando tras las betas cerrada y abierta Team 17 and Expression Games have announced that the launch of Hell Le…",
+      "body": [
+        "Se han identificado \"varias áreas\" en las que es necesario seguir trabajando tras las betas cerrada y abierta Team 17 and Expression Games have announced that the launch of Hell Let Loose: Vietnam will be delayed until August 13. The game had been planned to …\n\nTeam 17 and Expression Games have announced that the launch of Hell Let Loose: Vietnam will be delayed until August 13.",
+        "The game had been planned to launch digitally on June 18. The decision comes f…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Russia Vows Unwavering Solidarity With Cuba Amid Storm of External Pressure - Lavrov",
+      "deck": "Russia expresses its firm solidarity and support for Cuba in the face of the unprecedented external pressure its people are facing, Russian Foreign Minister Sergei Lavrov said.",
+      "byline": "By Sputnik International",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260603/russia-vows-unwavering-solidarity-with-cuba-amid-storm-of-external-pressure---lavrov-1124242821.html",
+      "imgSrc": "",
+      "teaser": "Russia expresses its firm solidarity and support for Cuba in the face of the unprecedented external pressure its people are facing, Russian Foreign Minister Sergei Lavrov said.",
+      "body": [
+        "Russia expresses its firm solidarity and support for Cuba in the face of the unprecedented external pressure its people are facing, Russian Foreign Minister Sergei Lavrov said. Get the latest news from around the world, live coverage, off-beat stories, features and analysis.",
+        "https://sputnikglobe.com/20260603/russia-vows-unwavering-solidarity-with-cuba-amid-storm-of-externa…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Trump Begins Rebuilding His Tariff Wall With Proposed New Levies",
+      "deck": "The US is proposing new tariff of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier levies were struck down by the US Supreme Court.",
+      "byline": "By Bloomberg News",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-begins-rebuilding-his-tariff-wall-with-proposed-new-levies",
+      "imgSrc": "",
+      "teaser": "The US is proposing new tariff of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier levi…",
+      "body": [
+        "The US is proposing new tariff of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier levies were struck down by the US Supreme Court. This creates a dynamic where American workers are forced to compete globally on an unlevel playing field, US Trade Representative Jamieson Greer said in a statement.",
+        "We will no longer tolerate this d…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "What's at stake for NI in their World Cup qualifiers?",
+      "deck": "BBC Sport NI looks at the possible outcomes heading into the final round of fixtures.",
+      "byline": "By Yahoo Entertainment",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9acc59ea-5ba3-4989-b7c3-461ff0022fe8",
+      "imgSrc": "https://images.unsplash.com/photo-1609415032095-4c119e77a971?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxXaGF0JTI3cyUyMGF0JTIwc3Rha2UlMjBmb3J8ZW58MHwwfHx8MTc4MDU1ODE0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "teaser": "BBC Sport NI looks at the possible outcomes heading into the final round of fixtures.",
+      "body": [
+        "BBC Sport NI looks at the possible outcomes heading into the final round of fixtures. If you click 'Accept all', we and our partners, including 247 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "What's at stake for NI in their World Cup qualifiers?",
+      "deck": "BBC Sport NI looks at the possible outcomes heading into the final round of fixtures.",
+      "byline": "By Jana McCabe",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c4g47xr33y0o",
+      "imgSrc": "",
+      "teaser": "BBC Sport NI looks at the possible outcomes heading into the final round of fixtures.",
+      "body": [
+        "BBC Sport NI looks at the possible outcomes heading into the final round of fixtures. Turkey, Northern Ireland's next opponents, sit one point ahead of them on seven points. Their meeting could therefore be crucial in terms of who secures second spot.",
+        "Turkey were the 1-0 victors wh…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Malachi Toney’s Mom Reacts As Miami WR Becomes One Of The Faces Of EA College Football 27",
+      "deck": "In what was arguably one of the most anticipated releases in the college football world, Electronic Arts (EA) has finally released the poster for the upcoming EA College Football ’27, featuring wide receiver Malachi Toney, quarterback Dante Moore, and running…",
+      "byline": "By Farhaan Moulvi",
+      "source": "Collegefootballnetwork.com",
+      "url": "https://collegefootballnetwork.com/malachi-toneys-mom-reacts-as-miami-wr-becomes-one-of-the-faces-of-ea-college-football-27/?utm_medium=rss&amp;utm_source=nordot",
+      "imgSrc": "",
+      "teaser": "In what was arguably one of the most anticipated releases in the college football world, Electronic Arts (EA) has finally released the poster for the upcoming EA College Football ’…",
+      "body": [
+        "In what was arguably one of the most anticipated releases in the college football world, Electronic Arts (EA) has finally released the poster for the upcoming EA College Football 27, featuring wide r…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "Michelin star chef Giorgio Locatelli joins Celebrity MasterChef",
+      "deck": "The Italian is the latest chef to join the show following the sackings of Gregg Wallace and John Torode",
+      "byline": "By Lauren Del Fabbro",
+      "source": "The-independent.com",
+      "url": "https://www.the-independent.com/arts-entertainment/tv/news/celebrity-masterchef-giorgio-locatelli-judge-b2988516.html",
+      "imgSrc": "https://static.the-independent.com/2026/06/03/08/1395012402..?width=1200&height=800&crop=1200:800",
+      "teaser": "The Italian is the latest chef to join the show following the sackings of Gregg Wallace and John Torode",
+      "body": [
+        "The Italian is the latest chef to join the show following the sackings of Gregg Wallace and John Torode\n\nYour support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing.",
+        "Whether it's investigating the financia…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "Giorgio Locatelli named new Celebrity MasterChef judge",
+      "deck": "Chef and restaurateur Giorgio Locatelli has announced he is the new judge on Celebrity MasterChef.",
+      "byline": "By RTÉ Entertainment",
+      "source": "RTE",
+      "url": "https://www.rte.ie/entertainment/2026/0603/1576501-giorgio-locatelli-named-new-celebrity-masterchef-judge/",
+      "imgSrc": "",
+      "teaser": "Chef and restaurateur Giorgio Locatelli has announced he is the new judge on Celebrity MasterChef.",
+      "body": [
+        "Chef and restaurateur Giorgio Locatelli has announced he is the new judge on Celebrity MasterChef. The 63-year old Michelin-starred chef is known for judging the Italian version of the amateur cooki…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Revealed: The brains behind Burnham",
+      "deck": "Westminster may look busy but are MPs just waiting for the potential return of Andy Burnham? With the Makerfield by-election just over a week away Burnham insists he’s focussed on winning the seat. But behind the scenes allies are already developing ideas tha…",
+      "byline": "By Anne McElvoy",
+      "source": "POLITICO.eu",
+      "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/revealed-the-brains-behind-burnham/",
+      "imgSrc": "",
+      "teaser": "Westminster may look busy but are MPs just waiting for the potential return of Andy Burnham? With the Makerfield by-election just over a week away Burnham insists he’s focussed on …",
+      "body": [
+        "Westminster may look busy but are MPs just waiting for the potential return of Andy Burnham? With the Makerfield by-election just over a week away Burnham insists he’s focussed on winning the seat. …"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News",
+      "deck": "CBS News has fired longtime “60 Minutes” correspondent Scott Pelley. It came a day after he reportedly said Editor-in-Chief Bari Weiss was “murdering the show” and accused its new producer of having “slender qualifications” for the job. The move deepened the …",
+      "byline": "By Hannah Schoenbaum",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/cbs-news-60-minutes-pelley-fired-db75daea29a1996f9db5e7951e6f5064",
+      "imgSrc": "https://dims.apnews.com/dims4/default/acf9933/2147483647/strip/true/crop/3600x2399+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2Fe7%2Fb553edb5b6448206b538498b3370%2F8c9c8f390853414fbe6839e426ea0b66",
+      "teaser": "CBS News has fired longtime “60 Minutes” correspondent Scott Pelley. It came a day after he reportedly said Editor-in-Chief Bari Weiss was “murdering the show” and accused its new …",
+      "body": [
+        "CBS News has fired longtime “60 Minutes” correspondent Scott Pelley. It came a day after he reportedly said Editor-in-Chief Bari Weiss was “murdering the show” and accused its new producer of having “slender qualifications” for the job. The move deepened the …\n\nCBS News fired longtime 60 Minutes correspondent Scott Pelley on Tuesday, a day after he reportedly said Editor-in-Chief Bari Weiss was murdering the show and accused its new producer of having slend…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "‘Summer House’ Reunion Part 2 Bombshell: West’s Secret Girlfriend Tells All - Variety",
+      "deck": "Part 2 of the three-part “Summer House” Season 10 reunion gave us plenty of fireworks, from secret girlfriends to cheating caught on tape.",
+      "byline": "By Marlow Stern",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/summer-house-s10-reunion-part-2-west-wilson-meija-moreno-amanda-batula-1236765346/",
+      "imgSrc": "",
+      "teaser": "Part 2 of the three-part “Summer House” Season 10 reunion gave us plenty of fireworks, from secret girlfriends to cheating caught on tape.",
+      "body": [
+        "Part 2 of the three-part “Summer House” Season 10 reunion gave us plenty of fireworks, from secret girlfriends to cheating caught on tape. SPOILER ALERT: This article contains spoilers for Part 2 of the Season 10 “Summer House” reunion, streaming on Peacock as of May 27.",
+        "Where will it go from here? That was the first thought running th…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "‘The Hunting Party’ Canceled After Two Seasons at NBC - Variety",
+      "deck": "NBC canceled 'The Hunting Party' after two seasons.",
+      "byline": "By Selome Hailu",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/the-hunting-party-canceled-nbc-1236736781/",
+      "imgSrc": "",
+      "teaser": "NBC canceled 'The Hunting Party' after two seasons.",
+      "body": [
+        "NBC canceled 'The Hunting Party' after two seasons. “The Hunting Party” has been canceled after two seasons at NBC. The series, which aired its final episode on May 7, starred Melissa Roxburgh as former FBI profiler Rebecca “Bex” Henderson, who led a…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "Essity recognized on CDP Supplier Engagement A List for seventh consecutive year",
+      "deck": "STOCKHOLM, June 3, 2026 /PRNewswire/ -- Hygiene and health company Essity has once again been recognized for its leadership in sustainability by the global nonprofit environmental organization CDP. For the seventh consecutive year, Essity has achieved an A sc…",
       "byline": "By PRNewswire",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/calix-inc-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--calx-302789502.html",
+      "url": "https://www.prnewswire.com/news-releases/essity-recognized-on-cdp-supplier-engagement-a-list-for-seventh-consecutive-year-302789796.html",
+      "imgSrc": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBlbnZpcm9ubWVudCUyMGNsaW1hdGV8ZW58MHwwfHx8MTc4MDU1ODE0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "teaser": "STOCKHOLM, June 3, 2026 /PRNewswire/ -- Hygiene and health company Essity has once again been recognized for its leadership in sustainability by the global nonprofit environmental …",
+      "body": [
+        "STOCKHOLM, June 3, 2026 /PRNewswire/ -- Hygiene and health company Essity has once again been recognized for its leadership in sustainability by the global nonprofit environmental organization CDP. F…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "Essity recognized on CDP Supplier Engagement A List for seventh consecutive year",
+      "deck": "STOCKHOLM, June 3, 2026 /PRNewswire/ -- Hygiene and health company Essity has once again been recognized for its leadership in sustainability by the global nonprofit environmental organization CDP. For the seventh consecutive year, Essity has achieved an A sc…",
+      "byline": "By PRNewswire",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/essity-recognized-on-cdp-supplier-engagement-a-list-for-seventh-consecutive-year-302789788.html",
       "imgSrc": "",
-      "body": "LOS ANGELES, June 3, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Calix, Inc. (\"Calix\" or \"the Company\") (NYSE: CALX) for violations of §§10(b) and 20(a)… [+1752 chars]"
+      "teaser": "STOCKHOLM, June 3, 2026 /PRNewswire/ -- Hygiene and health company Essity has once again been recognized for its leadership in sustainability by the global nonprofit environmental …",
+      "body": [
+        "STOCKHOLM, June 3, 2026 /PRNewswire/ -- Hygiene and health company Essity has once again been recognized for its leadership in sustainability by the global nonprofit environmental organization CDP. F…"
+      ]
     },
-    "sport": {
-      "tag": "Sport",
-      "headline": "Morgan Rogers among ‘at least 10 names’ on Chelsea’s summer wishlist — report",
-      "deck": "And if wishes were fishes…",
-      "byline": "By David Pasztor",
-      "source": "SB Nation",
-      "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/169148/morgan-rogers-among-at-least-10-names-on-chelseas-summer-wishlist-report",
-      "imgSrc": "https://s.yimg.com/ny/api/res/1.2/tvXp_70lfZJ.t0O8bkjtYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/7aeb1ddbbf1e0a068dde735afc200fb0",
-      "body": "Chelsea will likely need to be more of a selling club this summer after failing to secure any sort of European football for next season not to mention our continuing lack of front-of-shirt sponsorshi… [+1247 chars]"
-    },
-    "health": {
-      "tag": "Health",
-      "headline": "MBF GROUP S.A.: Zawarcie umowy konsorcjum dotyczącej udziału w programie Europejskiej Agencji Obrony (EDA) w ramach inicjatywy HEDI",
-      "deck": "Spis treści:1. RAPORT BIEŻĄCY2. MESSAGE (ENGLISH VERSION)3. INFORMACJE O PODMIOCIE4. PODPISY OSÓB REPREZENTUJĄCYCH SPÓŁKĘ td.td-text, th.td-text { word-break: keep-all; overflow-wrap: break-word; box-sizing: border-box;...",
-      "byline": "By Redaktor Bankier.pl",
-      "source": "Bankier.pl",
-      "url": "https://www.bankier.pl/wiadomosc/MBF-GROUP-S-A-Zawarcie-umowy-konsorcjum-dotyczacej-udzialu-w-programie-Europejskiej-Agencji-Obrony-EDA-w-ramach-inicjatywy-HEDI-9145267.html",
-      "imgSrc": "https://galeria.bankier.pl/p/0/f/5cf4b304c96a2e-thumb-1000.jpg",
-      "body": "The Management Board of MBF Group S.A., with its registered office in \r\n Warsaw (the Company, the Issuer) announces that on 2 June 2026 it \r\n entered into a consortium and project cooperation agreeme… [+4686 chars]"
+    "env3": {
+      "tag": "Environment",
+      "headline": "State to offer €8,500 EV grants in scrappage scheme for 13-year-old cars",
+      "deck": "About two-thirds of €10m fund will be ring-fenced for rural areas, with scheme operated on pilot basis from July",
+      "byline": "By Pat Leahy",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/politics/2026/06/03/state-to-offer-8500-ev-grants-in-scrappage-scheme-for-13-year-old-cars/",
+      "imgSrc": "",
+      "teaser": "About two-thirds of €10m fund will be ring-fenced for rural areas, with scheme operated on pilot basis from July",
+      "body": [
+        "About two-thirds of €10m fund will be ring-fenced for rural areas, with scheme operated on pilot basis from July\n\nPeople with petrol and diesel cars that are more than 13 years old are to be eligible for grants of 8,500 to purchase a new electric vehicle (EV) under a State scrappage scheme.",
+        "Minister for Transp…"
+      ]
     }
   }
 }
