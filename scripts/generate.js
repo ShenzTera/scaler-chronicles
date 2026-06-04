@@ -352,12 +352,12 @@ async function main() {
     }
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     body{
-  background-color: #1a110a;
+  background-color: #f5ede8;
   background-image:
-    radial-gradient(circle, #8b6914 1px, transparent 1px),
-    radial-gradient(circle, #5c3d0a 1px, transparent 1px);
-  background-size: 28px 28px, 14px 14px;
-  background-position: 0 0, 7px 7px;
+    radial-gradient(circle, #c4705a 1.2px, transparent 1.2px),
+    radial-gradient(circle, #e8c4b8 1px, transparent 1px);
+  background-size: 24px 24px, 12px 12px;
+  background-position: 0 0, 6px 6px;
   font-family:var(--f-body);
   color:var(--ink);
   min-height:100vh;
