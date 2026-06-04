@@ -163,42 +163,43 @@
     },
     "world1": {
       "tag": "World",
-      "headline": "Manchester United consider summer bid for Germany centre-back",
-      "deck": "Manchester United are said to be weighing up an offer for Borussia Dortmund and Germany centre-back Waldemar Anton.According to The Mirror, the Premier League outfit are considering lodging a bid of a...",
-      "byline": "By Bulinews",
-      "source": "Bulinews.com",
-      "url": "https://bulinews.com/manchester-united-consider-summer-bid-for-germany-centre-back",
-      "imgSrc": "https://s.yimg.com/ny/api/res/1.2/zMCDwFC4mtPj7Yv7oF5jSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTc7Y2Y9d2VicA--/https://media.zenfs.com/en/bulinews_articles_290/e3fad6422bf13d1317976a6c56bae55d",
-      "teaser": "Manchester United are said to be weighing up an offer for Borussia Dortmund and Germany centre-back Waldemar Anton.According to The Mirror, the Premier League outfit are considerin…",
+      "headline": "Coding's great reckoning: Inside the months software engineering changed forever",
+      "deck": "In the space of a few weeks, OpenAI, Anthropic, and Google released new AI models. Now, coders are rethinking their jobs — and what comes next.",
+      "byline": "By hlangley@businessinsider.com (Hugh Langley)",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ai-coding-agents-tools-software-engineering-jobs-future-2025-6",
+      "imgSrc": "https://i.insider.com/6a1ecc712ab5f9757add7f08?width=1200&format=jpeg",
+      "teaser": "In the space of a few weeks, OpenAI, Anthropic, and Google released new AI models. Now, coders are rethinking their jobs — and what comes next.",
       "body": [
-        "Manchester United are said to be weighing up an offer for Borussia Dortmund and Germany centre-back Waldemar Anton. According to The Mirror, the Premier League outfit are considering lodging a bid o…"
+        "In the space of a few weeks, OpenAI, Anthropic, and Google released new AI models. Now, coders are rethinking their jobs — and what comes next. They're more productive than ever. They're inspired. And some of them are terrified. Software engineers have spent decades in one of tech's most lucrative and in-demand roles.",
+        "Now, they're watching …"
       ]
     },
     "world2": {
       "tag": "World",
-      "headline": "Pluto takes about 248 Earth years to circle the Sun, which means it still hasn’t completed a single orbit since we found it — and won’t finish that first lap until the year 2178",
-      "deck": "On 18 February 1930, a young man named Clyde Tombaugh sat at a blink comparator in Flagstaff, Arizona, and noticed a faint point of light that had shifted position between two photographic plates. The plates had been taken on 23 and 29 January. That shift was…",
-      "byline": "By Space Daily Editorial Team",
-      "source": "Space Daily",
-      "url": "https://spacedaily.com/m-pluto-takes-about-248-earth-years-to-circle-the-sun-which-means-it-still-hasnt-completed-a-single-orbit-since-we-found-it-and-wont-finish-that-first-lap-until-the-year-2178/",
-      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/06/Untitled-design-2026-06-03T142843.468.png",
-      "teaser": "On 18 February 1930, a young man named Clyde Tombaugh sat at a blink comparator in Flagstaff, Arizona, and noticed a faint point of light that had shifted position between two phot…",
+      "headline": "Texturetown is a Frankenstein's MMO created by remixing Club Penguin, Pirates of the Caribbean Online and other dead MMOs",
+      "deck": "I've really been getting into videogame collages, lately – projects like Funi Racoon, a verminous cache of Windows 95 desktop materials and Easter Island sculpture, and Water Level/b.l.u.e. EXPLORATION, a \"plunderludic\" in which Dark Souls, Super Mario 64, an…",
+      "byline": "By Edwin Evans-Thirlwell",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/texturetown-is-a-frankensteins-mmo-created-by-remixing-club-penguin-pirates-of-the-caribbean-online-and-other-dead-mmos",
+      "imgSrc": "https://assetsio.gnwcdn.com/texturetown.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "teaser": "I've really been getting into videogame collages, lately – projects like Funi Racoon, a verminous cache of Windows 95 desktop materials and Easter Island sculpture, and Water Level…",
       "body": [
-        "On 18 February 1930, a young man named Clyde Tombaugh sat at a blink comparator in Flagstaff, Arizona, and noticed a faint point of light that had shifted position between two photographic plates. Th…"
+        "I've really been getting into videogame collages, lately – projects like Funi Racoon, a verminous cache of Windows 95 desktop materials and Easter Island sculpture, and Water Level/b.l.u.e. EXPLORATI…"
       ]
     },
     "world3": {
       "tag": "World",
-      "headline": "Rural communities in Sabah are learning to thrive independently",
-      "deck": "After more than a decade of support, residents of Sabah's Mukim Tulid and Tatalaan are proving that sustainable development begins with community resilience.",
-      "byline": "By Natasha A.",
-      "source": "The Star Online",
-      "url": "https://www.thestar.com.my/lifestyle/family/2026/06/03/rural-communities-in-sabah-are-learning-to-thrive-independently",
-      "imgSrc": "https://apicms.thestar.com.my/uploads/images/2026/06/03/3940291.jpeg",
-      "teaser": "After more than a decade of support, residents of Sabah's Mukim Tulid and Tatalaan are proving that sustainable development begins with community resilience.",
+      "headline": "Suryakumar Yadav's successor needs unanimity, can Gambhir-Agarkar see eye-to-eye?",
+      "deck": "Suryakumar Yadav's poor form and wrist injury are making him a focus for selection committee ahead of India's T20I series vs Ireland and England. Discussions are expected regarding his captaincy and future T20I leadership. The selection panel, led by Ajit Aga…",
+      "byline": "By Sahil Malhotra",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/suryakumar-yadavs-successor-needs-unanimity-can-gambhir-agarkar-see-eye-to-eye/articleshow/131480929.cms",
+      "imgSrc": "https://static.toiimg.com/thumb/msid-131481058,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "teaser": "Suryakumar Yadav's poor form and wrist injury are making him a focus for selection committee ahead of India's T20I series vs Ireland and England. Discussions are expected regarding…",
       "body": [
-        "After more than a decade of support, residents of Sabah's Mukim Tulid and Tatalaan are proving that sustainable development begins with community resilience. Since 2014, humanitarian organisation World Vision Malaysia (WVM) has been working alongside rural residents in Sabahs Mukim Tulid and Tatalaan.",
-        "Its long-term goal? To create communities capable of s…"
+        "Suryakumar Yadav's poor form and wrist injury are making him a focus for selection committee ahead of India's T20I series vs Ireland and England. Discussions are expected regarding his captaincy and future T20I leadership. The selection panel, led by Ajit Aga…\n\nAjit is a very strong chief selector, one of the strongest to have been in charge.",
+        "He has taken some tough calls with an eye on future and he, along with his panel, has a plan in place for the T20I c…"
       ]
     },
     "pol1": {
@@ -367,42 +368,43 @@
     },
     "env1": {
       "tag": "Environment",
-      "headline": "Indonesia, Denmark explore cooperation in green job creation",
-      "deck": "The Indonesian government has voiced eagerness to work with Denmark to develop green jobs in order to strengthen the workforce&#39;s contribution to ...",
-      "byline": "By Prisca T",
-      "source": "Antaranews.com",
-      "url": "https://en.antaranews.com/news/417769/indonesia-denmark-explore-cooperation-in-green-job-creation",
-      "imgSrc": "https://cdn.antaranews.com/cache/1200x800/2026/06/03/DIP1698.jpg",
-      "teaser": "The Indonesian government has voiced eagerness to work with Denmark to develop green jobs in order to strengthen the workforce&#39;s contribution to ...",
+      "headline": "Climate change may shift hailstorms towards Earth’s poles – new study",
+      "deck": "Costs from severe storms are increasing – and this global shift in hailstorm spells bad news for crops, too.",
+      "byline": "By Timothy H. Raupach",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/climate-change-may-shift-hailstorms-towards-earths-poles-new-study-284292",
+      "imgSrc": "https://images.theconversation.com/files/739602/original/file-20260603-57-519awq.jpg?ixlib=rb-4.1.0&rect=0%2C199%2C2119%2C1059&q=45&auto=format&w=1356&h=668&fit=crop",
+      "teaser": "Costs from severe storms are increasing – and this global shift in hailstorm spells bad news for crops, too.",
       "body": [
-        "Jakarta (ANTARA) - The Indonesian government has voiced eagerness to work with Denmark to develop green jobs in order to strengthen the workforce's contribution to environmental sustainability as par…"
+        "Costs from severe storms are increasing – and this global shift in hailstorm spells bad news for crops, too. Warren Faidley/Getty Images Everyone has a storm story – whether it’s that time you just escaped a downpour, or the hailstorm that wrote off your car.",
+        "Even though hailstorms are relatively rare, the…"
       ]
     },
     "env2": {
       "tag": "Environment",
-      "headline": "Essity recognized on CDP Supplier Engagement A List for seventh consecutive year",
-      "deck": "STOCKHOLM, June 3, 2026 /PRNewswire/ -- Hygiene and health company Essity has once again been recognized for its leadership in sustainability by the global nonprofit environmental organization CDP. For the seventh consecutive year, Essity has achieved an A sc…",
-      "byline": "By PRNewswire",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/essity-recognized-on-cdp-supplier-engagement-a-list-for-seventh-consecutive-year-302789796.html",
-      "imgSrc": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxuYXR1cmUlMjBlbnZpcm9ubWVudCUyMGNsaW1hdGV8ZW58MHwwfHx8MTc4MDU1ODE0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "teaser": "STOCKHOLM, June 3, 2026 /PRNewswire/ -- Hygiene and health company Essity has once again been recognized for its leadership in sustainability by the global nonprofit environmental …",
+      "headline": "New York backtracked on its climate goals. Here’s why.",
+      "deck": "Lawmakers wanted to lead the energy transition, but Governor Kathy Hochul is worried about the cost of ditching natural gas.",
+      "byline": "By Jake Bittle",
+      "source": "Grist",
+      "url": "https://grist.org/politics/new-york-kathy-hochul-climate-law-clcpa-natural-gas-methane/",
+      "imgSrc": "https://grist.org/wp-content/uploads/2026/06/Kathy-Hochul-protest.jpg?quality=75&strip=all",
+      "teaser": "Lawmakers wanted to lead the energy transition, but Governor Kathy Hochul is worried about the cost of ditching natural gas.",
       "body": [
-        "STOCKHOLM, June 3, 2026 /PRNewswire/ -- Hygiene and health company Essity has once again been recognized for its leadership in sustainability by the global nonprofit environmental organization CDP. F…"
+        "Lawmakers wanted to lead the energy transition, but Governor Kathy Hochul is worried about the cost of ditching natural gas. Last week, New York became the first state in the country to weaken a mandatory climate law passed by its own legislature.",
+        "The change comes at the behest of Governor Kathy Hochul, a moderate Democra…"
       ]
     },
     "env3": {
       "tag": "Environment",
-      "headline": "State to offer €8,500 EV grants in scrappage scheme for 13-year-old cars",
-      "deck": "About two-thirds of €10m fund will be ring-fenced for rural areas, with scheme operated on pilot basis from July",
-      "byline": "By Pat Leahy",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/politics/2026/06/03/state-to-offer-8500-ev-grants-in-scrappage-scheme-for-13-year-old-cars/",
-      "imgSrc": "https://www.irishtimes.com/resizer/v2/QGRYKZNXB4NW3BRFJTFMEGQXYA.jpg?smart=true&auth=0bad5c4945d9788d2d0aca101e39fc2e51dbdcbf57e94ee31d82eb37cdc1a84f&width=1200&height=630",
-      "teaser": "About two-thirds of €10m fund will be ring-fenced for rural areas, with scheme operated on pilot basis from July",
+      "headline": "Pure DC Demonstrates Gas Connected Data Centres can be Decarbonised at Operational Scale with Europe’s First Large-Scale Cross-Border Biomethane Deal",
+      "deck": "LONDON, June 03, 2026 (GLOBE NEWSWIRE) -- Pure Data Centres Group (Pure DC), the pan-European and Middle East developer and operator of hyperscale cloud and AI data centres, today announced it has completed Europe’s first large-scale cross-border biomethane p…",
+      "byline": "By Pure Data Centres",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/03/3305819/0/en/Pure-DC-Demonstrates-Gas-Connected-Data-Centres-can-be-Decarbonised-at-Operational-Scale-with-Europe-s-First-Large-Scale-Cross-Border-Biomethane-Deal.html",
+      "imgSrc": "https://ml.globenewswire.com/Resource/Download/d8757a4f-911f-42b8-a350-1b587c88993f",
+      "teaser": "LONDON, June 03, 2026 (GLOBE NEWSWIRE) -- Pure Data Centres Group (Pure DC), the pan-European and Middle East developer and operator of hyperscale cloud and AI data centres, today …",
       "body": [
-        "About two-thirds of €10m fund will be ring-fenced for rural areas, with scheme operated on pilot basis from July\n\nPeople with petrol and diesel cars that are more than 13 years old are to be eligible for grants of 8,500 to purchase a new electric vehicle (EV) under a State scrappage scheme.",
-        "Minister for Transp…"
+        "LONDON, June 03, 2026 (GLOBE NEWSWIRE) -- Pure Data Centres Group (Pure DC), the pan-European and Middle East developer and operator of hyperscale cloud and AI data centres, today announced it has completed Europe’s first large-scale cross-border biomethane p…\n\nPure DCs Dublin site decarbonised with biomethane from GermanyTransaction is a 9,000-fold increase on its 2025 Proof of Concept9GWh of RED II &amp; III-compliant biomethane …"
       ]
     }
   }
