@@ -37,10 +37,17 @@ async function fetchJSON(url) {
 
 /** Fetch up to `count` articles from top-headlines */
 async function fetchHeadlines(params, count = 3) {
-  const q = new URLSearchParams({ ...params, apiKey: NEWS_KEY, pageSize: count + 5 });
+  const q = new URLSearchParams({ ...params, apiKey: NEWS_KEY, pageSize: count + 10 });
   const data = await fetchJSON(`https://newsapi.org/v2/top-headlines?${q}`);
+  const seen = new Set();
   return (data.articles || [])
-    .filter(a => a.title && a.title !== '[Removed]' && a.description && a.url)
+    .filter(a => {
+      if (!a.title || a.title === '[Removed]' || !a.description || !a.url) return false;
+      const key = a.title.slice(0, 60).toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
     .slice(0, count);
 }
 
@@ -49,14 +56,20 @@ async function fetchEverything(query, count = 3) {
   const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
   const q = new URLSearchParams({
     q: query, language: 'en', sortBy: 'publishedAt',
-    from: yesterday, pageSize: count + 5, apiKey: NEWS_KEY,
+    from: yesterday, pageSize: count + 10, apiKey: NEWS_KEY,
   });
   const data = await fetchJSON(`https://newsapi.org/v2/everything?${q}`);
+  const seen = new Set();
   return (data.articles || [])
-    .filter(a => a.title && a.title !== '[Removed]' && a.description && a.url)
+    .filter(a => {
+      if (!a.title || a.title === '[Removed]' || !a.description || !a.url) return false;
+      const key = a.title.slice(0, 60).toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
     .slice(0, count);
 }
-
 /** Unsplash image for a keyword — returns URL string or '' */
 async function unsplashImg(keyword) {
   if (!UNSPLASH_KEY) return '';
@@ -203,10 +216,10 @@ async function main() {
     fetchHeadlines({ category: 'business',      language: 'en' }, 3),
     fetchHeadlines({ category: 'technology',    language: 'en' }, 3),
     fetchHeadlines({ category: 'science',       language: 'en' }, 3),
-    fetchHeadlines({ category: 'general',       language: 'en', country: 'gb' }, 3),
-    fetchEverything('geopolitics OR diplomacy OR international relations OR UN', 3),
-    fetchEverything('sport OR football OR tennis OR athletics OR NBA OR FIFA', 3),
-    fetchEverything('health OR medicine OR clinical trial OR WHO OR wellness', 3),
+    fetchEverything('world news OR global OR international', 3),
+    fetchHeadlines({ category: 'general', language: 'en', country: 'us' }, 3),
+    fetchHeadlines({ category: 'sports',  language: 'en' }, 3),
+    fetchHeadlines({ category: 'health',  language: 'en' }, 3),
     fetchHeadlines({ category: 'entertainment', language: 'en' }, 3),
     fetchEverything('climate change OR environment OR renewable energy OR carbon emissions', 3),
   ]);
@@ -404,7 +417,8 @@ async function main() {
     .ticker-wrap{background:var(--ink);overflow:hidden;white-space:nowrap;padding:5px 0;border-top:1px solid #4a3a28;border-bottom:1px solid #4a3a28}
     .ticker-label{display:inline-block;background:var(--red);color:var(--paper);font-size:.62rem;font-weight:700;letter-spacing:.12em;padding:2px 10px;margin-right:14px;text-transform:uppercase}
     .ticker-track{display:inline-block;animation:tickerScroll 40s linear infinite;font-size:.65rem;color:rgba(245,239,224,.75);letter-spacing:.04em;font-family:var(--f-body)}
-    @keyframes tickerScroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+    .ticker-track{display:inline-block;animation:tickerScroll 55s linear infinite;font-size:.65rem;color:rgba(245,239,224,.75);letter-spacing:.04em;font-family:var(--f-body);will-change:transform}
+@keyframes tickerScroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
 
     /* FOOTER */
     .newspaper-footer{border-top:3px double var(--rule);margin:24px 24px 0;padding-top:10px;display:flex;justify-content:space-between;font-size:.62rem;color:var(--ink-faint);letter-spacing:.04em;flex-wrap:wrap;gap:6px}
