@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover"/>
+<meta name="theme-color" content="#1a110a"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
   <title>The Scaler Chronicles — Thursday, June 4, 2026</title>
   <meta name="description" content="The Scaler Chronicles: curated world news in classic broadsheet style."/>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
@@ -141,13 +143,69 @@
     .ap-bottom-nav{max-width:800px;margin:14px auto 0;display:flex;gap:12px}
 
     @media(max-width:660px){
-      .col-3,.col-2,.col-1-2,.col-2-1{grid-template-columns:1fr}
-      .article{border-right:none;border-bottom:1px solid rgba(42,31,14,.18)}
-      .ap-inner{padding:22px 16px 36px}
-      .ap-body{column-count:1}
-      .day-btn{min-width:64px;padding:6px 8px}
-      .newspaper-footer{flex-direction:column;gap:4px}
-    }
+  /* Layout */
+  body{padding:0 0 40px}
+  .col-3,.col-2,.col-1-2,.col-2-1{grid-template-columns:1fr}
+  .columns{padding:8px 12px}
+
+  /* Newspaper shell */
+  .newspaper{border-left:none;border-right:none;box-shadow:0 4px 20px rgba(0,0,0,.4)}
+
+  /* Masthead */
+  .masthead{padding:12px 14px 10px}
+  .masthead::before{margin-bottom:8px}
+  .newspaper-name{font-size:2.4rem;line-height:1.05}
+  .mast-icon{font-size:1.1rem;margin:0 6px}
+  .tagline{font-size:.68rem;letter-spacing:.06em}
+  .meta-bar{font-size:.6rem;padding:3px 0;flex-direction:column;align-items:center;gap:2px}
+
+  /* Ticker */
+  .ticker-wrap{padding:4px 0}
+  .ticker-track{font-size:.6rem}
+  .ticker-label{font-size:.58rem;padding:2px 8px}
+
+  /* Lead story — stack vertically on mobile */
+  .article-featured{padding:14px}
+  .article-featured > div:first-child{grid-template-columns:1fr !important;gap:12px}
+  .article-featured > div:first-child img{aspect-ratio:16/9 !important;max-height:220px}
+  .article-featured > div:last-child{grid-template-columns:1fr !important}
+
+  /* Cards */
+  .article{border-right:none;border-bottom:1px solid rgba(42,31,14,.18);padding:12px}
+  .article-img{aspect-ratio:16/9 !important}
+  .article-headline.xl{font-size:1.6rem}
+  .article-headline.lg{font-size:1.2rem}
+  .article-headline.md{font-size:1rem}
+  .article-body{font-size:.8rem;line-height:1.65}
+
+  /* Section labels */
+  .section-label{margin:14px 12px 0;font-size:.65rem}
+  .h-rule,.h-rule-bold{margin:0 12px}
+  .ad-block{margin:10px 12px}
+
+  /* Full article view */
+  .ap-inner{padding:20px 16px 36px}
+  .ap-headline{font-size:1.7rem}
+  .ap-body{column-count:1;font-size:.84rem}
+  .ap-body p:first-child::first-letter{font-size:2.8rem}
+
+  /* Archive bar */
+  .archive-bar{margin:16px 0 0;border-radius:0;padding:16px 12px 18px}
+  .day-btn{min-width:58px;padding:6px 8px;font-size:.62rem}
+
+  /* Back bar */
+  .back-bar{padding:0 12px;margin-bottom:8px}
+
+  /* Footer */
+  .newspaper-footer{flex-direction:column;gap:3px;text-align:center;padding:8px 12px;font-size:.58rem}
+}
+
+/* Extra small phones */
+@media(max-width:380px){
+  .newspaper-name{font-size:1.9rem}
+  .article-headline.xl{font-size:1.35rem}
+  .day-btn{min-width:50px;padding:5px 6px}
+}
   </style>
 </head>
 <body>
@@ -170,7 +228,7 @@
   <div class="ticker-wrap">
     <span class="ticker-label">Breaking</span>
     <span class="ticker-track">
-      ◆ Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com&nbsp;&nbsp;&nbsp;&nbsp;◆ Why Ferrari Is Making a Car No One Wants - The Free Press&nbsp;&nbsp;&nbsp;&nbsp;◆ The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft&#39;s Surface Laptop Ultra - PCMag&nbsp;&nbsp;&nbsp;&nbsp;◆ Counterfeit Cigarettes Drive EU Illicit Market Above 10% for First Time Since 2014&nbsp;&nbsp;&nbsp;&nbsp;◆ &#39;Hope is now on its way&#39;: National Media Reactions to Kentucky landing Milan Momcilovic - On3&nbsp;&nbsp;&nbsp;&nbsp;◆ Can the rush for vaccines slow the latest Ebola outbreak? - Financial Times&nbsp;&nbsp;&nbsp;&nbsp;◆ Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News&nbsp;&nbsp;&nbsp;&nbsp;◆ Indonesia, Denmark explore cooperation in green job creation&nbsp;&nbsp;&nbsp;&nbsp;◆ Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com&nbsp;&nbsp;&nbsp;&nbsp;◆ Why Ferrari Is Making a Car No One Wants - The Free Press&nbsp;&nbsp;&nbsp;&nbsp;◆ The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft&#39;s Surface Laptop Ultra - PCMag&nbsp;&nbsp;&nbsp;&nbsp;◆ Counterfeit Cigarettes Drive EU Illicit Market Above 10% for First Time Since 2014&nbsp;&nbsp;&nbsp;&nbsp;◆ &#39;Hope is now on its way&#39;: National Media Reactions to Kentucky landing Milan Momcilovic - On3&nbsp;&nbsp;&nbsp;&nbsp;◆ Can the rush for vaccines slow the latest Ebola outbreak? - Financial Times&nbsp;&nbsp;&nbsp;&nbsp;◆ Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News&nbsp;&nbsp;&nbsp;&nbsp;◆ Indonesia, Denmark explore cooperation in green job creation
+      ◆ Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com&nbsp;&nbsp;&nbsp;&nbsp;◆ Why Ferrari Is Making a Car No One Wants - The Free Press&nbsp;&nbsp;&nbsp;&nbsp;◆ The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft&#39;s Surface Laptop Ultra - PCMag&nbsp;&nbsp;&nbsp;&nbsp;◆ Zack Snyder to write and direct ‘Escape From New York&#39;&nbsp;&nbsp;&nbsp;&nbsp;◆ &#39;Hope is now on its way&#39;: National Media Reactions to Kentucky landing Milan Momcilovic - On3&nbsp;&nbsp;&nbsp;&nbsp;◆ Can the rush for vaccines slow the latest Ebola outbreak? - Financial Times&nbsp;&nbsp;&nbsp;&nbsp;◆ Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News&nbsp;&nbsp;&nbsp;&nbsp;◆ Indonesia, Denmark explore cooperation in green job creation&nbsp;&nbsp;&nbsp;&nbsp;◆ Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com&nbsp;&nbsp;&nbsp;&nbsp;◆ Why Ferrari Is Making a Car No One Wants - The Free Press&nbsp;&nbsp;&nbsp;&nbsp;◆ The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft&#39;s Surface Laptop Ultra - PCMag&nbsp;&nbsp;&nbsp;&nbsp;◆ Zack Snyder to write and direct ‘Escape From New York&#39;&nbsp;&nbsp;&nbsp;&nbsp;◆ &#39;Hope is now on its way&#39;: National Media Reactions to Kentucky landing Milan Momcilovic - On3&nbsp;&nbsp;&nbsp;&nbsp;◆ Can the rush for vaccines slow the latest Ebola outbreak? - Financial Times&nbsp;&nbsp;&nbsp;&nbsp;◆ Scott Pelley fired from ’60 Minutes,’ deepening turmoil at CBS News - AP News&nbsp;&nbsp;&nbsp;&nbsp;◆ Indonesia, Denmark explore cooperation in green job creation
     </span>
   </div>
 
@@ -337,34 +395,34 @@
   <article class="article" onclick="openArticle('world1')">
     <div class="article-tag">World</div>
     <div class="article-img" style="aspect-ratio:4/3">
-      <img src="https://images.unsplash.com/photo-1738190228336-aa4cf73874b7?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHx3b3JsZCUyMGludGVybmF0aW9uYWwlMjBuZXdzfGVufDB8MHx8fDE3ODA1NTgxNDN8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="Counterfeit Cigarettes Drive EU Illicit Market Above 10% for First Time Since 2014" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
+      <img src="https://l-files.livejournal.net/og_image/3616053/517264?v=1780474688" alt="Zack Snyder to write and direct ‘Escape From New York&#39;" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
     </div>
-    <div class="article-caption">Source: Financial Post</div>
-    <h2 class="article-headline lg">Counterfeit Cigarettes Drive EU Illicit Market Above 10% for First Time Since 2014</h2>
-    <div class="article-byline">By Business Wire</div>
-    <p class="article-body">Illicit cigarettes reached 10.3% of EU consumption in 2025 (41.8 billion), with an estimated €16.7 billion in lost tax revenues Counterfeits now lead the illicit market – accountin…</p>
+    <div class="article-caption">Source: Livejournal.com</div>
+    <h2 class="article-headline lg">Zack Snyder to write and direct ‘Escape From New York&#39;</h2>
+    <div class="article-byline">By queen_bartonia</div>
+    <p class="article-body">Zack Snyder is set to write and direct a reimagining of ‘Escape From New York,’ the dystopian cult classic from John Carpenter, Deadline can confirm.The project is intended for rel…</p>
   </article>
     
   <article class="article" onclick="openArticle('world2')">
     <div class="article-tag">World</div>
     <div class="article-img" style="aspect-ratio:4/3">
-      <img src="https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg" alt="Delivering AI systems enterprise users can’t live without" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
+      <img src="https://s.yimg.com/ny/api/res/1.2/W3envnQUrgUr01d8cpsMqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODc7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/c1b6c3d29471b0c14b7376c6ec3b8681" alt="Knicks Bulletin: ‘I’m always ready. Always stay ready’" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
     </div>
-    <div class="article-caption">Source: TechRadar</div>
-    <h2 class="article-headline md">Delivering AI systems enterprise users can’t live without</h2>
-    <div class="article-byline">By Mike Eichsteadt</div>
-    <p class="article-body">How can organizations deliver practical value-generating AI that users will actually embrace?</p>
+    <div class="article-caption">Source: Posting and Toasting</div>
+    <h2 class="article-headline md">Knicks Bulletin: ‘I’m always ready. Always stay ready’</h2>
+    <div class="article-byline">By Antonio Losada</div>
+    <p class="article-body">The time has come for the Knicks to play an NBA Finals game. The day is today, and you, like everybody and their mother, will surely be watching. Here’s a mammoth bulletin to get y…</p>
   </article>
     
   <article class="article" onclick="openArticle('world3')">
     <div class="article-tag">World</div>
     <div class="article-img" style="aspect-ratio:4/3">
-      <img src="https://images.unsplash.com/photo-1637941280751-9ff4661c6f11?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxBY2UlMjBDb21iYXQlMjA4JTNBJTIwV2luZ3N8ZW58MHwwfHx8MTc4MDU2MDcwMXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="Ace Combat 8: Wings of Theve Takes FLlight This October" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
+      <img src="https://l-files.livejournal.net/og_image/3616053/517263?v=1780474663" alt="A look back at all the Series finales in May" loading="lazy" onerror="this.parentElement.innerHTML='<span class=img-ph>[ Image unavailable ]</span>'">
     </div>
-    <div class="article-caption">Source: Anime News Network</div>
-    <h2 class="article-headline md">Ace Combat 8: Wings of Theve Takes FLlight This October</h2>
-    <div class="article-byline">By Anime News Network</div>
-    <p class="article-body">&amp;lsquo;Rise Above&amp;rsquo; as the Thrilling Sequel to the Series that Defined the Aerial Combat Genre Returns, with Preorders Now Live with Bonuses Including...</p>
+    <div class="article-caption">Source: Livejournal.com</div>
+    <h2 class="article-headline md">A look back at all the Series finales in May</h2>
+    <div class="article-byline">By a_files06</div>
+    <p class="article-body">-May saw 5 long standing shows from various networks finally come to an end.-Those shows would be Outlander, Hacks, Euphoria, THe Boys, and Good Omens.-To kick things off, we had O…</p>
   </article>
   </div>
   <div class="columns col-3" style="padding-top:0">
@@ -635,9 +693,9 @@ const ARTICLES = {
   "sci1": {"tag":"Science","headline":"Almost all the gold on Earth — every wedding ring, every coin, every gram in every bank vault — was forged in the collision of dead stars billions of years ago, in events so violent that a single one can produce hundreds of Earth-masses of gold, and the heavy - Space Daily","deck":"On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ended in a collision lasting fractions of a second. The gravitational waves from th…","byline":"By Space Daily","source":"Space Daily","url":"https://spacedaily.com/d-almost-all-the-gold-on-earth-every-wedding-ring-every-coin-every-gram-in-every-bank-vault-was-forged-in-the-collision-of-dead-stars-billions-of-years-ago-in-events-so-violent-that/","imgSrc":"https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-03T112832.427.png","teaser":"On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ende…","body":["On 17 August 2017, two neutron stars in a galaxy called NGC 4993, about 130 million light-years from Earth, completed a spiral inward that had taken them millions of years and ended in a collision la…"]},
   "sci2": {"tag":"Science","headline":"Night sky June 2026: What you can see tonight - Space","deck":"Find out what's up in your night sky during June 2026 and how to see it in this Space.com stargazing guide.","byline":"By Jules-Pierre Malartre","source":"Space.com","url":"https://www.space.com/what-to-see-night-sky-june-2026","imgSrc":"https://cdn.mos.cms.futurecdn.net/qbBcnnxYC4TjjxsAdTTEv9-1920-80.jpg","teaser":"Find out what's up in your night sky during June 2026 and how to see it in this Space.com stargazing guide.","body":["Find out what's up in your night sky during June 2026 and how to see it in this Space.com stargazing guide. "]},
   "sci3": {"tag":"Science","headline":"Scientists sterilized soil. It kept breathing for six years. - Boing Boing","deck":"Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing — taking in oxygen…","byline":"By Ellsworth Toohey","source":"Boing Boing","url":"https://boingboing.net/2026/06/02/scientists-sterilized-soil-it-kept-breathing-for-six-years.html","imgSrc":"https://images.unsplash.com/photo-1611037500498-88243304bb11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxTY2llbnRpc3RzJTIwc3RlcmlsaXplZCUyMHNvaWwuJTIwSXR8ZW58MHwwfHx8MTc4MDU1ODU0MHww&ixlib=rb-4.1.0&q=80&w=1080","teaser":"Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing — taking in oxygen…","body":["Quanta's \"The Dirt That Refused To Die\" follows a French lab that sterilized soil with gamma radiation, sealed it in jars, and watched it keep breathing taking in oxygen and giving off carbon dioxide…"]},
-  "world1": {"tag":"World","headline":"Counterfeit Cigarettes Drive EU Illicit Market Above 10% for First Time Since 2014","deck":"Illicit cigarettes reached 10.3% of EU consumption in 2025 (41.8 billion), with an estimated €16.7 billion in lost tax revenues Counterfeits now lead the illicit market – accounting for 44% of EU illicit consumption (18.3 billion), up sharply year-on-year and…","byline":"By Business Wire","source":"Financial Post","url":"https://financialpost.com/pmn/business-wire-news-releases-pmn/counterfeit-cigarettes-drive-eu-illicit-market-above-10-for-first-time-since-2014","imgSrc":"https://images.unsplash.com/photo-1738190228336-aa4cf73874b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHx3b3JsZCUyMGludGVybmF0aW9uYWwlMjBuZXdzfGVufDB8MHx8fDE3ODA1NTgxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080","teaser":"Illicit cigarettes reached 10.3% of EU consumption in 2025 (41.8 billion), with an estimated €16.7 billion in lost tax revenues Counterfeits now lead the illicit market – accountin…","body":["Illicit cigarettes reached 10.3% of EU consumption in 2025 (41.8 billion), with an estimated €16.7 billion in lost tax revenues Counterfeits now lead the illicit market – accounting for 44% of EU illicit consumption (18.3 billion), up sharply year-on-year and…\n\nThe lesson we derive from the situation in Europe is that not one single lever solves the problem of illicit trade; it is that a well-coordinated set of measures does, said Massimo Andolina, Presiden…"]},
-  "world2": {"tag":"World","headline":"Delivering AI systems enterprise users can’t live without","deck":"How can organizations deliver practical value-generating AI that users will actually embrace?","byline":"By Mike Eichsteadt","source":"TechRadar","url":"https://www.techradar.com/pro/delivering-ai-systems-enterprise-users-cant-live-without","imgSrc":"https://cdn.mos.cms.futurecdn.net/DVffQnnibMWmNpx2Wfb5Se-1920-80.jpg","teaser":"How can organizations deliver practical value-generating AI that users will actually embrace?","body":["How can organizations deliver practical value-generating AI that users will actually embrace?\n\nAs the AI tools marketplace grows more crowded, enterprise customers want solutions that excel across several dimensions. Organizations want systems that deliver practical value-generating AI that u…"]},
-  "world3": {"tag":"World","headline":"Ace Combat 8: Wings of Theve Takes FLlight This October","deck":"&lsquo;Rise Above&rsquo; as the Thrilling Sequel to the Series that Defined the Aerial Combat Genre Returns, with Preorders Now Live with Bonuses Including...","byline":"By Anime News Network","source":"Anime News Network","url":"https://www.animenewsnetwork.com/press-release/2026-06-03/ace-combat-8-wings-of-theve-takes-fllight-this-october/.238086","imgSrc":"https://images.unsplash.com/photo-1637941280751-9ff4661c6f11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxBY2UlMjBDb21iYXQlMjA4JTNBJTIwV2luZ3N8ZW58MHwwfHx8MTc4MDU2MDcwMXww&ixlib=rb-4.1.0&q=80&w=1080","teaser":"&lsquo;Rise Above&rsquo; as the Thrilling Sequel to the Series that Defined the Aerial Combat Genre Returns, with Preorders Now Live with Bonuses Including...","body":["&lsquo;Rise Above&rsquo; as the Thrilling Sequel to the Series that Defined the Aerial Combat Genre Returns, with Preorders Now Live with Bonuses Including... Rise Above as the Thrilling Sequel to the Series that Defined the Aerial Combat Genre Returns, with Preorders Now Live with Bonuses Including a Preorder Bonus of ACE COMBAT ZERO: THE BELKAN WAR IRVI…"]},
+  "world1": {"tag":"World","headline":"Zack Snyder to write and direct ‘Escape From New York'","deck":"Zack Snyder is set to write and direct a reimagining of ‘Escape From New York,’ the dystopian cult classic from John Carpenter, Deadline can confirm.The project is intended for release in theaters. More details ⬇️ https://t.co/BGNMIlDFBA — Deadline (@DEADLIN…","byline":"By queen_bartonia","source":"Livejournal.com","url":"https://ohnotheydidnt.livejournal.com/132419802.html","imgSrc":"https://l-files.livejournal.net/og_image/3616053/517264?v=1780474688","teaser":"Zack Snyder is set to write and direct a reimagining of ‘Escape From New York,’ the dystopian cult classic from John Carpenter, Deadline can confirm.The project is intended for rel…","body":["Zack Snyder is set to write and direct a reimagining of Escape From New York, the dystopian cult classic from John Carpenter, Deadline can confirm. The project is intended for release in theaters. M…"]},
+  "world2": {"tag":"World","headline":"Knicks Bulletin: ‘I’m always ready. Always stay ready’","deck":"The time has come for the Knicks to play an NBA Finals game. The day is today, and you, like everybody and their mother, will surely be watching. Here’s a mammoth bulletin to get you ready for what will come later. Mike Brown On Mitchell Robinson’s status hea…","byline":"By Antonio Losada","source":"Posting and Toasting","url":"https://www.postingandtoasting.com/knicks-news/83714/knicks-bulletin","imgSrc":"https://s.yimg.com/ny/api/res/1.2/W3envnQUrgUr01d8cpsMqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODc7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/c1b6c3d29471b0c14b7376c6ec3b8681","teaser":"The time has come for the Knicks to play an NBA Finals game. The day is today, and you, like everybody and their mother, will surely be watching. Here’s a mammoth bulletin to get y…","body":["The time has come for the Knicks to play an NBA Finals game. The day is today, and you, like everybody and their mother, will surely be watching. Heres a mammoth bulletin to get you ready for what …"]},
+  "world3": {"tag":"World","headline":"A look back at all the Series finales in May","deck":"-May saw 5 long standing shows from various networks finally come to an end.-Those shows would be Outlander, Hacks, Euphoria, THe Boys, and Good Omens.-To kick things off, we had Outlander that ran from 2014-2026 on Starz for a total of 8 seasons/101 episodes…","byline":"By a_files06","source":"Livejournal.com","url":"https://ohnotheydidnt.livejournal.com/132419419.html","imgSrc":"https://l-files.livejournal.net/og_image/3616053/517263?v=1780474663","teaser":"-May saw 5 long standing shows from various networks finally come to an end.-Those shows would be Outlander, Hacks, Euphoria, THe Boys, and Good Omens.-To kick things off, we had O…","body":["-May saw 5 long standing shows from various networks finally come to an end. -Those shows would be Outlander, Hacks, Euphoria, THe Boys, and Good Omens. -To kick things off, we had Outlander that r…"]},
   "pol1": {"tag":"Politics","headline":"Trump Proposes New Levies of at Least 10% to Rebuild Tariff Wall - Bloomberg.com","deck":"The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier levies were struck down by the US Supreme Court.","byline":"By Alicia Diaz","source":"Bloomberg","url":"https://www.bloomberg.com/news/articles/2026-06-03/us-proposes-broad-tariffs-of-at-least-10-citing-forced-labor","imgSrc":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHLAmkF2OqEA/v0/1200x800.jpg","teaser":"The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trump’s biggest move to rebuild his protectionist wall since his earlier lev…","body":["The US is proposing new tariffs of at least 10% on imports from 60 trading partners in President Donald Trumps biggest move to rebuild his protectionist wall since his earlier levies were struck down…"]},
   "pol2": {"tag":"Politics","headline":"California primary election results for key 2026 races including governor, LA mayor and more - CBS News","deck":"Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California's June 2 primary elections.","byline":"By Dean  Fioresi","source":"CBS News","url":"https://www.cbsnews.com/losangeles/live-updates/live-updates-california-primary-election-results-for-key-2026-races/","imgSrc":"https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/28/e3701147-eba8-4a01-908e-fe9ee924c916/thumbnail/1200x630/e010584aec4922725fb281116204b454/gettyimages-1244589015.jpg","teaser":"Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California's June 2 primary elections.","body":["Races for governor, Los Angeles mayor and to succeed Rep. Nancy Pelosi in Congress are among the most closely watched contests in California's June 2 primary elections. Los Angeles mayoral candidate Nithya Raman spoke to supporters at her election watch party about an hour after polls closed.","\"I'm here because I love Los Angeles with all of my heart. This is the mo…"]},
   "pol3": {"tag":"Politics","headline":"Iran fires missiles in Kuwait and Bahrain, U.S. strikes Iran facility in response - NPR","deck":"The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response.","byline":"By The Associated Press","source":"NPR","url":"https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates","imgSrc":"https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F3a%2Fbd493c334214bdc504ad3caaa996%2Fap26152578654950.jpg","teaser":"The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response.","body":["The U.S. military said that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S. launched strikes on an Iranian facility in response. DUBAI, United Arab Emirates The U.S. military said Tuesday that Iran fired missiles at Kuwait and Bahrain that failed or were shot down, and that the U.S.","launched strikes on an Iranian facility in r…"]},
