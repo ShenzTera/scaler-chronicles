@@ -1,0 +1,402 @@
+{
+  "date": "Monday, June 8, 2026",
+  "key": "jun08",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Iran launched missiles and drones toward Strait of Hormuz, U.S. military says - The Washington Post",
+      "deck": "U.S. forces shot down Iranian missiles and drones launched toward the strait and neighboring countries.",
+      "byline": "By Maegan Vazquez",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/06/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/H6L6VC4JATNBSDCUYPVGQOM63I.JPG&w=1440",
+      "teaser": "U.S. forces shot down Iranian missiles and drones launched toward the strait and neighboring countries.",
+      "body": [
+        "U.S. forces shot down Iranian missiles and drones launched toward the Strait of Hormuz and neighboring countries, the latest conflict in the region that could further complicate efforts to end the wa…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Simone Biles reveals she had a health scare and describes ‘almost dying’ - NBC News",
+      "deck": "United States gymnastics great Simone Biles shared limited news of a health scare on Saturday, an experience she said included “almost dying.”The world’s most-decorated gymnast said on Instagram Stories that she had endured an unexpected situation, and she th…",
+      "byline": "By Dennis Romero",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/simone-biles-reveals-health-scare-describes-almost-dying-rcna348833",
+      "imgSrc": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260606-simone-biles-1054p-685d2e.jpg",
+      "teaser": "United States gymnastics great Simone Biles shared limited news of a health scare on Saturday, an experience she said included “almost dying.”The world’s most-decorated gymnast sai…",
+      "body": [
+        "United States gymnastics great Simone Biles shared limited news of a health scare on Saturday, an experience she said included almost dying. Subscribe to read this story ad-free Get unlimited acce…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Gabriel Bonfim dominates Belal Muhammad at UFC Fight Night - ESPN",
+      "deck": "Welterweight Gabriel Bonfim (20-1) delivered a breakout performance on Saturday night, dominating former champion in Belal Muhammad (24-6) at UFC Fight Night in Las Vegas, frequently smiling and laughing as he did it.",
+      "byline": "By Brett Okamoto",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/48988672/gabriel-bonfim-dominates-belal-muhammad-ufc-fight-night",
+      "imgSrc": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0607%2Fr1669270_1296x729_16%2D9.jpg",
+      "teaser": "Welterweight Gabriel Bonfim (20-1) delivered a breakout performance on Saturday night, dominating former champion in Belal Muhammad (24-6) at UFC Fight Night in Las Vegas, frequent…",
+      "body": [
+        "Welterweight Gabriel Bonfim (20-1) delivered a breakout performance on Saturday night, dominating former champion in Belal Muhammad (24-6) at UFC Fight Night in Las Vegas, frequently smiling and laughing as he did it. The UFC's welterweight division has looked like an absolute shark tank as of late.",
+        "Add Gabriel Bonfim's name to its list of predators. Bonfim (20-1) delivered a breakout performance Saturday against…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "OpenAI plots biggest ChatGPT overhaul since launch - Financial Times",
+      "deck": "$850bn start-up to recast hit chatbot as a route to higher-margin products before a potential IPO",
+      "byline": "By Cristina Criddle",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9?syn-25a6b1a6\\\\u003d1",
+      "imgSrc": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F30267a93-b947-4d9a-bd71-425db9da4ec7.jpg?source=next-barrier-page",
+      "teaser": "$850bn start-up to recast hit chatbot as a route to higher-margin products before a potential IPO",
+      "body": [
+        "$850bn start-up to recast hit chatbot as a route to higher-margin products before a potential IPO\n\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Samantha Salomon, 18, arrested after throwing food at Chipotle worker in Santa Ana - ABC7 Los Angeles",
+      "deck": "Santa Ana police have arrested an 18-year-old woman seen on surveillance video throwing her food at a Chipotle worker.",
+      "byline": "By KABC-TV",
+      "source": "KABC-TV",
+      "url": "https://abc7.com/post/samantha-salomon-18-arrested-throwing-food-chipotle-worker-santa-ana/19248763/",
+      "imgSrc": "https://cdn.abcotvs.com/dip/images/19248793_060626-kabc-oc-restaurant-attack-tn-img.jpg?w=1600",
+      "teaser": "Santa Ana police have arrested an 18-year-old woman seen on surveillance video throwing her food at a Chipotle worker.",
+      "body": [
+        "Santa Ana police have arrested an 18-year-old woman seen on surveillance video throwing her food at a Chipotle worker. SANTA ANA, Calif. (KABC) -- Santa Ana police have arrested a woman seen on video throwing her food at a Chipotle worker.",
+        "Police shared the shocking surveillance video on social media last week. The …"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Emotions Spill Over at Town Hall of Industry Workers Opposed to Paramount-WBD Merger: “It’s the Death of a Great American Industry” - The Hollywood Reporter",
+      "deck": "Writers, actors, crew members and small business owners expressed their opposition to the $111 billion transaction in Beverly Hills on Saturday: “It may be the final domino that knocks everything down.”",
+      "byline": "By Katie Kilkenny",
+      "source": "Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/entertainment-workers-oppose-paramount-wbd-merger-town-hall-1236615502/",
+      "imgSrc": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/GettyImages-2235093119.jpg?w=1440&h=810&crop=1",
+      "teaser": "Writers, actors, crew members and small business owners expressed their opposition to the $111 billion transaction in Beverly Hills on Saturday: “It may be the final domino that kn…",
+      "body": [
+        "Writers, actors, crew members and small business owners expressed their opposition to the $111 billion transaction in Beverly Hills on Saturday: “It may be the final domino that knocks everything down.”\n\nEmotions spilled over at a gathering of Hollywood workers, union officials and a current FCC commissioner opposed to the planned Paramount Skydance-Warner Bros.",
+        "merger on Saturday, with some arguing …"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Vampire Survivors Announces Switch 2 Version, New DLC And Name Update - Nintendo Life",
+      "deck": "Celebrating a \"new chapter\"",
+      "byline": "By Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/vampire-survivors-announces-switch-2-version-new-dlc-and-name-update",
+      "imgSrc": "https://images.nintendolife.com/9d6254205fa25/large.jpg",
+      "teaser": "Celebrating a \"new chapter\"",
+      "body": [
+        "Celebrating a \"new chapter\"\n\nAlthough Poncle has been busy with Vampire Crawlers, it's still showing plenty of support for Vampire Survivors. Apart from the recently revealed \"Wet Update\", this week the studio has also announce…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Wyoming Sheriff Orders \"Clint Eastwood High Plains Drifter\" Look For New Cruiser - Cowboy State Daily",
+      "deck": "When Laramie County Sheriff Brian Kozak wanted a new design for the newest SUV in the fleet, he asked a local artist to create a \"Clint Eastwood High Plains Drifter\" look. \"It looks pretty badass,\" Kozak said, noting he's received many compliments.",
+      "byline": "By Kolby Fedore",
+      "source": "Cowboystatedaily.com",
+      "url": "https://cowboystatedaily.com/2026/06/06/pretty-badass-new-laramie-county-sheriffs-cruiser-is-pure-western-wyoming/",
+      "imgSrc": "https://cowboystatedaily.imgix.net/New-Sheriffs-cruiser-710020639_1299237672391254_5317509438597465883_n-copy-6.6.26.jpg?w=1200&q=75&auto=format%2Ccompress",
+      "teaser": "When Laramie County Sheriff Brian Kozak wanted a new design for the newest SUV in the fleet, he asked a local artist to create a \"Clint Eastwood High Plains Drifter\" look. \"It look…",
+      "body": [
+        "When Laramie County Sheriff Brian Kozak wanted a new design for the newest SUV in the fleet, he asked a local artist to create a \"Clint Eastwood High Plains Drifter\" look. \"It looks pretty badass,\" Kozak said, noting he's received many compliments.",
+        "Most sheriff cruisers are designed to blend into a fleet, but the newest cruiser in the Laramie County Sheriff's Office fleet was designed to do the exact opposite. It not only stands out, it looks …"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Stellar Blade: Blood Rain's Reveal Is Allegedly Riddled with Generative AI - pushsquare.com",
+      "deck": "Not like this",
+      "byline": "By Push Square",
+      "source": "Push Square",
+      "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai",
+      "imgSrc": "https://images.pushsquare.com/819425a793272/large.jpg",
+      "teaser": "Not like this",
+      "body": [
+        "Not like this\n\nAs a massive fan of Stellar Blade I take no pleasure in writing this, but it does appear that the reveal trailer for new game Blood Rain and its associated key art is riddled with generative AI. Fan…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "The largest insects that ever lived were dragonflies with wingspans of more than two feet, grown in an ancient atmosphere so much richer in oxygen that nothing that size could survive in the air we breathe today - Space Daily",
+      "deck": "The largest insect known to science was a predator called Meganeuropsis permiana, with a wingspan of about 71 centimetres, a little over two feet. It flew in the Early Permian, roughly 285 million years ago, and despite the way it is usually described, it was…",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/t-the-largest-insects-that-ever-lived-were-dragonflies-with-wingspans-of-more-than-two-feet-grown-in-an-ancient-atmosphere-so-much-richer-in-oxygen-that-nothing-that-size-could-survive-in-the-air-we-b/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/06/newimagesize-2026-06-07T115219.432.png",
+      "teaser": "The largest insect known to science was a predator called Meganeuropsis permiana, with a wingspan of about 71 centimetres, a little over two feet. It flew in the Early Permian, rou…",
+      "body": [
+        "The largest insect known to science was a predator called Meganeuropsis permiana, with a wingspan of about 71 centimetres, a little over two feet. It flew in the Early Permian, roughly 285 million ye…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "New tachyon theory could unlock the secrets of time travel and causality - The Brighter Side of News",
+      "deck": "A new tachyon theory argues faster-than-light particles may fit within relativity without the old paradoxes.",
+      "byline": "By Joseph Shavit",
+      "source": "Thebrighterside.news",
+      "url": "https://www.thebrighterside.news/post/new-tachyon-theory-could-unlock-the-secrets-of-time-travel-and-causality/#article",
+      "imgSrc": "https://www.thebrighterside.news/uploads/2026/06/tachyon.png?auto=webp",
+      "teaser": "A new tachyon theory argues faster-than-light particles may fit within relativity without the old paradoxes.",
+      "body": [
+        "A new tachyon theory argues faster-than-light particles may fit within relativity without the old paradoxes. Faster-than-light particles have spent decades in physics as both temptation and warning. They offered a way to test the limits of Einsteins relativity, but they also seemed to wreck the basic order …"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "In 1959, the Soviet Luna 3 probe swung around the far side of the Moon and took 29 grainy photographs of a hemisphere humans had never seen, then developed the film onboard and scanned the negatives with a flying-spot beam to radio them back across - Space Daily",
+      "deck": "In October 1959, the Soviet Luna 3 probe took the first photographs of the Moon's far side, developed the film in a tiny onboard darkroom, and scanned the prints to radio them back to Earth — a chain of engineering improbabilities that redrew the map of the s…",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/sd-in-1959-the-soviet-luna-3-probe-swung-around-the-far-side-of-the-moon-and-took-29-grainy-photographs-that-humans-had-never-seen-before-then-developed-the-film-onboard-in-a-tiny-automated-darkroom-a/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/06/in-1959-the-soviet-luna-3-probe-swung-ar.jpg",
+      "teaser": "In October 1959, the Soviet Luna 3 probe took the first photographs of the Moon's far side, developed the film in a tiny onboard darkroom, and scanned the prints to radio them back…",
+      "body": [
+        "In October 1959, the Soviet Luna 3 probe took the first photographs of the Moon's far side, developed the film in a tiny onboard darkroom, and scanned the prints to radio them back to Earth — a chain of engineering improbabilities that redrew the map of the s…\n\nOn 7 October 1959, a Soviet probe the size of a small water heater swung around the back of the Moon, opened a camera port on its sunlit side, and began photographing a hemisphere no human had ever s…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "The Wave Returns to Its World Cup Home!",
+      "deck": "Thousands of people flooded one of the world's great urban boulevards on Saturday, attempting to set a world record for the Mexican wave - naturally, in the country that gave the beloved stadium ritual its name.",
+      "byline": "By sports@rediff.co.in (Aadharsh A V)",
+      "source": "Rediff.com",
+      "url": "https://www.rediff.com/sports/report/mexico-kicks-off-fifa-2026-world-cup-countdown-with-wave-record-bid/20260607.htm",
+      "imgSrc": "https://im.rediff.com/1200-630/sports/2026/jun/07mexican-wave-a.jpg",
+      "teaser": "Thousands of people flooded one of the world's great urban boulevards on Saturday, attempting to set a world record for the Mexican wave - naturally, in the country that gave the b…",
+      "body": [
+        "Thousands of people flooded one of the world's great urban boulevards on Saturday, attempting to set a world record for the Mexican wave - naturally, in the country that gave the beloved stadium ritual its name. Thousands of Mexicans and international visitors gathered along Mexico City's Paseo de la Reforma to celebrate the Mexican wave's 40th anniversary and attempt a Guinness World Record ahead of the 202…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "City's World Cup Years: 2018",
+      "deck": "The 2018 World Cup was a busy one for Manchester City players.Held between 14 June and 15 July in Russia, the Blues were well represented at the tournament which featured 32 nations and would eventual...",
+      "byline": "By Manchester City FC",
+      "source": "Manchester City FC",
+      "url": "https://www.mancity.com/news/mens/2018-world-cup-years-manchester-city-63916422",
+      "imgSrc": "https://s.yimg.com/ny/api/res/1.2/5GvOJOuzOZ3xbPOVFTyTvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/manchester_city_fc_articles_899/af453028acdffa6f9e9e97b35dfc1f4a",
+      "teaser": "The 2018 World Cup was a busy one for Manchester City players.Held between 14 June and 15 July in Russia, the Blues were well represented at the tournament which featured 32 nation…",
+      "body": [
+        "The 2018 World Cup was a busy one for Manchester City players. Held between 14 June and 15 July in Russia, the Blues were well represented at the tournament which featured 32 nations and would event…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Ariana Grande Kicks Off Eternal Sunshine Tour: 5 Best Moments",
+      "deck": "Ariana Grande's Eternal Sunshine Tour launched in Oakland. Here are the five best moments.",
+      "byline": "By Lyndsey Havens",
+      "source": "Billboard",
+      "url": "http://www.billboard.com/lists/ariana-grande-eternal-sunshine-tour-best-moments-recap/",
+      "imgSrc": "https://www.billboard.com/wp-content/uploads/2026/06/ariana-grande-eternal-sunshine-tour2-2026-katia-temkin-billboard-1800.jpg?w=1024",
+      "teaser": "Ariana Grande's Eternal Sunshine Tour launched in Oakland. Here are the five best moments.",
+      "body": [
+        "Ariana Grande's Eternal Sunshine Tour launched in Oakland. Here are the five best moments. On Saturday night (June 6) in Oakland, Calif., nearly 20,000 fans learned that good things really do come to those who wait. The evening kicked off Ariana Grande’s long-awaited, highly-anticipated …"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Iran launched missiles and drones toward Strait of Hormuz, U.S. military says - The Washington Post",
+      "deck": "U.S. forces shot down Iranian missiles and drones launched toward the strait and neighboring countries.",
+      "byline": "By Maegan Vazquez",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/06/iran-launched-missiles-drones-toward-strait-hormuz-us-military-says/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/H6L6VC4JATNBSDCUYPVGQOM63I.JPG&w=1440",
+      "teaser": "U.S. forces shot down Iranian missiles and drones launched toward the strait and neighboring countries.",
+      "body": [
+        "U.S. forces shot down Iranian missiles and drones launched toward the Strait of Hormuz and neighboring countries, the latest conflict in the region that could further complicate efforts to end the wa…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Simone Biles reveals she had a health scare and describes ‘almost dying’ - NBC News",
+      "deck": "United States gymnastics great Simone Biles shared limited news of a health scare on Saturday, an experience she said included “almost dying.”The world’s most-decorated gymnast said on Instagram Stories that she had endured an unexpected situation, and she th…",
+      "byline": "By Dennis Romero",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/simone-biles-reveals-health-scare-describes-almost-dying-rcna348833",
+      "imgSrc": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260606-simone-biles-1054p-685d2e.jpg",
+      "teaser": "United States gymnastics great Simone Biles shared limited news of a health scare on Saturday, an experience she said included “almost dying.”The world’s most-decorated gymnast sai…",
+      "body": [
+        "United States gymnastics great Simone Biles shared limited news of a health scare on Saturday, an experience she said included almost dying. Subscribe to read this story ad-free Get unlimited acce…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Gabriel Bonfim dominates Belal Muhammad at UFC Fight Night - ESPN",
+      "deck": "Welterweight Gabriel Bonfim (20-1) delivered a breakout performance on Saturday night, dominating former champion in Belal Muhammad (24-6) at UFC Fight Night in Las Vegas, frequently smiling and laughing as he did it.",
+      "byline": "By Brett Okamoto",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/48988672/gabriel-bonfim-dominates-belal-muhammad-ufc-fight-night",
+      "imgSrc": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0607%2Fr1669270_1296x729_16%2D9.jpg",
+      "teaser": "Welterweight Gabriel Bonfim (20-1) delivered a breakout performance on Saturday night, dominating former champion in Belal Muhammad (24-6) at UFC Fight Night in Las Vegas, frequent…",
+      "body": [
+        "Welterweight Gabriel Bonfim (20-1) delivered a breakout performance on Saturday night, dominating former champion in Belal Muhammad (24-6) at UFC Fight Night in Las Vegas, frequently smiling and laughing as he did it. The UFC's welterweight division has looked like an absolute shark tank as of late.",
+        "Add Gabriel Bonfim's name to its list of predators. Bonfim (20-1) delivered a breakout performance Saturday against…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Simone Biles reveals she had a health scare and describes ‘almost dying’ - NBC News",
+      "deck": "United States gymnastics great Simone Biles shared limited news of a health scare on Saturday, an experience she said included “almost dying.”The world’s most-decorated gymnast said on Instagram Stories that she had endured an unexpected situation, and she th…",
+      "byline": "By Dennis Romero",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/simone-biles-reveals-health-scare-describes-almost-dying-rcna348833",
+      "imgSrc": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260606-simone-biles-1054p-685d2e.jpg",
+      "teaser": "United States gymnastics great Simone Biles shared limited news of a health scare on Saturday, an experience she said included “almost dying.”The world’s most-decorated gymnast sai…",
+      "body": [
+        "United States gymnastics great Simone Biles shared limited news of a health scare on Saturday, an experience she said included almost dying. Subscribe to read this story ad-free Get unlimited acce…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Gabriel Bonfim dominates Belal Muhammad at UFC Fight Night - ESPN",
+      "deck": "Welterweight Gabriel Bonfim (20-1) delivered a breakout performance on Saturday night, dominating former champion in Belal Muhammad (24-6) at UFC Fight Night in Las Vegas, frequently smiling and laughing as he did it.",
+      "byline": "By Brett Okamoto",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nhl/story/_/id/48988672/gabriel-bonfim-dominates-belal-muhammad-ufc-fight-night",
+      "imgSrc": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0607%2Fr1669270_1296x729_16%2D9.jpg",
+      "teaser": "Welterweight Gabriel Bonfim (20-1) delivered a breakout performance on Saturday night, dominating former champion in Belal Muhammad (24-6) at UFC Fight Night in Las Vegas, frequent…",
+      "body": [
+        "Welterweight Gabriel Bonfim (20-1) delivered a breakout performance on Saturday night, dominating former champion in Belal Muhammad (24-6) at UFC Fight Night in Las Vegas, frequently smiling and laughing as he did it. The UFC's welterweight division has looked like an absolute shark tank as of late.",
+        "Add Gabriel Bonfim's name to its list of predators. Bonfim (20-1) delivered a breakout performance Saturday against…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Mitch Marner Makes NHL History with Stanley Cup Final Hat Trick in 2nd Period of Game 3 - Bleacher Report",
+      "deck": "Mitch Marner made history for the Vegas Golden Knights during the second period of the team's matchup with the Carolina Hurricanes in Game 3 of the 2026 Stanley Cup Final on Saturday.",
+      "byline": "By Zach Bachar",
+      "source": "Bleacher Report",
+      "url": "https://bleacherreport.com/articles/25434936-mitch-marner-makes-nhl-history-stanley-cup-final-hat-trick-2nd-period-game-3",
+      "imgSrc": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-06/2280248937_0_large_cropped.jpg?w=3800&h=2000",
+      "teaser": "Mitch Marner made history for the Vegas Golden Knights during the second period of the team's matchup with the Carolina Hurricanes in Game 3 of the 2026 Stanley Cup Final on Saturd…",
+      "body": [
+        "Mitch Marner made history for the Vegas Golden Knights during the second period of the team's matchup with the Carolina Hurricanes in Game 3 of the 2026 Stanley Cup Final on Saturday. Marner recorde…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "Experts Say Constantly Worrying You're A Bad Person Could Be This Form Of OCD - BuzzFeed",
+      "deck": "\"It's like our brains are almost stuck on a highway loop, and they can’t get off the highway.\"",
+      "byline": "By Jillian Wilson",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/what-is-moral-ocd_l_69fb9526e4b065a1677b4b3b",
+      "imgSrc": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/02/23/thumb/yYchlhiZM.jpg?crop=2121:1110;0,232%26downsize=1250:*",
+      "teaser": "\"It's like our brains are almost stuck on a highway loop, and they can’t get off the highway.\"",
+      "body": [
+        "\"It's like our brains are almost stuck on a highway loop, and they can’t get off the highway.\"\n\n"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "South Africa commits $72 million in bid to shed its status as the country with the world's largest HIV epidemic - Business Insider Africa",
+      "deck": "South Africa has committed R1",
+      "byline": "By BI Africa Contributor",
+      "source": "Business Insider",
+      "url": "https://africa.businessinsider.com/local/lifestyle/south-africa-commits-dollar72-million-in-bid-to-shed-its-status-as-the-country-with/tnze7wj",
+      "imgSrc": "https://ocdn.eu/pulscms-transforms/1/eLmktkpTURBXy9iZjdhMWIxOTQ3ODQ2MzdhNzNhM2Q1YzRkZWQyMzQ0NC5qcGeSlQMAAM0EsM0Co5MFzQSwzQJ2",
+      "teaser": "South Africa has committed R1",
+      "body": [
+        "South Africa has committed R1\n\nSouth Africa's President Cyril Ramaphosa recently announced on his X account that a massive R1.3 billion initiative has been launched to roll out Lenacapavir, a groundbreaking long-acting injectable …"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "The disease detectives suiting up for the World Cup - Politico",
+      "deck": "Public-health officials are trying to use a Covid-era playbook without pandemic-era funding.",
+      "byline": "By Rachel Bluth",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/06/06/world-cup-ebola-hantavirus-cdc-diseases-00952609",
+      "imgSrc": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F5c%2Fdb%2F671e34bc4944bd97114769f4246b%2F20260602-bellevue-pathogen-06-edit-1.jpg",
+      "teaser": "Public-health officials are trying to use a Covid-era playbook without pandemic-era funding.",
+      "body": [
+        "Public-health officials are trying to use a Covid-era playbook without pandemic-era funding. Erin McGuire, medical director of the Special Pathogens Unit, said the approach is rooted in routines developed long before the World Cup was imminent. Its important for us to always do these drills…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Why ‘Masters Of The Universe’ Streaming Release Will Likely Echo ‘Project Hail Mary’ - Forbes",
+      "deck": "The new He-Man movie \"Masters of the Universe\" is off to a rough start at the box office, which means it may not take the original path to streaming that most Amazon MGM Studios releases do.",
+      "byline": "By Tim Lammers",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/timlammers/2026/06/06/why-masters-of-the-universe-streaming-release-will-likely-echo-project-hail-mary/",
+      "imgSrc": "https://imageio.forbes.com/specials-images/imageserve/6a24d42081b36e81b3800731/0x0.jpg?format=jpg&crop=1807,1016,x558,y236,safe&height=900&width=1600&fit=bounds",
+      "teaser": "The new He-Man movie \"Masters of the Universe\" is off to a rough start at the box office, which means it may not take the original path to streaming that most Amazon MGM Studios re…",
+      "body": [
+        "The new He-Man movie \"Masters of the Universe\" is off to a rough start at the box office, which means it may not take the original path to streaming that most Amazon MGM Studios releases do. Idris Elba, Nicholas Galitzine and Camila Mendes in \"Masters of the Universe.\" Amazon MGM Studios The new He-Man movie Masters of the Universe is off to a rough start at the box office, which means…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Morgan Wallen cancels 2nd Pittsburgh concert - TribLIVE.com",
+      "deck": "A threat of severe weather, that never hit Pittsburgh, prompted the cancellation of the second Morgan Wallen concert Saturday at Acrisure Stadium. While some rain did come through the North Shore in the mid-to-late afternoon, bringing the nearby Pittsburgh Pr…",
+      "byline": "By Mike Palm",
+      "source": "TribLIVE",
+      "url": "https://triblive.com/aande/music/morgan-wallen-cancels-2nd-pittsburgh-concert/",
+      "imgSrc": "https://assets-varnish.triblive.com/2026/06/9647159_web1_ptr-MorganWallen2-060626.jpg",
+      "teaser": "A threat of severe weather, that never hit Pittsburgh, prompted the cancellation of the second Morgan Wallen concert Saturday at Acrisure Stadium. While some rain did come through …",
+      "body": [
+        "A threat of severe weather, that never hit Pittsburgh, prompted the cancellation of the second Morgan Wallen concert Saturday at Acrisure Stadium. While some rain did come through the North Shore in…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Dua Lipa and Callum Turner Marry In Sicily, As Elton John Serenades Them With “Your Song” - Vanity Fair",
+      "deck": "Dua Lipa and Callum Turner's Italian celebration has already been compared to a royal wedding in its grandeur.",
+      "byline": "By Stefania Conrieri",
+      "source": "Vanity Fair",
+      "url": "https://www.vanityfair.com/story/dua-lipa-callum-turner-sicily-palermo-wedding-reception",
+      "imgSrc": "https://media.vanityfair.com/photos/6a249c231f8deeeeb883f1a0/16:9/w_1280,c_limit/2213627306",
+      "teaser": "Dua Lipa and Callum Turner's Italian celebration has already been compared to a royal wedding in its grandeur.",
+      "body": [
+        "Dua Lipa and Callum Turner's Italian celebration has already been compared to a royal wedding in its grandeur. Among the 200 guests who flew from Los Angeles, London, and Paris for this three-day nonstop celebration, important names in international music and entertainment stand out: in addition to Elton John…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "Indonesian minister calls for \"ecological conversion\" amid crises",
+      "deck": "Indonesia&#39;s Environment Minister Mohammad Jumhur Hidayat called on all sectors of society to undergo an &quot;ecological conversion&quot; as part of ...",
+      "byline": "By Prisca Triferna",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/418301/indonesian-minister-calls-for-ecological-conversion-amid-crises",
+      "imgSrc": "https://cdn.antaranews.com/cache/1200x800/2026/06/07/DSC00929.jpg",
+      "teaser": "Indonesia&#39;s Environment Minister Mohammad Jumhur Hidayat called on all sectors of society to undergo an &quot;ecological conversion&quot; as part of ...",
+      "body": [
+        "Indonesia&#39;s Environment Minister Mohammad Jumhur Hidayat called on all sectors of society to undergo an &quot;ecological conversion&quot; as part of ... Jakarta (ANTARA) - Indonesia's Environment Minister Mohammad Jumhur Hidayat called on all sectors of society to undergo an \"ecological conversion\" as part of efforts to address the ongoing environmen…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "Istanbul’s Zero Waste Forum wraps up with focus on circular economy, climate action",
+      "deck": "The Zero Waste Forum 2026 has come to a close in Istanbul on June 7 after bringing together policymakers, environmental experts and international representatives to discuss circular economy practices, food waste reduction and sustainable growth.",
+      "byline": "By hurriyetdailynews.com",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/istanbuls-zero-waste-forum-wraps-up-with-focus-on-circular-economy-climate-action-222983",
+      "imgSrc": "https://image.hurimg.com/i/hurriyet/75/200x200/6a253ca23e732fc4269db966.jpg",
+      "teaser": "The Zero Waste Forum 2026 has come to a close in Istanbul on June 7 after bringing together policymakers, environmental experts and international representatives to discuss circula…",
+      "body": [
+        "The Zero Waste Forum 2026 has come to a close in Istanbul on June 7 after bringing together policymakers, environmental experts and international representatives to discuss circular economy practices, food waste reduction and sustainable growth. ISTANBUL The Zero WasteForum 2026 has come to a close in Istanbul on June 7 after bringing together policymakers, environmental experts and international representatives to discuss circular economy …"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Open Thread",
+      "deck": "A place for discussion The post Open Thread appeared first on Watts Up With That?.",
+      "byline": "By Charles Rotter",
+      "source": "Wattsupwiththat.com",
+      "url": "https://wattsupwiththat.com/2026/06/07/open-thread-193/",
+      "imgSrc": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/06/charlesrotter_open_thread_vastness_of_space_midjourney.webp?fit=1024%2C512&quality=75&ssl=1",
+      "teaser": "A place for discussion The post Open Thread appeared first on Watts Up With That?.",
+      "body": [
+        "A place for discussion The post Open Thread appeared first on Watts Up With That?. Here is an excerpt from President Obama’s remarks to the Young African Leaders Initiative in 2013. It will take decades to recover from the damage this President’s manipulative rhetoric and punitive …"
+      ]
+    }
+  }
+}
