@@ -1,0 +1,404 @@
+{
+  "date": "Saturday, June 20, 2026",
+  "key": "jun20",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Asia markets fall as investors assess durability of U.S.-Iran peace deal - CNBC",
+      "deck": "U.S. Vice President JD Vance on Thursday defended Trump's interim agreement with Iran, saying any economic relief for Tehran would depend on the country complying with the terms of the deal.",
+      "byline": "By Lee Ying Shan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108320935-1781265803442-gettyimages-2280503517-AFP_B6U73G9.jpeg?v=1781265869&w=1920&h=1080",
+      "teaser": "U.S. Vice President JD Vance on Thursday defended Trump's interim agreement with Iran, saying any economic relief for Tehran would depend on the country complying with the terms of…",
+      "body": [
+        "Asia-Pacific markets fell on Friday as investors assessed the durability of a U.S.-brokered peace agreement with Iran. U.S. Vice President JD Vance on Thursday defended President Donald Trump's inte…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Mexico becomes first country to reach knockout stage of World Cup, beating South Korea 1-0 - AP News",
+      "deck": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 and become the first team to advance to the knockout stage of the World Cup. It marks a major triumph for a team that failed to get out of the group stage in 2022 and now has won twice on …",
+      "byline": "By Tales Azzoni",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/world-cup-mexico-south-korea-score-31e17a499d793f415c1214610b29ffb5",
+      "imgSrc": "https://dims.apnews.com/dims4/default/0660b50/2147483647/strip/true/crop/5332x3553+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2Fdd%2F8e75c7ecdce52089e76bef9b3a7e%2Ffac7f28194674625a5d6f95d8fa374c9",
+      "teaser": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 and become the first team to advance to the knockout stage of the World Cup. It marks a major triumph for a t…",
+      "body": [
+        "GUADALAJARA, Mexico (AP) Mexico took advantage of a defensive blunder by South Korea to win 1-0 and become the first team to advance to the knockout stage of the World Cup on Thursday, sending fans o…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Thousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why - CNN",
+      "deck": "A deadly strain of bird flu sweeping through remote islands near Antarctica has devastated the native wildlife population, killing an estimated 13,000 seal pups, as well as penguins and seabirds, researchers say.",
+      "byline": "By Kathleen Magramo",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/19/australia/thousands-australia-seals-dead-heard-and-mcdonald-islands-intl-hnk",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/rs94889.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "A deadly strain of bird flu sweeping through remote islands near Antarctica has devastated the native wildlife population, killing an estimated 13,000 seal pups, as well as penguin…",
+      "body": [
+        "A deadly strain of bird flu sweeping through remote islands near Antarctica has devastated the native wildlife population, killing an estimated 13,000 seal pups, as well as penguins and seabirds, res…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Asia markets fall as investors assess durability of U.S.-Iran peace deal - CNBC",
+      "deck": "U.S. Vice President JD Vance on Thursday defended Trump's interim agreement with Iran, saying any economic relief for Tehran would depend on the country complying with the terms of the deal.",
+      "byline": "By Lee Ying Shan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108320935-1781265803442-gettyimages-2280503517-AFP_B6U73G9.jpeg?v=1781265869&w=1920&h=1080",
+      "teaser": "U.S. Vice President JD Vance on Thursday defended Trump's interim agreement with Iran, saying any economic relief for Tehran would depend on the country complying with the terms of…",
+      "body": [
+        "Asia-Pacific markets fell on Friday as investors assessed the durability of a U.S.-brokered peace agreement with Iran. U.S. Vice President JD Vance on Thursday defended President Donald Trump's inte…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Woman sues New York McDonald’s after ‘unfit’ sandwich caused injuries - NewsNation",
+      "deck": "The lawsuit argues she has piles of medical debt due to care and treatment.",
+      "byline": "By Alicia Sitz",
+      "source": "Newsnationnow.com",
+      "url": "https://www.newsnationnow.com/us-news/strange/mcdonalds-sausage-egg-muffin-lawsuit/",
+      "imgSrc": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/GettyImages-2087330556.jpg?w=1280",
+      "teaser": "The lawsuit argues she has piles of medical debt due to care and treatment.",
+      "body": [
+        "The lawsuit argues she has piles of medical debt due to care and treatment. (NewsNation) A Texas woman is suing a New York City McDonald’s, saying a Sausage Egg McMuffin caused permanent injuries to her “physical, nervous, and mental systems.” In the civil complaint filed i…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Why Japan's $70 billion-plus intervention and a rate hike didn't prop up the yen more - CNBC",
+      "deck": "Japan was willing to step in to defend the yen around the 160 level before, and it's at that point again.",
+      "byline": "By Lim Hui Jie",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/19/japan-yen-intervention-boj-rate-hike.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108234143-1764555423193-gettyimages-2165934503-yen_07.jpeg?v=1764555439&w=1920&h=1080",
+      "teaser": "Japan was willing to step in to defend the yen around the 160 level before, and it's at that point again.",
+      "body": [
+        "Japan was willing to step in to defend the yen around the 160 level before, and it's at that point again. Japanese Finance Minister Satsuki Katayama is increasingly finding herself in an unenviable position on the foreign-exchange front. After deploying over 11.7 trillion yen ($72.8 billion) in foreign…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Pokémon Pokopia Updated To Version 1.1.1, Here Are The Patch Notes - Nintendo Life",
+      "deck": "Includes small but welcome fixes",
+      "byline": "By Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/06/pokemon-pokopia-updated-to-version-1-1-1-here-are-the-patch-notes",
+      "imgSrc": "https://images.nintendolife.com/3d5761e01587f/large.jpg",
+      "teaser": "Includes small but welcome fixes",
+      "body": [
+        "Includes small but welcome fixes\n\nImage: The Pokémon Company Following yesterday's event announcement, Pokémon Pokopia for the Switch 2 has been updated to Version 1.1.1. This latest version resolves some issues with the title to i…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "The GTPLAYER Big and Tall Gaming Chair Drops to Less Than $160 Ahead of Amazon Prime Day - IGN",
+      "deck": "This is an awesome gift for big and tall dads, as long as he's okay with slightly belated delivery.",
+      "byline": "By Eric Song",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-fathers-day-sale",
+      "imgSrc": "https://assets-prd.ignimgs.com/2026/06/17/gtplayerbigandtall-1781717449534.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "teaser": "This is an awesome gift for big and tall dads, as long as he's okay with slightly belated delivery.",
+      "body": [
+        "This is an awesome gift for big and tall dads, as long as he's okay with slightly belated delivery. Amazon is offering a great deal on a budget gaming chair that doesn't cost hundreds of dollars. Ahead of Amazon Prime Day, you can pick up a GTPLAYER Big and Tall Gaming Chair for just $159.29 with f…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Sony drops “PC”, adds “AI” to official PlayStation business strategy summary - Game File | Stephen Totilo",
+      "deck": "Plus: PlayStation division’s headcount went up for the first time since 2023",
+      "byline": "By Stephen Totilo",
+      "source": "Gamefile.news",
+      "url": "https://www.gamefile.news/p/sony-annual-report-fine-print",
+      "imgSrc": "https://substackcdn.com/image/fetch/$s_!iitl!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F88639b3f-980e-40de-b848-8fa3b4e2be88_1956x1252.png",
+      "teaser": "Plus: PlayStation division’s headcount went up for the first time since 2023",
+      "body": [
+        "Plus: PlayStation division’s headcount went up for the first time since 2023\n\nSony had made some conspicuous edits and updates to its description of PlayStations business environment and strategy, in a new annual report filed to the U.S. Securities and Exchange Commission toda…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "A bold satellite rescue mission came together in record time, but will it work? - Ars Technica",
+      "deck": "I consider this a success already, just from the fact that we're even going to try this.\"",
+      "byline": "By Stephen Clark",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+      "imgSrc": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Testing-Link-Vibration-tests-2_4000x2600-1152x648.jpg",
+      "teaser": "I consider this a success already, just from the fact that we're even going to try this.\"",
+      "body": [
+        "I consider this a success already, just from the fact that we're even going to try this.\"\n\n"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "A lunar meteorite found in northwest Africa has been shown to record evidence of an asteroid impact on the Moon 3.5 billion years ago, matching independently dated impacts on Earth and on the asteroid 4 Vesta from the same period, at the moment life on Ea - Space Daily",
+      "deck": "The first few billion years of Earth’s history are largely inaccessible to direct geological investigation. The surface that recorded the events of the early Hadean and Archean has been almost entirely destroyed, recycled through plate tectonics, eroded by wa…",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/k-a-lunar-meteorite-found-in-northwest-africa-has-been-shown-to-record-evidence-of-an-asteroid-impact-on-the-moon-3-5-billion-years-ago-matching-independently-dated-impacts-on-earth-and-on-the-asteroi/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/06/tr-2026-06-18T143346.578.png",
+      "teaser": "The first few billion years of Earth’s history are largely inaccessible to direct geological investigation. The surface that recorded the events of the early Hadean and Archean has…",
+      "body": [
+        "The first few billion years of Earth’s history are largely inaccessible to direct geological investigation. The surface that recorded the events of the early Hadean and Archean has been almost entire…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "Scientists Spent 13 Years Bouncing Radar Off Europa. Here’s What They Found - Gizmodo",
+      "deck": "In the most comprehensive radio study of Europa thus far, astronomers bolster what's already known about the icy moon, and then some.",
+      "byline": "By Gayoung Lee",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/scientists-spent-13-years-bouncing-radar-off-europa-heres-what-they-found-2000773879",
+      "imgSrc": "https://gizmodo.com/app/uploads/2026/06/europa-bennu-journey-artist-concept-1200x675.jpg",
+      "teaser": "In the most comprehensive radio study of Europa thus far, astronomers bolster what's already known about the icy moon, and then some.",
+      "body": [
+        "In the most comprehensive radio study of Europa thus far, astronomers bolster what's already known about the icy moon, and then some. Its a good time to be a Europa fanscientists keep announcing new insights into the distant, icy world.",
+        "And this time, the results come from more than a decades worth of radio study of Europa. The fi…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Presenter Resigns & Apologizes After Falsely Reporting Death Of Lionel Messi’s Father",
+      "deck": "An Argentinian presenter has resigned after falsely announcing the death of football superstar Lionel Messi’s father live on air. Florencia Peña left her role at Luzu TV following the incident, during which he relayed information at Jorge Messi had died. She …",
+      "byline": "By Jesse Whittock",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/06/tv-presenter-resigns-reporting-lionel-messi-father-dead-1236962660/",
+      "imgSrc": "https://deadline.com/wp-content/uploads/2026/06/Jorge-and-Lionel-Messi.jpg?w=1024",
+      "teaser": "An Argentinian presenter has resigned after falsely announcing the death of football superstar Lionel Messi’s father live on air. Florencia Peña left her role at Luzu TV following …",
+      "body": [
+        "An Argentinian presenter has resigned after falsely announcing the death of football superstar Lionel Messi‘s father live on air. Florencia Peña left her role at Luzu TV following the incident, duri…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "They bought World Cup tickets months ago. Now they're out of luck.",
+      "deck": "Over a dozen fans said that they bought tickets to attend the World Cup on sites like Stubhub. But the day of the game the sellers didn't deliver.",
+      "byline": "By Emily Stewart",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/world-cup-tickets-disappearing-ghost-stubhub-sellers-fans-prices-2026-6#article",
+      "imgSrc": "https://i.insider.com/6a33fb684074dae0e204573c?width=1200&format=jpeg",
+      "teaser": "Over a dozen fans said that they bought tickets to attend the World Cup on sites like Stubhub. But the day of the game the sellers didn't deliver.",
+      "body": [
+        "Over a dozen fans said that they bought tickets to attend the World Cup on sites like Stubhub. But the day of the game the sellers didn't deliver. Seeing his home country of the Netherlands in the World Cup has always been on Jeroen Boersma's bucket list.",
+        "So back in December, he eagerly scooped up a pair of tickets on Stubhub to see them play i…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Show HN: NetSentinel – a local network security scanner and connectivity monitor",
+      "deck": "A Google Nest speaker was winning the STP root bridge election on my network and knocking out DNS every 45 seconds. Took five separate tools to find it.I started NetSentinel one Sunday afternoon out of frustration. Thought I would be done the same evening. Bu…",
+      "byline": "By ossianericson",
+      "source": "Github.com",
+      "url": "https://github.com/ossianericson/netsentinel",
+      "imgSrc": "https://opengraph.githubassets.com/d42c5aabe9d3a5f8bba2e63f61307c7d9d92a3ed8fad17e1c5df762f952e129d/ossianericson/netsentinel",
+      "teaser": "A Google Nest speaker was winning the STP root bridge election on my network and knocking out DNS every 45 seconds. Took five separate tools to find it.I started NetSentinel one Su…",
+      "body": [
+        "A Google Nest speaker was winning the STP root bridge election on my network and knocking out DNS every 45 seconds. Took five separate tools to find it.I started NetSentinel one Sunday afternoon out of frustration. Thought I would be done the same evening.",
+        "Bu…\n\nThe free, open-source network monitor that works with any router, modem, or access point not just the brands it was built for. Runs 100% locally. Windows three options: Or via winget (keeps the app…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Asia markets fall as investors assess durability of U.S.-Iran peace deal - CNBC",
+      "deck": "U.S. Vice President JD Vance on Thursday defended Trump's interim agreement with Iran, saying any economic relief for Tehran would depend on the country complying with the terms of the deal.",
+      "byline": "By Lee Ying Shan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108320935-1781265803442-gettyimages-2280503517-AFP_B6U73G9.jpeg?v=1781265869&w=1920&h=1080",
+      "teaser": "U.S. Vice President JD Vance on Thursday defended Trump's interim agreement with Iran, saying any economic relief for Tehran would depend on the country complying with the terms of…",
+      "body": [
+        "Asia-Pacific markets fell on Friday as investors assessed the durability of a U.S.-brokered peace agreement with Iran. U.S. Vice President JD Vance on Thursday defended President Donald Trump's inte…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Mexico becomes first country to reach knockout stage of World Cup, beating South Korea 1-0 - AP News",
+      "deck": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 and become the first team to advance to the knockout stage of the World Cup. It marks a major triumph for a team that failed to get out of the group stage in 2022 and now has won twice on …",
+      "byline": "By Tales Azzoni",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/world-cup-mexico-south-korea-score-31e17a499d793f415c1214610b29ffb5",
+      "imgSrc": "https://dims.apnews.com/dims4/default/0660b50/2147483647/strip/true/crop/5332x3553+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2Fdd%2F8e75c7ecdce52089e76bef9b3a7e%2Ffac7f28194674625a5d6f95d8fa374c9",
+      "teaser": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 and become the first team to advance to the knockout stage of the World Cup. It marks a major triumph for a t…",
+      "body": [
+        "GUADALAJARA, Mexico (AP) Mexico took advantage of a defensive blunder by South Korea to win 1-0 and become the first team to advance to the knockout stage of the World Cup on Thursday, sending fans o…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Thousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why - CNN",
+      "deck": "A deadly strain of bird flu sweeping through remote islands near Antarctica has devastated the native wildlife population, killing an estimated 13,000 seal pups, as well as penguins and seabirds, researchers say.",
+      "byline": "By Kathleen Magramo",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/19/australia/thousands-australia-seals-dead-heard-and-mcdonald-islands-intl-hnk",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/rs94889.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "A deadly strain of bird flu sweeping through remote islands near Antarctica has devastated the native wildlife population, killing an estimated 13,000 seal pups, as well as penguin…",
+      "body": [
+        "A deadly strain of bird flu sweeping through remote islands near Antarctica has devastated the native wildlife population, killing an estimated 13,000 seal pups, as well as penguins and seabirds, res…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Mexico becomes first country to reach knockout stage of World Cup, beating South Korea 1-0 - AP News",
+      "deck": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 and become the first team to advance to the knockout stage of the World Cup. It marks a major triumph for a team that failed to get out of the group stage in 2022 and now has won twice on …",
+      "byline": "By Tales Azzoni",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/world-cup-mexico-south-korea-score-31e17a499d793f415c1214610b29ffb5",
+      "imgSrc": "https://dims.apnews.com/dims4/default/0660b50/2147483647/strip/true/crop/5332x3553+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2Fdd%2F8e75c7ecdce52089e76bef9b3a7e%2Ffac7f28194674625a5d6f95d8fa374c9",
+      "teaser": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 and become the first team to advance to the knockout stage of the World Cup. It marks a major triumph for a t…",
+      "body": [
+        "GUADALAJARA, Mexico (AP) Mexico took advantage of a defensive blunder by South Korea to win 1-0 and become the first team to advance to the knockout stage of the World Cup on Thursday, sending fans o…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Braves, Pirates Swap Joey Bart For Hunter Stratton - MLB Trade Rumors",
+      "deck": "It's a homecoming for Joey Bart, as the former Georgia Tech star is headed back to Atlanta. Read more on tonight's surprise trade at MLBTR.",
+      "byline": "By Anthony Franco",
+      "source": "MLB Trade Rumors",
+      "url": "https://www.mlbtraderumors.com/2026/06/braves-pirates-swap-joey-bart-for-hunter-stratton.html",
+      "imgSrc": "https://cdn.mlbtraderumors.com/files/2026/06/USATSI_28924544-1024x683.jpg",
+      "teaser": "It's a homecoming for Joey Bart, as the former Georgia Tech star is headed back to Atlanta. Read more on tonight's surprise trade at MLBTR.",
+      "body": [
+        "It's a homecoming for Joey Bart, as the former Georgia Tech star is headed back to Atlanta. Read more on tonight's surprise trade at MLBTR. The Braves announced they’ve traded reliever Hunter Stratton to the Pirates for catcher Joey Bart.",
+        "Atlanta designated backup catcher Sandy León for assignment to open a spot on the 40-man roster. The…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Fans are fuming after World Cup tickets they bought through resale sites fall through - AP News",
+      "deck": "The World Cup has been delivering thrills on the pitch, but fans have flooded social media with complaints about tickets that never arrived, orders canceled at the last minute and hours spent trying to sort out problems between FIFA’s ticketing system and out…",
+      "byline": "By R.J. Rico",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/world-cup-ticket-problems-stubhub-fifa-21c31f5cc33012e7f4619d4bff3b44a1",
+      "imgSrc": "https://dims.apnews.com/dims4/default/f64fd3b/2147483647/strip/true/crop/1709x1139+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2Fff%2Fb602a2d3f77baebdfd1d4b481db6%2F5df438cc43a845549a4105661ada4d66",
+      "teaser": "The World Cup has been delivering thrills on the pitch, but fans have flooded social media with complaints about tickets that never arrived, orders canceled at the last minute and …",
+      "body": [
+        "The World Cup has been delivering thrills on the pitch, but fans have flooded social media with complaints about tickets that never arrived, orders canceled at the last minute and hours spent trying to sort out problems between FIFA’s ticketing system and out…\n\nATLANTA (AP) Bina Ramroop broke down in tears when she realized she wasnt going to get the World Cup tickets she had bought for her grandsons 13th birthday.",
+        "As thousands poured into Atlantas Mercede…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "Thousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why - CNN",
+      "deck": "A deadly strain of bird flu sweeping through remote islands near Antarctica has devastated the native wildlife population, killing an estimated 13,000 seal pups, as well as penguins and seabirds, researchers say.",
+      "byline": "By Kathleen Magramo",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/19/australia/thousands-australia-seals-dead-heard-and-mcdonald-islands-intl-hnk",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/rs94889.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "A deadly strain of bird flu sweeping through remote islands near Antarctica has devastated the native wildlife population, killing an estimated 13,000 seal pups, as well as penguin…",
+      "body": [
+        "A deadly strain of bird flu sweeping through remote islands near Antarctica has devastated the native wildlife population, killing an estimated 13,000 seal pups, as well as penguins and seabirds, res…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "The \"dad bod,\" explained by science - Axios",
+      "deck": "The term is more than a cultural phenomenon.",
+      "byline": "By Carly Mallenbaum",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/06/19/dad-bod-science",
+      "imgSrc": "https://images.axios.com/2NEy-vlZI9Z6jI-6xfhNY2o_o5w=/0x0:1920x1080/1366x768/2026/06/18/1781812611529.jpeg",
+      "teaser": "The term is more than a cultural phenomenon.",
+      "body": [
+        "The term is more than a cultural phenomenon. Zoom in: Many dads put on weight in early parenthood. And it's not just humans some other primates do, too. A study on human parents found that new dads gained roughly 4.5 pounds after the b…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Joint-Pain Supplement Tied to Faster Alzheimer's Progression - Newser",
+      "deck": "Researchers say findings on glucosamine are preliminary and show association, not causation",
+      "byline": "By Jenn Gidman",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/391295/joint-pain-supplement-tied-to-faster-alzheimers-progression.html",
+      "imgSrc": "https://img2-azrcdn.newser.com/image/1692945-12-20260618190302.jpeg",
+      "teaser": "Researchers say findings on glucosamine are preliminary and show association, not causation",
+      "body": [
+        "Researchers say findings on glucosamine are preliminary and show association, not causation\n\nA supplement that many older Americans swallow for their knees may not be so benign for their brains. University of Florida researchers report that glucosamine use was linked to a greater shift from …"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "‘Toy Story 5’ Heading To Franchise Record At Thursday Night Box Office - Deadline",
+      "deck": "'Toy Story 5' is headed to franchise record in previews with around $14M.",
+      "byline": "By Anthony D'Alessandro",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/06/box-office-toy-story-5-1236962629/",
+      "imgSrc": "https://deadline.com/wp-content/uploads/2026/06/MCDTOST_WD035.jpg?w=1024",
+      "teaser": "'Toy Story 5' is headed to franchise record in previews with around $14M.",
+      "body": [
+        "'Toy Story 5' is headed to franchise record in previews with around $14M. EXCLUSIVE: We’re hearing from box office sources that Disney/Pixar‘sToy Story 5is in play for a franchise record tonight when it comes to previews, around $13M-$14M, maybe more.",
+        "Anything higher than …"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Matt Damon Crashes ‘Jimmy Kimmel Live!’ in a Trojan Horse to Troll Him: ‘I Did It!’ - Variety",
+      "deck": "“The Odyssey” actor Matt Damon took his bit with Jimmy Kimmel to a new level Thursday night.",
+      "byline": "By Marlow Stern",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/matt-damon-crashes-jimmy-kimmel-live-trojan-horse-odyssey-1236785727/",
+      "imgSrc": "https://variety.com/wp-content/uploads/2026/06/DamonKimmel.png?w=1000&h=563&crop=1",
+      "teaser": "“The Odyssey” actor Matt Damon took his bit with Jimmy Kimmel to a new level Thursday night.",
+      "body": [
+        "“The Odyssey” actor Matt Damon took his bit with Jimmy Kimmel to a new level Thursday night. Toward the tail-end of his monologue Thursday night on “Jimmy Kimmel Live!,” the host received a very special delivery from UPS: a giant horse, as well as a baby horse.",
+        "“I didn’t order a horse!” exc…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Tom Hanks viciously roasts MS NOW’s ratings while appearing live on-air with reporter - New York Post",
+      "deck": "Oscar-winning actor Tom Hanks roasted MS NOW’s ratings while appearing in a live interview with a reporter from the network.",
+      "byline": "By Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/tom-hanks-jokingly-swipes-ms-nows-viewership-appearing-live-reporter",
+      "imgSrc": "https://nypost.com/wp-content/uploads/sites/2/2026/06/131505848.jpg?quality=75&strip=all&w=1200",
+      "teaser": "Oscar-winning actor Tom Hanks roasted MS NOW’s ratings while appearing in a live interview with a reporter from the network.",
+      "body": [
+        "Oscar-winning actor Tom Hanks roasted MS NOW’s ratings while appearing in a live interview with a reporter from the network. Oscar-winning actor Tom Hanks took a swing out of left field Thursday to poke fun at MS NOW while appearing live on the network.",
+        "MS NOW correspondent Jacob Soboroff was reporting live from the Obama…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "What Makes the Seawater Battery a Breakthrough for Sustainability",
+      "deck": "The seawater battery, developed by Professor Kim Young-sik and his team at Korea’s Ulsan National Institute of Science and Technology, is a multifunctional system that integrates energy storage, desalination and carbon capture into a single framework. Unlike …",
+      "byline": "By Julian Horsey",
+      "source": "Geeky Gadgets",
+      "url": "https://www.geeky-gadgets.com/multifunctional-renewable-energy-battery/",
+      "imgSrc": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/renewable-energy-battery.jpg",
+      "teaser": "The seawater battery, developed by Professor Kim Young-sik and his team at Korea’s Ulsan National Institute of Science and Technology, is a multifunctional system that integrates e…",
+      "body": [
+        "The seawater battery, developed by Professor Kim Young-sik and his team at Korea’s Ulsan National Institute of Science and Technology, is a multifunctional system that integrates energy storage, desa…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "MUSSO AnyDesk D7 Addresses Compact Housing Constraints in European Home Office Market",
+      "deck": "Musso addresses home office constraints in the EU with the Anydesk D7...",
+      "byline": "By Musso Distribution GmbH",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/19/3314608/0/en/MUSSO-AnyDesk-D7-Addresses-Compact-Housing-Constraints-in-European-Home-Office-Market.html",
+      "imgSrc": "https://ml-eu.globenewswire.com/Resource/Download/745492f0-7e6e-4fba-8c77-51aa939fa10c",
+      "teaser": "Musso addresses home office constraints in the EU with the Anydesk D7...",
+      "body": [
+        "Musso addresses home office constraints in the EU with the Anydesk D7... PARIS, June 19, 2026 (GLOBE NEWSWIRE) -- Musso today announced a targeted push to address space constraints across the European home office sector by optimizing the availability of its AnyDesk D7 s…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Worldâs First Fusion Energy Plant Receives Regulatory Approval in Washington State",
+      "deck": "Helion Energy has secured the regulatory licenses required to begin construction of what the company says will be the world’s first commercial nuclear fusion power plant. The Washington Department of Health (DOH) approved Helion’s Radioactive Materials Licens…",
+      "byline": "By Iva Greene",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-19-worlds-first-fusion-energy-plant-receives-approval.html",
+      "imgSrc": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/fusion-energy-regulatory-approval-helion-energy-2157-original.jpg",
+      "teaser": "Helion Energy has secured the regulatory licenses required to begin construction of what the company says will be the world’s first commercial nuclear fusion power plant. The Washi…",
+      "body": [
+        "Helion Energy has secured the regulatory licenses required to begin construction of what the company says will be the worlds first commercial nuclear fusion power plant. The Washington Department of …"
+      ]
+    }
+  }
+}
