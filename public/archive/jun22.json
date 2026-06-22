@@ -1,0 +1,412 @@
+{
+  "date": "Monday, June 22, 2026",
+  "key": "jun22",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Another major heat dome will bake swaths of Europe - The Washington Post",
+      "deck": "The exceptional temperatures are tied to a phenomenon that allows persistent sunshine and hot sinking air to roast the landscape.",
+      "byline": "By Matthew Cappucci",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/weather/2026/06/21/another-major-heat-dome-will-bake-swaths-europe/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DCXJ5E5RRNHB5ANLQMCLLZFM6Y.png&w=1440",
+      "teaser": "The exceptional temperatures are tied to a phenomenon that allows persistent sunshine and hot sinking air to roast the landscape.",
+      "body": [
+        "The exceptional temperatures are tied to a phenomenon that allows persistent sunshine and hot sinking air to roast the landscape. A significant heat wave is baking Europe. Stifling heat is already underway in Central Europe, and will swell into Western Europe, the United Kingdom and the Iberian Peninsula in the coming days.",
+        "T…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed - CNBC",
+      "deck": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
+      "byline": "By Jeff Cox",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108323471-1781723009958-gettyimages-2282086086-cs019125_9qwjh96p.jpeg?v=1781723030&w=1920&h=1080",
+      "teaser": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
+      "body": [
+        "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed. Federal Reserve Chair Kevin Warsh speaks to reporters during his first news conference since taking the helm at the central bank on June 17, 2026 in Washington, DC.",
+        "Federal Reserve Chairman Kevin W…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Freed from Cambodia's scam compounds, trafficking victims face a new crisis - NPR",
+      "deck": "Cambodia's crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh.",
+      "byline": "By Shibani Mahtani",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis",
+      "imgSrc": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fee%2F17d4b4b24231a7021dab2c87152d%2Fglennharvey-2026-06-09-npr-f1-large.jpg",
+      "teaser": "Cambodia's crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh.",
+      "body": [
+        "Cambodia's crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh. PHNOM PENH, Cambodia All over this Southeast Asian city are vestiges of the multibillion-dollar online scam industry, which thrived here for more than half a decade until a recent government crackdow…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed - CNBC",
+      "deck": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
+      "byline": "By Jeff Cox",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108323471-1781723009958-gettyimages-2282086086-cs019125_9qwjh96p.jpeg?v=1781723030&w=1920&h=1080",
+      "teaser": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
+      "body": [
+        "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed. Federal Reserve Chair Kevin Warsh speaks to reporters during his first news conference since taking the helm at the central bank on June 17, 2026 in Washington, DC.",
+        "Federal Reserve Chairman Kevin W…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "What the Iran war cost the Pentagon, the economy — and Trump - CNN",
+      "deck": "With an agreement signed, the US war with Iran is at a halt, at least for now, and President Donald Trump is telling Americans they have won.",
+      "byline": "By Zachary B. Wolf",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/21/politics/us-iran-war-cost-trump-vis",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2281465423.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "With an agreement signed, the US war with Iran is at a halt, at least for now, and President Donald Trump is telling Americans they have won.",
+      "body": [
+        "With an agreement signed, the US war with Iran is at a halt, at least for now, and President Donald Trump is telling Americans they have won. Summary The 100-day war with Iran cost the Pentagon between $35 billion and $40 billion and 13 American service members their lives.Gas prices surged above $4 per gallon and diesel …"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "'Running off the cliff': An explosion of household debt has put the US economy in a tough spot - Business Insider",
+      "deck": "Americans are borrowing more and saving less. That's created a major vulnerability in the US economy, SocGen is warning.",
+      "byline": "By Jennifer Sor",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/us-economy-warning-sign-household-debt-consumer-spending-savings-stocks-2026-6#article",
+      "imgSrc": "https://i.insider.com/6a3413110e60dfb3f373f0b8?width=1200&format=jpeg",
+      "teaser": "Americans are borrowing more and saving less. That's created a major vulnerability in the US economy, SocGen is warning.",
+      "body": [
+        "Americans are borrowing more and saving less. That's created a major vulnerability in the US economy, SocGen is warning. America's swelling debt pile bodes ill for the the US economy, Société Générale said. In a recent note to clients, the European Bank flagged a concerning trend that's taken hold in the US in recent …"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "I test TVs for a living, and these are the Prime Day deals I'd wait for - Business Insider",
+      "deck": "Prime Day TV deals start June 23. Our TV expert explains which OLED, QLED, and budget models are worth watching and what shoppers should avoid.",
+      "byline": "By Steven Cohen",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/guides/deals/prime-day-tv-deals-to-wait-for-2026-6#article",
+      "imgSrc": "https://i.insider.com/6a3453cbf4bed3c6152cbe28?width=1200&format=jpeg",
+      "teaser": "Prime Day TV deals start June 23. Our TV expert explains which OLED, QLED, and budget models are worth watching and what shoppers should avoid.",
+      "body": [
+        "Prime Day TV deals start June 23. Our TV expert explains which OLED, QLED, and budget models are worth watching and what shoppers should avoid. Amazon Prime Day is almost here, which means now's the time to get your shopping list in order.",
+        "If you're hoping to save on a new TV, you'll have plenty of options to choose from. But not every TV de…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "4 Common Problems With Inline-6 Engines - SlashGear",
+      "deck": "Inline-sixes tend to have problems tied to their size and length, higher camshaft flex and torsion, uneven air/fuel distribution, and timing chain problems.",
+      "byline": "By Marko Mikulic",
+      "source": "SlashGear",
+      "url": "https://www.slashgear.com/2196802/common-problems-with-inline-6-engines/",
+      "imgSrc": "https://www.slashgear.com/img/gallery/4-common-problems-with-inline-6-engines/l-intro-1781726626.jpg",
+      "teaser": "Inline-sixes tend to have problems tied to their size and length, higher camshaft flex and torsion, uneven air/fuel distribution, and timing chain problems.",
+      "body": [
+        "Inline-sixes tend to have problems tied to their size and length, higher camshaft flex and torsion, uneven air/fuel distribution, and timing chain problems. When we wrote our five inline-six engines you should avoid list, all but one of the engines covered had notable timing chain issues.",
+        "Some BMW inline-sixes, like the N57, get hit with this criticism o…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Salina gives Davenport another MLRA sweep - Dirt on Dirt",
+      "deck": "DirtonDirt.com covers Dirt Late Model racing like no other publication, magazine or website with massive amounts of original content including videos, photos, stories, columns, blogs and more. Eldora Speedway's World 100 and Dream, the Dirt Track World Champi…",
+      "byline": "By Dirtondirt.com",
+      "source": "Dirtondirt.com",
+      "url": "https://www.dirtondirt.com/racewire_9782.html",
+      "imgSrc": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwaW5ub3ZhdGlvbiUyMGNvbXB1dGVyc3xlbnwwfDB8fHwxNzgyMTI4MzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "teaser": "DirtonDirt.com covers Dirt Late Model racing like no other publication, magazine or website with massive amounts of original content including videos, photos, stories, columns, blo…",
+      "body": [
+        "DirtonDirt.com covers Dirt Late Model racing like no other publication, magazine or website with massive amounts of original content including videos, photos, stories, columns, blogs and more. Eldora Speedway's World 100 and Dream, the Dirt Track World Champi…\n\nFeature lineup Row 1: Davenport, RossRow 2: Whitwell, JacksonRow 3: Marrant, WolffRow 4: Kuykendall, BagleyRow 5: Phillips, HerzogRow 6: Wilhite, BoyerRow 7: Bragg, M.",
+        "LarsonRow 8: Johnson, WillardR…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "World’s most sensitive radio telescope array set to be built in Nevada desert - NBC News",
+      "deck": "A radio telescope project known as the Deep Synoptic Array is moving forward. It aims to detect radio waves emitted by stars, planets, galaxies and other celestial objects.",
+      "byline": "By Denise Chow",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/science/space/radio-telescope-array-nevada-desert-rcna350710",
+      "imgSrc": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260618-dsa-prototype-dishes-vl-127p-44b534.jpg",
+      "teaser": "A radio telescope project known as the Deep Synoptic Array is moving forward. It aims to detect radio waves emitted by stars, planets, galaxies and other celestial objects.",
+      "body": [
+        "A radio telescope project known as the Deep Synoptic Array is moving forward. It aims to detect radio waves emitted by stars, planets, galaxies and other celestial objects. Nestled in the Great Basin, a remote stretch of the Nevada desert is set to become home to the worlds most sensitive radio telescope array.",
+        "Subscribe to read this story ad-free Get unlimited acces…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "A Greenland shark studied in 2016 was estimated to be nearly 400 years old, meaning it may have been born around the time Shakespeare’s era was ending — and, astonishingly, would not have reached sexual maturity for more than another century. - Space Daily",
+      "deck": "A 2016 study radiocarbon-dated Greenland shark eye lenses; the largest came out at about 392 years old, with a margin of 120 years either way, making it the longest-lived vertebrate known. It would not have reached sexual maturity until around 150. The number…",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/t-a-greenland-shark-studied-in-2016-was-estimated-to-be-nearly-400-years-old-meaning-it-may-have-been-born-around-the-time-shakespeares-era-was-ending-and-astonishingly-would-not-h/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/06/newimagesize-2026-06-21T072415.817.png",
+      "teaser": "A 2016 study radiocarbon-dated Greenland shark eye lenses; the largest came out at about 392 years old, with a margin of 120 years either way, making it the longest-lived vertebrat…",
+      "body": [
+        "A 2016 study radiocarbon-dated Greenland shark eye lenses; the largest came out at about 392 years old, with a margin of 120 years either way, making it the longest-lived vertebrate known. It would not have reached sexual maturity until around 150.",
+        "The number…\n\nIn 2016, researchers put an age to a Greenland shark that is hard to take in. The largest animal in their study was estimated at nearly 400 years old, which would place its birth around the time Shak…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "HD 189733b looks deep blue from space, almost Earth-like at first glance — but its colour comes not from oceans, but from silicate particles in a scorching atmosphere where glass may rain sideways through winds of thousands of kilometres an hour. - Space Daily",
+      "deck": "HD 189733b is a deep cobalt blue, the first exoplanet to have its visible colour measured (Hubble, 2013). But the blue comes from silicate hazes, not oceans, in an atmosphere above 1,000C with winds near 7,000 km/h. Same colour as Earth, opposite cause.",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/t-hd-189733b-looks-deep-blue-from-space-almost-earth-like-at-first-glance-but-its-colour-comes-not-from-oceans-but-from-silicate-particles-in-a-scorching-atmosphere-where-glass-may-rain-side/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/06/hd189733b-blue-exoplanet.jpg",
+      "teaser": "HD 189733b is a deep cobalt blue, the first exoplanet to have its visible colour measured (Hubble, 2013). But the blue comes from silicate hazes, not oceans, in an atmosphere above…",
+      "body": [
+        "HD 189733b is a deep cobalt blue, the first exoplanet to have its visible colour measured (Hubble, 2013). But the blue comes from silicate hazes, not oceans, in an atmosphere above 1,000C with winds near 7,000 km/h. Same colour as Earth, opposite cause.",
+        "From a distance, the exoplanet HD 189733b looks like the most reassuring thing in the sky: a deep blue world, the same cobalt as Earth seen from orbit. The resemblance ends there, and it ends hard. T…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Titan Network delivers complete video datasets for AI training at scale",
+      "deck": "Titan Network's decentralized model could revolutionize AI training efficiency, but faces regulatory challenges and relies on sustained client demand. The post Titan Network delivers complete video datasets for AI training at scale appeared first on Crypto Br…",
+      "byline": "By Editorial Team",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/titan-network-video-datasets-ai-training/",
+      "imgSrc": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/21073907/depin-day-hong-kong-powered-by-fluence-and-titan-network-800x420.jpeg",
+      "teaser": "Titan Network's decentralized model could revolutionize AI training efficiency, but faces regulatory challenges and relies on sustained client demand. The post Titan Network delive…",
+      "body": [
+        "Titan Network's decentralized model could revolutionize AI training efficiency, but faces regulatory challenges and relies on sustained client demand. The post Titan Network delivers complete video datasets for AI training at scale appeared first on Crypto Br…\n\nThe decentralized infrastructure network uses 4 million consumer devices to supply video data to major enterprises at a fraction of traditional costs Titan Network, a decentralized physical infrastru…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Foreign-Born Entrepreneurs Drive America's Unicorn Boom",
+      "deck": "Nearly half of America's billion-dollar startups were founded by people born outside the United States. In this guest commentary Ilya Strebulaev shares research from Stanford's Venture Capital Initiative that shows immigrant entrepreneurs are helping to lead …",
+      "byline": "By Judy Rider",
+      "source": "Crunchbase.com",
+      "url": "https://news.crunchbase.com/venture/foreign-born-entrepreneurs-drive-americas-unicorn-boom-strebulaev-stanford/",
+      "imgSrc": "https://news.crunchbase.com/wp-content/uploads/Unicorn_Money_v2.jpg",
+      "teaser": "Nearly half of America's billion-dollar startups were founded by people born outside the United States. In this guest commentary Ilya Strebulaev shares research from Stanford's Ven…",
+      "body": [
+        "Nearly half of America's billion-dollar startups were founded by people born outside the United States. In this guest commentary Ilya Strebulaev shares research from Stanford's Venture Capital Initiative that shows immigrant entrepreneurs are helping to lead …\n\nThe next time someone talks about restricting immigration, show them this: Nearly half of America’s billion-dollar startups were founded by people born outside the United States.",
+        "Our research at Stan…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "FIFA World Cup 2026: Japan script multiple records as tournament reaches 1000-match milestone in over nine decades",
+      "deck": "Japan achieved their most significant World Cup victory, defeating Tunisia 4-0 in the tournament's 1000th match. Daichi Kamada scored the fastest goal for Japan, while Ayase Ueda netted a brace, marking a historic performance for the Samurai Blue. This emphat…",
+      "byline": "By ANI",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/sports/fifa-world-cup-2026-japan-script-multiple-records-as-tournament-reaches-1000-match-milestone-in-over-nine-decades/articleshow/131890109.cms",
+      "imgSrc": "https://img.etimg.com/thumb/msid-131890189,width-1200,height-630,imgsize-169798,overlay-economictimes/articleshow.jpg",
+      "teaser": "Japan achieved their most significant World Cup victory, defeating Tunisia 4-0 in the tournament's 1000th match. Daichi Kamada scored the fastest goal for Japan, while Ayase Ueda n…",
+      "body": [
+        "Japan achieved their most significant World Cup victory, defeating Tunisia 4-0 in the tournament's 1000th match. Daichi Kamada scored the fastest goal for Japan, while Ayase Ueda netted a brace, marking a historic performance for the Samurai Blue. This emphat…\n\nMonterrey [Mexico]: The 1000th match in FIFA World Cup history turned into a landmark occasion for Japan as the Samurai Blue registered the biggest victory in their World Cup journey, thrashing Tunis…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Another major heat dome will bake swaths of Europe - The Washington Post",
+      "deck": "The exceptional temperatures are tied to a phenomenon that allows persistent sunshine and hot sinking air to roast the landscape.",
+      "byline": "By Matthew Cappucci",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/weather/2026/06/21/another-major-heat-dome-will-bake-swaths-europe/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DCXJ5E5RRNHB5ANLQMCLLZFM6Y.png&w=1440",
+      "teaser": "The exceptional temperatures are tied to a phenomenon that allows persistent sunshine and hot sinking air to roast the landscape.",
+      "body": [
+        "The exceptional temperatures are tied to a phenomenon that allows persistent sunshine and hot sinking air to roast the landscape. A significant heat wave is baking Europe. Stifling heat is already underway in Central Europe, and will swell into Western Europe, the United Kingdom and the Iberian Peninsula in the coming days.",
+        "T…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed - CNBC",
+      "deck": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
+      "byline": "By Jeff Cox",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108323471-1781723009958-gettyimages-2282086086-cs019125_9qwjh96p.jpeg?v=1781723030&w=1920&h=1080",
+      "teaser": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
+      "body": [
+        "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed. Federal Reserve Chair Kevin Warsh speaks to reporters during his first news conference since taking the helm at the central bank on June 17, 2026 in Washington, DC.",
+        "Federal Reserve Chairman Kevin W…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Freed from Cambodia's scam compounds, trafficking victims face a new crisis - NPR",
+      "deck": "Cambodia's crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh.",
+      "byline": "By Shibani Mahtani",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis",
+      "imgSrc": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fee%2F17d4b4b24231a7021dab2c87152d%2Fglennharvey-2026-06-09-npr-f1-large.jpg",
+      "teaser": "Cambodia's crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh.",
+      "body": [
+        "Cambodia's crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh. PHNOM PENH, Cambodia All over this Southeast Asian city are vestiges of the multibillion-dollar online scam industry, which thrived here for more than half a decade until a recent government crackdow…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "How to Watch the World Cup Today: Schedule, Times, TV, Streaming for Spain, Belgium, More - FOX Sports",
+      "deck": "Spain faces Saudi Arabia and Belgium takes on Iran on Day 11 of the 2026 World Cup. Full Sunday schedule, kickoff times and how to watch on FOX and FS1.",
+      "byline": "By Fox Sports",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/soccer/how-watch-world-cup-today-schedule-times-tv-streaming-spain-belgium-more",
+      "imgSrc": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1408/814/world-cup-schedule-june-21-spain.jpg?ve=1&tl=1",
+      "teaser": "Spain faces Saudi Arabia and Belgium takes on Iran on Day 11 of the 2026 World Cup. Full Sunday schedule, kickoff times and how to watch on FOX and FS1.",
+      "body": [
+        "Spain faces Saudi Arabia and Belgium takes on Iran on Day 11 of the 2026 World Cup. Full Sunday schedule, kickoff times and how to watch on FOX and FS1. Day 11 of the 2026 FIFA World Cup features four pivotal Group G and Group H matchups, all carrying enormous weight after a first matchday that saw every single opener end in a draw.",
+        "Spain, fresh off …"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "England vs New Zealand: Matt Henry ends hosts' miserable fortnight - BBC",
+      "deck": "England's miserable fortnight ends with a crushing defeat in the second Test against New Zealand at The Oval - setting up a high-stakes decider at Trent Bridge.",
+      "byline": "By Stephan Shemilt",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/cricket/articles/c1ey0532yevo",
+      "imgSrc": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8563/live/316322d0-6d5e-11f1-84ee-8be44d984cb8.jpg",
+      "teaser": "England's miserable fortnight ends with a crushing defeat in the second Test against New Zealand at The Oval - setting up a high-stakes decider at Trent Bridge.",
+      "body": [
+        "England's miserable fortnight ends with a crushing defeat in the second Test against New Zealand at The Oval - setting up a high-stakes decider at Trent Bridge. Second Rothesay Test, The Kia Oval (day five of five) New Zealand 391 (Phillips 100) &amp; 362 (Nicholls 121, Ravindra 76, Mitchell 68) England 291 (Gay 53, Fisher 50*; Henry 5-80) &amp; 209 (Root …"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "AJ Dybantsa could be the first No. 1 pick in NBA Draft from Massachusetts in 41 years - The Boston Globe",
+      "deck": "Dybantsa is at the top of most experts’ lists entering Tuesday’s NBA Draft, and if his name is called first, he’ll join Patrick Ewing in 1985 and Jimmy Walker in 1967 as the only Massachusetts products to be selected No. 1 overall.",
+      "byline": "By The Boston Globe",
+      "source": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/06/21/sports/nba-draft-aj-dybantsa/",
+      "imgSrc": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/QXJV45AKVYXJHWAZM6FVN4DGHM.jpg?auth=27a7220100179da86d9271e8cb0c9a9a75bd5b9d905c2f737e7e30422c116eb9&width=1440",
+      "teaser": "Dybantsa is at the top of most experts’ lists entering Tuesday’s NBA Draft, and if his name is called first, he’ll join Patrick Ewing in 1985 and Jimmy Walker in 1967 as the only M…",
+      "body": [
+        "Dybantsa is at the top of most experts’ lists entering Tuesday’s NBA Draft, and if his name is called first, he’ll join Patrick Ewing in 1985 and Jimmy Walker in 1967 as the only Massachusetts products to be selected No.",
+        "1 overall. Dybantsa is at the top of most experts lists entering Tuesdays NBA Draft, and if his name is called first, hell join Patrick Ewing in 1985 and Jimmy Walker in 1967 as the only Massachusetts products …"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "Did Dementia Turn Small-Town Doctor Into a Predator? - Newser",
+      "deck": "New Yorker examines the troubling case of Ray Howell in Indiana",
+      "byline": "By John Johnson",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/391139/did-dementia-turn-small-town-doctor-into-a-predator.html",
+      "imgSrc": "https://img2-azrcdn.newser.com/image/1692981-12-20260621063432.jpeg",
+      "teaser": "New Yorker examines the troubling case of Ray Howell in Indiana",
+      "body": [
+        "New Yorker examines the troubling case of Ray Howell in Indiana\n\nHowell died in 2018 at age 64. His brain \"is so abnormal that it's stored under neon lights in a refrigerated room at the University of California, San Francisco, and neurologists who have studied it…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "What to know about the temporary Medicare GLP-1 Bridge program - The Hill",
+      "deck": "Starting in July, some Medicare beneficiaries will be able to access GLP-1 medications by paying one flat fee per month. The temporary program is set to run for a year-and-a-half through the end of 2027. But with less than two weeks before its launch, questio…",
+      "byline": "By Joseph Choi",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/healthcare/5931336-medicare-glp1-bridge-program/",
+      "imgSrc": "https://thehill.com/wp-content/uploads/sites/2/2026/06/Medicare_Choi_AdobeStock.jpg?w=1280",
+      "teaser": "Starting in July, some Medicare beneficiaries will be able to access GLP-1 medications by paying one flat fee per month. The temporary program is set to run for a year-and-a-half t…",
+      "body": [
+        "Skip to content Starting in July, some Medicare beneficiaries will be able to access GLP-1 medications by paying one flat fee per month. The temporary program is set to run for a year-and-a-half thr…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "A Family Dispute Breaks Out After A Man Becomes Ill From Food Prepared By His Sister And Refuses To Eat There Again - TwistedSifter",
+      "deck": "The best of the internet, sifted, and sorted.",
+      "byline": "By Sarrah Murtaza",
+      "source": "Twistedsifter.com",
+      "url": "http://twistedsifter.com/2026/06/a-family-dispute-breaks-out-after-a-man-becomes-ill-from-food-prepared-by-his-sister-and-refuses-to-eat-there-again/",
+      "imgSrc": "https://twistedsifter.com/wp-content/uploads/2026/06/Untitled-design-13.jpg",
+      "teaser": "The best of the internet, sifted, and sorted.",
+      "body": [
+        "The best of the internet, sifted, and sorted. Pexels/Reddit Isn’t it surprising how some family members can be so careless?! This kid shares how his annoying sister never kept him first while cooking meals. Check out how the poor kid got sick…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "What To Watch Sunday: The Agency And House Of The Dragon Return, The Way Home Ends, And More - TVLine",
+      "deck": "On TV this Sunday: The Agency and House of the Dragon are back, and Hallmark says goodbye to The Way Home with a supersized series finale.",
+      "byline": "By Nick Caruso",
+      "source": "TVLine",
+      "url": "https://www.tvline.com/2197262/what-to-watch-june-21-2026-tv-shows-movies/",
+      "imgSrc": "https://www.tvline.com/img/gallery/w2w-sunday-june-21-2026/l-intro-1781794875.jpg",
+      "teaser": "On TV this Sunday: The Agency and House of the Dragon are back, and Hallmark says goodbye to The Way Home with a supersized series finale.",
+      "body": [
+        "On TV this Sunday: The Agency and House of the Dragon are back, and Hallmark says goodbye to The Way Home with a supersized series finale. Every day, TVLine's What to Watch column spotlights new and returning English-language shows (and select movies) premiering or airing fresh episodes across broadcast, cable and streaming organized be…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Review: Widow's Bay is a boldly original take on comedic horror - Ars Technica",
+      "deck": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways...",
+      "byline": "By Jennifer Ouellette",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+      "imgSrc": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/bay12-1152x648.jpg",
+      "teaser": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways...",
+      "body": [
+        "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways... "
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Rock Legend, 81, Suffers Frightening Onstage Health Scare - The Daily Beast",
+      "deck": "The “Forever Young” singer had to stop the show to take breaths from an oxygen tank.",
+      "byline": "By Mary Papenfuss",
+      "source": "Daily Beast",
+      "url": "https://www.thedailybeast.com/obsessed/rock-legend-rod-stewart-81-suffers-frightening-onstage-health-scare/",
+      "imgSrc": "https://www.thedailybeast.com/resizer/v2/E6MMMPPJN5FCZFJ3J3REZS2JAA.jpg?smart=true&auth=d768df3c52342c2cf31528aa7802429310dc4550f341863c5a12a3e56a8bbdbd&width=1200&height=630",
+      "teaser": "The “Forever Young” singer had to stop the show to take breaths from an oxygen tank.",
+      "body": [
+        "The “Forever Young” singer had to stop the show to take breaths from an oxygen tank. Veteran rocker Rod Stewart stumbled on a Utah stage mid-concert this weekend, finally steadying himself with the help of some deep gasps from an oxygen tank, according to photos and video of the scen…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "Tenzin Seldon: The GLP-1 boom is the biggest climate story no one is pricing in",
+      "deck": "Tens of millions of Americans are eating less meat and sugar on GLP-1s. The climate math behind that shift is bigger than most investors realize.",
+      "byline": "By Tenzin Seldon",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/21/glp1-drugs-climate-food-system-emissions-investment/",
+      "imgSrc": "https://fortune.com/img-assets/wp-content/uploads/2026/06/1775147981911.png?resize=1200,600",
+      "teaser": "Tens of millions of Americans are eating less meat and sugar on GLP-1s. The climate math behind that shift is bigger than most investors realize.",
+      "body": [
+        "Tens of millions of Americans are eating less meat and sugar on GLP-1s. The climate math behind that shift is bigger than most investors realize. The most consequential thing to happen to the American food system in the past two years arrived as a weekly injection.",
+        "As of late 2025, roughly one in eight U.S. adults reported taking a GLP-1 medic…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "A new fertilizer method mimics lightning — and could help farmers cut costs and emissions",
+      "deck": "It sounds like weird science and some have dismissed it as \"snake oil.\" But an emerging technology for crop fertilizer is gaining interest amid an acute shortage of fertilizer caused by wars in the Middle East.",
+      "byline": "By CBC News",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/radio/whatonearth/green-lightning-climate-friendly-fertilizer-canadian-farmers-9.7240949",
+      "imgSrc": "https://i.cbc.ca/ais/184f56d1-5048-4dfb-a23f-b4692d123d81,1781820671637/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3BResize%3D620",
+      "teaser": "It sounds like weird science and some have dismissed it as \"snake oil.\" But an emerging technology for crop fertilizer is gaining interest amid an acute shortage of fertilizer caus…",
+      "body": [
+        "It sounds like weird science and some have dismissed it as \"snake oil.\" But an emerging crop fertilizer technology is gaining interest amid an acute shortage caused by wars in the Middle East. Thoug…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "How to keep your house cool without air conditioning during a heatwave",
+      "deck": "Experts say that relying heavily on AC might seem like a natural adaptation, but it comes with hidden costs",
+      "byline": "By Mehri Khosravi",
+      "source": "The-independent.com",
+      "url": "https://www.the-independent.com/life-style/health-and-families/uk-heatwave-air-conditioner-how-keep-house-cool-b2999844.html",
+      "imgSrc": "https://static.the-independent.com/2025/07/17/16/45/iStock-1570814733.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "teaser": "Experts say that relying heavily on AC might seem like a natural adaptation, but it comes with hidden costs",
+      "body": [
+        "Experts say that relying heavily on AC might seem like a natural adaptation, but it comes with hidden costs\n\nYour support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing.",
+        "Whether it's investigating the financia…"
+      ]
+    }
+  }
+}
