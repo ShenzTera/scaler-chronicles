@@ -1,0 +1,407 @@
+{
+  "date": "Sunday, June 28, 2026",
+  "key": "jun28",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Best Prime Day laptop deals: Save up to $850 on MacBooks, gaming laptops - Mashable",
+      "deck": "Laptops are very expensive these days. These discounts help.",
+      "byline": "By Haley Henschel",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-prime-day-laptop-deals-last-chance-2026",
+      "imgSrc": "https://helios-i.mashable.com/imagery/articles/06cVzDbLfeuU5gxRC0u8qQP/hero-image.fill.size_1200x675.v1782486491.png",
+      "teaser": "Laptops are very expensive these days. These discounts help.",
+      "body": [
+        "Laptops are very expensive these days. These discounts help. "
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz - The Washington Post",
+      "deck": "U.S. forces launched airstrikes against Iranian missile and drone storage locations Friday in what Central Command called a “powerful response” to “unwarranted aggression.”",
+      "byline": "By Karen DeYoung",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/06/26/us-strikes-iranian-military-sites-after-ship-was-hit-strait-hormuz/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2OOWEWKSLBETQBCXIHEOFOPCNY.jpg&w=1440",
+      "teaser": "U.S. forces launched airstrikes against Iranian missile and drone storage locations Friday in what Central Command called a “powerful response” to “unwarranted aggression.”",
+      "body": [
+        "U.S. forces launched airstrikes against Iranian missile and drone storage locations Friday in what Central Command called a powerful response to unwarranted aggression by Iran with its Thursday attac…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Trail Blazers Still in Red Hot Pursuit of Jaylen Brown - Blazer's Edge",
+      "deck": "Never give up, never surrender!",
+      "byline": "By Dave Deckard",
+      "source": "Blazer's Edge",
+      "url": "https://www.blazersedge.com/trail-blazers-news/113706/jaylen-brown-trade-news-rumors-latest-portland-trail-blazers-2026-stats-contract",
+      "imgSrc": "https://platform.blazersedge.com/wp-content/uploads/sites/34/2026/06/gettyimages-2273729032.jpg?quality=90&strip=all&crop=0%2C6.9479930191972%2C100%2C34.904013961606&w=1200",
+      "teaser": "Never give up, never surrender!",
+      "body": [
+        "Never give up, never surrender!\n\nThe Portland Trail Blazers havent made much of a splash in the NBA offseason so far. They held no picks in the 2026 NBA Draft. They were frozen out of the trade talks that eventually sent superstar G…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "It’s the last day of Prime Day — here are over 140 great deals to choose from - The Verge",
+      "deck": "The final day of Prime Day is upon us, and there are still lots of worthwhile deals on headphones, TVs, wearables, smart home tech, speakers, and much more.",
+      "byline": "By Brad Bourque",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "imgSrc": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "teaser": "The final day of Prime Day is upon us, and there are still lots of worthwhile deals on headphones, TVs, wearables, smart home tech, speakers, and much more.",
+      "body": [
+        "The final day of Prime Day is upon us, and there are still lots of worthwhile deals on headphones, TVs, wearables, smart home tech, speakers, and much more. Updated As the selling event winds down theres still lots of deals to pick from.",
+        "As the selling event winds down theres still lots of deals to pick from. by Br…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "U.S. government gives Anthropic green light for limited re-release of Mythos 5 - NBC News",
+      "deck": "The U.S. government is allowing Anthropic to deploy its Mythos 5 model to a select group of customers and partners, according to a letter from Commerce Secretary Howard Lutnick to Anthropic that was seen by NBC News",
+      "byline": "By Jared Perlo",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/us-government-gives-anthropic-green-light-limited-re-release-mythos-5-rcna352018",
+      "imgSrc": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260626-Commerce-Secretary-Howard-Lutnick-vsb-2107-d967ef.jpg",
+      "teaser": "The U.S. government is allowing Anthropic to deploy its Mythos 5 model to a select group of customers and partners, according to a letter from Commerce Secretary Howard Lutnick to …",
+      "body": [
+        "The U.S. government is allowing Anthropic to deploy its Mythos 5 model to a select group of customers and partners, according to a letter from Commerce Secretary Howard Lutnick to Anthropic that was …"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "OpenAI limits its latest ChatGPT product to Trump-approved customers during cybersecurity review - AP News",
+      "deck": "OpenAI has restricted the release of its new AI model at the request of President Donald Trump's administration. This move is part of a government effort to vet AI products for cybersecurity risks. OpenAI's rival, Anthropic, announced that the administration …",
+      "byline": "By Matt O'Brien",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/trump-ai-openai-gpt56-sol-cybersecurity-mythos-065d5398baac7f16c8265c2cb8ba2baa",
+      "imgSrc": "https://dims.apnews.com/dims4/default/9aeaf90/2147483647/strip/true/crop/4771x3179+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2F45%2F86af1ec5ef1b9f5e0e115ade8d4d%2Fdf048727b111403e9acdb937a29ddbe9",
+      "teaser": "OpenAI has restricted the release of its new AI model at the request of President Donald Trump's administration. This move is part of a government effort to vet AI products for cyb…",
+      "body": [
+        "OpenAI has restricted the release of its new AI model at the request of President Donald Trump's administration. This move is part of a government effort to vet AI products for cybersecurity risks. OpenAI's rival, Anthropic, announced that the administration …\n\nChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trumps administration, the latest in an unprecedented govern…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Best Prime Day laptop deals: Save up to $850 on MacBooks, gaming laptops - Mashable",
+      "deck": "Laptops are very expensive these days. These discounts help.",
+      "byline": "By Haley Henschel",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-prime-day-laptop-deals-last-chance-2026",
+      "imgSrc": "https://helios-i.mashable.com/imagery/articles/06cVzDbLfeuU5gxRC0u8qQP/hero-image.fill.size_1200x675.v1782486491.png",
+      "teaser": "Laptops are very expensive these days. These discounts help.",
+      "body": [
+        "Laptops are very expensive these days. These discounts help. "
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Steam Summer Sale Offers Discounts On More Than 800 VR Games - UploadVR",
+      "deck": "Steam's Summer Sale is offering massive discounts on hundreds of VR titles right now.",
+      "byline": "By James Tocchio",
+      "source": "UploadVR",
+      "url": "https://www.uploadvr.com/steam-summer-sale-offers-discounts-on-more-than-800-vr-games/",
+      "imgSrc": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/06/download.png",
+      "teaser": "Steam's Summer Sale is offering massive discounts on hundreds of VR titles right now.",
+      "body": [
+        "The best time of the year is here! Steam's Summer Sale is offering massive discounts on hundreds of VR titles right now. Steam's annual Summer Sale has kicked off and will run until July 9 at 1pm E…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Scalpers List Steam Machine Reservations at $1,700+ - TechPowerUp",
+      "deck": "Following a brief reservation period, prospective buyers of the Valve Steam Machine started reporting on June 26 that they had begun to receive reservation confirmation emails for the new hybrid console. However, on the same day, and almost predictably, appar…",
+      "byline": "By Techpowerup.com",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/350342/scalpers-list-steam-machine-reservations-at-usd-1-700",
+      "imgSrc": "https://www.techpowerup.com/img/W0M6AnftlonTQKO3.jpg",
+      "teaser": "Following a brief reservation period, prospective buyers of the Valve Steam Machine started reporting on June 26 that they had begun to receive reservation confirmation emails for …",
+      "body": [
+        "Following a brief reservation period, prospective buyers of the Valve Steam Machine started reporting on June 26 that they had begun to receive reservation confirmation emails for the new hybrid cons…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "In 1977, Ann Druyan recorded an hour of her brainwaves and heartbeat just two days after she and Carl Sagan agreed to marry, and NASA pressed that compressed minute onto Voyager's Golden Record as a private love letter now more than 25 billion kilome - Space Daily",
+      "deck": "Ann Druyan's compressed life-signs recording on Voyager's Golden Record remains one of the mission's most intimate human details.",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/t-in-1977-ann-druyan-recorded-an-hour-of-her-brainwaves-and-heartbeat-just-two-days-after-she-and-carl-sagan-agreed-to-marry-and-nasa-pressed-that-compressed-minute-onto-voyagers-golden-record-as-a-p/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/06/spacedaily_nasa_voyager_golden_record.jpg",
+      "teaser": "Ann Druyan's compressed life-signs recording on Voyager's Golden Record remains one of the mission's most intimate human details.",
+      "body": [
+        "Ann Druyan's compressed life-signs recording on Voyager's Golden Record remains one of the mission's most intimate human details. The Voyager Golden Record is usually described as a message from Earth to the unknown. That is true, but it is also incomplete.",
+        "Tucked inside its catalogue of greetings, music, animal sounds, human v…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Scientists Think Uranus and Neptune May Not Be the Ice Giants We Imagined - Gizmodo",
+      "deck": "The so-called ice giants might not be as ice-rich as many astronomers believe.",
+      "byline": "By Passant Rabie",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/scientists-think-uranus-and-neptune-may-not-be-the-ice-giants-we-imagined-2000778382",
+      "imgSrc": "https://gizmodo.com/app/uploads/2025/07/uranus-voyager-2-1200x675.jpg",
+      "teaser": "The so-called ice giants might not be as ice-rich as many astronomers believe.",
+      "body": [
+        "The so-called ice giants might not be as ice-rich as many astronomers believe. Before the Voyager 2 flyby of Uranus and Neptune, these two distant planets were thought to be cold, dead worlds on the outskirts of the solar system.",
+        "The historic spacecraft visit, however, revealed…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "How to See the Giant Asteroid That Will Pass by Earth This Weekend - WIRED",
+      "deck": "The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it.",
+      "byline": "By Jorge Garay",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/",
+      "imgSrc": "https://media.wired.com/photos/6a3e91c52a254c7dcc47c3d6/191:100/w_1280,c_limit/GettyImages-160936161.jpg",
+      "teaser": "The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it.",
+      "body": [
+        "The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it. The European Space Agency (ESA) confirmed that this weekend, asteroid (152637) 1997 NC1 will make its closest approach to Earth in 400 years.",
+        "There's no risk it will hit Earth, but it will be visible…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "'We can't keep a clear head here', emotional Iran captain says",
+      "deck": "Iran captain Mehdi Taremi had to control his emotions after a dramatic 1-1 draw with Egypt which may be enough to reach the last 32 of the World Cup but maybe not. The result means that Iran finished the group stage with three points from three draws and must…",
+      "byline": "By DPA",
+      "source": "Dpa-international.com",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260627-99-879732/",
+      "imgSrc": "https://images.unsplash.com/photo-1552755634-9eda7a52b2c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHwlMjdXZSUyMGNhbiUyN3QlMjBrZWVwJTIwYXxlbnwwfDB8fHwxNzgyNjM2MTgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "teaser": "Iran captain Mehdi Taremi had to control his emotions after a dramatic 1-1 draw with Egypt which may be enough to reach the last 32 of the World Cup but maybe not. The result means…",
+      "body": [
+        "Iran captain Mehdi Taremi had to control his emotions after a dramatic 1-1 draw with Egypt which may be enough to reach the last 32 of the World Cup but maybe not. The result means that Iran finishe…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "'It's a disaster World Cup': After heartbreaking draw, Iran laments 'luck' in playing global tournament while at war",
+      "deck": "From missing staff to fast turnarounds, Iran's soccer leaders were fuming after a 1-1 draw against Egypt and said the numerous 'obstacles' have made its Round of 32 pursuit that much more difficult.",
+      "byline": "By Kari Anderson",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/soccer/article/its-a-disaster-world-cup-after-heartbreaking-draw-iran-laments-luck-in-playing-global-tournament-while-at-war-084129101.html",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/571ea091c87d7ec35049806fc7faa1baa5dcb6bd30a50accbb06be47ee144453/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F155549b3-0a67-4708-8ed8-66f9b0a6f033",
+      "teaser": "From missing staff to fast turnarounds, Iran's soccer leaders were fuming after a 1-1 draw against Egypt and said the numerous 'obstacles' have made its Round of 32 pursuit that mu…",
+      "body": [
+        "From missing staff to fast turnarounds, Iran's soccer leaders were fuming after a 1-1 draw against Egypt and said the numerous 'obstacles' have made its Round of 32 pursuit that much more difficult. On the brink of making the World Cup knockout stage for the first time in the nation's history, the Iran national team is only frustrated.",
+        "\"I'm tired,\" Iran defender Ramin Rezaeian said after the ga…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Microsoft's Satya Nadella says every company should build its own AI model",
+      "deck": "Satya Nadella said there should be \"as many models in the world as firms in the world\" and that reliance on a small set of models pose economic risks.",
+      "byline": "By katherineli@insider.com (Katherine Li)",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/satya-nadella-said-every-company-should-build-own-ai-model-2026-6#article",
+      "imgSrc": "https://i.insider.com/6a3f1114e218c3b62535e2e9?width=1200&format=jpeg",
+      "teaser": "Satya Nadella said there should be \"as many models in the world as firms in the world\" and that reliance on a small set of models pose economic risks.",
+      "body": [
+        "Satya Nadella said there should be \"as many models in the world as firms in the world\" and that reliance on a small set of models pose economic risks. If you own a company, Satya Nadella thinks you should build your own AI.",
+        "In an interview that went live Friday, Microsoft's CEO told Yash Patil, cofounder of Applied Compute, that every company shou…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Best Prime Day laptop deals: Save up to $850 on MacBooks, gaming laptops - Mashable",
+      "deck": "Laptops are very expensive these days. These discounts help.",
+      "byline": "By Haley Henschel",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/best-prime-day-laptop-deals-last-chance-2026",
+      "imgSrc": "https://helios-i.mashable.com/imagery/articles/06cVzDbLfeuU5gxRC0u8qQP/hero-image.fill.size_1200x675.v1782486491.png",
+      "teaser": "Laptops are very expensive these days. These discounts help.",
+      "body": [
+        "Laptops are very expensive these days. These discounts help. "
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz - The Washington Post",
+      "deck": "U.S. forces launched airstrikes against Iranian missile and drone storage locations Friday in what Central Command called a “powerful response” to “unwarranted aggression.”",
+      "byline": "By Karen DeYoung",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/06/26/us-strikes-iranian-military-sites-after-ship-was-hit-strait-hormuz/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2OOWEWKSLBETQBCXIHEOFOPCNY.jpg&w=1440",
+      "teaser": "U.S. forces launched airstrikes against Iranian missile and drone storage locations Friday in what Central Command called a “powerful response” to “unwarranted aggression.”",
+      "body": [
+        "U.S. forces launched airstrikes against Iranian missile and drone storage locations Friday in what Central Command called a powerful response to unwarranted aggression by Iran with its Thursday attac…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Trail Blazers Still in Red Hot Pursuit of Jaylen Brown - Blazer's Edge",
+      "deck": "Never give up, never surrender!",
+      "byline": "By Dave Deckard",
+      "source": "Blazer's Edge",
+      "url": "https://www.blazersedge.com/trail-blazers-news/113706/jaylen-brown-trade-news-rumors-latest-portland-trail-blazers-2026-stats-contract",
+      "imgSrc": "https://platform.blazersedge.com/wp-content/uploads/sites/34/2026/06/gettyimages-2273729032.jpg?quality=90&strip=all&crop=0%2C6.9479930191972%2C100%2C34.904013961606&w=1200",
+      "teaser": "Never give up, never surrender!",
+      "body": [
+        "Never give up, never surrender!\n\nThe Portland Trail Blazers havent made much of a splash in the NBA offseason so far. They held no picks in the 2026 NBA Draft. They were frozen out of the trade talks that eventually sent superstar G…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Penguins Hold; Select Scoring Winger Liam Ruck in First Round - Pittsburgh Hockey Now",
+      "deck": "As big names were traded, players who would have neatly fit into the Pittsburgh Penguins‘ DNA were taken off the […]",
+      "byline": "By Dan Kingerski",
+      "source": "Pittsburgh Hockey Now",
+      "url": "https://pittsburghhockeynow.com/pittsburgh-penguins-first-round-pick-hold-select-liam-ruck/",
+      "imgSrc": "https://media.pittsburghhockeynow.com/wp-content/uploads/2026/06/26221208/BLANK.jpg",
+      "teaser": "As big names were traded, players who would have neatly fit into the Pittsburgh Penguins‘ DNA were taken off the […]",
+      "body": [
+        "As big names were traded, players who would have neatly fit into the Pittsburgh Penguins‘ DNA were taken off the board ahead of slot. The opportunities to trade up did not fit general manager Kyle Du…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Cardoso sets WNBA record for most field goals without a miss - ESPN",
+      "deck": "Chicago's Kamilla Cardoso set a WNBA record for the most field goals without a miss as she went 13 for 13 while scoring 30 points and grabbing eight rebounds, as the Sky rolled to a 124-94 victory over the Portland Fire on Friday night at Wintrust Arena.",
+      "byline": "By Kareem Copeland",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/49193854/cardoso-sets-wnba-record-most-field-goals-miss",
+      "imgSrc": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0627%2Fr1680310_1296x729_16%2D9.jpg",
+      "teaser": "Chicago's Kamilla Cardoso set a WNBA record for the most field goals without a miss as she went 13 for 13 while scoring 30 points and grabbing eight rebounds, as the Sky rolled to …",
+      "body": [
+        "Chicago's Kamilla Cardoso set a WNBA record for the most field goals without a miss as she went 13 for 13 while scoring 30 points and grabbing eight rebounds, as the Sky rolled to a 124-94 victory over the Portland Fire on Friday night at Wintrust Arena.",
+        "CHICAGO -- Kamilla Cardoso had already tied her career high for points in a first half when she sat in the locker room and pulled out her phone at halftime. There was a message already waiting from D…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "New Zealand vs Belgium LIVE: Watch FIFA World Cup Group G TV stream, score, lineups, commentary & updates - BBC",
+      "deck": "Watch BBC TV coverage and follow live text commentary as New Zealand take on Belgium in Group G of the FIFA World Cup.",
+      "byline": "By https://www.facebook.com/BBCSport/",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/live/c70yxg7804zt",
+      "imgSrc": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/55f0/live/209872e0-71e4-11f1-b5c9-11f4397642e8.jpg",
+      "teaser": "Watch BBC TV coverage and follow live text commentary as New Zealand take on Belgium in Group G of the FIFA World Cup.",
+      "body": [
+        "Watch BBC TV coverage and follow live text commentary as New Zealand take on Belgium in Group G of the FIFA World Cup. Leandro Trossard scored twice as Belgium booked their place in the World Cup knockout stage with a dominant win over New Zealand.",
+        "In a must-win game for both sides, Belgium shook off two lacklustre …"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "Highly contagious diarrheal virus rises in Bay Area after World Cup start - SFGATE",
+      "deck": "Virus levels in wastewater are on the rise in recent weeks. The disease causes diarrhea and vomiting.",
+      "byline": "By Gillian Mohney",
+      "source": "SFGate",
+      "url": "https://www.sfgate.com/bayarea/article/bay-area-rotavirus-world-cup-22322402.php",
+      "imgSrc": "https://s.hdnux.com/photos/01/66/53/52/31111841/3/rawImage.jpg",
+      "teaser": "Virus levels in wastewater are on the rise in recent weeks. The disease causes diarrhea and vomiting.",
+      "body": [
+        "Virus levels in wastewater are on the rise in recent weeks. The disease causes diarrhea and vomiting. A microscopic view of Rotavirus. BSIP/Universal Images Group via Getty A highly contagious diarrheal illness is on the rise in parts of the Bay Area, with multiple cities recording increasing level…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "Doctors suspected man had brain cancer. He actually had worms. - Ars Technica",
+      "deck": "His doctors went looking for cancer, then they saw the worms' heads.",
+      "byline": "By Beth Mole",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
+      "imgSrc": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/26-0587-F1.jpg",
+      "teaser": "His doctors went looking for cancer, then they saw the worms' heads.",
+      "body": [
+        "His doctors went looking for cancer, then they saw the worms' heads. "
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Doctors Explain The Viral ‘Sadness Trigger’ Syndrome Distressing Women - Bored Panda",
+      "deck": "“I had this with my first baby. The first 3 min or so of pumping would make me feel so horribly depressed, and then it would just go away.”",
+      "byline": "By Samridhi Goel",
+      "source": "Boredpanda.com",
+      "url": "https://www.boredpanda.com/doctors-explain-viral-sadness-trigger-syndrome-distressing-women/",
+      "imgSrc": "https://static.boredpanda.com/blog/wp-content/uploads/2026/06/fb_image_6a3ec60b302c4.png",
+      "teaser": "“I had this with my first baby. The first 3 min or so of pumping would make me feel so horribly depressed, and then it would just go away.”",
+      "body": [
+        "“I had this with my first baby. The first 3 min or so of pumping would make me feel so horribly depressed, and then it would just go away.”\n\nA little-known condition often referred to online as “sad nipple syndrome” has gained attention after several women began sharing stories about experiencing sudden waves of sadness, anxiety, dread, o…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "‘Life, Larry’ Director Jeff Schaffer on Obama’s Notes and Why Larry David Will Never Retire: ‘He’s Like a Prostitute Who Has Sex When He’s Not Working’ - Variety",
+      "deck": "'Life, Larry and the Pursuit of Unhappiness' director Jeff Schaffer unpacks Barack Obama's feedback and why Larry David will never retire.",
+      "byline": "By Ethan Shanfeld",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/larry-david-new-show-jeff-schaffer-obamas-notes-curb-1236790792/",
+      "imgSrc": "https://variety.com/wp-content/uploads/2026/06/larry-david-barack-obama.jpeg?crop=0px%2C30px%2C1757px%2C988px&resize=1000%2C563",
+      "teaser": "'Life, Larry and the Pursuit of Unhappiness' director Jeff Schaffer unpacks Barack Obama's feedback and why Larry David will never retire.",
+      "body": [
+        "'Life, Larry and the Pursuit of Unhappiness' director Jeff Schaffer unpacks Barack Obama's feedback and why Larry David will never retire. When “Curb Your Enthusiasm” wrapped up its 24-year-run in 2024, fans were concerned it would be the last time they’d see Larry David on screen.",
+        "He had been saying the HBO sitcom was ending for the be…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Appeals Court Orders Harvey Weinstein Resentencing, Though Conviction Stands - Yahoo",
+      "deck": "The former movie producer also awaits sentencing for a conviction in New York. Prosecutors said they'll recommend a 20-year prison term.",
+      "byline": "By Winston Cho",
+      "source": "Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/news/general-news/appeals-court-harvey-weinstein-resentencing-conviction-stands-1236632009/",
+      "imgSrc": "https://s.yimg.com/ny/api/res/1.2/03USZM3OBzP3DPVp..sAmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_hollywood_reporter_217/e4d4175f99daa2ec027987e6a1ccf35f",
+      "teaser": "The former movie producer also awaits sentencing for a conviction in New York. Prosecutors said they'll recommend a 20-year prison term.",
+      "body": [
+        "The former movie producer also awaits sentencing for a conviction in New York. Prosecutors said they'll recommend a 20-year prison term. A state appeals court has upheld Harvey Weinsteins rape conviction in California while ordering him to be resentenced. Weinstein is currently serving a 16-year sentence for his California conviction…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "George Clooney's wife Amal admits life was 'easier' before marrying the Oscar winner - Entertainment Weekly",
+      "deck": "George Clooney's wife Amal says life with the 'Ocean's 11' star is not always easy.",
+      "byline": "By https://www.facebook.com/entertainmentweekly",
+      "source": "Entertainment Weekly",
+      "url": "https://ew.com/george-clooney-wife-amal-admits-life-was-easier-before-marriage-12007985",
+      "imgSrc": "https://ew.com/thmb/Hv6-B43lYm1K3Cva2ju-ztqwLqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Amal-Clooney-and-George-Clooney-attend-the-Jay-Kelly-Headline-Gala-123025-1eb3edf1195845699f8866192d13b095.jpg",
+      "teaser": "George Clooney's wife Amal says life with the 'Ocean's 11' star is not always easy.",
+      "body": [
+        "George Clooney's wife Amal says life with the 'Ocean's 11' star is not always easy. Falling in love with a movie star, especially one as famous as George Clooney, didn't make his wife Amal's life any less stressful, that's for sure.",
+        "\"It was easier when I could decide what kind of e…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "John Sweeney: Climate records are normally broken slowly. Now extremes are being topped up by 4 degrees",
+      "deck": "Jet stream holds key to whether extreme heat will become more frequent and severe",
+      "byline": "By John Sweeney",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/opinion/2026/06/27/john-sweeney-climate-records-are-normally-broken-slowly-now-extremes-are-being-topped-up-by-4-degrees/",
+      "imgSrc": "https://www.irishtimes.com/resizer/v2/RDFWC7RFPREL5CG5FIBCTCEBR4.jpg?smart=true&auth=6c53da1b102fbada403b87a107ba87db83e73573edee750d996ba4e2925b3990&width=1200&height=630",
+      "teaser": "Jet stream holds key to whether extreme heat will become more frequent and severe",
+      "body": [
+        "Jet stream holds key to whether extreme heat will become more frequent and severe\n\nWe know it is a hot summer in Ireland when the national airwaves start debating the merits and best places to buy a 99 ice cream. Whatever the origins of the name, the number 99 could equally refer t…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "Ireland's EU Presidency: What it is and why it matters",
+      "deck": "Given the cycle of crises the EU has confronted in recent years, the stakes could not be higher as Ireland assumes the Presidency of the EU, writes Europe Editor Tony Connelly.",
+      "byline": "By Tony Connelly",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0627/1580546-irelands-eu-presidency/",
+      "imgSrc": "https://www.rte.ie/images/00249303-1600.jpg",
+      "teaser": "Given the cycle of crises the EU has confronted in recent years, the stakes could not be higher as Ireland assumes the Presidency of the EU, writes Europe Editor Tony Connelly.",
+      "body": [
+        "Given the cycle of crises the EU has confronted in recent years, the stakes could not be higher as Ireland assumes the Presidency of the EU, writes Europe Editor Tony Connelly. On Wednesday, the eyes of Europe will fall on Ireland as the State assumes the Presidency of the European Union.",
+        "It will be the eighth time Ireland has taken on the role since we joined the EEC in 1…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Why an obscure Danish greenhouse experiment with hydroponic wheat could reshape global agriculture",
+      "deck": "Modern agriculture relies on synthetic fertilizers, but crops use less than half; the rest pollutes groundwater and releases potent greenhouse gases. Current solutions like synthetic inhibitors are expensive, require frequent reapplication and harm beneficial…",
+      "byline": "By Ava Grace",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-06-27-danish-greenhouse-experiment-hydroponic-wheat-reshape-agriculture.html",
+      "imgSrc": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Hydroponics-Garden.jpg",
+      "teaser": "Modern agriculture relies on synthetic fertilizers, but crops use less than half; the rest pollutes groundwater and releases potent greenhouse gases. Current solutions like synthet…",
+      "body": [
+        "Modern agriculture relies on synthetic fertilizers, but crops use less than half; the rest pollutes groundwater and releases potent greenhouse gases. Current solutions like synthetic inhibito…"
+      ]
+    }
+  }
+}
