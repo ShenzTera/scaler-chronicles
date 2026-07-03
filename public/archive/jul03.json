@@ -1,0 +1,375 @@
+{
+  "date": "Friday, July 3, 2026",
+  "key": "jul03",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Xbox is reportedly considering dropping disc drives as it tests new feature that lets players digitize physical games - GamesIndustry.biz",
+      "deck": "A new report now claims Xbox, like PlayStation, is set to \"drop the disc drive.\"",
+      "byline": "By Vikki Blake",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-dropping-disc-drives-as-it-tests-new-feature-that-lets-players-digitize-physical-games",
+      "imgSrc": "https://assetsio.gnwcdn.com/Helix_header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "teaser": "A new report now claims Xbox, like PlayStation, is set to \"drop the disc drive.\"",
+      "body": [
+        "A new report now claims Xbox, like PlayStation, is set to \"drop the disc drive.\" Earlier today, Sony confirmed plans to discontinue physical discs for new games launching on PS consoles from January…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Gemini Spark, Google’s agentic assistant, is now available on Mac - TechCrunch",
+      "deck": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "byline": "By Sarah Perez",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "imgSrc": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+      "teaser": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "body": [
+        "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps. Gemini Spark, Google’s AI agent that can help with aspects of your digital life, is now available on Mac. The company on Wednesday said Spark is being added to the existing Gemini desktop app, as w…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "DOOM: The Dark Ages Goes Supersonic With New DLC Chain Spear - XBOX Wire",
+      "deck": "DOOM: The Dark Ages | Revelations is its first major DLC, showcasing a versatile new Chain Spear. Read more inside to learn about the deep movement tech it adds to the game:",
+      "byline": "By Will Fulton",
+      "source": "Xbox.com",
+      "url": "https://news.xbox.com/en-us/2026/07/01/doom-the-dark-ages-revelations-chain-spear-preview/",
+      "imgSrc": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/DOOMTDA_DLC_OsseusChurch_3840x2160_LOGO_Web-2a5a9e59852121bc9f87.jpg",
+      "teaser": "DOOM: The Dark Ages | Revelations is its first major DLC, showcasing a versatile new Chain Spear. Read more inside to learn about the deep movement tech it adds to the game:",
+      "body": [
+        "DOOM: The Dark Ages | Revelations is its first major DLC, showcasing a versatile new Chain Spear. Read more inside to learn about the deep movement tech it adds to the game:\n\nEver since the original DOOM blew minds in 1993, the series has always been about tempo.",
+        "After the lightning-fast acrobatics of DOOM Eternal, DOOM: The Dark Ages carved out its own identity within th…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "‘The greatest cosmic movie ever made’: Historic telescope kicks off an unprecedented survey - CNN",
+      "deck": "The Vera Rubin Observatory has begun an 10-year survey to create a new inventory of our solar system and the Milky Way, and chip away at the mystery of dark matter.",
+      "byline": "By Jackie Wattles",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/01/science/rubin-observatory-legacy-survey-space-and-time",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/nsf-doe-rubin-trifid-and-lagoon-nebulas-10k.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "The Vera Rubin Observatory has begun an 10-year survey to create a new inventory of our solar system and the Milky Way, and chip away at the mystery of dark matter.",
+      "body": [
+        "The Vera Rubin Observatory has begun an 10-year survey to create a new inventory of our solar system and the Milky Way, and chip away at the mystery of dark matter. Every 40 seconds of nighttime for the next 10 years, a camera the size of a small car will capture strikingly detailed images of the southern sky, stitching together a time-lapse panorama of intergal…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Superworms could replace beetles for cleaning skeletal remains - Ars Technica",
+      "deck": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
+      "byline": "By Jennifer Ouellette",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+      "imgSrc": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/superworms1-1152x648.jpg",
+      "teaser": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
+      "body": [
+        "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage. "
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "Ford’s CEO Doesn’t Want You Fixing Your New Bronco. He Says It’s About Safety - The Drive",
+      "deck": "A quiet fight in Washington over vehicle data could decide whether independent mechanics can still fix your car at all.",
+      "byline": "By Joel Feder",
+      "source": "The Drive",
+      "url": "https://www.thedrive.com/news/fords-ceo-doesnt-want-you-fixing-your-new-bronco-he-says-its-about-safety",
+      "imgSrc": "https://www.thedrive.com/wp-content/uploads/2026/07/DRIVECAST-HERO-DONE.jpg?w=1200",
+      "teaser": "A quiet fight in Washington over vehicle data could decide whether independent mechanics can still fix your car at all.",
+      "body": [
+        "A quiet fight in Washington over vehicle data could decide whether independent mechanics can still fix your car at all. The biggest car news and reviews, no BS Our free daily newsletter sends the stories that really matter directly to you, every weekday.",
+        "Terms of Service &amp; Privacy Policy. Are independent mechan…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Ubisoft taps ex-Amazon Games chief to run its Tom Clancy studio",
+      "deck": "Ubisoft has hired Christoph Hartmann, until recently vice president of Amazon Games, to run the division that controls its Tom Clancy properties. He takes over as general manager of Creative House 2, the unit built around The Division, Ghost Recon and Splinte…",
+      "byline": "By Cristian Dina",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/ubisoft-christoph-hartmann-tom-clancy-creative-house-2/",
+      "imgSrc": "https://media.thenextweb.com/2026/06/claude-guillemot-ubisoft-co-founder-dies-plane-crash-69.avif",
+      "teaser": "Ubisoft has hired Christoph Hartmann, until recently vice president of Amazon Games, to run the division that controls its Tom Clancy properties. He takes over as general manager o…",
+      "body": [
+        "Ubisoft has hired Christoph Hartmann, until recently vice president of Amazon Games, to run the division that controls its Tom Clancy properties. He takes over as general manager of Creative House 2,…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Valaverse Action Force Medic: Pulse 1/12 Scale Figure",
+      "deck": "Action Force has a pulse! At this years DFW reveal panel, Valaverse introduced their long awaited team medic, Pulse. This character is based on Bridger Walk",
+      "byline": "By toynewsi.com",
+      "source": "Toynewsi.com",
+      "url": "https://toynewsi.com/457-64562",
+      "imgSrc": "https://i.toynewsi.com/g/generated/ToyNew/Valverse/Pulse/Pulse-00__scaled_800.jpg",
+      "teaser": "Action Force has a pulse! At this years DFW reveal panel, Valaverse introduced their long awaited team medic, Pulse. This character is based on Bridger Walk",
+      "body": [
+        "Action Force has a pulse! At this years DFW reveal panel, Valaverse introduced their long awaited team medic, Pulse. This character is based on Bridger Walk\n\nThe new Valaverse Action Force: Bloody Jester Black Series Premium 6-Inch Scale Action Figure (Amazon Exclusive) is now available for pre-order on: AmazonAction Force is the flagship action figure br…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Repeat offenders banished from Udupi district",
+      "deck": "Udupi police issue externment orders against three repeat offenders with 30 alleged crimes; accused sent to Shivamogga, Bidar and Karwar police limits.",
+      "byline": "By The Times Of India",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mangaluru/repeat-offenders-banished-from-udupi-district/articleshow/132134099.cms",
+      "imgSrc": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "teaser": "Udupi police issue externment orders against three repeat offenders with 30 alleged crimes; accused sent to Shivamogga, Bidar and Karwar police limits.",
+      "body": [
+        "Udupi police issue externment orders against three repeat offenders with 30 alleged crimes; accused sent to Shivamogga, Bidar and Karwar police limits. Follow Us On Social Media Prayagraj man moulds clay craft into sustainable &amp; job-creating ventureSomeone buried 40,000 Roman coins 1,700 years ago and never returned.",
+        "Then archaeologists uncover…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Seattle Is Winning at Hosting the World Cup - The Urbanist",
+      "deck": "National publications have ranked Seattle at the top of the list among World Cup 2026 host cities, commending the city's centrally located, well-integrated stadium next door to a bounty of urban attractions.",
+      "byline": "By Doug Trumm",
+      "source": "Theurbanist.org",
+      "url": "https://www.theurbanist.org/seattle-is-winning-at-hosting-the-world-cup/",
+      "imgSrc": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/size/w1200/2026/07/Pioneer-Square-Occidental-Park-US-World-Cup-fans-Juneteenth---Trumm-20260619-1-.jpg",
+      "teaser": "National publications have ranked Seattle at the top of the list among World Cup 2026 host cities, commending the city's centrally located, well-integrated stadium next door to a b…",
+      "body": [
+        "National publications have ranked Seattle at the top of the list among World Cup 2026 host cities, commending the city's centrally located, well-integrated stadium next door to a bounty of urban attractions. The sports literati have spoken and Seattle has climbed to the top of the pack for World Cup host cities in the United States.",
+        "The Athletic ranked Seattle as the No. 1 stadium experience among FIF…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Sources: Spurs land 2-year, $31M deal with Tobias Harris - ESPN",
+      "deck": "Tobias Harris is taking his veteran presence to the Spurs after helping lead the Pistons' turnaround, sources told ESPN.",
+      "byline": "By ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49240686/sources-spurs-land-2-year-31m-deal-tobias-harris",
+      "imgSrc": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0526%2Fr1498765_1296x729_16%2D9.jpg",
+      "teaser": "Tobias Harris is taking his veteran presence to the Spurs after helping lead the Pistons' turnaround, sources told ESPN.",
+      "body": [
+        "Tobias Harris is taking his veteran presence to the Spurs after helping lead the Pistons' turnaround, sources told ESPN. Jul 1, 2026, 04:04 PM ET Free agent forward Tobias Harris has agreed to a two-year, $31 million deal with the San Antonio Spurs, sources told ESPN's Shams Charania on Wednesday.",
+        "Harris, 33, is leav…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "West Nile virus detected in southern state as health officials warn residents about mosquitoes - Fox News",
+      "deck": "Nashville detects West Nile virus in mosquitoes for the first time in 2026, prompting officials to urge residents to eliminate standing water and use DEET.",
+      "byline": "By Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/health/west-nile-virus-detected-southern-state-health-officials-warn-residents-mosquitoes",
+      "imgSrc": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/West-Nile-virus-Nashville.jpg",
+      "teaser": "Nashville detects West Nile virus in mosquitoes for the first time in 2026, prompting officials to urge residents to eliminate standing water and use DEET.",
+      "body": [
+        "Nashville detects West Nile virus in mosquitoes for the first time in 2026, prompting officials to urge residents to eliminate standing water and use DEET. Health officials in Nashville are urging residents to protect themselves from mosquito bites after West Nile virus was detected in mosquitoes for the first time this year.",
+        "The Metro Public Health De…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "‘World’s most contagious disease’ on track for highest US cases in 35 years — doc warns: ‘We are allowing it to spread’ - New York Post",
+      "deck": "“This is a major public health warning sign,” epidemiologist Dr. Syra Madad told The Post. “The US is already close to last year’s total with about half the year still ahead.&#822…",
+      "byline": "By Allie Yang",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/01/health/worlds-most-contagious-disease-on-track-for-highest-us-cases-in-35-years/",
+      "imgSrc": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39856610_6fb959.jpg?quality=75&strip=all&w=1200",
+      "teaser": "“This is a major public health warning sign,” epidemiologist Dr. Syra Madad told The Post. “The US is already close to last year’s total with about half the year still ahead.&#822…",
+      "body": [
+        "“This is a major public health warning sign,” epidemiologist Dr. Syra Madad told The Post. “The US is already close to last year’s total with about half the year still ahead.&#822…\n\nMeasles only needs a small opening and it got one.",
+        "For the second year in a row, cases of measles known as the world’s most infectious disease will hit record highs, and 2026 is on track to be subs…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Story unavailable",
+      "deck": "",
+      "byline": "",
+      "imgSrc": "",
+      "body": [],
+      "teaser": "",
+      "url": "",
+      "source": ""
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "(PR) MSI Named Among First EPEAT 2.0 Launch Partners; Flagship AI Business Laptop Achieves Silver Certification",
+      "deck": "MSI, a global leader in gaming, AI PC, and high-performance computing, proudly announces its standing as one of the world's first brands to become an EPEAT 2.0 Launch Partner. This milestone underscores MSI's core commitment to sustainability within the IT in…",
+      "byline": "By TheLostSwede",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/350461/msi-named-among-first-epeat-2-0-launch-partners-flagship-ai-business-laptop-achieves-silver-certification",
+      "imgSrc": "https://www.techpowerup.com/img/tjDl0go2fTQbd9Fj.jpg",
+      "teaser": "MSI, a global leader in gaming, AI PC, and high-performance computing, proudly announces its standing as one of the world's first brands to become an EPEAT 2.0 Launch Partner. This…",
+      "body": [
+        "MSI, a global leader in gaming, AI PC, and high-performance computing, proudly announces its standing as one of the world's first brands to become an EPEAT 2.0 Launch Partner. This milestone undersco…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "How World Cup hydration breaks show who really runs soccer",
+      "deck": "FIFA appears to be tightening its grip on what it can monetise, but the tournament threatens to slip from its control in other aspects",
+      "byline": "By RTÉ Brainstorm",
+      "source": "RTE",
+      "url": "https://www.rte.ie/brainstorm/2026/0702/1581355-fifa-world-cup-2026-control-hydration-breaks-visas-ticket-prices-environment/",
+      "imgSrc": "https://www.rte.ie/images/00249fad-1600.jpg",
+      "teaser": "FIFA appears to be tightening its grip on what it can monetise, but the tournament threatens to slip from its control in other aspects",
+      "body": [
+        "Analysis: FIFA appears to be tightening its grip on what it can monetise, but the tournament threatens to slip from its control in other aspects By Haojin Zhou and Mathew Dowling, Loughborough Unive…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Climate scientist who “proved” humanity is warming Earth says government report got it wrong",
+      "deck": "A pioneering climate scientist is challenging a U.S. government report that cited his research while reaching what he says is the exact opposite conclusion. Benjamin Santer and his colleagues say decades of satellite data clearly reveal the atmospheric “finge…",
+      "byline": "By Science Daily",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060214.htm",
+      "imgSrc": "https://www.sciencedaily.com/images/1920/planet-earth-climate-change-burning-fire.webp",
+      "teaser": "A pioneering climate scientist is challenging a U.S. government report that cited his research while reaching what he says is the exact opposite conclusion. Benjamin Santer and his…",
+      "body": [
+        "A pioneering climate scientist is challenging a U.S. government report that cited his research while reaching what he says is the exact opposite conclusion. Benjamin Santer and his colleagues say decades of satellite data clearly reveal the atmospheric “finge…\n\nA leading climate scientist is pushing back against what he describes as \"demonstrably incorrect\" claims in a major US government climate report, arguing that it misrepresented his research and under…"
+      ]
+    }
+  }
+}
