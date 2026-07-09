@@ -1,0 +1,406 @@
+{
+  "date": "Thursday, July 9, 2026",
+  "key": "jul09",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "U.S. and Iran launch fresh strikes following attacks on commercial ships - The Washington Post",
+      "deck": "Iran said it had targeted more than 80 U.S. military facilities in Bahrain and Kuwait, after the U.S. launched strikes in response to attacks on commercial ships in the Strait of Hormuz.",
+      "byline": "By Dan Lamothe",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/07/tanker-fire-after-being-struck-strait-hormuz-british-military-says/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/F26UV6RLADSC3ZDJHPQIZV5KGI.JPG&w=1440",
+      "teaser": "Iran said it had targeted more than 80 U.S. military facilities in Bahrain and Kuwait, after the U.S. launched strikes in response to attacks on commercial ships in the Strait of H…",
+      "body": [
+        "Iran said it had targeted more than 80 U.S. military facilities in Bahrain and Kuwait, after the U.S. launched strikes in response to attacks on commercial ships in the Strait of Hormuz. The United States and Iran traded military strikes overnight following attacks on commercial ships in the Strait of Hormuz, a fresh wave of clashes that marks the latest threat to the ceasefire agree…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Denmark PM vows to defend Greenland after Trump revives push for U.S. control - CNBC",
+      "deck": "U.S. President Donald Trump on Wednesday said the U.S. needs to control Greenland “for the protection of the world.\"",
+      "byline": "By Sam Meredith",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108331913-1783499988364-gettyimages-2284598359-AFP_B9L87BZ.jpeg?v=1783500034&w=1920&h=1080",
+      "teaser": "U.S. President Donald Trump on Wednesday said the U.S. needs to control Greenland “for the protection of the world.\"",
+      "body": [
+        "Birds fly over houses overshadowed by the mountain in Nuuk, Greenland, on March 10, 2026. U.S. President Donald Trump on Wednesday doubled down on his latest push for U.S. control over Greenland, sa…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Meta tests ‘super sensing’ AI glasses that can capture every moment - Financial Times",
+      "deck": "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded",
+      "byline": "By Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a?syn-25a6b1a6\\\\u003d1",
+      "imgSrc": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbb489f91-f059-4c97-a431-118465510e79.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
+      "teaser": "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded",
+      "body": [
+        "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded\n\nGet 2 months free with an annual subscription at was $59.88now $49. Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Lawmakers probe growing use of Chinese AI models in U.S. companies - CNBC",
+      "deck": "An ongoing House Committee investigation is probing the risks involved in the rise of AI built in China.",
+      "byline": "By Kai Nicol-Schwarz",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/chinese-ai-models-probe-us-lawmakers.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108032405-1726051561764-gettyimages-1480914045-usa-view2.jpeg?v=1769063383&w=1920&h=1080",
+      "teaser": "An ongoing House Committee investigation is probing the risks involved in the rise of AI built in China.",
+      "body": [
+        "An ongoing House Committee investigation is probing the risks involved in the rise of AI built in China. U.S. lawmakers are considering how to curb the growing adoption of Chinese AI models by homegrown companies, as geopolitical tensions surrounding the rollout of artificial intelligence ramp up.",
+        "AI …"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels - Al Jazeera",
+      "deck": "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.",
+      "byline": "By Erin Hale",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels",
+      "imgSrc": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26167495426080-1783483193.jpg?resize=1920%2C1440",
+      "teaser": "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.",
+      "body": [
+        "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz. Oil prices have surged as renewed hostilities between the United States and Iran threaten to derail a fragile ceasefire that had brought some relief to global energy markets.",
+        "Brent crude, the main i…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Popular pet food recalled over possible sharp metal and plastic contamination - Fox Business",
+      "deck": "Mars Petcare says two lots of Pedigree dog food were fraudulently diverted and sold after being sent for destruction over metal and plastic contamination.",
+      "byline": "By Landon Mion",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/economy/popular-pet-food-recalled-over-possible-sharp-metal-plastic-contamination",
+      "imgSrc": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/dog-eating-food.jpg?ve=1&tl=1",
+      "teaser": "Mars Petcare says two lots of Pedigree dog food were fraudulently diverted and sold after being sent for destruction over metal and plastic contamination.",
+      "body": [
+        "Mars Petcare says two lots of Pedigree dog food were fraudulently diverted and sold after being sent for destruction over metal and plastic contamination. Two lots of Pedigree-branded dog food were recalled over the potential presence of metal and plastic.",
+        "Mars Petcare US issued the voluntary recall July 2 for 13.2-ounce cans of High Protein Chopped C…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Meta tests ‘super sensing’ AI glasses that can capture every moment - Financial Times",
+      "deck": "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded",
+      "byline": "By Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a?syn-25a6b1a6\\\\u003d1",
+      "imgSrc": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbb489f91-f059-4c97-a431-118465510e79.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
+      "teaser": "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded",
+      "body": [
+        "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded\n\nGet 2 months free with an annual subscription at was $59.88now $49. Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Nintendo Expands Switch Online's Game Boy & GBA Library With Four More Titles - Nintendo Life",
+      "deck": "Wario Land and more!",
+      "byline": "By Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/07/nintendo-expands-switch-onlines-game-boy-and-gba-library-with-four-more-titles",
+      "imgSrc": "https://images.nintendolife.com/f12addeb67a9a/large.jpg",
+      "teaser": "Wario Land and more!",
+      "body": [
+        "Wario Land and more!\n\nNintendo has today expanded the Switch Online Game Boy and Game Boy Advance library with four more titles. Switch Online members with a standard subscription can access the Game Boy titles, and if y…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Samsung unveils Galaxy Z Fold 8 deal for $1,230 off ahead of July Unpacked - how to qualify - ZDNET",
+      "deck": "Samsung Unpacked will take place later this month in London, and all eyes are on the Galaxy Glasses.",
+      "byline": "By Nina Raemont",
+      "source": "ZDNet",
+      "url": "https://www.zdnet.com/article/samsung-unveils-foldable-deal-ahead-of-july-unpacked/",
+      "imgSrc": "https://www.zdnet.com/a/img/resize/d9f45efda0ee9f8fac2878a1632b7a104cb6073e/2025/08/08/eb56240e-7edb-41a4-843f-dea425ca860c/dsc06705.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "teaser": "Samsung Unpacked will take place later this month in London, and all eyes are on the Galaxy Glasses.",
+      "body": [
+        "Samsung Unpacked will take place later this month in London, and all eyes are on the Galaxy Glasses. Kerry Wan/ZDNET Follow ZDNET: Add us as a preferred source on Google. ZDNET's key takeaways Samsung unveiled the dates for Samsung Unpacked.",
+        "There, it will unveil new foldable ph…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "NASA's New Horizons spacecraft wakes from its longest hibernation in good health - Phys.org",
+      "deck": "Following its longest hibernation period ever of nearly a year, NASA's New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuiper Belt far beyond Pluto.",
+      "byline": "By Phys.Org",
+      "source": "Phys.Org",
+      "url": "https://phys.org/news/2026-07-nasa-horizons-spacecraft-hibernation-good.html",
+      "imgSrc": "https://scx2.b-cdn.net/gfx/news/hires/2026/nasas-new-horizons-spa.jpg",
+      "teaser": "Following its longest hibernation period ever of nearly a year, NASA's New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered i…",
+      "body": [
+        "Following its longest hibernation period ever of nearly a year, NASA's New Horizons spacecraft has emerged in good health and is ready to begin transmitting science data gathered in the distant Kuipe…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site - Space",
+      "deck": "\"No single telescope tells the whole story. Discoveries build over time, and new observatories expand on the foundations laid by earlier missions.\"",
+      "byline": "By Robert Lea",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site",
+      "imgSrc": "https://cdn.mos.cms.futurecdn.net/i9xQzqnXJtk7WJw5Wfy4vf-2000-80.png",
+      "teaser": "\"No single telescope tells the whole story. Discoveries build over time, and new observatories expand on the foundations laid by earlier missions.\"",
+      "body": [
+        "\"No single telescope tells the whole story. Discoveries build over time, and new observatories expand on the foundations laid by earlier missions.\"\n\n"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "Scientists Find Super-Rare Soft Tissue Fossil From 450-Million-Year-Old Sea Creature - Gizmodo",
+      "deck": "Crinoid fossils turn up by the millions, but this is just the second time that scientists have found one with soft tissues still intact.",
+      "byline": "By Gayoung Lee",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/scientists-find-super-rare-soft-tissue-fossil-from-450-million-year-old-sea-creature-2000782455",
+      "imgSrc": "https://gizmodo.com/app/uploads/2026/07/crinoid-fossil-1200x675.jpg",
+      "teaser": "Crinoid fossils turn up by the millions, but this is just the second time that scientists have found one with soft tissues still intact.",
+      "body": [
+        "Crinoid fossils turn up by the millions, but this is just the second time that scientists have found one with soft tissues still intact. Scientists believe that Earths earliest life included ancient forms of crinoids, or the relatives of modern starfish.",
+        "Crinoid fossils pop up by the millions, but a truly lucky discovery has found the…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Barcelona plan to promote 18-year-old academy forward to Hansi Flick’s first team",
+      "deck": "Hamza Abdelkarim’s profile has grown significantly during the 2026 FIFA World Cup. Competing on football’s biggest stage has given the 18-year-old Egyptian striker worldwide exposure. The young st...",
+      "byline": "By Barca Universal",
+      "source": "Barcauniversal.com",
+      "url": "https://barcauniversal.com/barcelona-plan-to-promote-18-year-old-academy-forward-to-hansi-flicks-first-team/",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/41483969883363946438657bc66e574d3fda998b196f275fd09462dfed242d52/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarca_universal_articles_732%2Fe8bc767ca22fb5d9b69601e5b60aea0b",
+      "teaser": "Hamza Abdelkarim’s profile has grown significantly during the 2026 FIFA World Cup. Competing on football’s biggest stage has given the 18-year-old Egyptian striker worldwide exposu…",
+      "body": [
+        "Hamza Abdelkarim’s profile has grown significantly during the 2026 FIFA World Cup. Competing on football’s biggest stage has given the 18-year-old Egyptian striker worldwide exposure. The young st... Hamza Abdelkarim's profile has grown significantly during the 2026 FIFA World Cup.",
+        "Competing on football's biggest stage has given the 18-year-old Egyptian striker worldwide exposure. The young stri…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Manchester United offer Real Madrid midfielder Aurelien Tchouameni a five-year deal",
+      "deck": "Manchester United have offered Real Madrid midfielder Aurelien Tchouameni a five-year deal, according to Spanish outlet AS journalist Jose Felix Diaz. Man United want to strengthen in the middle of th...",
+      "byline": "By SportsView",
+      "source": "Sportsview.co.uk",
+      "url": "https://sportsview.co.uk/2026/07/manchester-united-offer-real-madrid-midfielder-aurelien-tchouameni-a-five-year-deal?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=manchester-united-offer-real-madrid-midfielder-aurelien-tchouameni-a-five-year-deal",
+      "imgSrc": "https://s.yimg.com/os/en/sportsview_articles_932/91f0ed54e7ca2e5c7e68109af5dd6149",
+      "teaser": "Manchester United have offered Real Madrid midfielder Aurelien Tchouameni a five-year deal, according to Spanish outlet AS journalist Jose Felix Diaz. Man United want to strengthen…",
+      "body": [
+        "Manchester United have offered Real Madrid midfielder Aurelien Tchouameni a five-year deal, according to Spanish outlet AS journalist Jose Felix Diaz. Man United want to strengthen in the middle of t…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "SNP and Palantir Form Strategic Partnership to Accelerate Secure SAP Transformations",
+      "deck": "SNP builds on Palantir platforms to deliver new AI-powered solutions for solving mission-critical customer challenges The partnership will build on SNP’s strong base with more than 3,000 customers globally and 15,000 successful SAP transformation projects SNP…",
+      "byline": "By Business Wire",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/snp-and-palantir-form-strategic-partnership-to-accelerate-secure-sap-transformations",
+      "imgSrc": "https://images.unsplash.com/photo-1584714268709-c3dd9c92b378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHx3b3JsZCUyMGludGVybmF0aW9uYWwlMjBuZXdzfGVufDB8MHx8fDE3ODM1ODkxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "teaser": "SNP builds on Palantir platforms to deliver new AI-powered solutions for solving mission-critical customer challenges The partnership will build on SNP’s strong base with more than…",
+      "body": [
+        "SNP builds on Palantir platforms to deliver new AI-powered solutions for solving mission-critical customer challenges The partnership will build on SNP’s strong base with more than 3,000 customers globally and 15,000 successful SAP transformation projects SNP…\n\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY Subscribe now to read the latest news in your city and across Canada.",
+        "Exclusive articles from Barbara Shecter, Joe O'Connor, Gabriel Friedman, …"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "U.S. and Iran launch fresh strikes following attacks on commercial ships - The Washington Post",
+      "deck": "Iran said it had targeted more than 80 U.S. military facilities in Bahrain and Kuwait, after the U.S. launched strikes in response to attacks on commercial ships in the Strait of Hormuz.",
+      "byline": "By Dan Lamothe",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/07/tanker-fire-after-being-struck-strait-hormuz-british-military-says/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/F26UV6RLADSC3ZDJHPQIZV5KGI.JPG&w=1440",
+      "teaser": "Iran said it had targeted more than 80 U.S. military facilities in Bahrain and Kuwait, after the U.S. launched strikes in response to attacks on commercial ships in the Strait of H…",
+      "body": [
+        "Iran said it had targeted more than 80 U.S. military facilities in Bahrain and Kuwait, after the U.S. launched strikes in response to attacks on commercial ships in the Strait of Hormuz. The United States and Iran traded military strikes overnight following attacks on commercial ships in the Strait of Hormuz, a fresh wave of clashes that marks the latest threat to the ceasefire agree…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Denmark PM vows to defend Greenland after Trump revives push for U.S. control - CNBC",
+      "deck": "U.S. President Donald Trump on Wednesday said the U.S. needs to control Greenland “for the protection of the world.\"",
+      "byline": "By Sam Meredith",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/greenland-trump-nato-denmark.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108331913-1783499988364-gettyimages-2284598359-AFP_B9L87BZ.jpeg?v=1783500034&w=1920&h=1080",
+      "teaser": "U.S. President Donald Trump on Wednesday said the U.S. needs to control Greenland “for the protection of the world.\"",
+      "body": [
+        "Birds fly over houses overshadowed by the mountain in Nuuk, Greenland, on March 10, 2026. U.S. President Donald Trump on Wednesday doubled down on his latest push for U.S. control over Greenland, sa…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Meta tests ‘super sensing’ AI glasses that can capture every moment - Financial Times",
+      "deck": "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded",
+      "byline": "By Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a?syn-25a6b1a6\\\\u003d1",
+      "imgSrc": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbb489f91-f059-4c97-a431-118465510e79.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page",
+      "teaser": "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded",
+      "body": [
+        "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded\n\nGet 2 months free with an annual subscription at was $59.88now $49. Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Switzerland face Argentina in World Cup quarterfinal after beating Colombia - Al Jazeera",
+      "deck": "Switzerland beat Colombia on penalties in World Cup last 16 to set up quarterfinal meeting with Argentina.",
+      "byline": "By Al Jazeera",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/7/7/switzerland-face-argentina-in-world-cup-quarterfinal-after-beating-colombia",
+      "imgSrc": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-07T225550Z_178859915_UP1EM771RP1MT_RTRMADP_3_SOCCER-WORLDCUP-SWI-COL-1783465511.jpg?resize=1920%2C1440",
+      "teaser": "Switzerland beat Colombia on penalties in World Cup last 16 to set up quarterfinal meeting with Argentina.",
+      "body": [
+        "Switzerland beat Colombia on penalties in World Cup last 16 to set up quarterfinal meeting with Argentina. Switzerland beat Colombia 4-3 on penalties after a goalless draw to set up a quarterfinal with defending champions Argentina. The two teams cancelled each other out on Tuesday in the final game of t…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Watch Dodgers' Shohei Ohtani Hit 300th HR in Video, 5th Fastest in MLB History to Accomplish Feat - Bleacher Report",
+      "deck": "Shohei Ohtani reached an impressive individual milestone on Tuesday night.",
+      "byline": "By Zach Bachar",
+      "source": "Bleacher Report",
+      "url": "https://bleacherreport.com/articles/25452371-watch-dodgers-shohei-ohtani-hit-300th-hr-video-5th-fastest-mlb-history-accomplish-feat",
+      "imgSrc": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-07/2284529439_large_cropped.jpg?w=3800&h=2000",
+      "teaser": "Shohei Ohtani reached an impressive individual milestone on Tuesday night.",
+      "body": [
+        "Shohei Ohtani reached an impressive individual milestone on Tuesday night. The Los Angeles Dodgers star recorded his 300th career home run with a solo shot in the first inning of the team's matchup …"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Sources: Grizzlies land Post after Warriors pass on offer sheet - ESPN",
+      "deck": "The Warriors will not match the three-year, $30 million offer sheet for reserve center Quinten Post, allowing the restricted free agent to join the Grizzlies.",
+      "byline": "By Anthony Slater",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49300089/sources-grizzlies-land-post-warriors-pass-offer-sheet",
+      "imgSrc": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0629%2Fr1512832_1024x576_16%2D9.jpg",
+      "teaser": "The Warriors will not match the three-year, $30 million offer sheet for reserve center Quinten Post, allowing the restricted free agent to join the Grizzlies.",
+      "body": [
+        "The Warriors will not match the three-year, $30 million offer sheet for reserve center Quinten Post, allowing the restricted free agent to join the Grizzlies. The Golden State Warriors will not match the three-year, $30 million offer sheet for reserve center Quinten Post, league sources told ESPN, allowing the restricted free agent to join the Memphis Griz…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "Measles outbreak confirmed at Arizona immigration detention center - Arizona Daily Star",
+      "deck": "Federal officials confirm seven active cases of measles at an Arizona immigration detention center, prompting quarantines and restrictions on visitation.",
+      "byline": "By Emily Bregel",
+      "source": "Arizona Daily Star",
+      "url": "https://tucson.com/news/local/border/article_da781d44-2860-431e-98ec-d245778d931e.html",
+      "imgSrc": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/ed/9ed408e8-249c-11ed-89f1-2fc02a8949ea/6307b365a00f8.image.jpg?crop=900%2C506%2C0%2C0",
+      "teaser": "Federal officials confirm seven active cases of measles at an Arizona immigration detention center, prompting quarantines and restrictions on visitation.",
+      "body": [
+        "Federal officials confirm seven active cases of measles at an Arizona immigration detention center, prompting quarantines and restrictions on visitation. Advocates dispute the claim. \"Our clients often report that they do not receive adequate medical care while detained, and there are many people in detention right now with medical conditions and chr…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "San Diego confirms first local Chagas infection. Expert says ‘be smart’ - SFGATE",
+      "deck": "On Monday, San Diego County health officials announced that they had confirmed the first locally acquired Chagas infection in the region.",
+      "byline": "By Olivia Hebert",
+      "source": "SFGate",
+      "url": "https://www.sfgate.com/bayarea/article/chagas-infection-san-diego-22336465.php",
+      "imgSrc": "https://s.hdnux.com/photos/01/54/34/76/28430247/3/rawImage.jpg",
+      "teaser": "On Monday, San Diego County health officials announced that they had confirmed the first locally acquired Chagas infection in the region.",
+      "body": [
+        "On Monday, San Diego County health officials announced that they had confirmed the first locally acquired Chagas infection in the region. Chagas disease is often caused by the feces of an infected triatomine insect, otherwise known as the kissing bug.",
+        "wildpixel/Getty Images For the first time, an individual in San Diego County has te…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "‘Severe outbreak’ of contagious cancer detected in Washington soft-shell clams - KOIN.com",
+      "deck": "Although it is possible for the disease to spread to Oregon, an ODFW spokesperson told KOIN 6 there is “currently a low risk.”",
+      "byline": "By Jashayla Pettigrew",
+      "source": "KOIN.com",
+      "url": "https://www.koin.com/news/washington/severe-outbreak-of-contagious-cancer-detected-in-washington-soft-shell-clams/",
+      "imgSrc": "https://www.koin.com/wp-content/uploads/sites/10/2026/07/GettyImages-114340009.jpg?w=1280",
+      "teaser": "Although it is possible for the disease to spread to Oregon, an ODFW spokesperson told KOIN 6 there is “currently a low risk.”",
+      "body": [
+        "Although it is possible for the disease to spread to Oregon, an ODFW spokesperson told KOIN 6 there is currently a low risk.PORTLAND, Ore. (KOIN) Contagious cancer has hit shellfish in Washington. S…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence - BBC",
+      "deck": "Hilton said the facility \"failed the children\", as regulators cited neglect and use of unnecessary restraints.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjdg4r3k3emo",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/9ab8/live/35f74120-7a68-11f1-b3a0-9d60633dee75.jpg",
+      "teaser": "Hilton said the facility \"failed the children\", as regulators cited neglect and use of unnecessary restraints.",
+      "body": [
+        "Hilton said the facility \"failed the children\", as regulators cited neglect and use of unnecessary restraints. Social media personality Hilton, 45, said in a statement to the BBC: \"For more than fifty years, children came forward with stories of abuse, neglect, and trauma."
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Bunnie Xo Spotted Kissing Netflix Reality Star At Ex Jelly Roll’s Nashville Bar - Just Jared",
+      "deck": "Bunnie Xo appears to be moving on amid her divorce from Jelly Roll. According to TMZ, the podcast host was seen making out with Netflix's Calabasas",
+      "byline": "By Maddy Lennon",
+      "source": "Just Jared",
+      "url": "https://www.justjared.com/2026/07/07/bunnie-xo-spotted-kissing-netflix-reality-star-at-ex-jelly-rolls-nashville-bar/",
+      "imgSrc": "https://www.justjared.com/wp-content/uploads/2026/07/bunnie-xo-kissing-netflix-reality-star-jelly-roll-bar.jpg",
+      "teaser": "Bunnie Xo appears to be moving on amid her divorce from Jelly Roll. According to TMZ, the podcast host was seen making out with Netflix's Calabasas",
+      "body": [
+        "Credit: Getty Images Bunnie Xo appears to be moving on amid her divorce from Jelly Roll. According to TMZ, the podcast host was seen making out with Netflix’s Calabasas Confidential star Dylan Wol…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Tomi Adeyemi Doesn’t Support The Children of Blood and Bone Movie - Vulture",
+      "deck": "Tomi Adeyemi doesn’t support the upcoming film adaptation of her best-selling novel, The Children of Blood and Bone.",
+      "byline": "By Alejandra Gularte",
+      "source": "Vulture",
+      "url": "http://www.vulture.com/article/tomi-adeyemi-amandla-stenberg-children-of-blood-and-bone-film.html",
+      "imgSrc": "https://pyxis.nymag.com/v1/imgs/c67/6c6/c35eb5bcb6f5ace2611f6e5524aae9a4eb-tomi-adeyemi.1x.rsocial.w1200.jpg",
+      "teaser": "Tomi Adeyemi doesn’t support the upcoming film adaptation of her best-selling novel, The Children of Blood and Bone.",
+      "body": [
+        "Tomi Adeyemi doesn’t support the upcoming film adaptation of her best-selling novel, The Children of Blood and Bone. The film adaptation of The Children of Blood and Bone is getting messy. Author Tomi Adeyemi says she wants nothing to do with the Paramount Pictures adaptation of her best-selling novel.",
+        "Why dont you…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "UK Carbon Footprint",
+      "deck": "Given all of this, why on earth are we proposing to spend hundreds of billions on an impossible dream? The post UK Carbon Footprint appeared first on Watts Up With That?.",
+      "byline": "By Guest Blogger",
+      "source": "Wattsupwiththat.com",
+      "url": "https://wattsupwiththat.com/2026/07/08/uk-carbon-footprint/",
+      "imgSrc": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/07/uk-carbon-footprint.webp?fit=1024%2C512&quality=75&ssl=1",
+      "teaser": "Given all of this, why on earth are we proposing to spend hundreds of billions on an impossible dream? The post UK Carbon Footprint appeared first on Watts Up With That?.",
+      "body": [
+        "Given all of this, why on earth are we proposing to spend hundreds of billions on an impossible dream? The post UK Carbon Footprint appeared first on Watts Up With That?. From NOT A LOT OF PEOPLE KNOW THAT By Paul Homewood h/t Doug Brodie The bill for cutting UK emissions of greenhouse gases already stands at well over £100 billion, but what difference has it actua…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "France’s Heat Shock",
+      "deck": "June Loper, Harrison Stetler A historically hot summer is revealing a society massively unprepared for the new climate reality. The post France’s Heat Shock appeared first on The Nation.",
+      "byline": "By June Loper",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/?post_type=article&p=603350",
+      "imgSrc": "https://www.thenation.com/wp-content/uploads/2026/07/france-heat-wave-getty.jpg",
+      "teaser": "June Loper, Harrison Stetler A historically hot summer is revealing a society massively unprepared for the new climate reality. The post France’s Heat Shock appeared first on The N…",
+      "body": [
+        "June Loper, Harrison Stetler A historically hot summer is revealing a society massively unprepared for the new climate reality. The post France’s Heat Shock appeared first on The Nation. Environment / July 8, 2026 A historically hot summer is revealing a society massively unprepared for the new climate reality.",
+        "Ad Policy Customers queue outside a Buly shop under umbrellas to shiel…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Urban trees aren’t just nice, scientists say — they’re mandatory",
+      "deck": "Researchers are calling for cities to double down on one of the simplest — yet most powerful — solutions to many problems.",
+      "byline": "By Matt Simon",
+      "source": "National Observer",
+      "url": "https://www.nationalobserver.com/2026/07/08/news/urban-trees-canopy-upsides",
+      "imgSrc": "https://www.nationalobserver.com/sites/default/files/img/2026/07/06/gettyimages-2272795415.jpeg",
+      "teaser": "Researchers are calling for cities to double down on one of the simplest — yet most powerful — solutions to many problems.",
+      "body": [
+        "Researchers are calling for cities to double down on one of the simplest — yet most powerful — solutions to many problems. This story was originally published by Grist and appears here as part of the Climate Desk collaboration They tower overhead and sway in the wind and often teem with squawking birds, yet trees are ea…"
+      ]
+    }
+  }
+}
