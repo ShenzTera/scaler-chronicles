@@ -1,0 +1,406 @@
+{
+  "date": "Sunday, July 12, 2026",
+  "key": "jul12",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Apple sues OpenAI for trade secret theft - Axios",
+      "deck": "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device.",
+      "byline": "By Megan Morrone",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+      "imgSrc": "https://images.axios.com/CjZlbD1Jd_2r_2usaUtmXGYs_wk=/1366x768/smart/2024/03/28/004934-1711586974988.jpg",
+      "teaser": "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device.",
+      "body": [
+        "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device. What they're saying: \"Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's secret and confidential information regarding our unreleased technol…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Small plane crash in Bahamas kills 10 people - BBC",
+      "deck": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg47lz10p7o",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/77ca/live/66dbf810-7cdb-11f1-8c49-6f4d70563315.jpg",
+      "teaser": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
+      "body": [
+        "The country's prime minister called the crash, on the country's independence day, a tragedy. The light aircraft was making a short trip from Lynden Pindling International Airport, near capital Nassau, San Andros Airport when it \"reportedly encountered difficulties\" and crashed into bushes pr…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Trump looked to bypass federal election agency, report says - DW.com",
+      "deck": "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the Election Assistance Commission, a report has found.",
+      "byline": "By Shakeel Sobhan",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362",
+      "imgSrc": "https://static.dw.com/image/77881694_6.jpg",
+      "teaser": "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the Election Assistance Commission, a r…",
+      "body": [
+        "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the Election Assistance Commission, a report has found. The White House explored options for bypassing a bipartisan federal election agency and using emergency powers to push changes to voting systems before US President Donald Trump removed the agency's …"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Oregon AG Drops Demand For Records & Motion To Delay Paramount-Warner Bros. Discovery Merger, Company Says - Deadline",
+      "deck": "The attorney general sought records related to federal lobbying activity.",
+      "byline": "By Ted Johnson",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/07/paramount-warner-bros-oregon-attorney-general-motion-1236979773/",
+      "imgSrc": "https://deadline.com/wp-content/uploads/2026/02/paramount-warner-bros-hollywood.jpg?w=1024",
+      "teaser": "The attorney general sought records related to federal lobbying activity.",
+      "body": [
+        "The attorney general sought records related to federal lobbying activity. UPDATED, with comment from AG: Oregon‘s attorney general has dropped a civil investigative demand for Paramount to turn over records related to its efforts to secure federal approval for its merger w…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Apple sues OpenAI, alleging the AI company stole trade secrets - The Washington Post",
+      "deck": "The blockbuster allegations set up a major legal battle between two tech heavyweights.",
+      "byline": "By Gerrit De Vynck",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TSRM3JIXMACSXKWTPGPDGI5ER4_size-normalized.jpg&w=1440",
+      "teaser": "The blockbuster allegations set up a major legal battle between two tech heavyweights.",
+      "body": [
+        "The blockbuster allegations set up a major legal battle between two tech heavyweights. SAN FRANCISCO Tech giant Apple sued ChatGPT-maker OpenAI on Friday, alleging the artificial intelligence company stole its trade secrets as part of efforts to build out a competing hardware business."
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Trump celebrates $250B Micron investment, says America is 'GETTING SHOVELS IN THE GROUND' - Fox Business",
+      "deck": "Micron Technology's $250 billion investment will create 100,000 American jobs across semiconductor facilities in New York, Idaho and Virginia.",
+      "byline": "By Michael Sinkewicz",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/politics/trump-celebrates-250b-micron-investment-america-getting-shovels-ground",
+      "imgSrc": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/trump-micron-250-billion-investment.jpg?ve=1&tl=1",
+      "teaser": "Micron Technology's $250 billion investment will create 100,000 American jobs across semiconductor facilities in New York, Idaho and Virginia.",
+      "body": [
+        "Micron Technology's $250 billion investment will create 100,000 American jobs across semiconductor facilities in New York, Idaho and Virginia. President Donald Trump on Friday touted Micron Technology's plans to invest $250 billion in U.S. semiconductor manufacturing, including what the company says will become the largest chip manufacturin…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? - BBC",
+      "deck": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjrg9r80908o",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg",
+      "teaser": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
+      "body": [
+        "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up. \"The big video games are taking longer to make, and to fill gaps in the schedules, you're getting major companies turn to older classics, dusting them off and sometimes updating them for a modern era…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "iOS 27: What's New With the Mail App - MacRumors",
+      "deck": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features. Search...",
+      "byline": "By Juli Clover",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/guide/ios-27-mail/",
+      "imgSrc": "https://images.macrumors.com/t/5q6IoBKdDsTMnq3YGqWY3n7UWwY=/2500x/article-new/2026/07/iOS-27-Mail-Feature.jpg",
+      "teaser": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features. Search...",
+      "body": [
+        "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features. Search ‌iOS 27‌ has an overhauled search system that extends…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Santa Monica Studio Confirms Physical Disc Release for God of War Laufey, Suggesting 2027 Launch - IGN",
+      "deck": "Santa Monica Studio has confirmed God of War Laufey will \"be available on disc,\" suggesting its launch will arrive in 2027.",
+      "byline": "By Michael Cripe",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch",
+      "imgSrc": "https://assets-prd.ignimgs.com/2026/07/10/god-of-war-laufey-physical-disc-release-confirmed-2027-1783717114655.png?width=1280&format=jpg&auto=webp&quality=80",
+      "teaser": "Santa Monica Studio has confirmed God of War Laufey will \"be available on disc,\" suggesting its launch will arrive in 2027.",
+      "body": [
+        "Santa Monica Studio has confirmed God of War Laufey will \"be available on disc,\" suggesting its launch will arrive in 2027. The PlayStation studio announced the news with a post on its X/Twitter a…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "Dark energy flips its sign, but the Hubble tension refuses to budge - Phys.org",
+      "deck": "For nearly a century, astronomers have known that the universe is expanding. In the late 1990s, two independent teams, the Supernova Cosmology Project, led by Saul Perlmutter, and the High-Z Supernova Search Team, led by Brian Schmidt and Adam Riess, discover…",
+      "byline": "By Phys.Org",
+      "source": "Phys.Org",
+      "url": "https://phys.org/news/2026-07-dark-energy-flips-hubble-tension.html",
+      "imgSrc": "https://scx2.b-cdn.net/gfx/news/hires/2026/dark-energy-flips-its.jpg",
+      "teaser": "For nearly a century, astronomers have known that the universe is expanding. In the late 1990s, two independent teams, the Supernova Cosmology Project, led by Saul Perlmutter, and …",
+      "body": [
+        "by Sehjal Khandelwal, Abraão J. S. Capistrano and Suresh KumarFor nearly a century, astronomers have known that the universe is expanding. In the late 1990s, two independent teams, the Supernova Cosm…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "An exoplanet 124 light-years away may harbour a global ocean beneath a hydrogen-rich atmosphere. Webb has produced two tentative hints of dimethyl sulfide—a gas produced mainly by marine microorganisms on Earth—but independent analyses dispute - Space Daily",
+      "deck": "Webb has twice hinted at dimethyl sulfide, a life-linked gas, at the possible ocean world K2-18b. Independent teams re-examining the data doubt the molecule is there at all.",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/t-an-exoplanet-124-light-years-away-may-harbour-a-global-ocean-beneath-a-hydrogen-rich-atmosphere-webb-has-produced-two-tentative-hints-of-dimethyl-sulfide-a-gas-produced-mainly-by-marine-micro/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/07/exoplanet-sub-neptune-k2-18b.jpg",
+      "teaser": "Webb has twice hinted at dimethyl sulfide, a life-linked gas, at the possible ocean world K2-18b. Independent teams re-examining the data doubt the molecule is there at all.",
+      "body": [
+        "Webb has twice hinted at dimethyl sulfide, a life-linked gas, at the possible ocean world K2-18b. Independent teams re-examining the data doubt the molecule is there at all. A planet called K2-18b, 124 light-years away in the constellation Leo, has become the most closely watched world in the search for life beyond the solar system.",
+        "It may be a hycean world, a body wrapp…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "When a deep-sea robot ventured down into the Atlantic's Doldrums, it found something massive no one expected – leaving scientists stunned - BBC Wildlife Magazine",
+      "deck": "During a month-long mid-Atlantic expedition, underwater robots found rare hydrothermal vent systems, fish with translucent skulls and elusive squid with thread-like tentacles",
+      "byline": "By Melissa Hobson",
+      "source": "Discoverwildlife.com",
+      "url": "https://www.discoverwildlife.com/animal-facts/marine-animals/doldrums-fracture-zone-footage",
+      "imgSrc": "https://c02.purpledshub.com/uploads/sites/62/2026/07/FKt260517-S0930-20260604T004641Z-0-scicam-Anenome_Vent_Sample-scaled.jpg?w=1200",
+      "teaser": "During a month-long mid-Atlantic expedition, underwater robots found rare hydrothermal vent systems, fish with translucent skulls and elusive squid with thread-like tentacles",
+      "body": [
+        "During a month-long mid-Atlantic expedition, underwater robots found rare hydrothermal vent systems, fish with translucent skulls and elusive squid with thread-like tentacles\n\nFar from human reach, the oceans remote depths have long been inaccessible and full of mysteries but deep-sea robots are increasingly changing that.",
+        "In a new example of just how much were learning …"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "FIFA World Cup 2026 Live Streaming: Messi, Haaland and Kane in action as Argentina, Switzerland, England and Norway aim for last two semis spots; check kick-off time, venue and how to watch in US and Canada",
+      "deck": "England faces Norway in a crucial quarter-final match. Argentina and Switzerland also compete for a semi-final spot. Harry Kane and Erling Haaland are key players in their respective teams. Defending champions Argentina aim for a second consecutive World C…",
+      "byline": "By Divyadeep Singh",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/fifa-world-cup-2026-live-streaming-messi-haaland-and-kane-in-action-as-argentina-switzerland-england-and-norway-aim-for-last-two-semis-spots-check-kick-off-time-venue-and-how-to-watch-in-us-and-canada/articleshow/132326922.cms",
+      "imgSrc": "https://img.etimg.com/thumb/msid-132326997,width-1200,height-630,imgsize-419084,overlay-economictimes/articleshow.jpg",
+      "teaser": "England faces Norway in a crucial quarter-final match. Argentina and Switzerland also compete for a semi-final spot. Harry Kane and Erling Haaland are key players in their respecti…",
+      "body": [
+        "England faces Norway in a crucial quarter-final match. Argentina and Switzerland also compete for a semi-final spot. Harry Kane and Erling Haaland are key players in their respective teams. Defending champions Argentina aim for a second consecutive World C…\n\nFIFA World Cup 2026: The FIFA World Cup 2026 has now reached the last day of the quarter-final stage, with the last two semi-final spots still up for grabs.",
+        "To earn a place in the last four, England,…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Hockey star's praise for group that helped her",
+      "deck": "Great Britain player Iona Harrison praises Power Through Sport as it celebrates its 10th year.",
+      "byline": "By Tom MacDougall - North East and Cumbria",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7w92v1vezo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/bd494ba29c450bfdb37cadd5be0ee61855b890a17cb355fa896371d165c2e05a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fac2c89b047a2e9a164e480ffa0fa7ee1",
+      "teaser": "Great Britain player Iona Harrison praises Power Through Sport as it celebrates its 10th year.",
+      "body": [
+        "Great Britain player Iona Harrison praises Power Through Sport as it celebrates its 10th year. An international hockey player who gave up on sport in school has praised the group that introduced her to the game, as the organisation celebrates its 10th anniversary.",
+        "Iona Harrison, from Forest H…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Indonesia's Megawati urges climate cooperation with Timor-Leste",
+      "deck": "Former Indonesian President Megawati Soekarnoputri proposed strengthening bilateral relations with Timor Leste through joint initiatives in climate action and ...",
+      "byline": "By Fianda S",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/422251/indonesias-megawati-urges-climate-cooperation-with-timor-leste",
+      "imgSrc": "https://cdn.antaranews.com/cache/1200x800/2026/07/09/1000557457.jpg",
+      "teaser": "Former Indonesian President Megawati Soekarnoputri proposed strengthening bilateral relations with Timor Leste through joint initiatives in climate action and ...",
+      "body": [
+        "Jakarta (ANTARA) - Former Indonesian President Megawati Soekarnoputri proposed strengthening bilateral relations with Timor Leste through joint initiatives in climate action and a comparative study o…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Apple sues OpenAI for trade secret theft - Axios",
+      "deck": "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device.",
+      "byline": "By Megan Morrone",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+      "imgSrc": "https://images.axios.com/CjZlbD1Jd_2r_2usaUtmXGYs_wk=/1366x768/smart/2024/03/28/004934-1711586974988.jpg",
+      "teaser": "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device.",
+      "body": [
+        "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device. What they're saying: \"Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's secret and confidential information regarding our unreleased technol…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Small plane crash in Bahamas kills 10 people - BBC",
+      "deck": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg47lz10p7o",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/77ca/live/66dbf810-7cdb-11f1-8c49-6f4d70563315.jpg",
+      "teaser": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
+      "body": [
+        "The country's prime minister called the crash, on the country's independence day, a tragedy. The light aircraft was making a short trip from Lynden Pindling International Airport, near capital Nassau, San Andros Airport when it \"reportedly encountered difficulties\" and crashed into bushes pr…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Trump looked to bypass federal election agency, report says - DW.com",
+      "deck": "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the Election Assistance Commission, a report has found.",
+      "byline": "By Shakeel Sobhan",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362",
+      "imgSrc": "https://static.dw.com/image/77881694_6.jpg",
+      "teaser": "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the Election Assistance Commission, a r…",
+      "body": [
+        "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the Election Assistance Commission, a report has found. The White House explored options for bypassing a bipartisan federal election agency and using emergency powers to push changes to voting systems before US President Donald Trump removed the agency's …"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "England set for open-air Miami heat - but do Norway hold the edge? - BBC",
+      "deck": "England will head into unknown territory at this World Cup when they face Norway in Miami - playing in searing temperatures.",
+      "byline": "By Dale Johnson",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cx2jzl3zxpzo",
+      "imgSrc": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/33d3/live/2a391080-7c65-11f1-ab77-73970114f4de.jpg",
+      "teaser": "England will head into unknown territory at this World Cup when they face Norway in Miami - playing in searing temperatures.",
+      "body": [
+        "England will head into unknown territory at this World Cup when they face Norway in Miami - playing in searing temperatures. England's initial base when arriving in the United States was, coincidentally, Florida. Thomas Tuchel and his team spent 10 days in the area, playing warm-up games against New Zealand in Tampa and C…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "McGregor makes weight ahead of UFC 329 bout against Holloway - Al Jazeera",
+      "deck": "Conor McGregor, former two-division champion and still one of UFC’s most famous fighters, has not fought since 2021.",
+      "byline": "By Al Jazeera Staff",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/7/11/conor-mcgregor-max-holloway-weighs-in-at-170-5-pounds-ufc-329",
+      "imgSrc": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-11T021014Z_1880424090_MT1USATODAY29368253_RTRMADP_3_MMA-UFC-329-WEIGH-INS-1783741585_092b7c-1783742267.jpg?resize=1200%2C630&quality=80",
+      "teaser": "Conor McGregor, former two-division champion and still one of UFC’s most famous fighters, has not fought since 2021.",
+      "body": [
+        "Conor McGregor, former two-division champion and still one of UFC’s most famous fighters, has not fought since 2021. Conor McGregor is officially ready for his first UFC fight in five years after he weighed in at 170.5 pounds (77.3kg) on Friday ahead of his upcoming bout with Max Holloway.",
+        "McGregor vs Holloway 2 i…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Erling Haaland is Norway’s World Cup machine — and the internet’s ‘babygirl’ - AP News",
+      "deck": "Erling Haaland has become a social media sensation during the World Cup. Known for his towering presence and impressive skills, the Norwegian player has scored seven goals in four matches. Fans have embraced his quirky online persona, dubbing him “babygirl” a…",
+      "byline": "By Kaitlyn Huamani",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/erling-haaland-world-cup-memes-internet-culture-2b0eb9a162a020e83de02323fe2d774e",
+      "imgSrc": "https://dims.apnews.com/dims4/default/eca2eb0/2147483647/strip/true/crop/3417x2277+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffd%2F46%2F9699b1c7bbed0c1e9f4bacc2b6a3%2F97d0d43179e74af1ac1e54826eb2398c",
+      "teaser": "Erling Haaland has become a social media sensation during the World Cup. Known for his towering presence and impressive skills, the Norwegian player has scored seven goals in four …",
+      "body": [
+        "Erling Haaland has become a social media sensation during the World Cup. Known for his towering presence and impressive skills, the Norwegian player has scored seven goals in four matches. Fans have embraced his quirky online persona, dubbing him “babygirl” a…\n\nErling Haaland stands at 6 feet, 5 inches, an intimidating force who can make fellow soccer players look tiny in stature and talent.",
+        "Scoring seven goals across four World Cup matches entering Saturda…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "US citizen working in DR Congo tests positive for Ebola - CNN",
+      "deck": "A US citizen working for a humanitarian group in the Democratic Republic of Congo has tested positive for the Bundibugyo strain of the Ebola virus, the Centers for Disease Control and Prevention said in a statement on Friday.",
+      "byline": "By Laura Sharman",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/11/africa/us-citizen-tests-positive-ebola-bundibugyo-drc-hnk-intl",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/2026-06-10t234142z-929832038-rc21rlamroxq-rtrmadp-3-health-ebola-congo.JPG?c=16x9&q=w_800,c_fill",
+      "teaser": "A US citizen working for a humanitarian group in the Democratic Republic of Congo has tested positive for the Bundibugyo strain of the Ebola virus, the Centers for Disease Control …",
+      "body": [
+        "A US citizen working for a humanitarian group in the Democratic Republic of Congo has tested positive for the Bundibugyo strain of the Ebola virus, the Centers for Disease Control and Prevention said…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "Legionnaires' outbreak hits New York as officials rush to test water towers - BBC",
+      "deck": "To date, 46 people have been infected from breathing mist from bacteria-filled water coolers on the Upper East side.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c05y4gd2r0ro",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/6dcc/live/9de57ff0-7c74-11f1-917a-91e958a7e786.jpg",
+      "teaser": "To date, 46 people have been infected from breathing mist from bacteria-filled water coolers on the Upper East side.",
+      "body": [
+        "To date, 46 people have been infected from breathing mist from bacteria-filled water coolers on the Upper East side. In 2025, London, Ontario, saw 105 cases of Legionnaires' and five deaths. Last August, in Harlem in upper Manhattan, 114 people were infected and seven people died.",
+        "The sources of the outbreak were l…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma - AP News",
+      "deck": "Martha Lillard, the last U.S. polio patient using an iron lung, has died at 78 in Oklahoma. Her sister, Cindy McVey, attributes her death to long-haul COVID-19. Diagnosed with polio at 5, Lillard lived a remarkable life despite her challenges. She attended sc…",
+      "byline": "By Jennifer Sinco Kelleher",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iron-lung-last-patient-died-polio-41e5b4da4f4e710344dd0872d7fcf987",
+      "imgSrc": "https://dims.apnews.com/dims4/default/9b7118f/2147483647/strip/true/crop/5500x3665+0+933/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2F58%2Fe635de176b40739fca964bd3ec9a%2Fdc8a95a2b84d449ea6bee11b771736bd",
+      "teaser": "Martha Lillard, the last U.S. polio patient using an iron lung, has died at 78 in Oklahoma. Her sister, Cindy McVey, attributes her death to long-haul COVID-19. Diagnosed with poli…",
+      "body": [
+        "Martha Lillard, the last U.S. polio patient using an iron lung, has died at 78 in Oklahoma. Her sister, Cindy McVey, attributes her death to long-haul COVID-19. Diagnosed with polio at 5, Lillard lived a remarkable life despite her challenges.",
+        "She attended sc…\n\nMartha Lillard had just turned 5 when she was diagnosed with polio and depended on an iron lung to live. She died June 26 in Oklahoma, the last U.S. polio patient who used the machine, her sister sai…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Randolph Mantooth, who played medic in NBC’s ‘Emergency!’, dies at 80 - NBC News",
+      "deck": "LOS ANGELES — Actor Randolph Mantooth, best known for his role as firefighter and medic John Gage in NBC’s “Emergency!” television series in the 1970s, has died at age 80 after a long illness, his family said Friday.",
+      "byline": "By Bill Feather",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/randolph-mantooth-played-medic-nbcs-emergency-dies-80-rcna404688",
+      "imgSrc": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260710-Randolph-Mantooth-ww-2052-a3e5ad.jpg",
+      "teaser": "LOS ANGELES — Actor Randolph Mantooth, best known for his role as firefighter and medic John Gage in NBC’s “Emergency!” television series in the 1970s, has died at age 80 after a l…",
+      "body": [
+        "LOS ANGELES — Actor Randolph Mantooth, best known for his role as firefighter and medic John Gage in NBC’s “Emergency!” television series in the 1970s, has died at age 80 after a long illness, his family said Friday. LOS ANGELES Actor Randolph Mantooth, best known for his role as firefighter and medic John Gage in NBCs Emergency! television series in the 1970s, has died at age 80 after a long illness, his family…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Gunther attacks Nick Aldis following WWE Saturday Night’s Main Event announcement - F4W/WON",
+      "deck": "The issues between Gunther and Nick Aldis are far from over.",
+      "byline": "By Bryan Rose",
+      "source": "Figure Four Online",
+      "url": "https://www.f4wonline.com/news/wwe/gunther-attacks-nick-aldis-following-wwe-saturday-nights-main-event-announcement/",
+      "imgSrc": "https://www.f4wonline.com/wp-content/uploads/2026/07/HM6ZnPaW4AAmnBQ.jpg",
+      "teaser": "The issues between Gunther and Nick Aldis are far from over.",
+      "body": [
+        "The issues between Gunther and Nick Aldis are far from over. It was announced on Friday that at Saturday Nights Main Event, Gunther would be teaming with Sami Zayn to take on Cody Rhodes and CM Punk…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Baron Corbin returns to WWE, and he’s coming for Trick’s new furry championship - Cageside Seats",
+      "deck": "Baron Corbin makes his surprise return to WWE after Trick Williams unveils a new fur design for the US title.",
+      "byline": "By Cain A. Knight",
+      "source": "Cageside Seats",
+      "url": "https://www.cagesideseats.com/wwe/458944/baron-corbin-surprise-wwe-return-attacks-trick-williams-new-fur-belt-design-us-championship",
+      "imgSrc": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/07/baroncorbin2.jpg?quality=90&strip=all&crop=0,1.8960675862919,100,89.379207180254",
+      "teaser": "Baron Corbin makes his surprise return to WWE after Trick Williams unveils a new fur design for the US title.",
+      "body": [
+        "Baron Corbin makes his surprise return to WWE after Trick Williams unveils a new fur design for the US title. United States Champion Trick Williams is a huge star, so Lil Yachty unveiled his own special legacy fur edition of the United States championship on tonights (July 10) episode of SmackDown.",
+        "Check it …"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "Germany news: Third summer heat wave looms",
+      "deck": "Germany is in for another scorching week, though no records are likely to be broken this time, forecasters say. Meanwhile, a man has taken a woman hostage at a Berlin supermarket. DW has more Temperatures in some parts of Germany are forecast to soar to 38 de…",
+      "byline": "By Timothy Jones",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703",
+      "imgSrc": "https://static.dw.com/image/77696626_6.jpg",
+      "teaser": "Germany is in for another scorching week, though no records are likely to be broken this time, forecasters say. Meanwhile, a man has taken a woman hostage at a Berlin supermarket. …",
+      "body": [
+        "Germany is in for another scorching week, though no records are likely to be broken this time, forecasters say. Meanwhile, a man has taken a woman hostage at a Berlin supermarket. DW has more Temperatures in some parts of Germany are forecast to soar to 38 de…\n\nBusinesses say they want more time to reduce emissionsImage: Jan Woitas/dpa/picture alliance Several representatives from business, trade unions and politics say Germany should push back its goal of…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "How can Jersey adapt to a changing climate?",
+      "deck": "This year has already had three heatwaves and record temperatures, with warnings of more to come.",
+      "byline": "By Rhys Thomas - Jersey",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c892kj08qezo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/b5617baa385f3ac583d721fd005d82ffea83fe326efe3c1f349af35c2141ae6a/lightyear_networkapi/resizefill_w1000_h563;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F59cabd5c09625a659c8c5db0b39d5663",
+      "teaser": "This year has already had three heatwaves and record temperatures, with warnings of more to come.",
+      "body": [
+        "This year has already had three heatwaves and record temperatures, with warnings of more to come. Before July and August, traditionally Jersey's two hottest months, had started, the island had already experienced a pair of heatwaves and record temperatures. Climate change caused by humans has ma…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Ireland’s Greenest Places: Why we want to salute Net Zero Heroes",
+      "deck": "As the deadline to nominate people and places in the second Ireland’s Greenest Places competition approaches, we take a look at some of those already in the running",
+      "byline": "By Cian O'Connell",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/life-style/2026/07/12/irelands-greenest-places-why-we-want-to-salute-net-zero-heroes/",
+      "imgSrc": "https://www.irishtimes.com/resizer/v2/BZRV5OZJZJEVFLZSXNYQUVJI7E.jpg?smart=true&auth=effa245536af4a1fb6d90208ae3df1e849d1bba13605eb71b2cca4cc7024c961&width=1200&height=630",
+      "teaser": "As the deadline to nominate people and places in the second Ireland’s Greenest Places competition approaches, we take a look at some of those already in the running",
+      "body": [
+        "As the deadline to nominate people and places in the second Ireland’s Greenest Places competition approaches, we take a look at some of those already in the running\n\nWe are three weeks away from the closing date for entries to Irelands Greenest Places, a competition run by The Irish Times in association with Electric Ireland.",
+        "By August 1st, we are asking readers…"
+      ]
+    }
+  }
+}
