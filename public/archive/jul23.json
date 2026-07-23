@@ -1,0 +1,405 @@
+{
+  "date": "Thursday, July 23, 2026",
+  "key": "jul23",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Live updates: US-Iran war, Rubio warns Tehran ‘not serious’ about talks, US strikes continue - CNN",
+      "deck": "US President will observe a dignified transfer of US service members killed in the war later today, after the defense secretary said it has so far cost $37.5 billion. Follow for live updates.",
+      "byline": "By Jessie Yeung",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/22/world/live-news/the-war-with-iran",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-01t223900z-435700050-rc2d4ma91io9-rtrmadp-3-iran-crisis-20260721204321873.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "US President will observe a dignified transfer of US service members killed in the war later today, after the defense secretary said it has so far cost $37.5 billion. Follow for li…",
+      "body": [
+        "US President will observe a dignified transfer of US service members killed in the war later today, after the defense secretary said it has so far cost $37.5 billion. Follow for live updates. President Donald Trump continues to claim that the US will attack Irans Pickaxe Mountain turning attention to the suspected underground nuclear site where Israel believes Tehran has stored part of it…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Little Fire: Firefighter injured, evacuations ordered as wildfire explodes to 1007 acres near Pleasanton in Alameda County - ABC7 Bay Area",
+      "deck": "The fire, dubbed the \"Little Fire,\" started sometime before 3 p.m. in the area of Little Valley Road and Hubbard Lane south of Pleasanton and had burned 1,007 acres and 10% contained as of 10 p.m. Tuesday.",
+      "byline": "By ABC7 Bay Area Digital Staff",
+      "source": "KGO-TV",
+      "url": "https://abc7news.com/post/sunol-grass-fire-burning-pleasanton-scorches-75-acres-moderate-rate-spread/19552712/",
+      "imgSrc": "https://cdn.abcotvs.com/dip/images/19554735_072126-kgo-little-fire-flames-img.jpg?w=1600",
+      "teaser": "The fire, dubbed the \"Little Fire,\" started sometime before 3 p.m. in the area of Little Valley Road and Hubbard Lane south of Pleasanton and had burned 1,007 acres and 10% contain…",
+      "body": [
+        "ALAMEDA COUNTY, Calif. (KGO) -- A wildfire south of Pleasanton in Alameda County triggered evacuation orders on Tuesday afternoon, according to CAL FIRE. The fire, dubbed the \"Little Fire,\" started …"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Tropical Storm Bertha impacting northern Gulf Coast. See forecast map and its path. - CBS News",
+      "deck": "Tropical Storm Bertha is the second named storm of the Atlantic hurricane season.",
+      "byline": "By Sarah  Lynch Baldwin",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/tropical-storm-bertha-gulf-coast-maps-path/",
+      "imgSrc": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/21/69640ae4-5335-41e6-9d1f-0b8a417f7096/thumbnail/1200x630/465400c8f14cde752c177b4eae3fb78e/bertha21.jpg",
+      "teaser": "Tropical Storm Bertha is the second named storm of the Atlantic hurricane season.",
+      "body": [
+        "Tropical Storm Bertha is the second named storm of the Atlantic hurricane season. Tropical Storm Bertha was bringing rain to large swaths of the northern Gulf Coast early Wednesday as its projected path sparked watches and warnings. Bertha was moving westward at 6 mph and that ge…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Super Micro Shares Surge 20% After It Says Gross Margins Will Nearly Double - Barron's",
+      "deck": "Super Micro is crediting a favorable customer and product mix.",
+      "byline": "By Anita Hamilton",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/super-micro-stock-surge-gross-margins-3a0221fd",
+      "imgSrc": "https://images.barrons.com/im-65067522/social",
+      "teaser": "Super Micro is crediting a favorable customer and product mix.",
+      "body": [
+        "Super Micro is crediting a favorable customer and product mix. Shares ofSuper Microsurged more than 20% in after-hours trading Tuesday after the artificial intelligence server firm said that itsgross marginsExternal link for the quarter ending in June will be i…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Stock futures fall as investors gear up for more earnings: Live updates - CNBC",
+      "deck": "Investors looked ahead to another busy day of corporate earnings, with several major technology and industrial companies set to report.",
+      "byline": "By Chloe Taylor",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108337968-1784647816150-gettyimages-2287059605-anotherday241789564_dlr68bu0.jpeg?v=1784647890&w=1920&h=1080",
+      "teaser": "Investors looked ahead to another busy day of corporate earnings, with several major technology and industrial companies set to report.",
+      "body": [
+        "Investors looked ahead to another busy day of corporate earnings, with several major technology and industrial companies set to report. Stock futures fell early Wednesday as investors looked ahead to another busy day of corporate earnings, with several major technology and industrial companies set to report.",
+        "Futures tied to the Dow …"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Trump's push for American-made AI chips hits TSMC's margins - CNBC",
+      "deck": "The Taiwan-based chipmaker has announced $200 billion in investment into U.S. manufacturing since Trump returned to power in 2025.",
+      "byline": "By Kai Nicol-Schwarz",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108337070-1784504520587-108337070-1784504458735-gettyimages-2260914479-4075_48_th-0660-d.jpg?v=1784504533&w=1920&h=1080",
+      "teaser": "The Taiwan-based chipmaker has announced $200 billion in investment into U.S. manufacturing since Trump returned to power in 2025.",
+      "body": [
+        "The Taiwan-based chipmaker has announced $200 billion in investment into U.S. manufacturing since Trump returned to power in 2025. Pressure from President Donald Trump to manufacture advanced semiconductors in the U.S. is increasing costs and squeezing marginsat TSMC, the world's leading chipmaker.",
+        "Following Trump's return to …"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Langrisser: Sea of Sword first gameplay trailer, details, and screenshots - Gematsu",
+      "deck": "BlackJack Studio has released the first gameplay trailer, information, and screenshots for the newly announced “next-generation fantasy tactical RPG” Langrisser: Sea of Sword.",
+      "byline": "By Sal Romano",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/07/langrisser-sea-of-sword-first-gameplay-trailer-details-and-screenshots",
+      "imgSrc": "https://www.gematsu.com/wp-content/uploads/2026/07/Langrisser-Sea-of-Sword_2026_07-21-26_001.jpg",
+      "teaser": "BlackJack Studio has released the first gameplay trailer, information, and screenshots for the newly announced “next-generation fantasy tactical RPG” Langrisser: Sea of Sword.",
+      "body": [
+        "BlackJack Studio has released the first gameplay trailer, information, and screenshots for the newly announced “next-generation fantasy tactical RPG” Langrisser: Sea of Sword. Here are the details,…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "LG to Ban Residential Proxies from Smart TV Apps - Krebs on Security",
+      "deck": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers…",
+      "byline": "By Krebs on Security",
+      "source": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "imgSrc": "https://krebsonsecurity.com/wp-content/uploads/2026/07/pac-man-brightdata.png",
+      "teaser": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node.…",
+      "body": [
+        "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one’s television into an always-on residential proxy node. The move comes les…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Claude Code brings live iOS app testing into its Mac app - 9to5Mac",
+      "deck": "Claude Code’s Mac app now lets users test iOS apps in an interactive simulator pane, provided they have Xcode with the iOS platform installed.",
+      "byline": "By Marcus Mendes",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/07/21/claude-code-brings-live-ios-app-testing-into-its-mac-app/",
+      "imgSrc": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "teaser": "Claude Code’s Mac app now lets users test iOS apps in an interactive simulator pane, provided they have Xcode with the iOS platform installed.",
+      "body": [
+        "Claude Code’s Mac app now lets users test iOS apps in an interactive simulator pane, provided they have Xcode with the iOS platform installed. Claude Codes Mac app now lets users test iOS apps in an interactive simulator pane, provided they have Xcode with the iOS platform installed.",
+        "Here are the details. Claude users on the Pro, Max, and …"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "\"I didn’t know what I was looking at\": drone films one of the strangest and rarest animals on the planet - BBC Wildlife Magazine",
+      "deck": "The bizarre-looking wedgefish was one of several animals spotted swimming in a group through Shark Bay, says Wildlife videographer Jake Mason.",
+      "byline": "By Melissa Hobson",
+      "source": "Discoverwildlife.com",
+      "url": "https://www.discoverwildlife.com/animal-facts/marine-animals/whitespotted-wedgefish-australia",
+      "imgSrc": "https://c02.purpledshub.com/uploads/sites/62/2025/07/Wedgefish.jpeg?w=1200",
+      "teaser": "The bizarre-looking wedgefish was one of several animals spotted swimming in a group through Shark Bay, says Wildlife videographer Jake Mason.",
+      "body": [
+        "The bizarre-looking wedgefish was one of several animals spotted swimming in a group through Shark Bay, says Wildlife videographer Jake Mason. A videographer in Western Australia was amazed to see a critically endangered wedgefish leading a group of fish swimming just 200 metres from shore.",
+        "Back in 2024, Wildlife videographer Jake Mason, …"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Great Apes kiss and cuddle to keep the peace, says study - BBC",
+      "deck": "Hugging before stressful events may be an ancient way of building trust, say scientists studying apes.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y045vprg5o",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/1e13/live/bc1c77b0-8531-11f1-bee8-53ce494e1abc.jpg",
+      "teaser": "Hugging before stressful events may be an ancient way of building trust, say scientists studying apes.",
+      "body": [
+        "Hugging before stressful events may be an ancient way of building trust, say scientists studying apes. \"Before stressful events, they come together, they reassure each other, they touch each other, they hug each other,\" said Prof Zanna Clay."
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "A Psychologist Reveals The Most Intelligent Personality Type - Forbes",
+      "deck": "A landmark study of over 2 million people reveals which personality traits actually predict intelligence — and surprisingly, politeness isn't one of them.",
+      "byline": "By Mark Travers",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/traversmark/2026/07/21/a-psychologist-reveals-the-most-intelligent-personality-type/",
+      "imgSrc": "https://imageio.forbes.com/specials-images/imageserve/6a5f5ffb2a2a7bcb96c922ac/0x0.jpg?format=jpg&crop=2151,1210,x0,y62,safe&height=900&width=1600&fit=bounds",
+      "teaser": "A landmark study of over 2 million people reveals which personality traits actually predict intelligence — and surprisingly, politeness isn't one of them.",
+      "body": [
+        "A landmark study of over 2 million people reveals which personality traits actually predict intelligence — and surprisingly, politeness isn't one of them. The profile that actually predicts sharper thinking looks almost nothing like the quiet, cautious, agreeable stereotype most people carry around in their heads.",
+        "getty Humans have never stopped tryi…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Ulhasnagar civic body launches affordable ambulance service for citizens in city",
+      "deck": "The Ulhasnagar Municipal Corporation has launched an affordable ambulance service. Four new ambulances were added to the health department fleet on Tuesday. This initiative aims to strengthen emergency medical services for all residents. The service fulfills …",
+      "byline": "By Pradeep Gupta",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/thane/ulhasnagar-civic-body-launches-affordable-ambulance-service-for-citizens-in-city/articleshow/132554424.cms",
+      "imgSrc": "https://static.toiimg.com/thumb/msid-132554421,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "teaser": "The Ulhasnagar Municipal Corporation has launched an affordable ambulance service. Four new ambulances were added to the health department fleet on Tuesday. This initiative aims to…",
+      "body": [
+        "The Ulhasnagar Municipal Corporation has launched an affordable ambulance service. Four new ambulances were added to the health department fleet on Tuesday. This initiative aims to strengthen emergency medical services for all residents. The service fulfills …\n\nFollow Us On Social Media Quote of the day by Priyanka Chopra: It makes such a big difference to a child's confidence when they feel heard, parenting advice by the 'Varanasi' starNagarjuna slams Tol…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Real Madrid star Rodrygo on track for earlier-than-expected return",
+      "deck": "It has been around four months, 138 days to be precise, since the Real Madrid forward Rodrygo Goes suffered his latest injury, an anterior cruciate ligament tear and associated meniscus tear in his ri...",
+      "byline": "By Madrid Voice Articles",
+      "source": "Siempremadrid.com",
+      "url": "https://siempremadrid.com/real-madrid-star-rodrygo-on-track-for-earlier-than-expected-return/",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/bad35aeaa364dc5f488ff50752c303efa8514658e7483e0a228d62eac219e717/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_voice_articles_898%2F881ea40a75afdc017779369666ef13f2",
+      "teaser": "It has been around four months, 138 days to be precise, since the Real Madrid forward Rodrygo Goes suffered his latest injury, an anterior cruciate ligament tear and associated men…",
+      "body": [
+        "It has been around four months, 138 days to be precise, since the Real Madrid forward Rodrygo Goes suffered his latest injury, an anterior cruciate ligament tear and associated meniscus tear in his r…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "How a singer's chance encounter led to an alien experience in Hollywood",
+      "deck": "Winnie Ama couldn't believe her luck when she had the chance to sing her original song in the new Supergirl movie - but there was a catch.",
+      "byline": "By https://www.facebook.com/bbcnews",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce34yr1ppw3o",
+      "imgSrc": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c403/live/5099c170-842b-11f1-96d8-4b9d5565f166.jpg",
+      "teaser": "Winnie Ama couldn't believe her luck when she had the chance to sing her original song in the new Supergirl movie - but there was a catch.",
+      "body": [
+        "Winnie Ama couldn't believe her luck when she had the chance to sing her original song in the new Supergirl movie - but there was a catch. Winnie is well used to the spotlight - from performing in London bars to outdoor music festivals - but singing in an alien language brought a whole new world of challenges.",
+        "Her character performs h…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Live updates: US-Iran war, Rubio warns Tehran ‘not serious’ about talks, US strikes continue - CNN",
+      "deck": "US President will observe a dignified transfer of US service members killed in the war later today, after the defense secretary said it has so far cost $37.5 billion. Follow for live updates.",
+      "byline": "By Jessie Yeung",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/22/world/live-news/the-war-with-iran",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-01t223900z-435700050-rc2d4ma91io9-rtrmadp-3-iran-crisis-20260721204321873.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "US President will observe a dignified transfer of US service members killed in the war later today, after the defense secretary said it has so far cost $37.5 billion. Follow for li…",
+      "body": [
+        "US President will observe a dignified transfer of US service members killed in the war later today, after the defense secretary said it has so far cost $37.5 billion. Follow for live updates. President Donald Trump continues to claim that the US will attack Irans Pickaxe Mountain turning attention to the suspected underground nuclear site where Israel believes Tehran has stored part of it…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Little Fire: Firefighter injured, evacuations ordered as wildfire explodes to 1007 acres near Pleasanton in Alameda County - ABC7 Bay Area",
+      "deck": "The fire, dubbed the \"Little Fire,\" started sometime before 3 p.m. in the area of Little Valley Road and Hubbard Lane south of Pleasanton and had burned 1,007 acres and 10% contained as of 10 p.m. Tuesday.",
+      "byline": "By ABC7 Bay Area Digital Staff",
+      "source": "KGO-TV",
+      "url": "https://abc7news.com/post/sunol-grass-fire-burning-pleasanton-scorches-75-acres-moderate-rate-spread/19552712/",
+      "imgSrc": "https://cdn.abcotvs.com/dip/images/19554735_072126-kgo-little-fire-flames-img.jpg?w=1600",
+      "teaser": "The fire, dubbed the \"Little Fire,\" started sometime before 3 p.m. in the area of Little Valley Road and Hubbard Lane south of Pleasanton and had burned 1,007 acres and 10% contain…",
+      "body": [
+        "ALAMEDA COUNTY, Calif. (KGO) -- A wildfire south of Pleasanton in Alameda County triggered evacuation orders on Tuesday afternoon, according to CAL FIRE. The fire, dubbed the \"Little Fire,\" started …"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Tropical Storm Bertha impacting northern Gulf Coast. See forecast map and its path. - CBS News",
+      "deck": "Tropical Storm Bertha is the second named storm of the Atlantic hurricane season.",
+      "byline": "By Sarah  Lynch Baldwin",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/tropical-storm-bertha-gulf-coast-maps-path/",
+      "imgSrc": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/21/69640ae4-5335-41e6-9d1f-0b8a417f7096/thumbnail/1200x630/465400c8f14cde752c177b4eae3fb78e/bertha21.jpg",
+      "teaser": "Tropical Storm Bertha is the second named storm of the Atlantic hurricane season.",
+      "body": [
+        "Tropical Storm Bertha is the second named storm of the Atlantic hurricane season. Tropical Storm Bertha was bringing rain to large swaths of the northern Gulf Coast early Wednesday as its projected path sparked watches and warnings. Bertha was moving westward at 6 mph and that ge…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Heat say link for LeBron James presser posted by mistake - ESPN",
+      "deck": "The Heat said a scheduled live stream link titled \"LeBron James Introductory Press Conference\" was made while preparing for the possibility of James' signing and published by mistake.",
+      "byline": "By ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49422103/heat-say-link-lebron-james-presser-posted-mistake",
+      "imgSrc": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0717%2Fr1690578_1296x729_16%2D9.jpg",
+      "teaser": "The Heat said a scheduled live stream link titled \"LeBron James Introductory Press Conference\" was made while preparing for the possibility of James' signing and published by mista…",
+      "body": [
+        "The Heat said a scheduled live stream link titled \"LeBron James Introductory Press Conference\" was made while preparing for the possibility of James' signing and published by mistake. Jul 22, 2026, 12:15 AM ET The Miami Heat posted a link to a scheduled live stream titled \"LeBron James Introductory Press Conference\" followed by the date July 27 to its YouTube channel in what a te…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Robertson signs 1-year, $12 million contract with Stars - NHL.com",
+      "deck": "Forward led Dallas with 96 points last season, avoids arbitration hearing",
+      "byline": "By NHL News",
+      "source": "NHL News",
+      "url": "https://www.nhl.com/news/topic/free-agency/jason-robertson-signs-1-year-contract-with-dallas-stars",
+      "imgSrc": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1784679689/prd/nxbymffm3hoznlda0qbi.png",
+      "teaser": "Forward led Dallas with 96 points last season, avoids arbitration hearing",
+      "body": [
+        "Forward led Dallas with 96 points last season, avoids arbitration hearing\n\nRobertson led Dallas with 96 points (45 goals, 51 assists) in 82 regular-season games last season. He also had eight points (five goals, three assists) in six Stanley Cup Playoff games.",
+        "Jason has be…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "A's rookie Joshua Kuroda-Grauer put on injured list with ruptured testicle - USA Today",
+      "deck": "A's rookie Joshua Kuroda-Grauer was placed on the 10-day injured list with a ruptured testicle.",
+      "byline": "By Marcus D. Smith",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/mlb/athletics/2026/07/21/athletics-joshua-kuroda-grauer-injured-list-ruptured-testicle/91003200007/",
+      "imgSrc": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/22/USAT/91003433007-2286979982.jpg?crop=7007,3942,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+      "teaser": "A's rookie Joshua Kuroda-Grauer was placed on the 10-day injured list with a ruptured testicle.",
+      "body": [
+        "A's rookie Joshua Kuroda-Grauer was placed on the 10-day injured list with a ruptured testicle. Athletics rookie infielder Joshua Kuroda-Grauer was placed on the 10-day injured list following surgery for a ruptured testicle, the club announced Tuesday, July 21. Kuroda-Grauer was hurt in the A…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "New Zealand just had its first bird flu case. Now its taking a rare step to protect native birds - CNN",
+      "deck": "The pacific nation is rushing to vaccinate 300 breeding pairs of its most endangered native birds to protect them from H5N1 strain of birdflu.",
+      "byline": "By Todd Symons",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/22/world/new-zealand-bird-flu-protecting-native-birds-intl-hnk",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/kate-vaccinates-takahe-willowbank-14-july-2026.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "The pacific nation is rushing to vaccinate 300 breeding pairs of its most endangered native birds to protect them from H5N1 strain of birdflu.",
+      "body": [
+        "The pacific nation is rushing to vaccinate 300 breeding pairs of its most endangered native birds to protect them from H5N1 strain of birdflu. There is likely no nation more enamoured with birds than New Zealand; bird song marks 7 a.m.",
+        "on public radio, its people describe themselves as Kiwis (after the native flightless bird), and every yea…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "Chase Field, Chandler mall among new measles exposure sites in Maricopa County - AZ Family",
+      "deck": "Attendees of a Chase Field concert and shoppers at an East Valley mall may have been exposed to measles, according to health officials.",
+      "byline": "By Haley Williams",
+      "source": "AZFamily",
+      "url": "https://www.azfamily.com/2026/07/21/chase-field-chandler-mall-among-new-measles-exposure-sites-maricopa-county/",
+      "imgSrc": "https://gray-kpho-prod.gtv-cdn.com/resizer/v2/WNFAG6CFSBC2ZLPLIQNCPZ5O3A.jpg?auth=0fa5516a8ec93dfd371c1f792217b8b02c81fdda9121f963461fcecd4cca794d&width=1200&height=600&smart=true",
+      "teaser": "Attendees of a Chase Field concert and shoppers at an East Valley mall may have been exposed to measles, according to health officials.",
+      "body": [
+        "PHOENIX (AZFamily) Attendees of a Chase Field concert and shoppers at an East Valley mall may have been exposed to measles, according to Maricopa County Department of Public Health officials. A pers…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "U.S. measles cases hit 35-year record with months left in 2026 - The Washington Post",
+      "deck": "Data from Johns Hopkins University’s U.S. measles tracker shows that the nation reported 2,295 cases as of Tuesday. That count surpasses last year’s total of 2,289 cases.",
+      "byline": "By Lena H. Sun",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/health/2026/07/21/us-measles-cases-hit-35-year-record-with-months-left-2026/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZDQWTDYTD7PLCIG5DV7OOLRR7I_size-normalized.jpg&w=1440",
+      "teaser": "Data from Johns Hopkins University’s U.S. measles tracker shows that the nation reported 2,295 cases as of Tuesday. That count surpasses last year’s total of 2,289 cases.",
+      "body": [
+        "Data from Johns Hopkins University’s U.S. measles tracker shows that the nation reported 2,295 cases as of Tuesday. That count surpasses last year’s total of 2,289 cases. The United States has now reported the most measles cases in any year since 1991, not only surpassing all of last years record total, but also reaching the highest level in 35 years, with more than f…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Lizzo Is an SI Swimsuit Cover Girl in Bikini & Ralph Lauren Bling - Yahoo",
+      "deck": "Lizzo is officially an icon on the cover of Sports Illustrated Swimsuit. Gracing the July 2026 digital cover, the Grammy-winning superstar turned up the heat...",
+      "byline": "By Evolve Editors",
+      "source": "Reality Tea",
+      "url": "https://www.realitytea.com/2026/07/22/lizzo-bikini-sports-illustrated-swimsuit-cover-ralph-lauren/",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/21aaf46aed95435c7c703cd6956c468c83629d1faa3edc9c928497c9da12d91f/lightyear_networkapi/resizefill_w640_h360;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Fadda1496125468c82d3c83372913777b",
+      "teaser": "Lizzo is officially an icon on the cover of Sports Illustrated Swimsuit. Gracing the July 2026 digital cover, the Grammy-winning superstar turned up the heat...",
+      "body": [
+        "Lizzo is officially an icon on the cover of Sports Illustrated Swimsuit. Gracing the July 2026 digital cover, the Grammy-winning superstar turned up the heat for a sensational beachside photo shoot i…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "'Play music loud to remember Ozzy' says Sharon on first anniversary of his death - BBC",
+      "deck": "Sharon Osbourne shares with the BBC her memories and hopes for the future.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7lnl9jzgyo",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/1c58/live/5026ad40-853c-11f1-ab57-69b83adbeeff.jpg",
+      "teaser": "Sharon Osbourne shares with the BBC her memories and hopes for the future.",
+      "body": [
+        "Sharon Osbourne shares with the BBC her memories and hopes for the future. \"As Ozzy would say, 'when you want to remember me, just yank up the music really loud, as loud as you can get it, and just head bang'.\""
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "‘The Odyssey’ Posts Powerful $20M Tuesday; 2nd U.S. Weekend Could Top Christopher Nolan’s ‘Dark Knight’ Pics – Box Office - Deadline",
+      "deck": "The Odyssey' is looking at powerful Tuesday of $20M. The Christopher Nolan movie's second weekend is eyeing $61M-$74M possibly besting the second weekends of 'Dark Knight' films.",
+      "byline": "By Anthony D'Alessandro",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/07/box-office-the-odyssey-tuesday-second-weekend-1236999819/",
+      "imgSrc": "https://deadline.com/wp-content/uploads/2026/07/CT-44304_MSG_42f29a.jpg?w=1024",
+      "teaser": "The Odyssey' is looking at powerful Tuesday of $20M. The Christopher Nolan movie's second weekend is eyeing $61M-$74M possibly besting the second weekends of 'Dark Knight' films.",
+      "body": [
+        "The Odyssey' is looking at powerful Tuesday of $20M. The Christopher Nolan movie's second weekend is eyeing $61M-$74M possibly besting the second weekends of 'Dark Knight' films. The Odysseyis on its way to a $20M Tuesday, we understand, and if it gets past $20.86M today, it will become Christopher Nolan’s best Tuesday ever at the domestic B.O., ahead of 2008’s The Dark Knigh…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "Canada's boreal wildfires aren't just bad forest management",
+      "deck": "This is a re-post from The Climate Brink Over the past week smoke from Canadian wildfires has once again poured into cities across Canada and the northern US. Toronto briefly had the worst air quality of any major city on Earth, Thunder Bay’s readings went…",
+      "byline": "By Skepticalscience.com",
+      "source": "Skepticalscience.com",
+      "url": "https://skepticalscience.com/canada-boreal-wildfires-not-just-bad-management.html",
+      "imgSrc": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+      "teaser": "This is a re-post from The Climate Brink Over the past week smoke from Canadian wildfires has once again poured into cities across Canada and the northern US. Toronto briefly had t…",
+      "body": [
+        "This is a re-post from The Climate Brink Over the past week smoke from Canadian wildfires has once again poured into cities across Canada and the northern US. Toronto briefly had the worst air quality of any major city on Earth, Thunder Bay’s readings went…\n\nOver the past week smoke from Canadian wildfires has once again poured into cities across Canada and the northern US.",
+        "Toronto briefly had the worst air quality of any major city on Earth, Thunder Bay…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "Why did the wolverine become endangered?",
+      "deck": "Why Did the Wolverine Face the Brink? Understanding the Wolverine’s Endangered Status The wolverine teetered on the edge of extinction primarily due to habitat loss, climate change impacting snowpack, and historical trapping. This combination dramatically red…",
+      "byline": "By Ava Reynolds",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/why-did-the-wolverine-become-endangered/",
+      "imgSrc": "https://images.unsplash.com/photo-1585473689681-8f7e1bca5ec9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxXaHklMjBkaWQlMjB0aGUlMjB3b2x2ZXJpbmV8ZW58MHwwfHx8MTc4NDc5NDUzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "teaser": "Why Did the Wolverine Face the Brink? Understanding the Wolverine’s Endangered Status The wolverine teetered on the edge of extinction primarily due to habitat loss, climate change…",
+      "body": [
+        "Why Did the Wolverine Face the Brink? Understanding the Wolverine’s Endangered Status The wolverine teetered on the edge of extinction primarily due to habitat loss, climate change impacting snowpac…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Meteorologist debunks climate change narrative: Heatwaves in USA were more frequent from 1901-1960",
+      "deck": "The narrative that climate change is producing unprecedented, relentlessly intensifying, runaway heatwaves across the United States has been a cornerstone of environmental alarmism for years. From cable news segments to political speeches, the public is told …",
+      "byline": "By Lance D Johnson",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-07-22-meteorologist-debunks-climate-change-narrative-heatwaves-more-frequent-1901-1960.html",
+      "imgSrc": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/air-quality-projections-climate-penalty-emission-reductions-772-original.jpg",
+      "teaser": "The narrative that climate change is producing unprecedented, relentlessly intensifying, runaway heatwaves across the United States has been a cornerstone of environmental alarmism…",
+      "body": [
+        "The narrative that climate change is producing unprecedented, relentlessly intensifying, runaway heatwaves across the United States has been a cornerstone of environmental alarmism for years. From ca…"
+      ]
+    }
+  }
+}
