@@ -1,0 +1,406 @@
+{
+  "date": "Thursday, September 3, 2026",
+  "key": "sep03",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations - CNBC",
+      "deck": "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe.",
+      "byline": "By Sam Meredith",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108357548-1788338757814-gettyimages-2290976287-df1_3870_qrdvjofz.jpeg?v=1788338798&w=1920&h=1080",
+      "teaser": "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe.",
+      "body": [
+        "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe. Ukrainian President Volodymyr Zelenskyy has urged airlines to avoid Russian airspace as Kyiv expands its drone operations. \"We want to warn every airline that uses Russian airspace, every insurer, a…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying - BBC",
+      "deck": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9qr4gp8qy9o",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/5c43/live/4a3ec160-a62a-11f1-905b-8511af748865.jpg",
+      "teaser": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "body": [
+        "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023. Clancy is accused of strangling her kids - Cora, five, Dawson, three, and Callan, who was eight months - with fitness bands in their Massachusetts home in January 2023."
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Michael Bay Details Recent Conversation With Shia LaBeouf Amid His Ongoing Issues - TMZ",
+      "deck": "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together.",
+      "byline": "By TMZ Staff",
+      "source": "TMZ",
+      "url": "https://www.tmz.com/2026/09/02/michael-bay-comments-on-shia-labeouf/",
+      "imgSrc": "https://imagez.tmz.com/image/bf/16by9/2026/09/01/bf429a2f02354cc4a3301aaf9a46d6f1_xl.png",
+      "teaser": "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together.",
+      "body": [
+        "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together. The legendary action movie director sat d…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Credo Shares Sink Despite Earnings Beat - Barron's",
+      "deck": "The firm specializes in copper cables used to connect AI servers to networking switches.",
+      "byline": "By Anita Hamilton",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/credo-earnings-stock-price-9f8c1d24",
+      "imgSrc": "https://images.barrons.com/im-03170163/social",
+      "teaser": "The firm specializes in copper cables used to connect AI servers to networking switches.",
+      "body": [
+        "The firm specializes in copper cables used to connect AI servers to networking switches. Shares ofCredoTechnology, which makes electrical cables and digital signal processors used in artificial intelligence data centers, fell sharply ahead of Wednesdays opening bell despite an earnings b…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Dow Jones Futures: Dell, Credo, Palo Alto Are Earnings Movers Late; Oil Prices Keep Rising - Investor's Business Daily",
+      "deck": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices soared.",
+      "byline": "By Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/",
+      "imgSrc": "https://www.investors.com/wp-content/uploads/2021/08/Stock_oilrig_sunset_adobe.jpg",
+      "teaser": "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices soared.",
+      "body": [
+        "The Dow Jones and Nasdaq 100 fell below their 50-day lines as oil prices soared. Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities.",
+        "…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Broadcom Looks for a Reset with Third-Quarter Earnings - Barron's",
+      "deck": "Though Wall Street analysts expect around 70% earnings growth this year and next, the stock is down 30% from its all-time high in June.",
+      "byline": "By Adam Levine",
+      "source": "Barron's",
+      "url": "https://www.barrons.com/articles/broadcom-earnings-stock-ai-chips-13672771",
+      "imgSrc": "https://images.barrons.com/im-98039672/social",
+      "teaser": "Though Wall Street analysts expect around 70% earnings growth this year and next, the stock is down 30% from its all-time high in June.",
+      "body": [
+        "Broadcomhas the opportunity to reset the narrative with its third-quarter earnings on Wednesday afternoon after a tumultuous three months for the stock. Though Wall Street analysts expect around 70% …"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Apple Launching Eight New Products This Month - MacRumors",
+      "deck": "Apple last month announced a new Mac mini and a new Mac Studio. Both machines start shipping on Tuesday, September 22, which means they will launch...",
+      "byline": "By Tim Hardwick",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/02/apple-launching-eight-new-products-next-month/",
+      "imgSrc": "https://images.macrumors.com/t/N5tp-9D45kaYwmW4T-nKdXWOXn4=/1600x/article-new/2025/11/Apple-Store-Logo-Livat-Beijing.jpeg",
+      "teaser": "Apple last month announced a new Mac mini and a new Mac Studio. Both machines start shipping on Tuesday, September 22, which means they will launch...",
+      "body": [
+        "Apple last month announced a new Mac mini and a new Mac Studio. Both machines start shipping on Tuesday, September 22, which means they will launch in the same month as new iPhones, Apple Watches, an…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Dell’s newest laptop sounds a lot like a MacBook Neo - The Verge",
+      "deck": "Dell’s new Dell 14S is a colorful laptop aimed at students, starting with 8GB of RAM and sporting Intel’s Wildcat Lake chips.",
+      "byline": "By Antonio G. Di Benedetto",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
+      "imgSrc": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&strip=all&crop=0%2C16.709105790342%2C100%2C66.581788419316&w=1200",
+      "teaser": "Dell’s new Dell 14S is a colorful laptop aimed at students, starting with 8GB of RAM and sporting Intel’s Wildcat Lake chips.",
+      "body": [
+        "Dell’s new Dell 14S is a colorful laptop aimed at students, starting with 8GB of RAM and sporting Intel’s Wildcat Lake chips. The Dell 14S promises an aluminum build, Intel Wildcat Lake chips, and lots of battery life for a price we dont know exactly yet.",
+        "The Dell 14S promises an alumi…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Super Smash Bros. Ultimate 13.0.5 update out now, patch notes - Nintendo Everything",
+      "deck": "Nintendo has come out with a new version 13.0.5 update for Super Smash Bros. Ultimate, and the patch notes are here.",
+      "byline": "By Brian",
+      "source": "Nintendoeverything.com",
+      "url": "https://nintendoeverything.com/super-smash-bros-ultimate-13-0-5-update-out-now-patch-notes/",
+      "imgSrc": "https://nintendoeverything.com/wp-content/uploads/Super-Smash-Bros.-Ultimate-13.0.5-update.jpg",
+      "teaser": "Nintendo has come out with a new version 13.0.5 update for Super Smash Bros. Ultimate, and the patch notes are here.",
+      "body": [
+        "Nintendo has come out with a new version 13.0.5 update for Super Smash Bros. Ultimate, and the patch notes are here. We’ve got news about another Nintendo game that’s received an update, and this time it’s Super Smash Bros. Ultimate going up to version 13.0.5.",
+        "We’ll mention right out of the gate that this is a sma…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "Nasa scientists grew corn seeds in space and found that microgravity changed how the seedlings’ roots and - The Times of India",
+      "deck": "Science News: Long before astronauts ever plant a seed on the Moon or Mars, Nasa has been testing a much simpler question here on Earth's doorstep: what happens whe.",
+      "byline": "By TOI Science Desk",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/science/nasa-scientists-grew-corn-seeds-in-space-and-found-that-microgravity-changed-how-the-seedlings-roots-and-shoots-grew/articleshow/133610065.cms",
+      "imgSrc": "https://static.toiimg.com/thumb/msid-133610277,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "teaser": "Science News: Long before astronauts ever plant a seed on the Moon or Mars, Nasa has been testing a much simpler question here on Earth's doorstep: what happens whe.",
+      "body": [
+        "Science News: Long before astronauts ever plant a seed on the Moon or Mars, Nasa has been testing a much simpler question here on Earth's doorstep: what happens whe. News Science News Nasa scientists grew corn seeds in space and found that microgravity changed how the seedlings roots and shoots grew Follow Us On Social Media…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "China’s 2026 moon laser communication speed is slower than Nasa’s in 2013 - South China Morning Post",
+      "deck": "Data rates during two-way laser link between Earth and the moon were well behind US experiment over a decade ago.",
+      "byline": "By Post Magazine",
+      "source": "Post Magazine",
+      "url": "https://www.scmp.com/news/china/science/article/3365942/chinas-2026-moon-laser-communication-speed-slower-nasas-2013",
+      "imgSrc": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/01/7df3efb0-fd7b-41e1-9f24-f085a09176d2_a78be505.jpg?itok=BVKJ7f3s&v=1788244267",
+      "teaser": "Data rates during two-way laser link between Earth and the moon were well behind US experiment over a decade ago.",
+      "body": [
+        "Data rates during two-way laser link between Earth and the moon were well behind US experiment over a decade ago. China has pulled off two-way laser communication between Earth and the moon, making it only the second nation after the United States to do so.",
+        "But the data rates it achieved were well behind those r…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "An icy world only 500 kilometres across beyond Neptune was found in May 2026 to possess an atmosphere that should escape within 1,000 years. Scientists suspect a recent impact or continuing cryovolcanism—but still cannot explain what created or repleni - Space Daily",
+      "deck": "A 2024 occultation indicates that the 500-kilometre trans-Neptunian object 2002 XV93 carries a 100-to-200-nanobar atmosphere, but neither an impact nor continuing outgassing has been demonstrated.",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/t-2002-xv93-500km-world-improbable-atmosphere/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/09/naoj-2002-xv93-atmosphere-occultation-1024x768.jpg",
+      "teaser": "A 2024 occultation indicates that the 500-kilometre trans-Neptunian object 2002 XV93 carries a 100-to-200-nanobar atmosphere, but neither an impact nor continuing outgassing has be…",
+      "body": [
+        "A 2024 occultation indicates that the 500-kilometre trans-Neptunian object 2002 XV93 carries a 100-to-200-nanobar atmosphere, but neither an impact nor continuing outgassing has been demonstrated. A body only about 500 kilometres wide, circling in the deep cold beyond Neptune, appears to possess an atmosphere.",
+        "That sentence is difficult to reconcile with the world’s weak gravity, and the team …"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "$1.99 | Tribe: On Homecoming and Belonging (eBook) by Sebastian Junger",
+      "deck": "*Available Retailers:*[list][*]Amazon [amazon.com] (Kindle eBook)[*]iBooks [apple.com][*]Barnes & Noble [barnesandnoble.com] (NOOK eBook)[*]Google Play Store [google.com][*]Kobo [kobo.com][*]Bookshop...",
+      "byline": "By phoinix",
+      "source": "Slickdeals.net",
+      "url": "https://slickdeals.net/f/19959456-1-99-tribe-on-homecoming-and-belonging-ebook-by-sebastian-junger",
+      "imgSrc": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/21470802.thumb",
+      "teaser": "*Available Retailers:*[list][*]Amazon [amazon.com] (Kindle eBook)[*]iBooks [apple.com][*]Barnes & Noble [barnesandnoble.com] (NOOK eBook)[*]Google Play Store [google.com][*]Kobo [k…",
+      "body": [
+        "*Available Retailers:*[list][*]Amazon [amazon.com] (Kindle eBook)[*]iBooks [apple.com][*]Barnes & Noble [barnesandnoble.com] (NOOK eBook)[*]Google Play Store [google.com][*]Kobo [kobo.com][*]Bookshop... Available Retailers:Author: Sebastian JungerPublisher: TwelvePublication date: May 24, 2016Print length: 181 pagesGreat on Kindle:We have a strong instinct to belong to small groups defined by clear …"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Peter Llewellyn-Jones dead aged 76: Star best known for playing Mr Grimley in 90s children's show and his BSL advocacy and education passes away",
+      "deck": "For many viewers, Peter was remembered as the slightly eccentric Mr Grimley, Marjorie's neighbour in the long-running children's television series.",
+      "byline": "By Charlotte Dean",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16098579/Peter-Llewellyn-Jones-dead-aged-76-Star-best-known-playing-Mr-Grimley-90s-children-known-BSL-advocacy-education-passes-away.html",
+      "imgSrc": "https://i.dailymail.com/1s/2026/09/02/11/110997203-0-image-a-20_1788344495685.jpg",
+      "teaser": "For many viewers, Peter was remembered as the slightly eccentric Mr Grimley, Marjorie's neighbour in the long-running children's television series.",
+      "body": [
+        "For many viewers, Peter was remembered as the slightly eccentric Mr Grimley, Marjorie's neighbour in the long-running children's television series. Peter Llewellyn-Jones, the British Sign Language interpreter and academic who became a familiar face to a generation of children as Mr Montgomery Lancelot Grimley in The Riddlers, has died aged 76.",
+        "…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Hyundai India MD seeks long-term policy, shift to advanced tech exports",
+      "deck": "Hyundai Motor India MD and CEO Tarun Garg on Wednesday called for a consistent long-term policy framework to support scale and accelerate technology and component development, while urging the country's auto industry to move beyond exporting conventional comp…",
+      "byline": "By Press Trust of India",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/companies/news/hyundai-india-md-seeks-long-term-policy-shift-to-advanced-tech-exports-126090200769_1.html",
+      "imgSrc": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/30/thumb/fitandfill/1200X628/1785435828-1946.jpg",
+      "teaser": "Hyundai Motor India MD and CEO Tarun Garg on Wednesday called for a consistent long-term policy framework to support scale and accelerate technology and component development, whil…",
+      "body": [
+        "Hyundai Motor India MD and CEO Tarun Garg on Wednesday called for a consistent long-term policy framework to support scale and accelerate technology and component development, while urging the countr…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations - CNBC",
+      "deck": "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe.",
+      "byline": "By Sam Meredith",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/ukraine-zelenskyy-airlines-russia-drone-war.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108357548-1788338757814-gettyimages-2290976287-df1_3870_qrdvjofz.jpeg?v=1788338798&w=1920&h=1080",
+      "teaser": "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe.",
+      "body": [
+        "Zelenskyy urged airlines to avoid Russian airspace, warning that expanding Ukrainian drone operations are making the skies increasingly unsafe. Ukrainian President Volodymyr Zelenskyy has urged airlines to avoid Russian airspace as Kyiv expands its drone operations. \"We want to warn every airline that uses Russian airspace, every insurer, a…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying - BBC",
+      "deck": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9qr4gp8qy9o",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/5c43/live/4a3ec160-a62a-11f1-905b-8511af748865.jpg",
+      "teaser": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+      "body": [
+        "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023. Clancy is accused of strangling her kids - Cora, five, Dawson, three, and Callan, who was eight months - with fitness bands in their Massachusetts home in January 2023."
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Michael Bay Details Recent Conversation With Shia LaBeouf Amid His Ongoing Issues - TMZ",
+      "deck": "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together.",
+      "byline": "By TMZ Staff",
+      "source": "TMZ",
+      "url": "https://www.tmz.com/2026/09/02/michael-bay-comments-on-shia-labeouf/",
+      "imgSrc": "https://imagez.tmz.com/image/bf/16by9/2026/09/01/bf429a2f02354cc4a3301aaf9a46d6f1_xl.png",
+      "teaser": "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together.",
+      "body": [
+        "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together. The legendary action movie director sat d…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Fantasy football 2026 rankings, draft prep: Best QB, WR, RB, TE picks, cheat sheets, tiers by proven model - CBS Sports",
+      "deck": "SportsLine simulated the new NFL season 10,000 times and revealed its 2026 Fantasy football QB, RB, WR picks and rankings after studying the latest Fantasy football ADP",
+      "byline": "By Ross Kelly",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-best-qb-wr-rb-te-picks-cheat-sheets-tiers-by-proven-model/",
+      "imgSrc": "https://sportshub.cbsistatic.com/i/r/2026/08/24/67a5e571-88de-4a8b-84d6-7b081f2943ed/thumbnail/1200x675/08d383221f6c3e71bde7edb7a6fd049d/jaxon-smith-njigba-seattle-seahawks-imagn-images.jpg",
+      "teaser": "SportsLine simulated the new NFL season 10,000 times and revealed its 2026 Fantasy football QB, RB, WR picks and rankings after studying the latest Fantasy football ADP",
+      "body": [
+        "SportsLine simulated the new NFL season 10,000 times and revealed its 2026 Fantasy football QB, RB, WR picks and rankings after studying the latest Fantasy football ADP\n\nThe NFL preseason and roster cuts are now in the books, with just eight days remaining before the 2026 NFL season kicks off.",
+        "Building a deep and talented roster capable of winning a Fantasy football …"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Arte Moreno Agrees To Sell Angels To Rams Owner Stan Kroenke - MLB Trade Rumors",
+      "deck": "The Angels have finally been sold. Head to MLB Trade Rumors for details.",
+      "byline": "By Steve Adams",
+      "source": "MLB Trade Rumors",
+      "url": "https://www.mlbtraderumors.com/2026/09/arte-moreno-sells-angels-rams-owner-stan-kroenke.html",
+      "imgSrc": "https://cdn.mlbtraderumors.com/files/2026/09/stan-kroenke-rams-owner-angels-1024x776.jpg",
+      "teaser": "The Angels have finally been sold. Head to MLB Trade Rumors for details.",
+      "body": [
+        "The Angels have finally been sold. Head to MLB Trade Rumors for details. Angels owner Arte Moreno has agreed to sell the team to billionaire Stan Kroenke, owner of the NFL’s Los Angeles Rams, reports Sam Farmer of the L.A.",
+        "Times. It’s a stunning and out-of-the-blue develo…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "US Open 2026: Gael Monfils wins on 40th birthday to reach New York second round - BBC",
+      "deck": "French veteran Gael Monfils is treated to a rendition of Happy Birthday by the US Open crowd as he becomes the oldest man to win a match there since 1992.",
+      "byline": "By Jonathan Jurejko",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/tennis/articles/cn0j4wxx067o",
+      "imgSrc": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c530/live/1d36da60-a673-11f1-82b7-510483674740.jpg",
+      "teaser": "French veteran Gael Monfils is treated to a rendition of Happy Birthday by the US Open crowd as he becomes the oldest man to win a match there since 1992.",
+      "body": [
+        "French veteran Gael Monfils is treated to a rendition of Happy Birthday by the US Open crowd as he becomes the oldest man to win a match there since 1992. Most people celebrate their 40th birthday with a slap-up meal or a surprise party.",
+        "Gael Monfils, the maverick Frenchman who always knows how to have fun on the court, marked his milestone by winning…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "6-year-old overcomes cancer, spinal cord injury with grit and determination - KSL.com",
+      "deck": "Matias was just a baby when his parents learned he had a rare childhood cancer. The cancer and a spinal cord injury affected his ability to walk.",
+      "byline": "By Nicky Zizaza",
+      "source": "KSL.com",
+      "url": "https://www.ksl.com/article/51618855/6-year-old-overcomes-cancer-spinal-cord-injury-with-grit-and-determination",
+      "imgSrc": "https://img.ksl.com/slc/3200/320013/32001387.jpg?filter=kslv2/responsive_story_lg",
+      "teaser": "Matias was just a baby when his parents learned he had a rare childhood cancer. The cancer and a spinal cord injury affected his ability to walk.",
+      "body": [
+        "BALTIMORE Matias was just a baby when his parents learned he had a rare childhood cancer. The cancer and a spinal cord injury affected his ability to walk. Today, Matias can walk, but he continues t…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "Testosterone bought by menopausal women posing as men due to NHS issues - BBC",
+      "deck": "One menopause specialist says she has seen women with up to 12 times the safe level of the hormone.",
+      "byline": "By BBC News",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjw53nl479do",
+      "imgSrc": "https://ichef.bbci.co.uk/news/1024/branded_news/6ab1/live/998cf1a0-a6ad-11f1-aed2-8d6da8d75094.jpg",
+      "teaser": "One menopause specialist says she has seen women with up to 12 times the safe level of the hormone.",
+      "body": [
+        "One menopause specialist says she has seen women with up to 12 times the safe level of the hormone. The 59-year-old from Sully, Vale of Glamorgan, said she noticed a shift in her own outlook at 47, when she went from a \"really sociable, happy person\" to someone who felt \"quite insecure, paranoid, l…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "A Drug-Resistant Ringworm Fungus is Surging Across the Globe, Scientists Warn - Gizmodo",
+      "deck": "The emerging fungus Trichophyton indotineae can cause severe and hard-to-treat cases of ringworm.",
+      "byline": "By Ed Cara",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/a-drug-resistant-ringworm-fungus-is-surging-across-the-globe-scientists-warn-2000805680",
+      "imgSrc": "https://gizmodo.com/app/uploads/2026/09/Ringworm-infection-1200x675.jpg",
+      "teaser": "The emerging fungus Trichophyton indotineae can cause severe and hard-to-treat cases of ringworm.",
+      "body": [
+        "The emerging fungus Trichophyton indotineae can cause severe and hard-to-treat cases of ringworm. An emerging fungus that can cause hard-to-treat ringworm is extending its tendrils around the globe, recent research shows. Scientists in Europe studied data from laboratories across dozens of count…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Michael Bay Details Recent Conversation With Shia LaBeouf Amid His Ongoing Issues - TMZ",
+      "deck": "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together.",
+      "byline": "By TMZ Staff",
+      "source": "TMZ",
+      "url": "https://www.tmz.com/2026/09/02/michael-bay-comments-on-shia-labeouf/",
+      "imgSrc": "https://imagez.tmz.com/image/bf/16by9/2026/09/01/bf429a2f02354cc4a3301aaf9a46d6f1_xl.png",
+      "teaser": "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together.",
+      "body": [
+        "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together. The legendary action movie director sat d…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Mark Ruffalo comments cause pushback against anti-Semitism ‘smear campaign’ - Al Jazeera",
+      "deck": "The actor criticised Paramount-Warner Bros merger, linking it to Oracle’s ties with Israeli military amid Gaza genocide.",
+      "byline": "By Usaid Siddiqui",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/2/mark-ruffalo-comments-spark-pushback-against-antisemitism-smear-campaign",
+      "imgSrc": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a92da0f09-1788008975-1-1788331869.jpg?resize=1200%2C630",
+      "teaser": "The actor criticised Paramount-Warner Bros merger, linking it to Oracle’s ties with Israeli military amid Gaza genocide.",
+      "body": [
+        "The actor criticised Paramount-Warner Bros merger, linking it to Oracle’s ties with Israeli military amid Gaza genocide. More than 180 prominent Jewish figures, most of them from the entertainment industry, on Wednesday came out in strong support of Hollywood actor Mark Ruffalo, rejecting the accusations of anti-Semiti…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Every ‘Spider-Man’ Movie Villain, Ranked - The Hollywood Reporter",
+      "deck": "With the release of 'Spider-Man: Brand New Day,' The Hollywood Reporter ranks Spidey’s cinematic crooks and creeps — from worst to best, below.",
+      "byline": "By Richard Newby",
+      "source": "Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/lists/spider-man-movie-villains-ranked/",
+      "imgSrc": "https://www.hollywoodreporter.com/wp-content/uploads/2018/02/sm1_greengoblinmask_9-embed.jpg?w=928&h=484&crop=1",
+      "teaser": "With the release of 'Spider-Man: Brand New Day,' The Hollywood Reporter ranks Spidey’s cinematic crooks and creeps — from worst to best, below.",
+      "body": [
+        "With the release of 'Spider-Man: Brand New Day,' The Hollywood Reporter ranks Spidey’s cinematic crooks and creeps — from worst to best, below. Sam Raimi introduced Spider-Mans second most iconic villain in Spider-Man 2 (2004). Eschewing the bowl cut and inferiority complex, Alfred Molinas Otto Octavius is a good man, driven mad by his own c…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "UNEP says 1.5°C warming breach is inevitable, urges rapid emissions cuts",
+      "deck": "UNEP climate report 2026: UNEP says the amount of warming the world sees will depend on how quickly countries cut greenhouse gas emissions",
+      "byline": "By Sarjna Rai",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/unep-says-1-5c-warming-breach-is-inevitable-urges-rapid-emissions-cuts-126090200823_1.html",
+      "imgSrc": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/26/thumb/fitandfill/1200X628/1779779973-3107.jpg",
+      "teaser": "UNEP climate report 2026: UNEP says the amount of warming the world sees will depend on how quickly countries cut greenhouse gas emissions",
+      "body": [
+        "UNEP climate report 2026: UNEP says the amount of warming the world sees will depend on how quickly countries cut greenhouse gas emissions\n\nKolkata: A taxi driver splashes water on himself amid heat during a summer day at the New Market area, in Kolkata, West Bengal, May, 2026.(Photo:PTI)"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "Goodbye to the Least Apocalyptic Summer of the Rest of Your Life",
+      "deck": "Labor Day is around the corner in the United States, and it’s worth taking stock of what has been, by any objective measure, a chaotic summer. In Nepal, at least 1,010 people have been confirmed dead, so far, after a catastrophic rock landslide on the Langtan…",
+      "byline": "By Kate Aronoff",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/article/215007/goodbye-least-apocalyptic-summer-rest-life",
+      "imgSrc": "https://images.newrepublic.com/021cbd3377f892aceb6d442fd7c523db6bb26e7a.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "teaser": "Labor Day is around the corner in the United States, and it’s worth taking stock of what has been, by any objective measure, a chaotic summer. In Nepal, at least 1,010 people have …",
+      "body": [
+        "Labor Day is around the corner in the United States, and it’s worth taking stock of what has been, by any objective measure, a chaotic summer. In Nepal, at least 1,010 people have been confirmed dead, so far, after a catastrophic rock landslide on the Langtan…\n\nIndeed, underestimating death has become something of a theme in our warming world.",
+        "An investigation from NPR and researchers at Boston University revealed that heat deaths in the United States are d…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "350.org responds to UN report confirming world set to breach 1.5°C: ‘Every fraction of a degree’ still worth fighting for",
+      "deck": "The world is on track to cross the 1.5°C global warming threshold, likely within the next few years, according to a major new UN Environment Programme (UNEP) report released today. Limiting Overshoot finds that even the most optimistic scenario now points to …",
+      "byline": "By Newswire Editor",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/newswire/350-org-responds-to-un-report-confirming-world-set-to-breach-1-50c-every-fraction-of-a-degree-still-worth-fighting-for",
+      "imgSrc": "https://www.commondreams.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy82NjgzNzk4My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc5MDkzNTA1OH0.c_5GNAUmQqriWpRaCpyvQkVPiRge-RwkqLmh1xNhQ-o/image.png?width=210",
+      "teaser": "The world is on track to cross the 1.5°C global warming threshold, likely within the next few years, according to a major new UN Environment Programme (UNEP) report released today.…",
+      "body": [
+        "The world is on track to cross the 1.5°C global warming threshold, likely within the next few years, according to a major new UN Environment Programme (UNEP) report released today. Limiting Overshoot finds that even the most optimistic scenario now points to …\n\nThe board sided with the Sierra Club, the Center for Biological Diversity (CBD), and the local government of Boulder City, which argued that the BLM had not conducted the legally required review of t…"
+      ]
+    }
+  }
+}
