@@ -1,0 +1,408 @@
+{
+  "date": "Friday, September 4, 2026",
+  "key": "sep04",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Mercury’s enduring mysteries are ready for an unprecedented close-up - cnn.com",
+      "deck": "After nearly eight years, a mission to reveal Mercury’s secrets is about to arrive at its destination. But what lies ahead will not be easy.",
+      "byline": "By Ashley Strickland",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/03/science/bepicolombo-esa-mercury-mission-arrival",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/mercury-transfer-module-separation.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "After nearly eight years, a mission to reveal Mercury’s secrets is about to arrive at its destination. But what lies ahead will not be easy.",
+      "body": [
+        "After nearly eight years, a mission to reveal Mercury’s secrets is about to arrive at its destination. But what lies ahead will not be easy. An ambitious mission to reveal the secrets of the least explored planet in the inner solar system is about to arrive at its cosmic destination after a lengthy journey.",
+        "The BepiColombo mission, a joi…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates - CNBC",
+      "deck": "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs",
+      "byline": "By Lee Ying Shan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108356505-1788194227750-gettyimages-2292379241-US_STOCKS.jpeg?v=1788194255&w=1920&h=1080",
+      "teaser": "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs",
+      "body": [
+        "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs\n\nU.S. equity futures were mixed early Thursday after the major averages snapped a three-day losing run sparked by rising Treasury yields amid more fighting between the U.S. and Iran.",
+        "S&amp;P 500 futu…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "3 dead, multiple others shot, including 2 officers, in downtown Minneapolis - 5 EYEWITNESS NEWS",
+      "deck": "Law enforcement says two people are dead after at least six people, including two police officers, were shot in downtown Minneapolis on Wednesday afternoon. A source confirmed the suspect died by suicide.",
+      "byline": "By Emily Baude",
+      "source": "Kstp.com",
+      "url": "https://kstp.com/kstp-news/top-news/3-dead-multiple-others-shot-including-2-officers-in-downtown-minneapolis/",
+      "imgSrc": "https://kstp.com/wp-content/uploads/2026/09/0902-MPLS-LOWRY-TOWERS-SHOOTING-KSTP_BCMP01_mxf_00.03.38.00.jpg",
+      "teaser": "Law enforcement says two people are dead after at least six people, including two police officers, were shot in downtown Minneapolis on Wednesday afternoon. A source confirmed the …",
+      "body": [
+        "Law enforcement says two people are dead after at least six people, including two police officers, were shot in downtown Minneapolis on Wednesday afternoon. A source confirmed the suspect died by sui…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Oil falls after 3-day rally as Trump signals Iran campaign may be brief - Investing.com",
+      "deck": "Oil slips after three-session rally as Trump downplays Iran war, Hormuz flows rise",
+      "byline": "By Ayushman Ojha",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-dips-after-3day-rally-as-trump-signals-iran-campaign-may-be-brief-4886909",
+      "imgSrc": "https://content-media.investing.com/news/LYNXNPEC190AN_L.jpg",
+      "teaser": "Oil slips after three-session rally as Trump downplays Iran war, Hormuz flows rise",
+      "body": [
+        "Oil slips after three-session rally as Trump downplays Iran war, Hormuz flows rise\n\nInvesting.com -- Oil prices slipped in Asian trading on Thursday after three consecutive sessions of gains, as President Donald Trump said renewed U.S. attacks on Iran would not last long and signs o…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates - CNBC",
+      "deck": "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs",
+      "byline": "By Lee Ying Shan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108356505-1788194227750-gettyimages-2292379241-US_STOCKS.jpeg?v=1788194255&w=1920&h=1080",
+      "teaser": "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs",
+      "body": [
+        "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs\n\nU.S. equity futures were mixed early Thursday after the major averages snapped a three-day losing run sparked by rising Treasury yields amid more fighting between the U.S. and Iran.",
+        "S&amp;P 500 futu…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy' - Yahoo! Finance Canada",
+      "deck": "Broadcom stock slipped before trimming losses after the company's first quarter revenue forecast missed estimates.",
+      "byline": "By Yahoo Finance",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/article/broadcom-stock-wavers-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/9dec1cadc9e856ab929bc25281d5e872e7909d5ef57c4ee3c5b397ef4ecd2c06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F56e9dd57-7a8e-43ad-beda-5e5f384ec332",
+      "teaser": "Broadcom stock slipped before trimming losses after the company's first quarter revenue forecast missed estimates.",
+      "body": [
+        "Broadcom stock slipped before trimming losses after the company's first quarter revenue forecast missed estimates. What happened: Broadcom (AVGO) stock trimmed losses after tumbling as much as 2% in premarket trading on Thursday. What's behind the move: The AI chip and networking giant saw revenue growth amid bo…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "'GTA 6' on PS5 vs Xbox: Key differences to consider - Mashable",
+      "deck": "The extended look that premiered on Netflix was played on a PS5. But will Xbox be able to play the game equally well?",
+      "byline": "By Alex Perry",
+      "source": "Mashable",
+      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-xbox-series-x-s-playstation-differences",
+      "imgSrc": "https://helios-i.mashable.com/imagery/articles/06tGFhLKvLFIPb9VrneTQiQ/hero-image.fill.size_1200x675.v1788289465.jpg",
+      "teaser": "The extended look that premiered on Netflix was played on a PS5. But will Xbox be able to play the game equally well?",
+      "body": [
+        "The extended look that premiered on Netflix was played on a PS5. But will Xbox be able to play the game equally well?\n\n"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Nintendo Switch App Update Adds Some Handy New Features - Nintendo Life",
+      "deck": "Download it today",
+      "byline": "By Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-switch-app-update-adds-some-handy-new-features",
+      "imgSrc": "https://images.nintendolife.com/db0537762ea0f/large.jpg",
+      "teaser": "Download it today",
+      "body": [
+        "Download it today\n\nImage: Nintendo Life Nintendo has already released multiple game updates this week, and it's now rolled out a new software update for its Nintendo Switch App on mobile devices. This is the first up…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "New Lollipop Chainsaw game playable at TGS 2026 - gematsu.com",
+      "deck": "The new Lollipop Chainsaw game first announced in July 2025 will be playable at Tokyo Game Show 2026, which will run from September 17 to 21 at Makuhari Messe in Chiba, Japan, publisher Dragami Gam…",
+      "byline": "By Sal Romano",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/09/new-lollipop-chainsaw-game-playable-at-tgs-2026",
+      "imgSrc": "https://www.gematsu.com/wp-content/uploads/2026/09/Lollipop-Chainsaw-Next_09-02-26_Top.jpg",
+      "teaser": "The new Lollipop Chainsaw game first announced in July 2025 will be playable at Tokyo Game Show 2026, which will run from September 17 to 21 at Makuhari Messe in Chiba, Japan, publ…",
+      "body": [
+        "The new Lollipop Chainsaw game first announced in July 2025 will be playable at Tokyo Game Show 2026, which will run from September 17 to 21 at Makuhari Messe in Chiba, Japan, publisher Dragami Games…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "Mercury’s enduring mysteries are ready for an unprecedented close-up - cnn.com",
+      "deck": "After nearly eight years, a mission to reveal Mercury’s secrets is about to arrive at its destination. But what lies ahead will not be easy.",
+      "byline": "By Ashley Strickland",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/03/science/bepicolombo-esa-mercury-mission-arrival",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/mercury-transfer-module-separation.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "After nearly eight years, a mission to reveal Mercury’s secrets is about to arrive at its destination. But what lies ahead will not be easy.",
+      "body": [
+        "After nearly eight years, a mission to reveal Mercury’s secrets is about to arrive at its destination. But what lies ahead will not be easy. An ambitious mission to reveal the secrets of the least explored planet in the inner solar system is about to arrive at its cosmic destination after a lengthy journey.",
+        "The BepiColombo mission, a joi…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Making superconductors thinner can change how they accommodate magnetic fields - Phys.org",
+      "deck": "What happens when a superconductor becomes so thin that electrons can no longer behave as if they were moving through an ordinary three-dimensional piece of metal? This question has been at the center of my recent work on quantum confinement in metallic films…",
+      "byline": "By Phys.Org",
+      "source": "Phys.Org",
+      "url": "https://phys.org/news/2026-08-superconductors-thinner-accommodate-magnetic-fields.html",
+      "imgSrc": "https://scx2.b-cdn.net/gfx/news/hires/2026/making-superconductors.jpg",
+      "teaser": "What happens when a superconductor becomes so thin that electrons can no longer behave as if they were moving through an ordinary three-dimensional piece of metal? This question ha…",
+      "body": [
+        "What happens when a superconductor becomes so thin that electrons can no longer behave as if they were moving through an ordinary three-dimensional piece of metal? This question has been at the cente…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "A Solar Superstorm Caused a GPS Glitch Bad Enough to Crash Self-Driving Cars - Gizmodo",
+      "deck": "The massive eruption threw GPS readings off by more than 33 feet (10 meters).",
+      "byline": "By Passant Rabie",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/a-solar-superstorm-caused-a-gps-glitch-bad-enough-to-crash-self-driving-cars-2000806428",
+      "imgSrc": "https://gizmodo.com/app/uploads/2026/07/solar-flare-nasa-image-1200x675.jpeg",
+      "teaser": "The massive eruption threw GPS readings off by more than 33 feet (10 meters).",
+      "body": [
+        "The massive eruption threw GPS readings off by more than 33 feet (10 meters). On November 11, 2025, the Sun unleashed a series of solar flares that struck Earth, triggering a severe geomagnetic storm that peaked for around six hours.",
+        "The event triggered beautiful auroras acros…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Menin to announce $1M funding to educate NYC’s youngest on 9/11 tragedy they weren’t alive for",
+      "deck": "Never forget -- even if you weren't around to remember.",
+      "byline": "By Katherine Donlevy",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/03/us-news/menin-to-announce-1m-funding-to-educate-nycs-youngest-on-9-11/",
+      "imgSrc": "https://nypost.com/wp-content/uploads/sites/2/2026/09/139223861.jpg?quality=75&strip=all&w=1200",
+      "teaser": "Never forget -- even if you weren't around to remember.",
+      "body": [
+        "Never forget -- even if you weren't around to remember. Never forget — even if you weren’t around to remember. The City Council is investing an incredible $1 million scholarship fund to educate the Big Apple’s youngest on the world-shattering tragedy of…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Mal Benning to be honoured, Choudhury winning Sheffield United debut",
+      "deck": "Also in Dev's Digest, the column that transforms the narrative and sets the record straight on British South Asians in football: Pakistan international forward Mariam Mahmood becomes the first women's footballer ever to be featured on Wrexham…",
+      "byline": "By Dev Trehan",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/11095/13580349/devs-digest-mal-benning-to-be-honoured-hamza-choudhury-wins-on-sheffield-united-debut-amit-bhatia-attends-liverpool-match-at-anfield",
+      "imgSrc": "https://e0.365dm.com/26/09/1600x900/skysports-devs-digest-football_7338669.jpg?20260902122840",
+      "teaser": "Also in Dev's Digest, the column that transforms the narrative and sets the record straight on British South Asians in football: Pakistan international forward Mariam Mahmood becom…",
+      "body": [
+        "Also in Dev's Digest, the column that transforms the narrative and sets the record straight on British South Asians in football: Pakistan international forward Mariam Mahmood becomes the first women's footballer ever to be featured on Wrexham…\n\nWelcome to Dev's Digest, the agenda-setting Sky Sports column where Dev Trehan delivers exclusive news and reflects some of the key developments for British South Asians in Football.",
+        "Mal Benning wil…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Kentucky is set for a battle with BYU and Duke for top-5 recruit AJ Williams",
+      "deck": "Kentucky offers the elite small forward while hoping to make up ground on other schools",
+      "byline": "By Cameron Waddle",
+      "source": "A Sea Of Blue",
+      "url": "https://www.aseaofblue.com/kentucky-wildcats-basketball/179436/kentucky-is-set-for-a-battle-with-byu-and-duke-for-top-5-recruit-aj-williams",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/57b7a7729b6ac726a306324194d264169b8b3aa7cb1e5cefb1dbea211db4882c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F9481671606a8c607c4bf1e34189d385a.jpg",
+      "teaser": "Kentucky offers the elite small forward while hoping to make up ground on other schools",
+      "body": [
+        "Kentucky offers the elite small forward while hoping to make up ground on other schools\n\nOn Tuesday, 5-star recruit AJ Williams announced he officially received an offer from the University of Kentucky. One of the most sought-after recruits in the class of 2027 posted on his social medi…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Mercury’s enduring mysteries are ready for an unprecedented close-up - cnn.com",
+      "deck": "After nearly eight years, a mission to reveal Mercury’s secrets is about to arrive at its destination. But what lies ahead will not be easy.",
+      "byline": "By Ashley Strickland",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/03/science/bepicolombo-esa-mercury-mission-arrival",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/mercury-transfer-module-separation.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "After nearly eight years, a mission to reveal Mercury’s secrets is about to arrive at its destination. But what lies ahead will not be easy.",
+      "body": [
+        "After nearly eight years, a mission to reveal Mercury’s secrets is about to arrive at its destination. But what lies ahead will not be easy. An ambitious mission to reveal the secrets of the least explored planet in the inner solar system is about to arrive at its cosmic destination after a lengthy journey.",
+        "The BepiColombo mission, a joi…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates - CNBC",
+      "deck": "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs",
+      "byline": "By Lee Ying Shan",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/stock-market-today-live-updates.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108356505-1788194227750-gettyimages-2292379241-US_STOCKS.jpeg?v=1788194255&w=1920&h=1080",
+      "teaser": "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs",
+      "body": [
+        "Major indices posted gains on Wednesday as Treasury yields retreated from multiyear highs\n\nU.S. equity futures were mixed early Thursday after the major averages snapped a three-day losing run sparked by rising Treasury yields amid more fighting between the U.S. and Iran.",
+        "S&amp;P 500 futu…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "3 dead, multiple others shot, including 2 officers, in downtown Minneapolis - 5 EYEWITNESS NEWS",
+      "deck": "Law enforcement says two people are dead after at least six people, including two police officers, were shot in downtown Minneapolis on Wednesday afternoon. A source confirmed the suspect died by suicide.",
+      "byline": "By Emily Baude",
+      "source": "Kstp.com",
+      "url": "https://kstp.com/kstp-news/top-news/3-dead-multiple-others-shot-including-2-officers-in-downtown-minneapolis/",
+      "imgSrc": "https://kstp.com/wp-content/uploads/2026/09/0902-MPLS-LOWRY-TOWERS-SHOOTING-KSTP_BCMP01_mxf_00.03.38.00.jpg",
+      "teaser": "Law enforcement says two people are dead after at least six people, including two police officers, were shot in downtown Minneapolis on Wednesday afternoon. A source confirmed the …",
+      "body": [
+        "Law enforcement says two people are dead after at least six people, including two police officers, were shot in downtown Minneapolis on Wednesday afternoon. A source confirmed the suspect died by sui…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Jalen Hurts acknowledges that \"clearly\" he and A.J. Brown grew apart - nbcsports.com",
+      "deck": "Jalen Hurts acknowledged the obvious: He and wide receiver A.J.",
+      "byline": "By Charean Williams",
+      "source": "NBCSports.com",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jalen-hurts-acknowledges-that-clearly-he-and-a-j-brown-grew-apart",
+      "imgSrc": "https://nbcsports.brightspotcdn.com/dims4/default/46aad85/2147483647/strip/true/crop/3277x1843+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F25%2F48%2Fa1c5c3eb4b9a952ecedf02480eff%2F2292760010.jpg",
+      "teaser": "Jalen Hurts acknowledged the obvious: He and wide receiver A.J.",
+      "body": [
+        "Jalen Hurts acknowledged the obvious: He and wide receiver A.J. Brown grew apart. It took prompting, but the Eagles quarterback finally told GQ magazine in an interview published Tuesday that the t…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Sabalenka, Partying? Next Question, Says World No.1 - Tennis Now",
+      "deck": "Partying? Aryna Sabalenka took offense to a question about her pre-tournament brand activations.",
+      "byline": "By Chris Oddo",
+      "source": "Tennis Now",
+      "url": "https://tennisnow.com/sabalenka-partying-next-question-says-world-no-1/",
+      "imgSrc": "https://tennisnow.com/wp-content/uploads/2026/09/sabalenka-partying-.jpg",
+      "teaser": "Partying? Aryna Sabalenka took offense to a question about her pre-tournament brand activations.",
+      "body": [
+        "Partying? Aryna Sabalenka took offense to a question about her pre-tournament brand activations. Aryna Sabalenka is tired of taking questions from reporters who want to know if she has difficulty switching into tournament mode after a week full of sponsorship activations prior to the US Open.",
+        "…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Dodgers' Ohtani feels good but no timeline on pitching return - ESPN",
+      "deck": "Dodgers manager Dave Roberts said he thinks Shohei Ohtani is \"in a good spot\" physically, but the team does not have a timeline to decide if the two-way star will pitch again this season.",
+      "byline": "By ESPN",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/story/_/id/49809255/dodgers-ohtani-feels-good-no-line-pitching-return",
+      "imgSrc": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0903%2Fr1710672_1296x729_16%2D9.jpg",
+      "teaser": "Dodgers manager Dave Roberts said he thinks Shohei Ohtani is \"in a good spot\" physically, but the team does not have a timeline to decide if the two-way star will pitch again this …",
+      "body": [
+        "Dodgers manager Dave Roberts said he thinks Shohei Ohtani is \"in a good spot\" physically, but the team does not have a timeline to decide if the two-way star will pitch again this season. Sep 2, 2026, 10:00 PM ET LOS ANGELES -- The Los Angeles Dodgers remain uncertain whether designated hitter Shohei Ohtani will pitch again this season.",
+        "The two-way superstar hasn't pitched in a game…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "The Human Body May Age in Two Major Bursts, And a New Study Reveals What Drives Them - ScienceAlert",
+      "deck": "Aging is inevitable, but it's certainly not consistent.",
+      "byline": "By Starre Vartan",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/the-human-body-may-age-in-two-major-bursts-and-a-new-study-reveals-what-drives-them",
+      "imgSrc": "https://www.sciencealert.com/images/2026/09/MotherAndChildFacesSideBySide.jpg",
+      "teaser": "Aging is inevitable, but it's certainly not consistent.",
+      "body": [
+        "Aging is inevitable, but it's certainly not consistent. We might think aging proceeds in a steady, linear fashion, with each day, week, and month marching us sedately into our Golden Years, but new …"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "Potential exposure: Person tests positive for measles after stopping at Pa. Turnpike service plaza - WTAE",
+      "deck": "Pennsylvania health officials are responding after they said some travelers at a service plaza along the Turnpike in Westmoreland County may have been exposed to measles.",
+      "byline": "By Caitlyn Scott",
+      "source": "WTAE Pittsburgh",
+      "url": "https://www.wtae.com/article/travelers-potential-exposure-measles-pa-turnpike-westmoreland-county/73597055",
+      "imgSrc": "https://kubrick.htvapps.com/htv-prod/images/248fadd7-1a56-4c39-9bc6-87b03857574a.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "teaser": "Pennsylvania health officials are responding after they said some travelers at a service plaza along the Turnpike in Westmoreland County may have been exposed to measles.",
+      "body": [
+        "HEMPFIELD TOWNSHIP, Pa.Pennsylvania health officials are responding after they said some travelers at a service plaza along the Turnpike in Westmoreland County may have been exposed to measles. Hea…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Scientists uncover shared biology behind profound fatigue in five major illnesses - medicalxpress.com",
+      "deck": "A shared biological mechanism that helps explain chronic exhaustion in conditions including long COVID and PTSD has been identified by researchers at the University of East Anglia and Oxford BioDynamics. The paper, published in the Journal of Translational Me…",
+      "byline": "By Medical Xpress",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-09-scientists-uncover-biology-profound-fatigue.html",
+      "imgSrc": "https://scx2.b-cdn.net/gfx/news/hires/2026/fatigue-1.jpg",
+      "teaser": "A shared biological mechanism that helps explain chronic exhaustion in conditions including long COVID and PTSD has been identified by researchers at the University of East Anglia …",
+      "body": [
+        "A shared biological mechanism that helps explain chronic exhaustion in conditions including long COVID and PTSD has been identified by researchers at the University of East Anglia and Oxford BioDynam…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "‘Transformers’ voice actor Peter Cullen’s cause of death at 85 revealed - Page Six",
+      "deck": "The legendary voice actor died at his Los Angeles home on Aug. 26.",
+      "byline": "By Antoinette Bueno",
+      "source": "Page Six",
+      "url": "https://pagesix.com/2026/09/02/celebrity-news/transformers-voice-actor-peter-cullens-cause-of-death-at-85-revealed/",
+      "imgSrc": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/Peter-Cullen.jpg?quality=75&strip=all&w=1200",
+      "teaser": "The legendary voice actor died at his Los Angeles home on Aug. 26.",
+      "body": [
+        "The legendary voice actor died at his Los Angeles home on Aug. 26. “Transformers” star Peter Cullen died from cardiac arrest. The legendary voice actor died last Wednesday at his Los Angeles home. Cullen’s cause of death was listed as cardiac arrest due to respirat…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "George Lucas Says Opening Lucas Museum ‘Almost Broke My Will’: ‘It’s Taken So Long to Get Here’ - Variety",
+      "deck": "George Lucas previewed the long-in-the-works Lucas Museum of Narrative Art in Los Angeles Wednesday, including Star Wars icons.",
+      "byline": "By Pat Saperstein",
+      "source": "Variety",
+      "url": "https://variety.com/gallery/george-lucas-museum-star-wars-los-angeles/",
+      "imgSrc": "https://variety.com/wp-content/uploads/2026/09/05.-Courtesy-Lucas-Museum-of-Narrative-Art.-Photo-by-HuftonCrow-e1788395425806.jpg?crop=0px%2C948px%2C4509px%2C2538px&resize=1000%2C563",
+      "teaser": "George Lucas previewed the long-in-the-works Lucas Museum of Narrative Art in Los Angeles Wednesday, including Star Wars icons.",
+      "body": [
+        "George Lucas previewed the long-in-the-works Lucas Museum of Narrative Art in Los Angeles on Wednesday, and Lucas said of the Herculean effort, “I’m fascinated by doing things that people say can’t b…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "New details revealed in Coach star Shelley Fabares’ cause of death - Entertainment Weekly",
+      "deck": "The death certificate for ‘Donna Reed Show’ actress Shelley Fabares revealed further details in the ‘Coach’ star’s death.",
+      "byline": "By https://www.facebook.com/entertainmentweekly",
+      "source": "Entertainment Weekly",
+      "url": "https://ew.com/new-details-revealed-in-coach-star-shelley-fabares-death-12088876",
+      "imgSrc": "https://ew.com/thmb/4i40DPCI9rLiLjsnywb__V7WRUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Shelley-Fabares-090226-7db08293a06e40d88468cd3c6b429dbc.jpg",
+      "teaser": "The death certificate for ‘Donna Reed Show’ actress Shelley Fabares revealed further details in the ‘Coach’ star’s death.",
+      "body": [
+        "The death certificate for ‘Donna Reed Show’ actress Shelley Fabares revealed further details in the ‘Coach’ star’s death. New details have been revealed in the Aug. 22 death of Emmy-nominated actress Shelley Fabares at age 82. Acute respiratory distress was the stars immediate cause of death, according to a death certi…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "In 2020, Southwest University researchers treated rice husks with acid and burned them into ash; replacing 10% of cement with the ash increased compressive strength by 16.22% after 56 days",
+      "deck": "Chinese researchers have found a way to strengthen cement using burnt rice husks. This agricultural waste, when treated and added, significantly boosts cement's compressive strength. The process involves replacing ten percent of cement with treated rice husk …",
+      "byline": "By Team Global",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-2020-pmc-researchers-treated-agricultural-rice-husks-with-acid-and-burned-them-into-ash-replacing-10-of-cement-improved-overall-compressive-strength-by-16-22-at-56-days/articleshow/133704028.cms",
+      "imgSrc": "https://img.etimg.com/thumb/msid-133704315,width-1200,height-630,imgsize-406274,overlay-economictimes/articleshow.jpg",
+      "teaser": "Chinese researchers have found a way to strengthen cement using burnt rice husks. This agricultural waste, when treated and added, significantly boosts cement's compressive strengt…",
+      "body": [
+        "Chinese researchers have found a way to strengthen cement using burnt rice husks. This agricultural waste, when treated and added, significantly boosts cement's compressive strength. The process involves replacing ten percent of cement with treated rice husk …\n\nConcrete is, of course, hard to escape when you look around in an American city; it is everywhere, in the sidewalks, the houses, the bridges, the parking lots, and the highways.",
+        "However, while the us…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "Summer 2026 was officially the hottest in modern Irish history",
+      "deck": "Six of the top ten hottest summers have occurred since 2021.",
+      "byline": "By Lauren Boland",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/summer-2026-was-officially-the-hottest-in-modern-irish-history-7151159-Sep2026/",
+      "imgSrc": "https://img2.thejournal.ie/article/7151159/river/?height=400&version=7151226",
+      "teaser": "Six of the top ten hottest summers have occurred since 2021.",
+      "body": [
+        "Six of the top ten hottest summers have occurred since 2021. ITS OFFICIAL: THIS summer is the hottest one Ireland has seen across 127 years of weather records. Summer 2026 has narrowly surpassed the record-breaking temperatures of summer 2025 yet another sign…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "MAHA’s Meat Obsession Exposes the Movement’s Delusions",
+      "deck": "Meat is back.Not that it ever really went anywhere—but for a few years around the turn of the decade, the centrality of meat in the American diet came under real scrutiny. A slew of highly publicized academic papers detailed the massive environmental toll of …",
+      "byline": "By Jan Dutkiewicz",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/article/214124/rfk-meat-obsession-maha-movement-delusions",
+      "imgSrc": "https://images.newrepublic.com/bf9e35cbf3048ae564f9a11e47697109cc328658.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "teaser": "Meat is back.Not that it ever really went anywhere—but for a few years around the turn of the decade, the centrality of meat in the American diet came under real scrutiny. A slew o…",
+      "body": [
+        "Meat is back.Not that it ever really went anywhere—but for a few years around the turn of the decade, the centrality of meat in the American diet came under real scrutiny. A slew of highly publicized academic papers detailed the massive environmental toll of …\n\nThis is also the big blind spot for those who see meat as an alternative to so-called ultra-processed food, or UPF.",
+        "Kennedy Jr. and many in MAHA-adjacent meatfluencer circles tout meat as an unproces…"
+      ]
+    }
+  }
+}
