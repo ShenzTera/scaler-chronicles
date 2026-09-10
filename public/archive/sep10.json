@@ -1,0 +1,411 @@
+{
+  "date": "Thursday, September 10, 2026",
+  "key": "sep10",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "New Apple CEO to unveil latest iPhone lineup - AP News",
+      "deck": "Apple is unveiling its latest generation of iPhones on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1. This year, analysts and Apple fans are expecting the company to unveil a foldable model. Many of Apple’s big…",
+      "byline": "By Barbara Ortutay",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/apple-foldable-iphone-ternus-fd35312e6d894d5f3b055b3d62f22cd2",
+      "imgSrc": "https://dims.apnews.com/dims4/default/77cd3f1/2147483647/strip/true/crop/4716x3142+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2Fd7%2F1daac4165015dd8240523092ad28%2Fc5a10c17f3364ddf9752a8a65bf08373",
+      "teaser": "Apple is unveiling its latest generation of iPhones on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1. This year, analysts and Apple…",
+      "body": [
+        "Apple is unveiling its latest generation of iPhones, widely expected to include a foldable version, on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1. …"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Asian shares are mixed as Brent crude approaches $100 a barrel - AP News",
+      "deck": "Asian shares are mixed in cautious trading, as investors watch for what might happen on interest rates and the war with Iran pushes oil prices higher. Benchmarks rose Wednesday in Seoul, Shanghai and Taipei, but fell in Tokyo, Sydney, Hong Kong and Mumbai. U.…",
+      "byline": "By Yuri Kageyama",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/stock-markets-inflation-currencies-fed-rates-d1284eb72934a3b076c14449bc087fbd",
+      "imgSrc": "https://dims.apnews.com/dims4/default/53b78da/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Ff3%2Fd97f2e9f7ebb28b7b92d737ed657%2F4d55c45a1142425bb5a9e95faa702572",
+      "teaser": "Asian shares are mixed in cautious trading, as investors watch for what might happen on interest rates and the war with Iran pushes oil prices higher. Benchmarks rose Wednesday in …",
+      "body": [
+        "Asian shares are mixed in cautious trading, as investors watch for what might happen on interest rates and the war with Iran pushes oil prices higher. Benchmarks rose Wednesday in Seoul, Shanghai and Taipei, but fell in Tokyo, Sydney, Hong Kong and Mumbai.",
+        "U.…\n\nTOKYO (AP) Asian shares were mixed in cautious trading Wednesday as investors watched for what might happen on interest rates and the war with Iran pushed oil prices higher. Japans benchmark Nikkei …"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Trump bans some Canadian imports as North America trade war intensifies - Axios",
+      "deck": "The measures deepen the economic rift between countries that have spent decades interlinking commerce.",
+      "byline": "By Courtenay Brown",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/08/trump-tariffs-canada-import-ban-alcohol-dairy-motorcycles",
+      "imgSrc": "https://images.axios.com/Bb5EuJEIzBTXIJYT8tj8XJl3Lvw=/0x76:5424x3127/1366x768/2026/09/08/1788908043193.jpeg",
+      "teaser": "The measures deepen the economic rift between countries that have spent decades interlinking commerce.",
+      "body": [
+        "The measures deepen the economic rift between countries that have spent decades interlinking commerce. Zoom in: The import bans take effect Sept. 29, effectively cutting off U.S. market access for the targeted Canadian goods rather than simply making them more expensive.",
+        "Trump imposed the ban…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Stock futures are little changed after losing session; Brent crude nears $100 per barrel: Live updates - CNBC",
+      "deck": "The three major averages posted losses in Tuesday's regular trading.",
+      "byline": "By Justina Lee",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/08/stock-market-today-live-updates.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108359875-17888859092026-09-08t164028z_1466658885_rc22fnav82e2_rtrmadp_0_usa-stocks.jpeg?v=1788885962&w=1920&h=1080",
+      "teaser": "The three major averages posted losses in Tuesday's regular trading.",
+      "body": [
+        "The three major averages posted losses in Tuesday's regular trading. Stock futures were trading nearly flat early Wednesday after a losing day as oil prices continue their ascent. Dow Jones Industrial Average futures lost 33 points. S&amp;P 500 and Nasdaq 100 futures…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "China consumer, wholesale inflation rebound in August - CNBC",
+      "deck": "Much of the anticipated pickup reflects a favorable base-effect comparison and higher commodity costs, rather than a genuine strengthening in household demand.",
+      "byline": "By Anniek Bao",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108353997-1787675940245-gettyimages-2291560024-img_6632.jpeg?v=1787676053&w=1920&h=1080",
+      "teaser": "Much of the anticipated pickup reflects a favorable base-effect comparison and higher commodity costs, rather than a genuine strengthening in household demand.",
+      "body": [
+        "Much of the anticipated pickup reflects a favorable base-effect comparison and higher commodity costs, rather than a genuine strengthening in household demand. China's consumer and wholesale inflation rebounded in August, as higher global commodity costs and surging high-tech demand cushioned persistently tepid domestic consumption.",
+        "The producer price inde…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "New TSA program will allow some people to go through security without a ticket - CBS News",
+      "deck": "The Transportation Security Administration has launched a new program at 13 airports, allowing eligible TSA PreCheck members without plane tickets to pass through security and enter the gates.",
+      "byline": "By CBS News",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/tsa-gateside-program-security-without-ticket/",
+      "imgSrc": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/08/26b0e307-abf0-44f4-9b28-edf326852d0b/thumbnail/1200x630/dfba984b7385deff0ad79196ec54c5b3/gettyimages-2269136047.jpg",
+      "teaser": "The Transportation Security Administration has launched a new program at 13 airports, allowing eligible TSA PreCheck members without plane tickets to pass through security and ente…",
+      "body": [
+        "The Transportation Security Administration has launched a new program at 13 airports, allowing eligible TSA PreCheck members without plane tickets to pass through security and enter the gates. For decades, the airport security checkpoint has marked the end of the road for friends and relatives seeing off a traveler.",
+        "That is changing for some travelers. The Transportation Security Administ…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "New Apple CEO to unveil latest iPhone lineup - AP News",
+      "deck": "Apple is unveiling its latest generation of iPhones on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1. This year, analysts and Apple fans are expecting the company to unveil a foldable model. Many of Apple’s big…",
+      "byline": "By Barbara Ortutay",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/apple-foldable-iphone-ternus-fd35312e6d894d5f3b055b3d62f22cd2",
+      "imgSrc": "https://dims.apnews.com/dims4/default/77cd3f1/2147483647/strip/true/crop/4716x3142+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2Fd7%2F1daac4165015dd8240523092ad28%2Fc5a10c17f3364ddf9752a8a65bf08373",
+      "teaser": "Apple is unveiling its latest generation of iPhones on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1. This year, analysts and Apple…",
+      "body": [
+        "Apple is unveiling its latest generation of iPhones, widely expected to include a foldable version, on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1. …"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000 - The Verge",
+      "deck": "Apple’s foldable iPhone will be called the iPhone Duo, according to a report from Bloomberg.",
+      "byline": "By Richard Lawler",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+      "imgSrc": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "teaser": "Apple’s foldable iPhone will be called the iPhone Duo, according to a report from Bloomberg.",
+      "body": [
+        "Apple’s foldable iPhone will be called the iPhone Duo, according to a report from Bloomberg. Apple might recycle the name from Microsofts dual-screen device for its first folding iPhone. Apple might recycle the name from Microsofts dual-screen device fo…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Multiple amiibo Listings Have Apparently Been Spotted On GameStop's Internal Database - Nintendo Life",
+      "deck": "New Zelda amiibo were announced yesterday",
+      "byline": "By Nintendo Life",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/09/multiple-amiibo-listings-have-apparently-been-spotted-on-gamestops-internal-database",
+      "imgSrc": "https://images.nintendolife.com/224f64cdd2020/large.jpg",
+      "teaser": "New Zelda amiibo were announced yesterday",
+      "body": [
+        "New Zelda amiibo were announced yesterday\n\nImage: Nintendo We're just hours out from today's Nintendo Direct, and GameStop's internal database has reportedly been updated with a \"ton of new unnamed amiibo\". This information comes from amiib…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "Fossilized eggs of the largest known dinosaurs have been unearthed in an unexpected place - CNN",
+      "deck": "A trove of fossilized eggs reveals that the largest dinosaurs to walk Earth could reproduce far from ideal nesting areas.",
+      "byline": "By Katie Hunt",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/08/science/fossilized-eggs-titanosaur",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/6-example-of-a-titanosaur-egg-photo-by-darla-zelenitsky.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "A trove of fossilized eggs reveals that the largest dinosaurs to walk Earth could reproduce far from ideal nesting areas.",
+      "body": [
+        "A trove of fossilized eggs reveals that the largest dinosaurs to walk Earth could reproduce far from ideal nesting areas. The largest dinosaurs that ever lived were able to reproduce at high latitudes or regions far from the equator and came up with a clever strategy to keep their eggs warm, a study of a trove of titano…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Rice University physicists used a grain-of-sand-sized magnet levitated above a superconductor cooled to near absolute zero to search for ultraheavy dark matter. Results presented in September 2026 found no signal but probed particles approximately 10 milli - Space Daily",
+      "deck": "A magnetically levitated sensor extended the ultraheavy dark-matter search by seven orders of magnitude in mass reach, setting limits without a confirmed detection.",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/t-rice-levitated-magnet-ultraheavy-dark-matter/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/09/rice-magnet-illustrative-physics-pexels-6208708.jpg",
+      "teaser": "A magnetically levitated sensor extended the ultraheavy dark-matter search by seven orders of magnitude in mass reach, setting limits without a confirmed detection.",
+      "body": [
+        "A magnetically levitated sensor extended the ultraheavy dark-matter search by seven orders of magnitude in mass reach, setting limits without a confirmed detection. A tiny magnet floating above a superconductor has given physicists a way to test an unusually heavy set of dark-matter candidates.",
+        "The detector did not identify dark matter. What it demonstrated was …"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "Did Venus eat its own moon? - Space",
+      "deck": "\"An interesting aspect is that a heavier moon is destroyed faster, since a massive moon would drain Venus's spin so efficiently that it hastens its destruction.\"",
+      "byline": "By Robert Lea",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/venus/did-venus-eat-its-own-moon",
+      "imgSrc": "https://cdn.mos.cms.futurecdn.net/bua48tgdMhTxETBCp2skUQ-2000-80.png",
+      "teaser": "\"An interesting aspect is that a heavier moon is destroyed faster, since a massive moon would drain Venus's spin so efficiently that it hastens its destruction.\"",
+      "body": [
+        "\"An interesting aspect is that a heavier moon is destroyed faster, since a massive moon would drain Venus's spin so efficiently that it hastens its destruction.\"\n\n"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Eby invokes Canadian kindness after 9/11 to support Ottawa's retaliatory tariffs",
+      "deck": "British Columbia Premier David Eby invoked the memory of the 9/11 terrorist attacks and Canadian efforts to help their \"closest friend\" as he voiced support for Ottawa's counter tariffs in the trade conflict with the United States on Tuesday.",
+      "byline": "By Wolfgang Depner",
+      "source": "National Observer",
+      "url": "https://www.nationalobserver.com/2026/09/09/news/eby-invokes-canadian-kindness-after-911-support-ottawas-retaliatory-tariffs",
+      "imgSrc": "https://www.nationalobserver.com/sites/default/files/styles/social_share/public/img/2026/09/09/73a83ad155e103b8780406ffd61963fbc781c4e16505137038ebbc4dcba79d34.jpg.jpeg?itok=fS2IM5Ra",
+      "teaser": "British Columbia Premier David Eby invoked the memory of the 9/11 terrorist attacks and Canadian efforts to help their \"closest friend\" as he voiced support for Ottawa's counter ta…",
+      "body": [
+        "British Columbia Premier David Eby invoked the memory of the 9/11 terrorist attacks and Canadian efforts to help their \"closest friend\" as he voiced support for Ottawa's counter tariffs in the trade conflict with the United States on Tuesday. The premier also tried to strike a positive note, saying BC and Canada would emerge stronger as both levels of government strengthen trade connections within the country and across the world, moving …"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Caitlin Clark’s roadside interaction with fans in Germany draws attention amid FIBA World Cup",
+      "deck": "Caitlin Clark was surrounded by fans on the streets of Germany during the 2026 FIBA World Cup with Team USA. Clark is leading her country in minutes and assists so far in the tournament, as they hope to continue their 20-year winning streak in the tournament,…",
+      "byline": "By Ishaan Bhattacharya",
+      "source": "HITC - Football, Gaming, Movies, TV, Music",
+      "url": "https://www.hitc.com/caitlin-clark-roadside-interaction-with-fans-in-germany-draws-attention-amid-fiba-world-cup/",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/bee416e12abff3e2990f9f44dce0f2816323b76ca6d6e415bfc3c6eed711c270/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2Fbaa0472ee6aeaf502a25cd6d5d6b7da0.jpg",
+      "teaser": "Caitlin Clark was surrounded by fans on the streets of Germany during the 2026 FIBA World Cup with Team USA. Clark is leading her country in minutes and assists so far in the tourn…",
+      "body": [
+        "Caitlin Clark was surrounded by fans on the streets of Germany during the 2026 FIBA World Cup with Team USA. Clark is leading her country in minutes and assists so far in the tournament, as they hop…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak",
+      "deck": "Bangladesh is struggling to tackle a measles outbreak that has killed almost 1,000 children this year despite a renewed vaccination campaign.",
+      "byline": "By Julhas Alam And Al Emrun Garjon",
+      "source": "WJXT News4JAX",
+      "url": "https://www.news4jax.com/news/world/2026/09/09/suspected-measles-cases-kill-nearly-1000-as-bangladesh-struggles-to-contain-outbreak/",
+      "imgSrc": "https://res.cloudinary.com/graham-media-group/image/upload/c_thumb,q_auto,f_auto,w_700/media/gmg/M2MAVI7CXRCOTGBERDHTY3BL24.jpg",
+      "teaser": "Bangladesh is struggling to tackle a measles outbreak that has killed almost 1,000 children this year despite a renewed vaccination campaign.",
+      "body": [
+        "Bangladesh is struggling to tackle a measles outbreak that has killed almost 1,000 children this year despite a renewed vaccination campaign. DHAKA Eight-month-old Rojatun Jannat Ramisa is struggling to breathe in a hospital in Bangladeshs capital as her parents sit helplessly beside her.",
+        "She's one of thousands of children sickened by a me…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "New Apple CEO to unveil latest iPhone lineup - AP News",
+      "deck": "Apple is unveiling its latest generation of iPhones on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1. This year, analysts and Apple fans are expecting the company to unveil a foldable model. Many of Apple’s big…",
+      "byline": "By Barbara Ortutay",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/apple-foldable-iphone-ternus-fd35312e6d894d5f3b055b3d62f22cd2",
+      "imgSrc": "https://dims.apnews.com/dims4/default/77cd3f1/2147483647/strip/true/crop/4716x3142+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2Fd7%2F1daac4165015dd8240523092ad28%2Fc5a10c17f3364ddf9752a8a65bf08373",
+      "teaser": "Apple is unveiling its latest generation of iPhones on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1. This year, analysts and Apple…",
+      "body": [
+        "Apple is unveiling its latest generation of iPhones, widely expected to include a foldable version, on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1. …"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Asian shares are mixed as Brent crude approaches $100 a barrel - AP News",
+      "deck": "Asian shares are mixed in cautious trading, as investors watch for what might happen on interest rates and the war with Iran pushes oil prices higher. Benchmarks rose Wednesday in Seoul, Shanghai and Taipei, but fell in Tokyo, Sydney, Hong Kong and Mumbai. U.…",
+      "byline": "By Yuri Kageyama",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/stock-markets-inflation-currencies-fed-rates-d1284eb72934a3b076c14449bc087fbd",
+      "imgSrc": "https://dims.apnews.com/dims4/default/53b78da/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Ff3%2Fd97f2e9f7ebb28b7b92d737ed657%2F4d55c45a1142425bb5a9e95faa702572",
+      "teaser": "Asian shares are mixed in cautious trading, as investors watch for what might happen on interest rates and the war with Iran pushes oil prices higher. Benchmarks rose Wednesday in …",
+      "body": [
+        "Asian shares are mixed in cautious trading, as investors watch for what might happen on interest rates and the war with Iran pushes oil prices higher. Benchmarks rose Wednesday in Seoul, Shanghai and Taipei, but fell in Tokyo, Sydney, Hong Kong and Mumbai.",
+        "U.…\n\nTOKYO (AP) Asian shares were mixed in cautious trading Wednesday as investors watched for what might happen on interest rates and the war with Iran pushed oil prices higher. Japans benchmark Nikkei …"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Trump bans some Canadian imports as North America trade war intensifies - Axios",
+      "deck": "The measures deepen the economic rift between countries that have spent decades interlinking commerce.",
+      "byline": "By Courtenay Brown",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/08/trump-tariffs-canada-import-ban-alcohol-dairy-motorcycles",
+      "imgSrc": "https://images.axios.com/Bb5EuJEIzBTXIJYT8tj8XJl3Lvw=/0x76:5424x3127/1366x768/2026/09/08/1788908043193.jpeg",
+      "teaser": "The measures deepen the economic rift between countries that have spent decades interlinking commerce.",
+      "body": [
+        "The measures deepen the economic rift between countries that have spent decades interlinking commerce. Zoom in: The import bans take effect Sept. 29, effectively cutting off U.S. market access for the targeted Canadian goods rather than simply making them more expensive.",
+        "Trump imposed the ban…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Elly De La Cruz Makes History with 105.3 MPH Throw to Stop Inside-the-Park HR in Reds vs. Dodgers - Bleacher Report",
+      "deck": "It appeared as if Los Angeles Dodgers right fielder Teoscar Hernández was going to have an inside-the-park home run during Tuesday's game against the Cincinnati Reds.",
+      "byline": "By Scott Polacek",
+      "source": "Bleacher Report",
+      "url": "https://bleacherreport.com/articles/25497534-elly-de-la-cruz-makes-history-1053-mph-throw-stop-inside-park-hr-reds-vs-dodgers",
+      "imgSrc": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-09/2293628119_large_cropped.jpg?w=1120&h=630",
+      "teaser": "It appeared as if Los Angeles Dodgers right fielder Teoscar Hernández was going to have an inside-the-park home run during Tuesday's game against the Cincinnati Reds.",
+      "body": [
+        "It appeared as if Los Angeles Dodgers right fielder Teoscar Hernández was going to have an inside-the-park home run during Tuesday's game against the Cincinnati Reds. And then Elly De La Cruz unleas…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "49ers have 3 options to replace Alfred Collins after brutal injury - Niners Wire",
+      "deck": "The San Francisco 49ers have three names, but one real option to immediately replace Alfred Collins following his knee injury.",
+      "byline": "By Kyle Madson",
+      "source": "USA Today",
+      "url": "https://ninerswire.usatoday.com/story/sports/nfl/niners/2026/09/08/49ers-rams-injury-update-alfred-collins-replacement/91668808007/",
+      "imgSrc": "https://ninerswire.usatoday.com/gcdn/authoring/authoring-images/2026/05/04/SDOL/89932311007-usatsi-19676906.jpg?crop=4404,2482,x0,y222&width=3200&height=1804&format=pjpg&auto=webp",
+      "teaser": "The San Francisco 49ers have three names, but one real option to immediately replace Alfred Collins following his knee injury.",
+      "body": [
+        "The San Francisco 49ers have three names, but one real option to immediately replace Alfred Collins following his knee injury. The San Francisco 49ers will be in scramble mode in the hours leading up to their regular season opener vs.",
+        "the Los Angeles Rams following a season-ending knee injury to defensive tackle Alfred Colli…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Enhanced Box Score: Brewers 4, Cubs 3 — September 8, 2026 - Bleacher Nation",
+      "deck": "I mean, you've just got to be kidding me. The good narrative and even better vibes were RIGHT there for the taking. On a night when the Cubs faced Jacob Mis",
+      "byline": "By Michael Cerami",
+      "source": "bleachernation.com",
+      "url": "https://www.bleachernation.com/cubs/2026/09/08/enhanced-box-score-brewers-4-cubs-3-september-8-2026/",
+      "imgSrc": "https://www.bleachernation.com/wp-content/uploads/2026/04/Enhanced-Box-Score.jpg",
+      "teaser": "I mean, you've just got to be kidding me. The good narrative and even better vibes were RIGHT there for the taking. On a night when the Cubs faced Jacob Mis",
+      "body": [
+        "I mean, you've just got to be kidding me. The good narrative and even better vibes were RIGHT there for the taking. On a night when the Cubs faced Jacob Mis\n\nI mean, you’ve just got to be kidding me. The good narrative and even better vibes were RIGHT there for the taking.",
+        "On a night when the Cubs faced Jacob Misiorowski, Aaron Ashby, *and* Trevor Megil…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "He was their ‘little miracle.’ What happens when antibiotics stop working - CNN",
+      "deck": "No autopsy was conducted, but the series of events convinced his parents that antimicrobial resistance – or AMR – had played a role in his death.",
+      "byline": "By Laura Sharman",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/09/asia/health-antibiotics-amr-intl-hnk-dst",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/antibiotics.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "No autopsy was conducted, but the series of events convinced his parents that antimicrobial resistance – or AMR – had played a role in his death.",
+      "body": [
+        "No autopsy was conducted, but the series of events convinced his parents that antimicrobial resistance – or AMR – had played a role in his death. Dr. Felix Liauw remembers the first time he held his son, Obelix. He looked perfect.",
+        "He was our little miracle, the pediatrician, 40, told CNN. After seven years of trying to conceive, Liauw and hi…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "‘Mini-livers’ offer a new spin on regenerative medicine - Financial Times",
+      "deck": "The latest research suggests injectable grafts could provide an alternative to transplantation",
+      "byline": "By Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b8edbaea-b299-4a40-a9b0-ee01cbb50a6a?syn-25a6b1a6\\\\u003d1",
+      "imgSrc": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce157bfc-cb8c-4a56-870f-f9926fbffeb2.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "teaser": "The latest research suggests injectable grafts could provide an alternative to transplantation",
+      "body": [
+        "The latest research suggests injectable grafts could provide an alternative to transplantation\n\nAccess to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit newsletter.",
+        "FT Edit: Ac…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Scientists Had People Eat Tomato Paste For 3 Months. Their Brain Scans Looked Different. - ScienceAlert",
+      "deck": "One of the world's most popular foods may be quietly changing how our brains function.",
+      "byline": "By Carly Cassella",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/scientists-had-people-eat-tomato-paste-for-3-months-their-brain-scans-looked-different",
+      "imgSrc": "https://www.sciencealert.com/images/2026/09/tomato.jpg",
+      "teaser": "One of the world's most popular foods may be quietly changing how our brains function.",
+      "body": [
+        "One of the world's most popular foods may be quietly changing how our brains function. Red tomatoes contain a bright pigment called lycopene, a potent antioxidant that can cross the blood-brain barr…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "John Mulaney in Talks to Star in ‘Get Smart’ Reboot for Warner Bros. - The Hollywood Reporter",
+      "deck": "Seth Grahame-Smith is writing the screenplay for the feature based on the 1960s series from Mel Brooks and Buck Henry.",
+      "byline": "By Ryan Gajewski",
+      "source": "Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/get-smart-reboot-john-mulaney-warner-bros-1236694876/",
+      "imgSrc": "https://www.hollywoodreporter.com/wp-content/uploads/2025/09/GettyImages-2215947438-e1758731481569.jpg?w=1440&h=810&crop=1",
+      "teaser": "Seth Grahame-Smith is writing the screenplay for the feature based on the 1960s series from Mel Brooks and Buck Henry.",
+      "body": [
+        "Seth Grahame-Smith is writing the screenplay for the feature based on the 1960s series from Mel Brooks and Buck Henry. John Mulaney is looking to get into the spy game. The comedian is in talks to star in a Get Smart reimagining that is in early development at Warner Bros., The Hollywood Reporter has learned.",
+        "Seth …"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "New Bond writer says it was ‘a little easier to write’ film once he found out who’d been cast - The Independent",
+      "deck": "Steven Knight is writing the next 007 film, with actors Jack Lowden, Jacob Elordi and Callum Turner among those in contention for the role",
+      "byline": "By Jacob Stolworthy",
+      "source": "The-independent.com",
+      "url": "https://www.the-independent.com/arts-entertainment/films/news/new-bond-007-jack-lowden-cast-b3047007.html",
+      "imgSrc": "https://static.the-independent.com/2026/09/08/9/51/Screenshot-2026-09-08-at-10-04-06.png?trim=10,0,10,0&width=1200&height=800&crop=1200:800",
+      "teaser": "Steven Knight is writing the next 007 film, with actors Jack Lowden, Jacob Elordi and Callum Turner among those in contention for the role",
+      "body": [
+        "Steven Knight is writing the next 007 film, with actors Jack Lowden, Jacob Elordi and Callum Turner among those in contention for the role\n\nYour support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing.",
+        "Whether it's investigating the financia…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Thieves steal 4 Renoirs from a French museum. 2 of the paintings are still missing - AP News",
+      "deck": "Thieves have stolen four valuable Renoir paintings from a museum on the French Riviera. The local mayor says the thieves were well-equipped and entered the Renoir Museum in Cagnes-sur-Mer through the garden. They sliced through a fence and cut the clips secur…",
+      "byline": "By Angela Charlton",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/france-renoir-heist-paintings-riviera-4f5a9a3ece4f973c73721232fb917282",
+      "imgSrc": "https://dims.apnews.com/dims4/default/1252235/2147483647/strip/true/crop/5391x3592+1+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2Fc1%2F3e234484982ffa42aa43671eb835%2F148533f1a9c14675aa74e8a82ff44907",
+      "teaser": "Thieves have stolen four valuable Renoir paintings from a museum on the French Riviera. The local mayor says the thieves were well-equipped and entered the Renoir Museum in Cagnes-…",
+      "body": [
+        "Thieves have stolen four valuable Renoir paintings from a museum on the French Riviera. The local mayor says the thieves were well-equipped and entered the Renoir Museum in Cagnes-sur-Mer through the garden. They sliced through a fence and cut the clips secur…\n\nPARIS (AP) Two thieves sliced through a fence, climbed through a window and stole four valuable Renoir paintings Tuesday from a small museum on the French Riviera, but abandoned two of the artworks a…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "SpaceXAI’s Colossus data center is fueling a massive backlash",
+      "deck": "Dozens of temporary gas turbines are powering SpaceXAI’s expansion—and fights over permits and pollution",
+      "byline": "By Austyn Gaffney",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/spacexais-colossus-data-center-is-fueling-a-massive-backlash/",
+      "imgSrc": "https://static.scientificamerican.com/dam/asset/3139eff3-9529-4843-aab5-a0d78a731516/saw1026Gaff01.jpg?m=1788463072.45&w=1200",
+      "teaser": "Dozens of temporary gas turbines are powering SpaceXAI’s expansion—and fights over permits and pollution",
+      "body": [
+        "Dozens of temporary gas turbines are powering SpaceXAI’s expansion—and fights over permits and pollution\n\nTaylor Logsdon was 20 when she and her high school sweetheart moved up their wedding so she could buy a $79,000 house in Colonial Hills, a mixed-income neighborhood of winding, tree-lined streets in …"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "Carbon Capture Won’t Save Us Anytime Soon",
+      "deck": "A new report from the UN Environment Program concludes that global average temperatures will soon be 1.5 degrees Celsius warmer than they were in preindustrial times. The need to keep warming at or below that threshold has animated climate activists worldwide…",
+      "byline": "By Kate Aronoff",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/article/215140/carbon-capture-wont-save-us-anytime-soon",
+      "imgSrc": "https://images.newrepublic.com/a0783669707dfbecf0b3a7ba0bd269ae235e4014.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "teaser": "A new report from the UN Environment Program concludes that global average temperatures will soon be 1.5 degrees Celsius warmer than they were in preindustrial times. The need to k…",
+      "body": [
+        "A new report from the UN Environment Program concludes that global average temperatures will soon be 1.5 degrees Celsius warmer than they were in preindustrial times. The need to keep warming at or below that threshold has animated climate activists worldwide…\n\nSomewhat unhelpfully, outlets covering the report have framed an argument climate scientists have been making for yearsthat ambitious mitigation requires large-scale carbon dioxide removal, or CDRas …"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Machinist Edwin Budding patented a lawnmower in 1830; rotating blades used to finish woolen cloth gave him the mechanism for cutting grass evenly",
+      "deck": "In 1830, Edwin Budding revolutionized lawn care by inventing the lawn mower, a clever adaptation of a machine designed for trimming cloth. This groundbreaking tool rapidly gained popularity, transforming not only home gardens but also sports fields. Today, wh…",
+      "byline": "By Team Global",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/machinist-edwin-budding-patented-a-lawnmower-in-1830-rotating-blades-used-to-finish-woolen-cloth-gave-him-the-mechanism-for-cutting-grass-evenly/articleshow/133921945.cms",
+      "imgSrc": "https://img.etimg.com/thumb/msid-133922076,width-1200,height-630,imgsize-2254409,overlay-economictimes/articleshow.jpg",
+      "teaser": "In 1830, Edwin Budding revolutionized lawn care by inventing the lawn mower, a clever adaptation of a machine designed for trimming cloth. This groundbreaking tool rapidly gained p…",
+      "body": [
+        "In 1830, Edwin Budding revolutionized lawn care by inventing the lawn mower, a clever adaptation of a machine designed for trimming cloth. This groundbreaking tool rapidly gained popularity, transforming not only home gardens but also sports fields. Today, wh…\n\nHave you ever wondered why mowing the lawn feels oddly satisfying? You can blame, or maybe thank, a 19th-century factory worker who borrowed an idea meant for cloth, not grass.",
+        "According to the Scien…"
+      ]
+    }
+  }
+}
