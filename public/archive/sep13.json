@@ -1,0 +1,405 @@
+{
+  "date": "Sunday, September 13, 2026",
+  "key": "sep13",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "BRICS leaders meet in India as wars and US tensions test the bloc - AP News",
+      "deck": "Leaders of the BRICS nations are meeting in New Delhi on Saturday for a summit focused on trade, investment, and global conflicts. Indian Prime Minister Narendra Modi is hosting Russian President Vladimir Putin, Chinese President Xi Jinping, Iranian President…",
+      "byline": "By Sheikh Saaliq",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/india-brics-modi-russia-china-iran-wars-5393274f87a16461b195d13f324e747a",
+      "imgSrc": "https://dims.apnews.com/dims4/default/18c6ef2/2147483647/strip/true/crop/2474x1648+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2Feb%2Fbadb76b10d0b8436ba27fa36cbbc%2F29f9b9d240704188ab63e149285d6b4d",
+      "teaser": "Leaders of the BRICS nations are meeting in New Delhi on Saturday for a summit focused on trade, investment, and global conflicts. Indian Prime Minister Narendra Modi is hosting Ru…",
+      "body": [
+        "NEW DELHI (AP) Leaders of the BRICS nations are meeting in New Delhi on Saturday for a summit focused on trade, investment and global conflicts, as the bloc seeks a bigger role in shaping the global …"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Oil routes in peril as attacks shut Saudi pipeline and Houthis threaten key waterway - The Washington Post",
+      "deck": "“This is the first day that Iran really started winning the war,” a Yemeni official said of Houthi territorial gains that give Tehran leverage over a second major waterway.",
+      "byline": "By Rachel Chason",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/09/11/iran-denounces-us-israeli-oppression-houthis-advance-yemen/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KANZJDSP5ZK3H3FORGANUNVVJU.jpg&w=1440",
+      "teaser": "“This is the first day that Iran really started winning the war,” a Yemeni official said of Houthi territorial gains that give Tehran leverage over a second major waterway.",
+      "body": [
+        "“This is the first day that Iran really started winning the war,” a Yemeni official said of Houthi territorial gains that give Tehran leverage over a second major waterway. AMMAN, Jordan A key Saudi Arabian pipeline to the Red Sea was shut down after it was hit by several drones launched from Iraq, the Saudi Foreign Ministry said in a statement early Saturday, as Irania…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Iran, Houthis block 2 key global shipping routes, straining the global economy - USA Today",
+      "deck": "Iran and Houthi rebels have effectively closed two key maritime chokepoints, threatening global oil prices and trade routes. Here's what it means.",
+      "byline": "By Kim Hjelmgaard",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/news/world/2026/09/11/iran-houthis-block-strait-of-hormuz-and-bab-el-mandeb/91709250007/",
+      "imgSrc": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/11/USAT/91713883007-trumpoiltopper.jpg?crop=6535,3673,x345,y0&width=3200&height=1799&format=pjpg&auto=webp",
+      "teaser": "Iran and Houthi rebels have effectively closed two key maritime chokepoints, threatening global oil prices and trade routes. Here's what it means.",
+      "body": [
+        "Iran and Houthi rebels have effectively closed two key maritime chokepoints, threatening global oil prices and trade routes. Here's what it means. LONDON Iran and its allies are ramping up operations to disrupt major oil shipping lanes in the Middle East on which much of the world relies, threatening to drive up U.S.",
+        "and global fuel prices furt…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Charity founder says he secretly gave FTX fraud figure Caroline Ellison a job - Business Insider",
+      "deck": "\"I believe in redemption,\" Manifund CEO Austin Chen said of hiring Caroline Ellison",
+      "byline": "By Lloyd Lee",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ftx-caroline-ellison-new-job-manifund-manifold-austin-chen-2026-9#article",
+      "imgSrc": "https://i.insider.com/6aa4ad26cc23a829a3b90b75?width=1200&format=jpeg",
+      "teaser": "\"I believe in redemption,\" Manifund CEO Austin Chen said of hiring Caroline Ellison",
+      "body": [
+        "\"I believe in redemption,\" Manifund CEO Austin Chen said of hiring Caroline Ellison\n\nIt looks like Caroline Ellison has emerged from stealth mode. A nonprofit CEO announced Friday that he secretly gave a job to Ellison who went to prison in connection with fraud by Sam Bankman-Fried…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Hunter Biden lashes out after $LAPTOP meme coin collapse - Fox Business",
+      "deck": "Former first son Hunter Biden erupted online after his $LAPTOP meme coin collapsed, blaming a \"f--k up\" that left four out of five investors with losses.",
+      "byline": "By Landon Mion",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/politics/hunter-biden-lashes-out-after-laptop-meme-coin-collapse",
+      "imgSrc": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/hunter-biden-meme-coin-collapse.png?ve=1&tl=1",
+      "teaser": "Former first son Hunter Biden erupted online after his $LAPTOP meme coin collapsed, blaming a \"f--k up\" that left four out of five investors with losses.",
+      "body": [
+        "Former first son Hunter Biden erupted online after his $LAPTOP meme coin collapsed, blaming a \"f--k up\" that left four out of five investors with losses. Former first son Hunter Biden lashed out online after his $LAPTOP meme coin collapsed, blaming a \"f--k up\" that left four out of five investors with losses, while one mystery trader came away with ne…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation - Business Insider",
+      "deck": "Jeff Dean, former Google chief scientist, is raising another round of funding at a valuation of around $50 billion.",
+      "byline": "By Ben Bergman",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9#article",
+      "imgSrc": "https://i.insider.com/6aa48348ec15fe2d3cf1697e?width=1200&format=jpeg",
+      "teaser": "Jeff Dean, former Google chief scientist, is raising another round of funding at a valuation of around $50 billion.",
+      "body": [
+        "Jeff Dean, former Google chief scientist, is raising another round of funding at a valuation of around $50 billion. Jeff Dean, who resigned as chief scientist from Google last month, is raising again for his new AI startup, Discovery Loop, this time seeking a valuation of around $50 billion, according to people fa…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Melty Blood: Twi-Lumina launches April 22, 2027 - Gematsu",
+      "deck": "Fighting game Melty Blood: Twi-Lumina will launch for PlayStation 5, Switch 2, PlayStation 4, Xbox One, Switch, and PC via Steam on April 22, 2027, publisher Aniplex and developer French-Bread anno…",
+      "byline": "By Sal Romano",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/09/melty-blood-twi-lumina-launches-april-22-2027",
+      "imgSrc": "https://www.gematsu.com/wp-content/uploads/2026/09/Melty-Blood-Twi-Lumina-Date_09-11-26.jpg",
+      "teaser": "Fighting game Melty Blood: Twi-Lumina will launch for PlayStation 5, Switch 2, PlayStation 4, Xbox One, Switch, and PC via Steam on April 22, 2027, publisher Aniplex and developer …",
+      "body": [
+        "Fighting game Melty Blood: Twi-Lumina will launch for PlayStation 5, Switch 2, PlayStation 4, Xbox One, Switch, and PC via Steam on April 22, 2027, publisher Aniplex and developer French-Bread announ…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Modified GeForce RTX 5090 with 96 GB Memory Shows Up on Alibaba for Nearly $4,000 - TechPowerUp",
+      "deck": "A Chinese manufacturer is now selling a modified GeForce RTX 5090 with 96 GB of memory, three times the 32 GB on the retail card. Shenzhen Suqiao Intelligent Technology, an OEM/ODM with over a decade of experience building graphics cards, motherboards, and se…",
+      "byline": "By Techpowerup.com",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/352610/modified-geforce-rtx-5090-with-96-gb-memory-shows-up-on-alibaba-for-nearly-usd-4-000",
+      "imgSrc": "https://www.techpowerup.com/img/RYhqKPYtBBQVzlNW.jpg",
+      "teaser": "A Chinese manufacturer is now selling a modified GeForce RTX 5090 with 96 GB of memory, three times the 32 GB on the retail card. Shenzhen Suqiao Intelligent Technology, an OEM/ODM…",
+      "body": [
+        "A Chinese manufacturer is now selling a modified GeForce RTX 5090 with 96 GB of memory, three times the 32 GB on the retail card. Shenzhen Suqiao Intelligent Technology, an OEM/ODM with over a decade…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "'We Will Not Pay, We Will Not Negotiate' — Nudist Resort Combats Wave of GTA 6 Reviews as Fans Trigger Response from Its Owner - IGN",
+      "deck": "GTA 6 fans believe its nudist resort was inspired by a real-life location, and its owners are already being bombarded with problematic reviews.",
+      "byline": "By Michael Cripe",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks",
+      "imgSrc": "https://assets-prd.ignimgs.com/2026/08/27/hqwvs5ax0aacam-1787862270241.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "teaser": "GTA 6 fans believe its nudist resort was inspired by a real-life location, and its owners are already being bombarded with problematic reviews.",
+      "body": [
+        "GTA 6 fans believe its nudist resort was inspired by a real-life location, and its owners are already being bombarded with problematic reviews. Grand Theft Auto 6 fans believe its nudist resort was inspired by a real-life location, and its owners are already being bombarded with problematic reviews.",
+        "As if there was ever any doubt, GTA 6 …"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "The torch of the Statue of Liberty has been closed to the public since 1916, when German saboteurs blew up a munitions depot nearby and shrapnel tore into the statue's arm — in the 110 years since, no visitor has been allowed back up the ladder - Space Daily",
+      "deck": "A century-old act of sabotage still keeps visitors from reaching the Statue of Liberty's highest point, a restriction so obscure that most Americans don't know it exists.",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/b-the-torch-of-the-statue-of-liberty-has-been-closed-to-the-public-since-1916-when-german-saboteurs-blew-up-a-munitions-depot-nearby-and-shrapnel-tore-into-the-statues-arm-in-the-110-years-s/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/09/statute-of-liberty.png",
+      "teaser": "A century-old act of sabotage still keeps visitors from reaching the Statue of Liberty's highest point, a restriction so obscure that most Americans don't know it exists.",
+      "body": [
+        "A century-old act of sabotage still keeps visitors from reaching the Statue of Liberty's highest point, a restriction so obscure that most Americans don't know it exists. Every year, millions of people visit the Statue of Liberty, and a lucky, pre-booked fraction climb the 162 steps into her crown.",
+        "What nobody gets to do what nobody has done as a member of the public …"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract - Space",
+      "deck": "\"NASA's award decision appears to be inconsistent with the eligibility criteria mandated by Congress.\"",
+      "byline": "By Mike Wall",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract",
+      "imgSrc": "https://cdn.mos.cms.futurecdn.net/mfKob5LzHWiNYikL9MAAgB-2048-80.jpg",
+      "teaser": "\"NASA's award decision appears to be inconsistent with the eligibility criteria mandated by Congress.\"",
+      "body": [
+        "\"NASA's award decision appears to be inconsistent with the eligibility criteria mandated by Congress.\"\n\n"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "A star is exploding 45 million light-years away — here's how you can see it - Space",
+      "deck": "The newly discovered Type Ia supernova SN 2026aaiv in NGC 7331 offers amateur astronomers and astrophotographers a rare opportunity to observe and image an exploding star before it fades.",
+      "byline": "By Jamie Carter",
+      "source": "Space.com",
+      "url": "https://www.space.com/stargazing/a-star-is-exploding-45-million-light-years-away-heres-how-you-can-see-it",
+      "imgSrc": "https://cdn.mos.cms.futurecdn.net/wf94QDTXPRLRTH2YeoJZdE-2000-80.jpg",
+      "teaser": "The newly discovered Type Ia supernova SN 2026aaiv in NGC 7331 offers amateur astronomers and astrophotographers a rare opportunity to observe and image an exploding star before it…",
+      "body": [
+        "The newly discovered Type Ia supernova SN 2026aaiv in NGC 7331 offers amateur astronomers and astrophotographers a rare opportunity to observe and image an exploding star before it fades. "
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Silver lining: Olyslagers' runner-up finish brings unexpected reward",
+      "deck": "BUDAPEST, Sept 12 : Australian high jumper Nicola Olyslagers thought she had endured one of the more frustrating nights of her glittering career on Friday but it turned out to be the most lucrative.The world champion posted 1.95 metres in the women's high jum…",
+      "byline": "By CNA",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/sport/silver-lining-olyslagers-runner-up-finish-brings-unexpected-reward-6380201",
+      "imgSrc": "https://dam.mediacorp.sg/image/upload/s--2k9JFe8r--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-12T105037Z_1_LYNXMPEM8B098_RTROPTP_3_ATHLETICS-WORLD-ULTIMATE.JPG?itok=1YHNRUU8",
+      "teaser": "BUDAPEST, Sept 12 : Australian high jumper Nicola Olyslagers thought she had endured one of the more frustrating nights of her glittering career on Friday but it turned out to be t…",
+      "body": [
+        "BUDAPEST, Sept 12 : Australian high jumper Nicola Olyslagers thought she had endured one of the more frustrating nights of her glittering career on Friday but it turned out to be the most lucrative. …"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Jyuо̄ Mujin Dandivine Original TV Anime's New Promo Video Previews Opening, Ending Themes",
+      "deck": "Takanori Nishikawa, DayRe perform theme songs for anime debuting on October 7",
+      "byline": "By Anime News Network",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-12/jyu-mujin-dandivine-original-tv-anime-new-promo-video-previews-opening-ending-themes/.241701",
+      "imgSrc": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK7/youtube/ihJfkOT_0wU.jpg",
+      "teaser": "Takanori Nishikawa, DayRe perform theme songs for anime debuting on October 7",
+      "body": [
+        "Takanori Nishikawa, DayRe perform theme songs for anime debuting on October 7\n\nThe Aniplex One Focus livestream event on Saturday revealed the main promotional video for Good Smile Company's original animeJyu Mujin Dandivine (Beast King War God Dandivine). The event also reveal…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "‘Dau’ Review: Ilya Khrzhanovsky’s Vast Cinematic Experiment in Historical World-Building Remains More Impressive From a Distance",
+      "deck": "More than six years after Ilya Khrzhanovsky premiered “DAU. Natasha” and “DAU. Degeneration” at the Berlin Film Festival — right before the global COVID lockdown — to a politely muted reception and limited distributor interest, you might think the moment has …",
+      "byline": "By Guy Lodge",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/reviews/dau-review-1236857375/",
+      "imgSrc": "https://variety.com/wp-content/uploads/2026/08/dau.jpg?w=1000&h=563&crop=1",
+      "teaser": "More than six years after Ilya Khrzhanovsky premiered “DAU. Natasha” and “DAU. Degeneration” at the Berlin Film Festival — right before the global COVID lockdown — to a politely mu…",
+      "body": [
+        "More than six years after Ilya Khrzhanovsky premiered “DAU. Natasha” and “DAU. Degeneration” at the Berlin Film Festival — right before the global COVID lockdown — to a politely muted reception and l…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "BRICS leaders meet in India as wars and US tensions test the bloc - AP News",
+      "deck": "Leaders of the BRICS nations are meeting in New Delhi on Saturday for a summit focused on trade, investment, and global conflicts. Indian Prime Minister Narendra Modi is hosting Russian President Vladimir Putin, Chinese President Xi Jinping, Iranian President…",
+      "byline": "By Sheikh Saaliq",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/india-brics-modi-russia-china-iran-wars-5393274f87a16461b195d13f324e747a",
+      "imgSrc": "https://dims.apnews.com/dims4/default/18c6ef2/2147483647/strip/true/crop/2474x1648+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2Feb%2Fbadb76b10d0b8436ba27fa36cbbc%2F29f9b9d240704188ab63e149285d6b4d",
+      "teaser": "Leaders of the BRICS nations are meeting in New Delhi on Saturday for a summit focused on trade, investment, and global conflicts. Indian Prime Minister Narendra Modi is hosting Ru…",
+      "body": [
+        "NEW DELHI (AP) Leaders of the BRICS nations are meeting in New Delhi on Saturday for a summit focused on trade, investment and global conflicts, as the bloc seeks a bigger role in shaping the global …"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Oil routes in peril as attacks shut Saudi pipeline and Houthis threaten key waterway - The Washington Post",
+      "deck": "“This is the first day that Iran really started winning the war,” a Yemeni official said of Houthi territorial gains that give Tehran leverage over a second major waterway.",
+      "byline": "By Rachel Chason",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/09/11/iran-denounces-us-israeli-oppression-houthis-advance-yemen/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KANZJDSP5ZK3H3FORGANUNVVJU.jpg&w=1440",
+      "teaser": "“This is the first day that Iran really started winning the war,” a Yemeni official said of Houthi territorial gains that give Tehran leverage over a second major waterway.",
+      "body": [
+        "“This is the first day that Iran really started winning the war,” a Yemeni official said of Houthi territorial gains that give Tehran leverage over a second major waterway. AMMAN, Jordan A key Saudi Arabian pipeline to the Red Sea was shut down after it was hit by several drones launched from Iraq, the Saudi Foreign Ministry said in a statement early Saturday, as Irania…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Iran, Houthis block 2 key global shipping routes, straining the global economy - USA Today",
+      "deck": "Iran and Houthi rebels have effectively closed two key maritime chokepoints, threatening global oil prices and trade routes. Here's what it means.",
+      "byline": "By Kim Hjelmgaard",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/news/world/2026/09/11/iran-houthis-block-strait-of-hormuz-and-bab-el-mandeb/91709250007/",
+      "imgSrc": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/11/USAT/91713883007-trumpoiltopper.jpg?crop=6535,3673,x345,y0&width=3200&height=1799&format=pjpg&auto=webp",
+      "teaser": "Iran and Houthi rebels have effectively closed two key maritime chokepoints, threatening global oil prices and trade routes. Here's what it means.",
+      "body": [
+        "Iran and Houthi rebels have effectively closed two key maritime chokepoints, threatening global oil prices and trade routes. Here's what it means. LONDON Iran and its allies are ramping up operations to disrupt major oil shipping lanes in the Middle East on which much of the world relies, threatening to drive up U.S.",
+        "and global fuel prices furt…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Vlad's baserunning slipup, Scherzer's 6-run start shape series-opening loss vs. O's - MLB.com",
+      "deck": "TORONTO -- All of the Blue Jays’ momentum coming into this homestand came crashing down in a few early, ugly minutes on Friday night. The 7-4 loss to the Orioles leaves the Blue Jays two games behind the Guardians for the final AL Wild Card spot, but at this …",
+      "byline": "By Keegan Matheson",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/news/blue-jays-lose-pivotal-series-opener-vs-orioles",
+      "imgSrc": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/g52rd9ariaf68okgitfl.jpg",
+      "teaser": "TORONTO -- All of the Blue Jays’ momentum coming into this homestand came crashing down in a few early, ugly minutes on Friday night. The 7-4 loss to the Orioles leaves the Blue Ja…",
+      "body": [
+        "TORONTO -- All of the Blue Jays’ momentum coming into this homestand came crashing down in a few early, ugly minutes on Friday night. The 7-4 loss to the Orioles leaves the Blue Jays two games behind the Guardians for the final AL Wild Card spot, but at this …\n\nTORONTO -- All of the Blue Jays momentum coming into this homestand came crashing down in a few early, ugly minutes on Friday night.",
+        "The 7-4 loss to the Orioles leaves the Blue Jays two games behin…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "49ers Extend HC Kyle Shanahan - ProFootballRumors.com",
+      "deck": "49ers head coach Kyle Shanahan received a contract extension during the offseason. Read more at Pro Football Rumors.",
+      "byline": "By Connor Byrne",
+      "source": "profootballrumors.com",
+      "url": "https://www.profootballrumors.com/2026/09/49ers-extend-hc-kyle-shanahan",
+      "imgSrc": "https://cdn.profootballrumors.com/files/2024/12/USATSI_24972225-1024x752.jpg",
+      "teaser": "49ers head coach Kyle Shanahan received a contract extension during the offseason. Read more at Pro Football Rumors.",
+      "body": [
+        "49ers head coach Kyle Shanahan received a contract extension during the offseason. Read more at Pro Football Rumors. The 49ers gave head coach Kyle Shanahan a contract extension during the offseason, Tom Pelissero of The Ringer reports. Shanahan was already believed to be under contract through 2027, but the length…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "‘I don't understand it': Phillies' recurring mistakes emerge in Atlanta - NBC Sports Philadelphia",
+      "deck": "The Phillies squandered three late leads in a 6-5 loss to the Braves as bullpen continues to struggle.",
+      "byline": "By Cole Weintraub",
+      "source": "Nbcsportsphiladelphia.com",
+      "url": "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/aaron-nola-luis-arraez-justin-crawford/750684/",
+      "imgSrc": "https://media.nbcsportsphiladelphia.com/2026/09/2026-09-12T002852Z_2001391526_MT1USATODAY29792823_RTRMADP_3_MLB-PHILADELPHIA-PHILLIES-AT-ATLANTA-BRAVES.jpg?quality=85&strip=all&crop=0px%2C98px%2C3005px%2C1763px&resize=1200%2C675",
+      "teaser": "The Phillies squandered three late leads in a 6-5 loss to the Braves as bullpen continues to struggle.",
+      "body": [
+        "The Phillies squandered three late leads in a 6-5 loss to the Braves as bullpen continues to struggle. ATLANTA The Phillies have found different ways to lose lately. Too many outs on the bases. Too many late leads slipping away.",
+        "Too many chances to finish games that they haven't finished. Friday had …"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "U. grad with stage 4 cancer heads to Washington to push for clinical trial access - KSL.com",
+      "deck": "A recent University of Utah graduate living with stage 4 prostate cancer is traveling to Washington, D.C., to advocate for cancer research funding and greater access to clinical trials.",
+      "byline": "By Emma Benson",
+      "source": "KSL.com",
+      "url": "https://www.ksl.com/article/51623051/u-grad-with-stage-4-cancer-heads-to-washington-to-push-for-clinical-trial-access",
+      "imgSrc": "https://img.ksl.com/slc/3201/320156/32015633.jpeg?filter=kslv2/responsive_story_lg",
+      "teaser": "A recent University of Utah graduate living with stage 4 prostate cancer is traveling to Washington, D.C., to advocate for cancer research funding and greater access to clinical tr…",
+      "body": [
+        "A recent University of Utah graduate living with stage 4 prostate cancer is traveling to Washington, D.C., to advocate for cancer research funding and greater access to clinical trials. NORTH SALT LAKE What began as pain in his lower back eventually changed nearly every aspect of Joseph Mutalwa's life.",
+        "\"I was thinking that it was something that was going to go away. The next day, I…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "As antibiotic resistance grows, researchers turn to copper to fight infections - Phys.org",
+      "deck": "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&amp;M College of Veterinary Medicine and Biomedical Sciences (VMBS) are investigating how the b…",
+      "byline": "By Phys.Org",
+      "source": "Phys.Org",
+      "url": "https://phys.org/news/2026-09-antibiotic-resistance-copper-infections.html",
+      "imgSrc": "https://scx2.b-cdn.net/gfx/news/hires/2026/as-antibiotic-resistan.jpg",
+      "teaser": "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&amp;M College of…",
+      "body": [
+        "When bacteria invade the urinary tract, the body has its own arsenal for fighting back. Among those weapons is an unlikely tool: copper. Researchers at the Texas A&amp;M College of Veterinary Medicin…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Blood Test Reveals The Heartbreaking Truth After Millennial Dad Keeps Finding Weird Bruises All Over His Body - Bored Panda",
+      "deck": "“I was silently crying tears, but not tears of joy or relief,” his wife said.",
+      "byline": "By Anwesha Nag",
+      "source": "Boredpanda.com",
+      "url": "https://www.boredpanda.com/blood-test-reveals-truth-after-dad-keeps-finding-unexplained-bruises/",
+      "imgSrc": "https://static.boredpanda.com/blog/wp-content/uploads/2026/09/fb_image_6aa05916f02bc.png",
+      "teaser": "“I was silently crying tears, but not tears of joy or relief,” his wife said.",
+      "body": [
+        "“I was silently crying tears, but not tears of joy or relief,” his wife said. Sometime in late 2025, Reese Willard, 40, a father of one from Dallas, Texas, started experiencing extreme fatigue and difficulty falling asleep. At first, Reese and his wife, Sarah, 39, did not thi…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Lady Gaga Welcomes First Child With Fiancé Michael Polansky - The Hollywood Reporter",
+      "deck": "The Oscar winner and the entrepreneur are parents.",
+      "byline": "By McKinley Franklin",
+      "source": "Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/music/music-news/lady-gaga-first-baby-1236698474/",
+      "imgSrc": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2272296467-e1789175737889.jpg?w=1440&h=810&crop=1",
+      "teaser": "The Oscar winner and the entrepreneur are parents.",
+      "body": [
+        "The Oscar winner and the entrepreneur are parents. Lady Gaga is a mother! The Grammy and Oscar winner has welcomed her first child with her fiancé, Michael Polansky, sources confirmed to People and Page Six. The “Born This Way” singer got engaged …"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Pink Responds to Fallout After Sharing Post Criticizing Macklemore’s Speech on Palestine - Rolling Stone",
+      "deck": "Pink addressed the backlash after she shared a post that criticized Macklemore's comments on Palestine during a performance on Ed Sheeran's tour.",
+      "byline": "By Charisma Madarang",
+      "source": "Rolling Stone",
+      "url": "http://www.rollingstone.com/music/music-news/pink-responds-backlash-macklemore-palestine-post-1235625662/",
+      "imgSrc": "https://www.rollingstone.com/wp-content/uploads/2026/09/pink-macklemore-post.jpg?w=1600&h=900&crop=1",
+      "teaser": "Pink addressed the backlash after she shared a post that criticized Macklemore's comments on Palestine during a performance on Ed Sheeran's tour.",
+      "body": [
+        "Pink addressed the backlash after she shared a post that criticized Macklemore's comments on Palestine during a performance on Ed Sheeran's tour. Pink addressed the backlash she received after she shared an Instagram post that criticized Macklemore‘s calls to “free Palestine” during an opening performance on Ed Sheeran’s North American tour.",
+        "…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Brandi Glanville 'Embarrassed' to Ask for Financial Help Amid Health Issues - TMZ",
+      "deck": "Brandi Glanville broke down in tears over the GoFundMe to help with her medical expenses, saying she's \"embarrassed\" to ask for help.",
+      "byline": "By TMZ Staff",
+      "source": "TMZ",
+      "url": "https://www.tmz.com/2026/09/11/brandi-glanville-embarrassed-by-gofundme/",
+      "imgSrc": "https://imagez.tmz.com/image/59/16by9/2026/09/12/597ee62d99684a08a7bb2ea5d1bf04d5_xl.png",
+      "teaser": "Brandi Glanville broke down in tears over the GoFundMe to help with her medical expenses, saying she's \"embarrassed\" to ask for help.",
+      "body": [
+        "Brandi Glanville broke down in tears over the GoFundMeto help with her medical expenses, saying she's \"embarrassed\" to ask for help. \"The Real Housewives of Beverly Hills\" alum got emotional telling…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "Methodists submit environmental complaint against HSBC",
+      "deck": "HSBC has said it is committed to achieving climate related targets.",
+      "byline": "By Staff writer",
+      "source": "Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/methodists-submit-environmental-complaint-against-hsbcmining-connections",
+      "imgSrc": "https://www.christiantoday.com/media/original/thumbnail/14/55/145537.jpg",
+      "teaser": "HSBC has said it is committed to achieving climate related targets.",
+      "body": [
+        "HSBC has said it is committed to achieving climate related targets. (Photo:Getty/iStock) A coalition of Methodist churches and faith organisations in Britain, Ireland and Colombia have joined forces to submit a complaint concerning HSBCs financing relationship with …"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "In 2009, Harry Potter star Rupert Grint bought the £5.4 million Kimpton Grange estate; 17 years later, he won approval for a 15-home eco-village described as carbon neutral",
+      "deck": "Actor Rupert Grint has received the green light for his ambitious eco-village initiative, turning his Hertfordshire estate into a home for fifteen new families. Designed as a carbon-neutral community, this project highlights Grint's commitment to sustainabili…",
+      "byline": "By Team Global",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-2009-harry-potter-star-rupert-grint-bought-the-5-4-million-kimpton-grange-estate-17-years-later-he-won-approval-for-a-15-home-eco-village-described-as-carbon-neutral/articleshow/134056227.cms",
+      "imgSrc": "https://img.etimg.com/thumb/msid-134056446,width-1200,height-630,imgsize-759551,overlay-economictimes/articleshow.jpg",
+      "teaser": "Actor Rupert Grint has received the green light for his ambitious eco-village initiative, turning his Hertfordshire estate into a home for fifteen new families. Designed as a carbo…",
+      "body": [
+        "Actor Rupert Grint has received the green light for his ambitious eco-village initiative, turning his Hertfordshire estate into a home for fifteen new families. Designed as a carbon-neutral community, this project highlights Grint's commitment to sustainabili…\n\nRon Weasley might have never sat through a local council planning meeting, but Rupert Grint has spent roughly seven years doing exactly that.",
+        "The actor who played Harry Potter's loyal best friend bou…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Khanal stresses Nepal-China cooperation amid rising climate risks in Himalayas",
+      "deck": "KATHMANDU: Former Prime Minister Jhalanath Khanal has stressed the need for greater cooperation between Nepal and China to address the growing climate and disaster risks facing the Himalayan region. Addressing the third edition of the ‘Kasthamandap Dialogue’ …",
+      "byline": "By Khabarhub",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/12/567537/",
+      "imgSrc": "https://english.khabarhub.com/wp-content/uploads/2026/09/Jhalanath-Khanal.jpg",
+      "teaser": "KATHMANDU: Former Prime Minister Jhalanath Khanal has stressed the need for greater cooperation between Nepal and China to address the growing climate and disaster risks facing the…",
+      "body": [
+        "KATHMANDU: Former Prime Minister Jhalanath Khanal has stressed the need for greater cooperation between Nepal and China to address the growing climate and disaster risks facing the Himalayan region. …"
+      ]
+    }
+  }
+}
