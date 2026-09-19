@@ -1,0 +1,403 @@
+{
+  "date": "Saturday, September 19, 2026",
+  "key": "sep19",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - CBS News",
+      "deck": "U.N.-commissioned rights experts say there are \"reasonable grounds\" to believe the U.S. committed war crimes with strikes that killed scores of Iranian civilians.",
+      "byline": "By Frank  Andrews",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal/",
+      "imgSrc": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/17/0065cf8e-e4aa-425e-b6db-eb092249f89a/thumbnail/1200x630/772c3781b254b00562bb642efbbac791/gettyimages-2291289439.jpg",
+      "teaser": "U.N.-commissioned rights experts say there are \"reasonable grounds\" to believe the U.S. committed war crimes with strikes that killed scores of Iranian civilians.",
+      "body": [
+        "U.N.-commissioned rights experts say there are \"reasonable grounds\" to believe the U.S. committed war crimes with strikes that killed scores of Iranian civilians. Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the United States committed war crimes in two strikes in Iran, including on a school in the southern …"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Russia votes in wartime parliamentary election set to secure the Kremlin’s power - AP News",
+      "deck": "Voting has begun in Russia’s parliamentary election with the main Kremlin party poised to retain its overwhelming grip on the lower house. The political and economic environment, however, has visibly changed 4½ years after the start of Russia’s full-fledged i…",
+      "byline": "By The Associated Press",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-putin-election-parliament-duma-ukraine-war-a2001537fc104755e071a38217987331",
+      "imgSrc": "https://dims.apnews.com/dims4/default/645fe24/2147483647/strip/true/crop/7397x4929+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2F81%2F84c67be9769e868af50ec0450eed%2F808dae1a045b436a942749751cff2372",
+      "teaser": "Voting has begun in Russia’s parliamentary election with the main Kremlin party poised to retain its overwhelming grip on the lower house. The political and economic environment, h…",
+      "body": [
+        "Voting has begun in Russia’s parliamentary election with the main Kremlin party poised to retain its overwhelming grip on the lower house. The political and economic environment, however, has visibly changed 4½ years after the start of Russia’s full-fledged i…\n\nIts a challenging time for Russia to hold a parliamentary election, even one whose outcome is all but assured.",
+        "The economic and political climate has been seriously affected by 4½ years of full-fled…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Raymond Horsch posted ads on Craigslist, preyed on prostitutes: Victim’s cousin - NewsNation",
+      "deck": "Nicole Fusaro was 27 when she disappeared in 2018. Her cousin believes Raymond Horsch is responsible.",
+      "byline": "By Diana Falzone",
+      "source": "Newsnationnow.com",
+      "url": "https://www.newsnationnow.com/us-news/northeast/raymond-horsch-craigslist-ad-nicole-fusaro/",
+      "imgSrc": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/Nicole-8.png?w=1280",
+      "teaser": "Nicole Fusaro was 27 when she disappeared in 2018. Her cousin believes Raymond Horsch is responsible.",
+      "body": [
+        "Nicole Fusaro was 27 when she disappeared in 2018. Her cousin believes Raymond Horsch is responsible. (NewsNation) Raymond Horsch, one of the men at the center of an investigation related to at least five missing women in Philadelphia, was allegedly known to solicit prostitutes and ran a flop house, …"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "OpenAI breached by researchers using Anthropic models - Financial Times",
+      "deck": "Security company hacked into AI lab using tools from its rival",
+      "byline": "By Financial Times",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c4aa118e-a258-48bc-b50e-28e453a95db8?syn-25a6b1a6\\\\u003d1",
+      "imgSrc": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F43a832ba-e3e3-4593-8b1b-0ddb560f277a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "teaser": "Security company hacked into AI lab using tools from its rival",
+      "body": [
+        "Security company hacked into AI lab using tools from its rival\n\n"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation - CNBC",
+      "deck": "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.",
+      "byline": "By Lim Hui Jie",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108364205-1789623066424-gettyimages-2295400558-dsc02989_rz4zdho6.jpeg?v=1789623129&w=1920&h=1080",
+      "teaser": "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.",
+      "body": [
+        "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike. The Bank of Japan has raised its policy rate by 25 basis points to 1.25%, the highest level since 1995. The move also marked a quickening in the BOJ's rate hike cycle since it started monetary poli…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Market Rebounds, But What Comes Next? SpaceX, AMD Flash Buy Signals - Investor's Business Daily",
+      "deck": "Treasury yields fall in a positive day-two reaction to the Fed meeting.",
+      "byline": "By Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-moderna-amd-spacex-buy-signals/",
+      "imgSrc": "https://www.investors.com/wp-content/uploads/2018/07/Stock-SpaceXfalcon9-10-company.jpg",
+      "teaser": "Treasury yields fall in a positive day-two reaction to the Fed meeting.",
+      "body": [
+        "Treasury yields fall in a positive day-two reaction to the Fed meeting. Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities.",
+        "…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail - Video Games Chronicle",
+      "deck": "Final Fantasy 7 Revelation’s director isn’t concerned it’s too big…",
+      "byline": "By Andy Robinson",
+      "source": "Video Games Chronicle",
+      "url": "https://www.videogameschronicle.com/features/interviews/ff7-revelation-director-hamaguchi-discusses-the-games-200gb-size-dlc-plans-and-a-new-tifa-detail/",
+      "imgSrc": "https://www.videogameschronicle.com/files/2026/09/HMnzJDLbUAAOVKq.jpeg",
+      "teaser": "Final Fantasy 7 Revelation’s director isn’t concerned it’s too big…",
+      "body": [
+        "Final Fantasy 7 Revelation’s director isn’t concerned it’s too big…\n\nIn VGCs recent hands-on preview for Final Fantasy 7 Revelation, we were left with high hopes for the final entry in the remake trilogy, but also startled by the overwhelming scope of the game.",
+        "At To…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day - MacRumors",
+      "deck": "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day. The store's iconic glass cube entrance has received a colorful makeover...",
+      "byline": "By Joe Rossignol",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
+      "imgSrc": "https://images.macrumors.com/t/QGJUJMgYfZFzVJd9Kz5QaE4eEvc=/1600x/article-new/2026/09/Apple-Fifth-Avenue-iPhone-18-Pro.jpeg",
+      "teaser": "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day. The store's iconic glass cube entrance has received a colorful makeover...",
+      "body": [
+        "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day. The store's iconic glass cube entrance has received a colorful makeover... Its starting. https://forums.hardwarezone.com.sg/threads/the-iphone-18-pro-max-leads-early-singapore-sales-as-burgundy-dominates.7223492/ https://www.facebook.com/story.php?story_fbid=pfbid0joJxm7mn…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "The iPhones 18 Pro - Daring Fireball",
+      "deck": "It’s the best version of the most successful product ever made. And yet by nature of *how* the iPhone 18 Pro improved in the last year, it’s not exciting at all.",
+      "byline": "By Daringfireball.net",
+      "source": "Daringfireball.net",
+      "url": "https://daringfireball.net/2026/09/the_iphones_18_pro",
+      "imgSrc": "https://daringfireball.net/graphics/df-wide-card.png",
+      "teaser": "It’s the best version of the most successful product ever made. And yet by nature of *how* the iPhone 18 Pro improved in the last year, it’s not exciting at all.",
+      "body": [
+        "It’s the best version of the most successful product ever made. And yet by nature of *how* the iPhone 18 Pro improved in the last year, it’s not exciting at all. Every year since 2007, Apple has debuted a new flagship iPhone.",
+        "Other than the just plain iPhone original, they all have numbers of some sort in their name. If you make a list of them in order, its a…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "Researchers placed 40 kangaroo carcasses in front of camera traps. This is what happened next - BBC Wildlife Magazine",
+      "deck": "A team of scientists set out to study the behaviour of scavengers in New South Wales, Australia",
+      "byline": "By Sophie Ellis",
+      "source": "Discoverwildlife.com",
+      "url": "https://www.discoverwildlife.com/animal-facts/mammals/apex-scavenger-kangaroo-carcass",
+      "imgSrc": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/7f9fd38f-e5a0-4285-8664-5afc45d3cd6c/thumbnails/2a07080d-4a29-4213-b178-30693872c3ab.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
+      "teaser": "A team of scientists set out to study the behaviour of scavengers in New South Wales, Australia",
+      "body": [
+        "A team of scientists set out to study the behaviour of scavengers in New South Wales, Australia\n\nYou might be familiar with apex predators, but what about apex scavengers? These large animals play an equally important role in ecosystems as natures clean-up crew, feeding on carrion (animal remain…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Two identical satellites fly 220 kilometers apart above the Earth, firing a laser between them precisely enough to notice a change in distance smaller than the width of a red blood cell, and that flicker is how scientists now weigh the water moving beneath entire - Space Daily",
+      "deck": "Invisible water moving through continents now leaves a gravitational fingerprint that satellites can read.",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/a-two-identical-satellites-fly-220-kilometers-apart-above-the-earth-firing-a-laser-between-them-precisely-enough-to-notice-a-change-in-distance-smaller-than-the-width-of-a-red-blood-cell-and-that-flic/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/09/satellites.png",
+      "teaser": "Invisible water moving through continents now leaves a gravitational fingerprint that satellites can read.",
+      "body": [
+        "Invisible water moving through continents now leaves a gravitational fingerprint that satellites can read. Here’s the conclusion first, because it’s the part that still doesn’t feel like it should be possible: nobody photographs the water disappearing from an aquifer in California or the ice thinning unde…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "How a team of AIs discovered a promising lung-cancer drug - nature.com",
+      "deck": "Researchers developed a ‘virtual biotech’ made up of as many as 37,000 agents reporting to an 'chief scientist'.",
+      "byline": "By Nature.com",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/d41586-026-02954-y",
+      "imgSrc": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02954-y/d41586-026-02954-y_53728366.jpg",
+      "teaser": "Researchers developed a ‘virtual biotech’ made up of as many as 37,000 agents reporting to an 'chief scientist'.",
+      "body": [
+        "Researchers developed a ‘virtual biotech’ made up of as many as 37,000 agents reporting to an 'chief scientist'. After examining the results of thousands of clinical trials, a swarm of AI agents suggested that a protein that dampens immune responses could be the target for a promising treatment for lung cancer.…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Exclusive-Anthropic quietly sets up biology lab as it ramps AI drug program",
+      "deck": "SAN FRANCISCO, Sept 18 : Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science.At a time when fears of AI are gripping the public, the startup has built a wet la…",
+      "byline": "By CNA",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/exclusive-anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-6394641",
+      "imgSrc": "https://dam.mediacorp.sg/image/upload/s--LdwTSlSy--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-18T100255Z_2_LYNXMPEM8H0T3_RTROPTP_3_TECH-AI.JPG?itok=2-AN28lm",
+      "teaser": "SAN FRANCISCO, Sept 18 : Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science.At …",
+      "body": [
+        "SAN FRANCISCO, Sept 18 : Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science. At a time when fears…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Rai Takes Early Lead At BMW PGA Championship",
+      "deck": "Aaron Rai has made an impressive start at the BMW PGA Championship, leading the field with a 6-under 66. Playing alongside major champions Rory McIlroy and Ryan Fox, Rai's strong performance puts him in a prime position, while McIlroy and Fox also remain in c…",
+      "byline": "By sports@rediff.co.in (Rediff Sports Desk)",
+      "source": "Rediff.com",
+      "url": "https://www.rediff.com/sports/report/aaron-rai-in-shared-lead-after-first-round-at-wentworth/20260918.htm",
+      "imgSrc": "https://im.rediff.com/1200-630/sports/2024/jun/18rory1.jpg",
+      "teaser": "Aaron Rai has made an impressive start at the BMW PGA Championship, leading the field with a 6-under 66. Playing alongside major champions Rory McIlroy and Ryan Fox, Rai's strong p…",
+      "body": [
+        "Aaron Rai has made an impressive start at the BMW PGA Championship, leading the field with a 6-under 66. Playing alongside major champions Rory McIlroy and Ryan Fox, Rai's strong performance puts him in a prime position, while McIlroy and Fox also remain in c…\n\nAaron Rai has taken an early lead at the prestigious BMW PGA Championship, carding an impressive 6-under 66 while playing alongside golf titans Rory McIlroy and Ryan Fox.",
+        "Photograph: Jim Dedmon-USA …"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "Tinubu to address Nigerians Oct 1 as FG unveils low-key independence celebration",
+      "deck": "He said the celebration would also allow the administration to showcase its achievements and highlight efforts being undertaken to reposition the country through its reform initiatives, against the backdrop of the socio-economic challenges confronting the nat…",
+      "byline": "By Ayobami",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/09/tinubu-to-address-nigerians-oct-1-as-fg-unveils-low-key-independence-celebration/",
+      "imgSrc": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Bola-Ahmed-Tinubu.jpg",
+      "teaser": "He said the celebration would also allow the administration to showcase its achievements and highlight efforts being undertaken to reposition the country through its reform initiat…",
+      "body": [
+        "He said the celebration would also allow the administration to showcase its achievements and highlight efforts being undertaken to reposition the country through its reform initiatives, against the backdrop of the socio-economic challenges confronting the nat…\n\nBy Omeiza Ajayi, Abuja The Federal Government has inaugurated the Inter-Ministerial Committee for the commemoration of Nigeria’s 66th Independence Anniversary, unveiling a programme of activities cu…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Iran War Updates: U.N. panel cites possible U.S. war crimes as Trump again says Iran wants a deal - CBS News",
+      "deck": "U.N.-commissioned rights experts say there are \"reasonable grounds\" to believe the U.S. committed war crimes with strikes that killed scores of Iranian civilians.",
+      "byline": "By Frank  Andrews",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-un-war-crimes-iran-deal/",
+      "imgSrc": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/17/0065cf8e-e4aa-425e-b6db-eb092249f89a/thumbnail/1200x630/772c3781b254b00562bb642efbbac791/gettyimages-2291289439.jpg",
+      "teaser": "U.N.-commissioned rights experts say there are \"reasonable grounds\" to believe the U.S. committed war crimes with strikes that killed scores of Iranian civilians.",
+      "body": [
+        "U.N.-commissioned rights experts say there are \"reasonable grounds\" to believe the U.S. committed war crimes with strikes that killed scores of Iranian civilians. Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the United States committed war crimes in two strikes in Iran, including on a school in the southern …"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Russia votes in wartime parliamentary election set to secure the Kremlin’s power - AP News",
+      "deck": "Voting has begun in Russia’s parliamentary election with the main Kremlin party poised to retain its overwhelming grip on the lower house. The political and economic environment, however, has visibly changed 4½ years after the start of Russia’s full-fledged i…",
+      "byline": "By The Associated Press",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-putin-election-parliament-duma-ukraine-war-a2001537fc104755e071a38217987331",
+      "imgSrc": "https://dims.apnews.com/dims4/default/645fe24/2147483647/strip/true/crop/7397x4929+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2F81%2F84c67be9769e868af50ec0450eed%2F808dae1a045b436a942749751cff2372",
+      "teaser": "Voting has begun in Russia’s parliamentary election with the main Kremlin party poised to retain its overwhelming grip on the lower house. The political and economic environment, h…",
+      "body": [
+        "Voting has begun in Russia’s parliamentary election with the main Kremlin party poised to retain its overwhelming grip on the lower house. The political and economic environment, however, has visibly changed 4½ years after the start of Russia’s full-fledged i…\n\nIts a challenging time for Russia to hold a parliamentary election, even one whose outcome is all but assured.",
+        "The economic and political climate has been seriously affected by 4½ years of full-fled…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Raymond Horsch posted ads on Craigslist, preyed on prostitutes: Victim’s cousin - NewsNation",
+      "deck": "Nicole Fusaro was 27 when she disappeared in 2018. Her cousin believes Raymond Horsch is responsible.",
+      "byline": "By Diana Falzone",
+      "source": "Newsnationnow.com",
+      "url": "https://www.newsnationnow.com/us-news/northeast/raymond-horsch-craigslist-ad-nicole-fusaro/",
+      "imgSrc": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/Nicole-8.png?w=1280",
+      "teaser": "Nicole Fusaro was 27 when she disappeared in 2018. Her cousin believes Raymond Horsch is responsible.",
+      "body": [
+        "Nicole Fusaro was 27 when she disappeared in 2018. Her cousin believes Raymond Horsch is responsible. (NewsNation) Raymond Horsch, one of the men at the center of an investigation related to at least five missing women in Philadelphia, was allegedly known to solicit prostitutes and ran a flop house, …"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Emmitt Smith thinks Derrick Henry can break all-time rushing record - NBC Sports",
+      "deck": "Derrick Henry, at age 32, is playing like he did at age 22.",
+      "byline": "By Mike Florio",
+      "source": "NBCSports.com",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/emmitt-smith-thinks-derrick-henry-can-break-all-time-rushing-record",
+      "imgSrc": "https://nbcsports.brightspotcdn.com/dims4/default/d66ba17/2147483647/strip/true/crop/7200x4050+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2F8a%2F346f5e614cec9d04e9c5b83bc89c%2F2294902347.jpg",
+      "teaser": "Derrick Henry, at age 32, is playing like he did at age 22.",
+      "body": [
+        "Derrick Henry, at age 32, is playing like he did at age 22. And hes in position to make a climb up the all-time rushing list. With 13,163 career yards, could Henry get all the way to the top? The g…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "NFL Week 2 picks: Our experts face off on Giants at Rams, Bengals vs. Texans and more - CBS Sports",
+      "deck": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
+      "byline": "By Jordan Dajani",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-picks-lions-bills-bengals-texans/",
+      "imgSrc": "https://sportshub.cbsistatic.com/i/r/2026/09/16/4f00701d-79e2-4c63-8060-0e916baf8081/thumbnail/1200x675/29f0f225cfe91801ca529fbf6271d5cf/lions.jpg",
+      "teaser": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
+      "body": [
+        "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games\n\nThey say Week 1 is a liar, so who lied in their season opener? Bo Nix and the Denver Broncos looked like one of the worst teams in the NFL, we watched Drake Maye and Jordan Love lose to backup quarte…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Mets' Jared Young stretchered off field after taking Nolan McLean knee to head at first base - SNY",
+      "deck": "Mets first baseman Jared Young was taken off the field on a stretcher after being kneed in the head by Nolan McLean on a play at first base in the sixth inning on Thursday night at Citi Field.",
+      "byline": "By Danny AbrianoManager of Editorial Production",
+      "source": "SNY.tv",
+      "url": "https://sny.tv/articles/mets-jared-young-carted-off-field",
+      "imgSrc": "https://images.contentstack.io/v3/assets/bltf7a82b39b0908da4/bltf8e62f54e5f1344c/6aac91bc35eddca3b511e9a3/Young.JPG?format=jpg&quality=75&fit=bounds&width=1296&height=729",
+      "teaser": "Mets first baseman Jared Young was taken off the field on a stretcher after being kneed in the head by Nolan McLean on a play at first base in the sixth inning on Thursday night at…",
+      "body": [
+        "Mets first baseman Jared Young was taken off the field on a stretcher after being kneed in the head by Nolan McLean on a play at first base in the sixth inning on Thursday night at Citi Field. "
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "Philadelphia health department warns of possible measles exposure at CHOP - 6abc Philadelphia",
+      "deck": "The Philadelphia Department of Public Health is warning patients and visitors about a possible measles exposure at Children's Hospital of Philadelphia.",
+      "byline": "By 6abc Digital Staff",
+      "source": "WPVI-TV",
+      "url": "https://6abc.com/post/philadelphia-health-department-warns-possible-measles-exposure-chop/19845051/",
+      "imgSrc": "https://cdn.abcotvs.com/dip/images/19829439_091426-cc-adobe-measles-2-img.jpg?w=1600",
+      "teaser": "The Philadelphia Department of Public Health is warning patients and visitors about a possible measles exposure at Children's Hospital of Philadelphia.",
+      "body": [
+        "PHILADELPHIA (WPVI) -- The Philadelphia Department of Public Health is warning patients and visitors about a possible measles exposure at Children's Hospital of Philadelphia. Health officials said t…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "3-Year-Old Boy’s Cancer Disappears After He Gets Experimental Immunotherapy - Gizmodo",
+      "deck": "Scientists are developing new forms of CAR T cell therapy that may finally be able to treat solid tumors.",
+      "byline": "By Ed Cara",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/3-year-old-boys-cancer-disappears-after-he-gets-experimental-immunotherapy-2000813436",
+      "imgSrc": "https://gizmodo.com/app/uploads/2026/09/CAR-T-cells-1200x675.jpg",
+      "teaser": "Scientists are developing new forms of CAR T cell therapy that may finally be able to treat solid tumors.",
+      "body": [
+        "Scientists are developing new forms of CAR T cell therapy that may finally be able to treat solid tumors. An experimental treatment may have just given a 3-year-old boy with advanced liver cancer a new lease on life. Doctors at the Baylor College of Medicine in Texas and others detailed the near-miracul…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Florida Vibrio vulnificus infections rise. Where new cases were reported - Pensacola News Journal",
+      "deck": "The Florida Health department is now reporting 22 cases of Vibrio vulnificus, the so-called \"flesh-eating bacteria,\" and four deaths. How to avoid it.",
+      "byline": "By C. A. Bridges",
+      "source": "Pensacola News Journal",
+      "url": "https://www.pnj.com/story/news/2026/09/17/vibrio-vulnificus-new-cases-deaths-florida-louisiana-alabama/91805288007/",
+      "imgSrc": "https://www.pnj.com/gcdn/authoring/authoring-images/2025/09/02/PPEN/85939190007-genevieve-gallagher-leg-with-wound-vac-installed-2.jpg?crop=1535,864,x0,y409&width=1535&height=864&format=pjpg&auto=webp",
+      "teaser": "The Florida Health department is now reporting 22 cases of Vibrio vulnificus, the so-called \"flesh-eating bacteria,\" and four deaths. How to avoid it.",
+      "body": [
+        "The Florida Health department is now reporting 22 cases of Vibrio vulnificus, the so-called \"flesh-eating bacteria,\" and four deaths. How to avoid it. Sept. 17, 2026, 2:54 p.m. CT Florida's Vibrio vulnificus infections now total 22 cases and four deaths, according to the latest health department update on the rare brackish-water bacterium found in…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Carly Rae Jepsen: Day and Night Album Review - Pitchfork",
+      "deck": "Read Marissa Lorusso’s review of the album.",
+      "byline": "By Marissa Lorusso",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/reviews/albums/carly-rae-jepsen-day-and-night/",
+      "imgSrc": "https://media.pitchfork.com/photos/6a39559a7da85ddc43e1b0d4/16:9/w_1280,c_limit/Carly-Rae-Jepsen-Day-and-Night.jpeg",
+      "teaser": "Read Marissa Lorusso’s review of the album.",
+      "body": [
+        "Read Marissa Lorusso’s review of the album. It is a truth universally acknowledged that a single Carly Rae Jepsen record must be in want of its other half. A year after the Canadian pop star released her breakthrough record, 2015s EMOTION, she…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Big Brother Sends Two Jurors Packing In Double Eviction Episode — Who Left The House? - TVLine",
+      "deck": "It was Double Eviction Night in the Big Brother house on Thursday — but which two players became Jurors No. 3 and No. 4? Read our recap!",
+      "byline": "By Rebecca Luther",
+      "source": "TVLine",
+      "url": "https://www.tvline.com/2261978/big-brother-recap-double-eviction-results-season-28/",
+      "imgSrc": "https://www.tvline.com/img/gallery/big-brother-recap-double-eviction-results-season-28/l-intro-1789698267.jpg",
+      "teaser": "It was Double Eviction Night in the Big Brother house on Thursday — but which two players became Jurors No. 3 and No. 4? Read our recap!",
+      "body": [
+        "It was Double Eviction Night in the Big Brother house on Thursday — but which two players became Jurors No. 3 and No. 4? Read our recap!\n\nBarrett makes a very quick exit nearly as fast as Michael Bruner's a few seasons ago and has a level-headed interview with Julie Chen Moonves: He has no regrets, he'd nominate the three icons in ever…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "‘Resident Evil’ Racing Toward Healthy Box Office Haul for Zach Cregger’s Reboot - hollywoodreporter.com",
+      "deck": "Austin Abrams stars in Sony's latest feature adaptation of the video game franchise, with the new movie becoming the first in the series to impress critics.",
+      "byline": "By Ryan Gajewski",
+      "source": "Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/resident-evil-box-office-zach-cregger-reboot-opening-1236705092/",
+      "imgSrc": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/MCDREEV_SP017.jpg?w=1296&h=730&crop=1",
+      "teaser": "Austin Abrams stars in Sony's latest feature adaptation of the video game franchise, with the new movie becoming the first in the series to impress critics.",
+      "body": [
+        "Austin Abrams stars in Sony's latest feature adaptation of the video game franchise, with the new movie becoming the first in the series to impress critics. Resident Evillooks to get off to a running start in its opening weekend at the box office.",
+        "Sony Pictures releases writer-director Zach Cregger‘s horror-survival video game adaptation on Friday in r…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "Galvanize Real Estate Expands into California with Acquisition of Four-Property Bay Area Portfolio",
+      "deck": "Acquisition advances Galvanize's profitable decarbonization strategy to California, building on its presence across East Coast and Midwest markets NEW YORK, Sept. 18, 2026 /PRNewswire/ -- Galvanize Real Estate (\"GRE\"), the sustainable real estate strategy of …",
+      "byline": "By PRNewswire",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/galvanize-real-estate-expands-into-california-with-acquisition-of-four-property-bay-area-portfolio-302882620.html",
+      "imgSrc": "https://mmx.prnewswire.com/media/MS1991071/Milpitas.jpg?id=OA2956325&p=facebook",
+      "teaser": "Acquisition advances Galvanize's profitable decarbonization strategy to California, building on its presence across East Coast and Midwest markets NEW YORK, Sept. 18, 2026 /PRNewsw…",
+      "body": [
+        "Acquisition advances Galvanize's profitable decarbonization strategy to California, building on its presence across East Coast and Midwest markets NEW YORK, Sept. 18, 2026 /PRNewswire/ -- Galvanize …"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "Can Adaptation Accelerate Climate Action?",
+      "deck": "After a summer of apocalyptic headlines, a new survey finds that people across the political spectrum are deeply concerned about preparing for the effects of global warming. The adaptation imperative may end up being the kind of crisis that forces us to stop …",
+      "byline": "By Simon Zadek",
+      "source": "Project Syndicate",
+      "url": "https://www.project-syndicate.org/commentary/growing-imperative-for-climate-adaptation-could-supercharge-green-agenda-by-simon-zadek-and-natalie-samarasinghe-2026-09",
+      "imgSrc": "https://webapi.project-syndicate.org/library/a19abea758d4e062740503f876a18123.2-1-super.1.jpg",
+      "teaser": "After a summer of apocalyptic headlines, a new survey finds that people across the political spectrum are deeply concerned about preparing for the effects of global warming. The ad…",
+      "body": [
+        "After a summer of apocalyptic headlines, a new survey finds that people across the political spectrum are deeply concerned about preparing for the effects of global warming. The adaptation imperative…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "While coral reefs can recover, relentless heat waves won’t let them",
+      "deck": "As more frequent bouts of severe heat stress plague the world’s oceans, coral reefs don’t have enough time to recuperate, a new report shows.",
+      "byline": "By Teresa Tomassoni",
+      "source": "National Observer",
+      "url": "https://www.nationalobserver.com/2026/09/18/news/coral-reefs-marine-temperature-global-heating",
+      "imgSrc": "https://www.nationalobserver.com/sites/default/files/styles/social_share/public/img/2026/09/16/aims000004105-2048x1366.jpg.jpeg?itok=nCECcYjJ",
+      "teaser": "As more frequent bouts of severe heat stress plague the world’s oceans, coral reefs don’t have enough time to recuperate, a new report shows.",
+      "body": [
+        "As more frequent bouts of severe heat stress plague the world’s oceans, coral reefs don’t have enough time to recuperate, a new report shows. This story was originally published by Inside Climate News and appears here as part of the Climate Desk collaboration In 1998, unusually hot ocean temperatures stressed corals worldwide, causing the…"
+      ]
+    }
+  }
+}
