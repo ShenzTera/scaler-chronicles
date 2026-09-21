@@ -1,0 +1,410 @@
+{
+  "date": "Monday, September 21, 2026",
+  "key": "sep21",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Trump's proposed Washington arch to become sniper, drone facility - Axios",
+      "deck": "The president is now framing construction of the arch as a national security issue.",
+      "byline": "By Ben Berkowitz",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/20/trump-arch-washington-snipers-drones",
+      "imgSrc": "https://images.axios.com/SCPOtHpRuHsJ8HlU_CJYe2occtU=/0x187:3840x2347/1366x768/2026/09/20/1789904743322.jpeg",
+      "teaser": "The president is now framing construction of the arch as a national security issue.",
+      "body": [
+        "The president is now framing construction of the arch as a national security issue. What they're saying: \"At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, planned since the Civil War Era…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Hideo Kojima explains the surprise split with Sony - The Washington Post",
+      "deck": "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”",
+      "byline": "By Gene Park",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/style/2026/09/20/hideo-kojima-explains-surprise-physint-split-with-sony/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH2X75DW66CW3YPGB54D2V6EYU_size-normalized.jpg&w=1440",
+      "teaser": "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”",
+      "body": [
+        "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”\n\nIn a Zoom call in mid-June, Sony delivered bombshell news to Kojima Productions: The tech giant would stop funding the studios next project, the highly anticipated espionage game Physint.",
+        "After the c…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - CNBC",
+      "deck": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+      "byline": "By Kif Leswing",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+      "teaser": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+      "body": [
+        "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI. Nvidia CEO Jensen Huang speaks during the keynote address at Salesforce's Dreamforce conference at the Moscone Center on Sept.",
+        "15, 2026 in San Francisco, California. With the debate about regulatin…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "‘Crisis even bigger than Covid’: American business owners are barely getting by - CNN",
+      "deck": "The historic supply chain struggles that America’s business owners face show why resurgent inflation will not be easily resolved – even if the war ended.",
+      "byline": "By David Goldman",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/20/economy/covid-diesel-supply-chain",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2290741663.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "The historic supply chain struggles that America’s business owners face show why resurgent inflation will not be easily resolved – even if the war ended.",
+      "body": [
+        "The historic supply chain struggles that America’s business owners face show why resurgent inflation will not be easily resolved – even if the war ended. Jeff Vojta cant catch a break. The CEO of Dilworth Coffee in Raleigh, North Carolina, contended with a miserable Brazilian coffee crop in 2024 that vaulted coffee futures to record highs.",
+        "The next y…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "How Trump 2.0's stock market stacks up with predecessors - Axios",
+      "deck": "Trump 2.0 stock market easily topped Biden, but remains behind Obama and Trump 1.0.",
+      "byline": "By Dan Primack",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/20/trump-stock-market-predecessors",
+      "imgSrc": "https://images.axios.com/-87oNUMDa_R0Lp0TqtC7Bajf00w=/0x0:1600x900/1366x768/2026/09/19/1789831417233.png",
+      "teaser": "Trump 2.0 stock market easily topped Biden, but remains behind Obama and Trump 1.0.",
+      "body": [
+        "Trump 2.0 stock market easily topped Biden, but remains behind Obama and Trump 1.0. By the numbers: The S&amp;P 500 rose nearly 27.6% between inauguration day and this past Friday's close, compared to 28.5% during his first term. The gap at 20 months is closer than it was a…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Meet a 71-year-old who retired as a radiologist and professor, and now runs a banana-skewer business - Fortune",
+      "deck": "Richard Brown’s career has taken him from the exam room to the classroom and boardroom. At 71, he’s still working—and is now focused on entrepreneurship.",
+      "byline": "By Preston Fore",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/20/retired-professor-radiologist-richard-brown-turning-to-entreprenuership-career-success-starting-over-poka-snack/",
+      "imgSrc": "https://fortune.com/img-assets/wp-content/uploads/2026/09/RichardBrown.jpg?resize=1200,600",
+      "teaser": "Richard Brown’s career has taken him from the exam room to the classroom and boardroom. At 71, he’s still working—and is now focused on entrepreneurship.",
+      "body": [
+        "Richard Brown’s career has taken him from the exam room to the classroom and boardroom. At 71, he’s still working—and is now focused on entrepreneurship. At 71, Richard Brown feels as if hes a college student all over again.A nuclear medicine physician turned professor, Brown formally retired in 2020only to take another job in university leadership th…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Hideo Kojima explains the surprise split with Sony - The Washington Post",
+      "deck": "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”",
+      "byline": "By Gene Park",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/style/2026/09/20/hideo-kojima-explains-surprise-physint-split-with-sony/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH2X75DW66CW3YPGB54D2V6EYU_size-normalized.jpg&w=1440",
+      "teaser": "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”",
+      "body": [
+        "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”\n\nIn a Zoom call in mid-June, Sony delivered bombshell news to Kojima Productions: The tech giant would stop funding the studios next project, the highly anticipated espionage game Physint.",
+        "After the c…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "I spent 30 minutes with the iPhone Duo — 3 things you just don’t get from the pictures - Tom's Guide",
+      "deck": "This thing hits different when you hold it",
+      "byline": "By Jeff Parsons",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/phones/iphones/i-spent-30-minutes-with-the-iphone-duo-3-things-you-just-dont-get-from-the-pictures",
+      "imgSrc": "https://cdn.mos.cms.futurecdn.net/GTrSzbvbSigPgscpMS3JsU-2560-80.jpg",
+      "teaser": "This thing hits different when you hold it",
+      "body": [
+        "This thing hits different when you hold it\n\n"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Insomniac denies AI made Marvel's Wolverine's weird bathroom sign - blames a \"UV map bug\" instead - Eurogamer.net",
+      "deck": "Insomniac denies using generative AI on Marvel's Wolverine after fans spotted a strange bathroom sign, blaming a \"UV map bug\" instead.",
+      "byline": "By Vikki Blake",
+      "source": "Eurogamer.net",
+      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+      "imgSrc": "https://assetsio.gnwcdn.com/Screenshot-2026-09-20-at-10.09.46.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "teaser": "Insomniac denies using generative AI on Marvel's Wolverine after fans spotted a strange bathroom sign, blaming a \"UV map bug\" instead.",
+      "body": [
+        "Insomniac denies using generative AI on Marvel's Wolverine after fans spotted a strange bathroom sign, blaming a \"UV map bug\" instead. Wolverine developer Insomniac has denied using generative AI after fans jumped on social media to share screenshots of a bizarre restroom sign.",
+        "Trying to cool speculation, community director James S…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "T. rex teeth indicate it ran as warm as an elephant - Ars Technica",
+      "deck": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+      "byline": "By Jacek Krywko",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+      "imgSrc": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg",
+      "teaser": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+      "body": [
+        "Isotope ratios provide a hint that the giants were actively managing temperatures. "
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "During the Solar System’s first million years, its earliest outer worlds formed from material that was up to 92 percent heat-forged rock, while gas flowing through the young system filtered out much of the surrounding ice-rich dust. - Space Daily",
+      "deck": "Two chemical tracers in carbonaceous iron meteorites indicate that the earliest outer Solar System planetesimals contained only 8 to 17 percent fine matrix, extending aerodynamic sorting to the opening era of planet formation.",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/t-first-outer-worlds-92-percent-chondrules-gas-filtered-dust/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/09/nasa-protoplanetary-disk-pia20645-1024x576.jpg",
+      "teaser": "Two chemical tracers in carbonaceous iron meteorites indicate that the earliest outer Solar System planetesimals contained only 8 to 17 percent fine matrix, extending aerodynamic s…",
+      "body": [
+        "Two chemical tracers in carbonaceous iron meteorites indicate that the earliest outer Solar System planetesimals contained only 8 to 17 percent fine matrix, extending aerodynamic sorting to the opening era of planet formation. The first solid worlds assembled in the outer Solar System did not simply collect a representative scoop of everything around them.",
+        "A new analysis of carbonaceous iron meteorites indicates that their…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "NASA budgeted 200 kilograms of fuel for Roman’s first course correction, but the telescope used only 18. Combined with extra fuel loaded before launch and further expected savings, that could stretch its 10-year fuel plan to at least 22 years. - Space Daily",
+      "deck": "Roman's first correction used nine percent of its 200-kilogram allocation. NASA now projects enough propellant for at least 22 years, while stressing that later savings remain conditional.",
+      "byline": "By Space Daily",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/t-roman-first-correction-18kg-22-years-fuel/",
+      "imgSrc": "https://spacedaily.com/wp-content/uploads/2026/09/nasa-roman-propulsion-thumbnail.jpg",
+      "teaser": "Roman's first correction used nine percent of its 200-kilogram allocation. NASA now projects enough propellant for at least 22 years, while stressing that later savings remain cond…",
+      "body": [
+        "Roman's first correction used nine percent of its 200-kilogram allocation. NASA now projects enough propellant for at least 22 years, while stressing that later savings remain conditional. NASA’s Nancy Grace Roman Space Telescope began its journey to the Sun-Earth L2 region with a propellant budget built around uncertainty.",
+        "The first major test of that reserve has produced a result far…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "A Melbourne landowner bought his property in 1981; decades later, a government reservation cut its value and a court awarded $27.9 million",
+      "deck": "Rest of World News: Jeffrey Robert Barrett bought a property in Wyndham Vale, in Melbourne's west, in 1981, when it was zoned for rural use. Decades later, planning chang.",
+      "byline": "By TOI World Desk",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-melbourne-landowner-bought-his-property-in-1981-decades-later-a-government-reservation-cut-its-value-and-a-court-awarded-27-9-million/articleshow/134367520.cms",
+      "imgSrc": "https://static.toiimg.com/thumb/msid-134367605,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "teaser": "Rest of World News: Jeffrey Robert Barrett bought a property in Wyndham Vale, in Melbourne's west, in 1981, when it was zoned for rural use. Decades later, planning chang.",
+      "body": [
+        "Rest of World News: Jeffrey Robert Barrett bought a property in Wyndham Vale, in Melbourne's west, in 1981, when it was zoned for rural use. Decades later, planning chang. News World News Rest of World News A Melbourne landowner bought his property in 1981; decades later, a government reservation cut its value and a court awarded $…"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "‘Lion at home, cat overseas’: Ex-India selector warns Abhishek Sharma, Vaibhav Sooryavanshi over away struggles",
+      "deck": "Former Indian wicketkeeper Sandeep Patil slammed Abhishek Sharma and Vaibhav Sooryavanshi after the duo failed to make a mark outside India.",
+      "byline": "By Deepanjan Mitra",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/sandeep-patil-warns-abhishek-sharma-vaibhav-sooryavanshi-away-struggles/ef82697c8abf851c429faf01",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/6d39b591ae0c1f55af5ec823010ee3b2077fccac562db4fa2837614d4bd54280/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe15ab105d93b2aebb872c5f31e7e25b1",
+      "teaser": "Former Indian wicketkeeper Sandeep Patil slammed Abhishek Sharma and Vaibhav Sooryavanshi after the duo failed to make a mark outside India.",
+      "body": [
+        "Former Indian wicketkeeper Sandeep Patil slammed Abhishek Sharma and Vaibhav Sooryavanshi after the duo failed to make a mark outside India. 'Lion at home, cat overseas': Ex-India selector warns Abhishek Sharma, Vaibhav Sooryavanshi over away struggles originally appeared on Cricket News.",
+        "Add Cricket News as a Preferred Source by clicking…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": " Marseille v PSG: the biggest taunts of the decade!",
+      "deck": "All fair game. There are victories that stay in the memory... and the taunts that come with them.From Neymar to Payet, not to mention the community managers of both clubs, here’s a look back at a de...",
+      "byline": "By OneFootball",
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/marseille-v-psg-the-biggest-taunts-of-the-decade-43492974",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/b6468a602ac50f2b35383963ebc609597fca4ca2beea672f83a4e31daac59b52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2F0ed74915dba20300dcff0b9a82d13a10.png",
+      "teaser": "All fair game. There are victories that stay in the memory... and the taunts that come with them.From Neymar to Payet, not to mention the community managers of both clubs, here’s a…",
+      "body": [
+        "All fair game. There are victories that stay in the memory... and the taunts that come with them. From Neymar to Payet, not to mention the community managers of both clubs, here's a look back at a d…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Trump's proposed Washington arch to become sniper, drone facility - Axios",
+      "deck": "The president is now framing construction of the arch as a national security issue.",
+      "byline": "By Ben Berkowitz",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/20/trump-arch-washington-snipers-drones",
+      "imgSrc": "https://images.axios.com/SCPOtHpRuHsJ8HlU_CJYe2occtU=/0x187:3840x2347/1366x768/2026/09/20/1789904743322.jpeg",
+      "teaser": "The president is now framing construction of the arch as a national security issue.",
+      "body": [
+        "The president is now framing construction of the arch as a national security issue. What they're saying: \"At the strong request of the United States Military, and for National Security purposes, I have agreed to convert the magnificent Triumphal Arch, planned since the Civil War Era…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Hideo Kojima explains the surprise split with Sony - The Washington Post",
+      "deck": "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”",
+      "byline": "By Gene Park",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/style/2026/09/20/hideo-kojima-explains-surprise-physint-split-with-sony/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH2X75DW66CW3YPGB54D2V6EYU_size-normalized.jpg&w=1440",
+      "teaser": "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”",
+      "body": [
+        "Celebrated game director Hideo Kojima wrestled with Sony’s surprise cancellation months before it went public, he said in an interview, fearing “our studio could collapse.”\n\nIn a Zoom call in mid-June, Sony delivered bombshell news to Kojima Productions: The tech giant would stop funding the studios next project, the highly anticipated espionage game Physint.",
+        "After the c…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - CNBC",
+      "deck": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+      "byline": "By Kif Leswing",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+      "imgSrc": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1789665981&w=1920&h=1080",
+      "teaser": "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
+      "body": [
+        "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI. Nvidia CEO Jensen Huang speaks during the keynote address at Salesforce's Dreamforce conference at the Moscone Center on Sept.",
+        "15, 2026 in San Francisco, California. With the debate about regulatin…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Daniel Cormier, Joe Rogan criticize ‘ungrateful loser’ Gable Steveson for behavior after knockout loss at UFC 331 - mmafighting.com",
+      "deck": "Daniel Cormier and Joe Rogan agree that Gable Steveson still has a lot to learn and he showed that with his reaction to his knockout loss at UFC 331.",
+      "byline": "By Damon Martin",
+      "source": "MMA Fighting",
+      "url": "https://www.mmafighting.com/ufc/511539/daniel-cormier-joe-rogan-criticize-ungrateful-loser-gable-steveson-for-behavior-after-knockout-loss-at-ufc-331",
+      "imgSrc": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/09/gettyimages-2296152717.jpg?quality=90&strip=all&crop=0%2C13.207791319257%2C100%2C78.534031413613&w=1200",
+      "teaser": "Daniel Cormier and Joe Rogan agree that Gable Steveson still has a lot to learn and he showed that with his reaction to his knockout loss at UFC 331.",
+      "body": [
+        "Daniel Cormier and Joe Rogan agree that Gable Steveson still has a lot to learn and he showed that with his reaction to his knockout loss at UFC 331. Gable Steveson was touted as the future of the UFC heavyweight division with limitless potential but his undefeated run came crashing down around him on Saturday night at UFC 331.",
+        "Despite being an o…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Sources: Steelers eye Week 3 return for CB Joey Porter Jr. - ESPN",
+      "deck": "The Steelers are planning for Joey Porter Jr. to potentially return for their Week 3 game against the Bengals, sources told ESPN.",
+      "byline": "By Adam Schefter",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49982020/sources-steelers-eye-potential-week-3-joey-porter-jr",
+      "imgSrc": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0914%2Fr1716700_1296x729_16%2D9.jpg",
+      "teaser": "The Steelers are planning for Joey Porter Jr. to potentially return for their Week 3 game against the Bengals, sources told ESPN.",
+      "body": [
+        "The Steelers are planning for Joey Porter Jr. to potentially return for their Week 3 game against the Bengals, sources told ESPN. The Pittsburgh Steelers are planning for Joey Porter Jr., who has missed the first two games of the season, to potentially return for their Week 3 game against the Cincinnati Bengals, sources told ES…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Browns expected to evaluate QB situation ahead of Week 3 - ESPN",
+      "deck": "The Browns are expected to evaluate their quarterback situation after their Week 2 game against the Buccaneers.",
+      "byline": "By Ian Rapoport",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49985301/browns-expected-evaluate-qb-situation-ahead-week-3",
+      "imgSrc": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0823%2Fr1705605_1296x729_16%2D9.jpg",
+      "teaser": "The Browns are expected to evaluate their quarterback situation after their Week 2 game against the Buccaneers.",
+      "body": [
+        "The Browns are expected to evaluate their quarterback situation after their Week 2 game against the Buccaneers. Decision time is coming for the Cleveland Browns and their quarterback situation. Deshaun Watson will make his second straight start on the road to open the season for the Browns -- and after that, …"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "3 science-backed home remedies to ease the common cold - The Washington Post",
+      "deck": "Rest and hydration are essential, but these other strategies may also bring relief.",
+      "byline": "By Lindsey Bever",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2026/09/20/3-science-backed-home-remedies-ease-common-cold/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/475DJC3NMX5GRLU7PQ6RYVPBWY.jpg&w=1440",
+      "teaser": "Rest and hydration are essential, but these other strategies may also bring relief.",
+      "body": [
+        "Rest and hydration are essential, but these other strategies may also bring relief. In addition to rest, healthy food and hydration, there are a few at-home remedies that many doctors recommend to help treat the common cold. Here are three science-backed ways to soothe your throat,…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "Millions of parents are taking GLP-1s. How should they talk to their kids about it? - The Washington Post",
+      "deck": "People are grappling with how to talk to inquisitive children who might notice a box of syringes in the fridge, a smaller serving on a plate or a parent’s changing body size.",
+      "byline": "By Caitlin Gibson",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/lifestyle/2026/09/19/what-should-parents-taking-glp-1s-tell-their-kids/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/I7SBCJ2HRVB2PHN7SCHZP2VYXA.jpg&w=1440",
+      "teaser": "People are grappling with how to talk to inquisitive children who might notice a box of syringes in the fridge, a smaller serving on a plate or a parent’s changing body size.",
+      "body": [
+        "People are grappling with how to talk to inquisitive children who might notice a box of syringes in the fridge, a smaller serving on a plate or a parent’s changing body size. When Carey Moreno-Hunt started taking a GLP-1 weight-loss drug about three years ago, she knew right away that she would talk to her four children about it.",
+        "Their family has always been very open wit…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "Column | Concussions may raise dementia risk. Here’s how to protect yourself. - The Washington Post",
+      "deck": "Commonly caused by falls in older adults, concussions are linked to an 18 percent increased risk of Alzheimer’s disease.",
+      "byline": "By Richard Sima",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/wellness/2026/09/20/concussions-may-raise-dementia-risk-heres-how-protect-yourself/",
+      "imgSrc": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5KET6GZ52JGITOMWU47O4YDZHM.jpg&w=1440",
+      "teaser": "Commonly caused by falls in older adults, concussions are linked to an 18 percent increased risk of Alzheimer’s disease.",
+      "body": [
+        "Commonly caused by falls in older adults, concussions are linked to an 18 percent increased risk of Alzheimer’s disease. Millions of Americans get a concussion every year. While often associated with blows to the head during contact sports, concussions are common at all ages.",
+        "Thirteen percent of older adults have exper…"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Prince Harry’s push to give Archie, Lilibet royal upbringing exposes ‘contradiction’ after palace exit: expert - Fox News",
+      "deck": "Prince Harry's children started school in England as experts question whether he can mend the rift with King Charles and Prince William first.",
+      "byline": "By Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/entertainment/prince-harry-push-give-archie-lilibet-royal-upbringing-exposes-contradiction-palace-exit-expert",
+      "imgSrc": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Prince-Harry-Meghan-Markle-Heritage.jpg",
+      "teaser": "Prince Harry's children started school in England as experts question whether he can mend the rift with King Charles and Prince William first.",
+      "body": [
+        "Prince Harry's children started school in England as experts question whether he can mend the rift with King Charles and Prince William first. Prince Harry wants his children to embrace their British roots and royal heritage, but one expert says there's a glaring \"contradiction.\" \"Harry spent years telling us why he needed to escape royal …"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Jack Avery Fights Ex Gabbie Gonzalez's Latest Bid to See Their Daughter - TMZ",
+      "deck": "Jack Avery is pushing back against his ex Gabbie Gonzalez's latest attempt to reconnect with their daughter ... saying there's a good reason a criminal protective order currently blocks her from having any contact.",
+      "byline": "By TMZ Staff",
+      "source": "TMZ",
+      "url": "https://www.tmz.com/2026/09/20/jack-avery-fights-gabbie-gonzalez-custody-request/",
+      "imgSrc": "https://imagez.tmz.com/image/44/16by9/2026/09/17/4441756224394cecaec5c410ed3f2dfe_xl.jpg",
+      "teaser": "Jack Avery is pushing back against his ex Gabbie Gonzalez's latest attempt to reconnect with their daughter ... saying there's a good reason a criminal protective order currently b…",
+      "body": [
+        "Jack Avery is pushing back against his ex Gabbie Gonzalez's latest attempt to reconnect with their daughter ... saying there's a good reason a criminal protective order currently blocks her from havi…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Alan Ritchson On The ‘Reacher’ Season That Was Canceled After “Someone Got Re-Elected” - Deadline",
+      "deck": "With a fifth season of 'Reacher' underway, Alan Ritchson is still waiting to adapt his favorite book in the Lee Child series.",
+      "byline": "By Glenn Garner",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/09/alan-ritchson-reacher-season-canceled-trump-re-elected-1237108646/",
+      "imgSrc": "https://deadline.com/wp-content/uploads/2026/09/Reacher-Donald-Trump-2-shot.jpg?w=1024",
+      "teaser": "With a fifth season of 'Reacher' underway, Alan Ritchson is still waiting to adapt his favorite book in the Lee Child series.",
+      "body": [
+        "With a fifth season of 'Reacher' underway, Alan Ritchson is still waiting to adapt his favorite book in the Lee Child series. With a fifth season of Reacher underway, Alan Ritchson is still waiting to adapt his favorite book in the Lee Child series.",
+        "The Jack Reacher actor recently revealed that was almost able to adapt the…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "2026 SkS Weekly Climate Change & Global Warming News Roundup #38",
+      "deck": "A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, September 13, 2026 thru Sat, September 19, 2026. Stories we promoted this week, by category: Climate Change Impacts (8 articles) A Su…",
+      "byline": "By Skepticalscience.com",
+      "source": "Skepticalscience.com",
+      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_38.html",
+      "imgSrc": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+      "teaser": "A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, September 13, 2026 thru Sat, September 19, 2026. Stories we pro…",
+      "body": [
+        "Posted on 20 September 2026 by BaerbelW, Doug Bostrom A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, September 13, 2026 thru Sat…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "What is one of the biggest problems that harm tidepools animals?",
+      "deck": "What is One of the Biggest Problems That Harm Tidepool Animals? One of the biggest problems impacting tidepool animals is human disturbance, encompassing everything from trampling sensitive habitats to collecting creatures and polluting the delicate ecosystem…",
+      "byline": "By Ava Reynolds",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-is-one-of-the-biggest-problems-that-harm-tidepools-animals/",
+      "imgSrc": "https://images.unsplash.com/photo-1619358974862-d1e03de7b35c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjgzNzJ8MHwxfHNlYXJjaHwxfHxXaGF0JTIwaXMlMjBvbmUlMjBvZnxlbnwwfDB8fHwxNzg5OTkwNTkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "teaser": "What is One of the Biggest Problems That Harm Tidepool Animals? One of the biggest problems impacting tidepool animals is human disturbance, encompassing everything from trampling …",
+      "body": [
+        "What is One of the Biggest Problems That Harm Tidepool Animals? One of the biggest problems impacting tidepool animals is human disturbance, encompassing everything from trampling sensitive habitats…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "India news: PM Modi says developing nations unfairly blamed for emissions",
+      "deck": "PM Narendra Modi has told a climate conference that developed countries emit six times more CO2 than India. Meanwhile, an IIT Bombay professor has been accused of caste abuse. DW has more.",
+      "byline": "By Seerat Chabba",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891",
+      "imgSrc": "https://static.dw.com/image/79341287_6.jpg",
+      "teaser": "PM Narendra Modi has told a climate conference that developed countries emit six times more CO2 than India. Meanwhile, an IIT Bombay professor has been accused of caste abuse. DW h…",
+      "body": [
+        "PM Narendra Modi has told a climate conference that developed countries emit six times more CO2 than India. Meanwhile, an IIT Bombay professor has been accused of caste abuse. DW has more. The Delhi High Court granted bail to British national Jagtar Singh Johal in seven murder and terrorism-related cases, clearing the way for his conditional release after nearly nine years in Indian cu…"
+      ]
+    }
+  }
+}
