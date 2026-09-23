@@ -1,0 +1,403 @@
+{
+  "date": "Wednesday, September 23, 2026",
+  "key": "sep23",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market - Yahoo Finance",
+      "deck": "US stock futures steadied on Tuesday after confidence in artificial intelligence and falling oil prices spurred a rally on Wall Street.",
+      "byline": "By Grace O'Donnell",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/81a9c9ae907c8a0ac2dae97a319e158d40b777c7577e398992090233f64723eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F37f22e80-6f8b-4044-abe4-f5cd6fdce5b9",
+      "teaser": "US stock futures steadied on Tuesday after confidence in artificial intelligence and falling oil prices spurred a rally on Wall Street.",
+      "body": [
+        "US stock futures steadied on Tuesday after confidence in artificial intelligence and falling oil prices spurred a rally on Wall Street. Futures on the Nasdaq-100 (NQ=F) edged higher by 0.1% after th…"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "‘We need to stop the contagion’: GOP ramps up midterms defense in Trump states - Politico",
+      "deck": "Senior Republicans say the Midwest is a growing problem as they race to keep control of the House and Senate.",
+      "byline": "By Meredith Lee Hill",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/09/22/republicans-senate-house-map-midterm-fears-01086866",
+      "imgSrc": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F77%2F74%2Fa9eae3f941dc8473f85c2d5d6c48%2Fu-s-congress-7832.jpg",
+      "teaser": "Senior Republicans say the Midwest is a growing problem as they race to keep control of the House and Senate.",
+      "body": [
+        "Senior Republicans say the Midwest is a growing problem as they race to keep control of the House and Senate. The stakes go far beyond one Senate seat, Amy Natoce, a Husted campaign spokesperson, said in a statement. Control of the Senate will determine which agenda moves forward in Washington: Sherrod Brown…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells - NPR",
+      "deck": "A grand jury found Wells' cause of death \"consistent with drowning,\" and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with friends to celebrate Independence Day.",
+      "byline": "By Elise Gregg",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury",
+      "imgSrc": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2Fb8%2Ffd62b0a449ea86d794cfcdda980e%2Fgettyimages-2286572622.jpg",
+      "teaser": "A grand jury found Wells' cause of death \"consistent with drowning,\" and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with fr…",
+      "body": [
+        "A grand jury found Wells' cause of death \"consistent with drowning,\" and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with friends to celebrate Independence Day. A Mississippi grand jury has decided not to bring indictments in the case of Nolan Wells, a teenager who was found dead off the Mississippi coast in early July.",
+        "\"The Grand Jury finds no credible evi…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth - Yahoo Finance",
+      "deck": "Why Muse is the new darling of Meta investors.",
+      "byline": "By Brian Sozzi",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/article/why-muse-really-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/e06dde2f9c8ff37a2f59d9e8ec8ba6f9e0cda50b7bb64ea1dbe330fe990e4840/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8b5b46fc-ecfd-4dfe-bcfd-d0126495f1f7",
+      "teaser": "Why Muse is the new darling of Meta investors.",
+      "body": [
+        "Why Muse is the new darling of Meta investors. The way the market sees it now, Meta (META) is about to upend the enterprise tech market with its new Muse AI agent. \"Lots can and will change in the future, but the key, simple point is that Meta h…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "AI solved one of math's hardest problems. Humanity learned nothing (so far) - NPR",
+      "deck": "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much.",
+      "byline": "By Geoff Brumfiel",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5968588/openai-navier-stokes-problem-mathematicians-learn-little",
+      "imgSrc": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6200x3488+0+581/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2F6b%2F4d5113474763a720386f439bd345%2Fgettyimages-2294331667.jpg",
+      "teaser": "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much.",
+      "body": [
+        "OpenAI beat humans to solving the Navier-Stokes problem, but mathematicians say the AI's solution isn't telling them much. When OpenAI announced its AI had solved one of the world's toughest math problems earlier this month, its tone was celebratory: \"A major goal of our work is to empower scientists to advance research…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Alibaba Unveils AI Chip to Drive Global Data Center Buildout - Bloomberg.com",
+      "deck": "Alibaba Group Holding Ltd. is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming years.",
+      "byline": "By Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032",
+      "imgSrc": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iR9hDiuafBdI/v0/1200x800.jpg",
+      "teaser": "Alibaba Group Holding Ltd. is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center c…",
+      "body": [
+        "Alibaba Group Holding Ltd. is rolling out what it calls Chinas most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming ye…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture - 9to5Mac",
+      "deck": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 27.2 beta 2.",
+      "byline": "By Marcus Mendes",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
+      "imgSrc": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b2.jpg?quality=82&strip=all&resize=1200,628",
+      "teaser": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a come…",
+      "body": [
+        "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 27.2 beta 2.",
+        "If youve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 2…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Nintendo Shares First Look At Zelda: Ocarina Of Time Switch 2 World Map - Nintendo Life",
+      "deck": "See how it compares to the original game",
+      "byline": "By Liam Doolan",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2-world-map",
+      "imgSrc": "https://images.nintendolife.com/fd1de3618e775/large.jpg",
+      "teaser": "See how it compares to the original game",
+      "body": [
+        "See how it compares to the original game\n\nImage: Nintendo The Legend of Zelda: Ocarina of Time is getting a fancy new makeover on the Switch 2 this November, and in case you missed it, Nintendo recently shared artwork of the game's world ma…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "RatHat is a new Android malware that records your screen touches to steal passwords - Mashable",
+      "deck": "This malicious software also weaponizes AI to infect the device.",
+      "byline": "By Matt Binder",
+      "source": "Mashable",
+      "url": "https://mashable.com/tech/rathat-android-malware-records-screen-touches",
+      "imgSrc": "https://helios-i.mashable.com/imagery/articles/01NCEX5U7f1U5WofEMb9kYZ/hero-image.fill.size_1200x675.v1790030639.jpg",
+      "teaser": "This malicious software also weaponizes AI to infect the device.",
+      "body": [
+        "This malicious software also weaponizes AI to infect the device. "
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "Scientists discover first new penguin species in more than 100 years - ScienceDaily",
+      "deck": "Genetic evidence has revealed a previously unknown gentoo penguin species on the remote Kerguelen Islands and shown that gentoos actually consist of four distinct species. The discovery also highlights a growing threat, as warming oceans could leave several i…",
+      "byline": "By Science Daily",
+      "source": "Science Daily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
+      "imgSrc": "https://www.sciencedaily.com/images/1920/two-gentoo-penguins-snowy-antarctic-mountains.webp",
+      "teaser": "Genetic evidence has revealed a previously unknown gentoo penguin species on the remote Kerguelen Islands and shown that gentoos actually consist of four distinct species. The disc…",
+      "body": [
+        "Genetic evidence has revealed a previously unknown gentoo penguin species on the remote Kerguelen Islands and shown that gentoos actually consist of four distinct species. The discovery also highlights a growing threat, as warming oceans could leave several i…\n\nAntarctica's four-foot-tall Emperor penguin may be the best-known member of the penguin family, but it is far from alone.",
+        "Seventeen other penguin species live across the Southern Hemisphere, and many…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Astronomers Detect Radio Signals Coming Directly From an Exoplanet For The First Time - ScienceAlert",
+      "deck": "There's no proof of other life beyond Earth yet, but scientists are constantly looking out and listening for signs that we're not actually alone in the Universe.",
+      "byline": "By David Nield",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/astronomers-detect-radio-signals-coming-directly-from-an-exoplanet-for-the-first-time",
+      "imgSrc": "https://www.sciencealert.com/images/2026/09/SpaceTelescope.jpg",
+      "teaser": "There's no proof of other life beyond Earth yet, but scientists are constantly looking out and listening for signs that we're not actually alone in the Universe.",
+      "body": [
+        "There's no proof of other life beyond Earth yet, but scientists are constantly looking out and listening for signs that we're not actually alone in the Universe. Now, a team from the Center for Astr…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "New Research Suggests That A Neutrino Laser Is Impossible - Hackaday",
+      "deck": "As cool as it would have been to wield lasers that produce a beam of neutrinos, recently two papers were published by MIT researchers that seem to dampen the likelihood of such lasers being at all …",
+      "byline": "By Maya Posch",
+      "source": "Hackaday",
+      "url": "https://hackaday.com/2026/09/21/new-research-suggests-that-a-neutrino-laser-is-impossible/",
+      "imgSrc": "https://hackaday.com/wp-content/uploads/2026/09/neutrino_laser_aps_carin_cain.png",
+      "teaser": "As cool as it would have been to wield lasers that produce a beam of neutrinos, recently two papers were published by MIT researchers that seem to dampen the likelihood of such las…",
+      "body": [
+        "As cool as it would have been to wield lasers that produce a beam of neutrinos, recently two papers were published by MIT researchers that seem to dampen the likelihood of such lasers being at all …\n\nYeah, as an ultimate unshieldable SciFi weapon.",
+        "Neutrinos rarely interact, but when they do they deposit their energy. When a very large number of neutrinos fly through matter, that can add up to the…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "‘Prima Facie’ Trailer: ‘Wicked’ Actress Cynthia Erivo Stars As Hotshot Lawyer In Adaptation Of Hit Stage Play",
+      "deck": "Sony Pictures has dropped the official trailer for Prima Facie starring Wicked Oscar-nominated actress Cynthia Erivo as hotshot young barrister Tessa whose personal life and career unravel after she is brutally sexually assaulted by a person in her law world …",
+      "byline": "By Melanie Goodfellow",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/09/prima-facie-trailer-wicked-actress-cynthia-erivo-lawyer-1237109914/",
+      "imgSrc": "https://deadline.com/wp-content/uploads/2026/09/Prima-Facie.jpg?w=1024",
+      "teaser": "Sony Pictures has dropped the official trailer for Prima Facie starring Wicked Oscar-nominated actress Cynthia Erivo as hotshot young barrister Tessa whose personal life and career…",
+      "body": [
+        "Sony Pictures has dropped the official trailer for Prima Facie starring Wicked Oscar-nominated actress Cynthia Erivo as hotshot young barrister Tessa whose personal life and career unravel after she …"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Hollywood Actress’ Physique Breaks Internet As Fans Zoom In On Unusual Detail: “Don’t Have Time To Photoshop”",
+      "deck": "The Canadian actress’s extreme transformation for her upcoming live-action film has stunned fans with its resemblance to the iconic fictional character, but her striking physique has also sparked an unexpected Photoshop debate online.",
+      "byline": "By Gabija Saveiskyte",
+      "source": "Boredpanda.com",
+      "url": "https://www.boredpanda.com/callina-liang-chun-li-street-fighte-physique-unusual-detail/",
+      "imgSrc": "https://static.boredpanda.com/blog/wp-content/uploads/2026/09/fb-1.jpg",
+      "teaser": "The Canadian actress’s extreme transformation for her upcoming live-action film has stunned fans with its resemblance to the iconic fictional character, but her striking physique h…",
+      "body": [
+        "The Canadian actress’s extreme transformation for her upcoming live-action film has stunned fans with its resemblance to the iconic fictional character, but her striking physique has also sparked an unexpected Photoshop debate online. Callina Liang has left fans doing double takes after new behind-the-scenes images revealed just how dramatically she transformed for her role in the upcoming film.",
+        "The actress’s striking physique qu…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "What's The Difference Between Google Maps And Google Earth?",
+      "deck": "One gets you to work, while the other one lets you explore the world in creative ways. Discover the unique features that separate Google Maps from Google Earth.",
+      "byline": "By staff@bgr.com (Jules Wang)",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2261364/differences-between-google-maps-and-earth/",
+      "imgSrc": "https://www.bgr.com/img/gallery/whats-the-difference-between-google-maps-and-google-earth/l-intro-1789660790.jpg",
+      "teaser": "One gets you to work, while the other one lets you explore the world in creative ways. Discover the unique features that separate Google Maps from Google Earth.",
+      "body": [
+        "One gets you to work, while the other one lets you explore the world in creative ways. Discover the unique features that separate Google Maps from Google Earth. So what's Google Earth all about? Google Earth officially launched on June 28, 2005, but it was originally developed by a company called Keyhole in the 1990s and, perhaps not surprisingly, it later h…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market - Yahoo Finance",
+      "deck": "US stock futures steadied on Tuesday after confidence in artificial intelligence and falling oil prices spurred a rally on Wall Street.",
+      "byline": "By Grace O'Donnell",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/81a9c9ae907c8a0ac2dae97a319e158d40b777c7577e398992090233f64723eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F37f22e80-6f8b-4044-abe4-f5cd6fdce5b9",
+      "teaser": "US stock futures steadied on Tuesday after confidence in artificial intelligence and falling oil prices spurred a rally on Wall Street.",
+      "body": [
+        "US stock futures steadied on Tuesday after confidence in artificial intelligence and falling oil prices spurred a rally on Wall Street. Futures on the Nasdaq-100 (NQ=F) edged higher by 0.1% after th…"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "‘We need to stop the contagion’: GOP ramps up midterms defense in Trump states - Politico",
+      "deck": "Senior Republicans say the Midwest is a growing problem as they race to keep control of the House and Senate.",
+      "byline": "By Meredith Lee Hill",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/09/22/republicans-senate-house-map-midterm-fears-01086866",
+      "imgSrc": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F77%2F74%2Fa9eae3f941dc8473f85c2d5d6c48%2Fu-s-congress-7832.jpg",
+      "teaser": "Senior Republicans say the Midwest is a growing problem as they race to keep control of the House and Senate.",
+      "body": [
+        "Senior Republicans say the Midwest is a growing problem as they race to keep control of the House and Senate. The stakes go far beyond one Senate seat, Amy Natoce, a Husted campaign spokesperson, said in a statement. Control of the Senate will determine which agenda moves forward in Washington: Sherrod Brown…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells - NPR",
+      "deck": "A grand jury found Wells' cause of death \"consistent with drowning,\" and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with friends to celebrate Independence Day.",
+      "byline": "By Elise Gregg",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury",
+      "imgSrc": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2Fb8%2Ffd62b0a449ea86d794cfcdda980e%2Fgettyimages-2286572622.jpg",
+      "teaser": "A grand jury found Wells' cause of death \"consistent with drowning,\" and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with fr…",
+      "body": [
+        "A grand jury found Wells' cause of death \"consistent with drowning,\" and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with friends to celebrate Independence Day. A Mississippi grand jury has decided not to bring indictments in the case of Nolan Wells, a teenager who was found dead off the Mississippi coast in early July.",
+        "\"The Grand Jury finds no credible evi…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "Jaxson Dart is believed to have a sprained MCL - NBC Sports",
+      "deck": "MRI is coming on Monday.",
+      "byline": "By Mike Florio",
+      "source": "NBCSports.com",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxson-dart-is-believed-to-have-a-sprained-mcl",
+      "imgSrc": "https://nbcsports.brightspotcdn.com/dims4/default/7459eff/2147483647/strip/true/crop/5568x3132+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd0%2Fa1%2F6f7545ea45ed80840efd9822c720%2F2026-09-22t033421z-2075806672-mt1usatoday29883898-rtrmadp-3-nfl-new-york-giants-at-los-angeles-rams.jpg",
+      "teaser": "MRI is coming on Monday.",
+      "body": [
+        "MRI is coming on Monday. The Giants have gotten some good news, for now, regarding quarterback Jaxson Darts knee injury. Via NFL Network, its believed that Dart suffered a sprained MCL. The assessment is based on a prelimi…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Aaron Donald's return fires up Rams in rout of Giants - ESPN",
+      "deck": "Aaron Donald -- and the SoFi Stadium crowd's response to him -- sparked the Rams in his first game since the end of the 2023 season.",
+      "byline": "By Sarah Barshop",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50002943/aaron-donald-return-fires-rams-rout-giants",
+      "imgSrc": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0922%2Fr1720269_1296x729_16%2D9.jpg",
+      "teaser": "Aaron Donald -- and the SoFi Stadium crowd's response to him -- sparked the Rams in his first game since the end of the 2023 season.",
+      "body": [
+        "Aaron Donald -- and the SoFi Stadium crowd's response to him -- sparked the Rams in his first game since the end of the 2023 season. INGLEWOOD, Calif. -- When Aaron Donald ran out onto the field for his first game since the end of the 2023 season, the SoFi Stadium crowd erupted.",
+        "The Los Angeles Rams defensive tackle, who was play…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Puka Nacua officially inactive for Week 2 vs. NYG - NBC Sports",
+      "deck": "Rams WR Puka Nacua (groin) is inactive for Week 2 against the Giants.",
+      "byline": "By Mark Garcia",
+      "source": "NBCSports.com",
+      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-21/puka-nacua-officially-inactive-for-week-2-vs-nyg",
+      "imgSrc": "https://nbcsports.brightspotcdn.com/dims4/default/4f81fad/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1d%2F13%2F4e06873d46af9d85e3e40c5e04e7%2Fnacua-puka-800-1080-aa56d212d0027e84.jpg",
+      "teaser": "Rams WR Puka Nacua (groin) is inactive for Week 2 against the Giants.",
+      "body": [
+        "Rams WR Puka Nacua (groin) is inactive for Week 2 against the Giants. A Division of NBCUniversal. DISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi…"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "8 Common Food Preservatives Linked to High Blood Pressure in 'First Study of Its Kind' - ScienceAlert",
+      "deck": "Scientists have identified eight chemicals commonly used to preserve food that are linked to a greater risk of high blood pressure.",
+      "byline": "By Carly Cassella",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/8-common-food-preservatives-linked-to-high-blood-pressure-in-first-study-of-its-kind",
+      "imgSrc": "https://www.sciencealert.com/images/2026/09/Preservatives.jpg",
+      "teaser": "Scientists have identified eight chemicals commonly used to preserve food that are linked to a greater risk of high blood pressure.",
+      "body": [
+        "Scientists have identified eight chemicals commonly used to preserve food that are linked to a greater risk of high blood pressure. The long-term study tracked the health and diets of 112,395 people…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "Possible measles exposure at Busch Stadium and multiple St. Louis-area bars, health officials warn - STLPR",
+      "deck": "The Missouri Department of Health and Senior Services said Monday that people may have been exposed to measles at several locations between Sept. 12 and Sept. 14.",
+      "byline": "By Rob Edwards",
+      "source": "Stlpr.org",
+      "url": "https://www.stlpr.org/health-science-environment/2026-09-21/possible-measles-exposure-busch-stadium-st-louis-bars",
+      "imgSrc": "https://npr.brightspotcdn.com/dims4/default/29ece89/2147483647/strip/true/crop/1194x627+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Fc0%2F9ed85a674afd95c7d0875193e3f3%2F0418-measles-cdc1.jpg",
+      "teaser": "The Missouri Department of Health and Senior Services said Monday that people may have been exposed to measles at several locations between Sept. 12 and Sept. 14.",
+      "body": [
+        "Health officials are warning of possible measles exposures this month at Busch Stadium and several bars and businesses in the St. Louis area. The Missouri Department of Health and Senior Services sa…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "One Lifelong Exercise Habit Is Linked to Healthier Signs of Aging After 55 - ScienceAlert",
+      "deck": "Two people can celebrate the same birthday while their bodies have aged very differently.",
+      "byline": "By Esra Öz",
+      "source": "ScienceAlert",
+      "url": "https://www.sciencealert.com/one-lifelong-exercise-habit-is-linked-to-healthier-signs-of-aging-after-55",
+      "imgSrc": "https://www.sciencealert.com/images/2026/09/Senior-Woman-Stretching-Outdoors-Looking-Healthy-1.jpg",
+      "teaser": "Two people can celebrate the same birthday while their bodies have aged very differently.",
+      "body": [
+        "Two people can celebrate the same birthday while their bodies have aged very differently. One may have more physiological reserve to draw on. Scientists call this hidden reserve vitality capacity. …"
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "New book by Princess Diana's brother prompts war of words with King Charles III - NPR",
+      "deck": "A new book by the late Princess Diana's brother, Charles Spencer, has made headlines with damning allegations about King Charles III. Buckingham Palace responded with a strongly-worded statement.",
+      "byline": "By The Associated Press",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book",
+      "imgSrc": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1852x1042+0+229/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2Fae%2Fe0104b7e4311b804b6673b6ac173%2Fap26260283482505.jpg",
+      "teaser": "A new book by the late Princess Diana's brother, Charles Spencer, has made headlines with damning allegations about King Charles III. Buckingham Palace responded with a strongly-wo…",
+      "body": [
+        "A new book by the late Princess Diana's brother, Charles Spencer, has made headlines with damning allegations about King Charles III. Buckingham Palace responded with a strongly-worded statement. LONDON A new book published Tuesday by the brother of the late Princess Diana has made headlines around the world with its damning allegations about Diana's ex-husband, now King Charles III, and reop…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "Dolly Parton Secretly Traveled to Germany for Experimental Cancer Treatment - TMZ",
+      "deck": "Dolly Parton secretly traveled to Germany for an experimental cancer treatment about a year before her death ... TMZ has learned.",
+      "byline": "By TMZ Staff",
+      "source": "TMZ",
+      "url": "https://www.tmz.com/2026/09/22/dolly-parton-secret-trip-to-germany-for-cancer-treatment/",
+      "imgSrc": "https://imagez.tmz.com/image/58/16by9/2026/09/21/5864e4dd302b4454881ac1cbde53ffb9_xl.jpg",
+      "teaser": "Dolly Parton secretly traveled to Germany for an experimental cancer treatment about a year before her death ... TMZ has learned.",
+      "body": [
+        "Dolly Parton secretly traveled to Germany for an experimental cancer treatment about a year before her death ... TMZ has learned. Sources familiar with the situation tell TMZ ... Dolly privately bat…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "Matthew McConaughey Exposed Himself to Jimmy Kimmel in Emmys Bathroom - Variety",
+      "deck": "Jimmy Kimmel told a wild story on “Jimmy Kimmel Live” about how McConaughey comforted him during the Emmys… with his member out.",
+      "byline": "By Marlow Stern",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/matthew-mcconaughey-exposed-jimmy-kimmel-emmys-bathroom-woody-harrelson-1236871737/",
+      "imgSrc": "https://variety.com/wp-content/uploads/2026/09/GettyImages-927348984.jpg?w=1000&h=563&crop=1",
+      "teaser": "Jimmy Kimmel told a wild story on “Jimmy Kimmel Live” about how McConaughey comforted him during the Emmys… with his member out.",
+      "body": [
+        "Jimmy Kimmel told a wild story on “Jimmy Kimmel Live” about how McConaughey comforted him during the Emmys… with his member out. On Monday night’s “Jimmy Kimmel Live,” the late-night host kicked things off by throwing jabs at his favorite punching bag, President Trump, over his recent visit with Zohran Mamdani (and how smitten…"
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "THOR INDUSTRIES ANNOUNCES FISCAL 2026 FOURTH QUARTER AND FULL YEAR RESULTS",
+      "deck": "Financial Highlights ($ in thousands, except for per share data) Three Months Ended July 31, Change Fiscal Years Ended July 31, Change 2026 2025 2026 2025 Net Sales $ 2,311,628 $ 2,523,783 (8.4) % $ 9,608,145 $ 9,579,490 0.3 % Gross Profit $ 285,632 $ 370,883…",
+      "byline": "By PRNewswire",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/thor-industries-announces-fiscal-2026-fourth-quarter-and-full-year-results-302885391.html",
+      "imgSrc": "https://mmx.prnewswire.com/media/MS1759143/THOR-Industries-Logo.jpg?id=OA2962046&p=facebook",
+      "teaser": "Financial Highlights ($ in thousands, except for per share data) Three Months Ended July 31, Change Fiscal Years Ended July 31, Change 2026 2025 2026 2025 Net Sales $ 2,311,628 $ 2…",
+      "body": [
+        "Financial Highlights ($ in thousands, except for per share data) Three Months Ended July 31, Change Fiscal Years Ended July 31, Change 2026 2025 2026 2025 Net Sales $ 2,311,628 $ 2,523,783 (8.4) % $ 9,608,145 $ 9,579,490 0.3 % Gross Profit $ 285,632 $ 370,883…\n\nFinancial Highlights …"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "europe’s largest carbon capture facility sends CO₂ from the netherlands to norway",
+      "deck": "captured in the netherlands, shipped across borders and buried 2,600 meters below the seabed, carbon becomes a new kind of industrial cargo The post europe’s largest carbon capture facility sends CO₂ from the netherlands to norway appeared first on designboom…",
+      "byline": "By Iñaki Laguardia",
+      "source": "Designboom",
+      "url": "https://www.designboom.com/technology/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway/",
+      "imgSrc": "https://www.designboom.com/twitterimages/uploads/2026/09/europes-largest-carbon-capture-facility-co2-netherlands-yara-norway-designboom-9.jpg",
+      "teaser": "captured in the netherlands, shipped across borders and buried 2,600 meters below the seabed, carbon becomes a new kind of industrial cargo The post europe’s largest carbon capture…",
+      "body": [
+        "captured in the netherlands, shipped across borders and buried 2,600 meters below the seabed, carbon becomes a new kind of industrial cargo The post europe’s largest carbon capture facility sends CO₂ from the netherlands to norway appeared first on designboom…\n\nEUROPE’S LARGEST CARBON CAPTURE FACILITY OPENS AT YARA SLUISKIL Europe’s largest industrial carbon capture facility has officially opened at Yara’s ammonia and fertilizer plant in Sluiskil, the Neth…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Federal Court clears way for youth climate lawsuit against federal government",
+      "deck": "Young Canadians suing the federal government over its 2030 climate plan can proceed following a Federal Court judge’s rejection of a bid to dismiss the case.",
+      "byline": "By Charlotte James",
+      "source": "National Observer",
+      "url": "https://www.nationalobserver.com/2026/09/22/news/federal-court-ruling-mathur-case",
+      "imgSrc": "https://www.nationalobserver.com/sites/default/files/styles/social_share/public/img/2026/09/21/edit_20260616-youth-take-carney-to-court-over-climate-nbu.jpg.jpeg?itok=BqkEH-Xb",
+      "teaser": "Young Canadians suing the federal government over its 2030 climate plan can proceed following a Federal Court judge’s rejection of a bid to dismiss the case.",
+      "body": [
+        "Young Canadians suing the federal government over its 2030 climate plan can proceed following a Federal Court judges rejection of a bid to dismiss the case. The Sept. 18 decision by Justice Patrick …"
+      ]
+    }
+  }
+}
