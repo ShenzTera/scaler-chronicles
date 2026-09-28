@@ -1,0 +1,411 @@
+{
+  "date": "Monday, September 28, 2026",
+  "key": "sep28",
+  "articles": {
+    "lead": {
+      "tag": "Breaking News",
+      "headline": "Men arrested on suspicion of explosives offenses near U.S. air base in Britain in major incident - NBC News",
+      "deck": "LONDON — British police evacuated homes and arrested several men on suspicion of explosives offenses on Sunday near an air base that the U.S.",
+      "byline": "By Freddie Clayton",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/united-kingdom/men-arrested-suspicion-explosives-offences-us-air-base-britain-rcna600052",
+      "imgSrc": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-fairford-nd-d2e946.jpg",
+      "teaser": "LONDON — British police evacuated homes and arrested several men on suspicion of explosives offenses on Sunday near an air base that the U.S.",
+      "body": [
+        "LONDON — British police evacuated homes and arrested several men on suspicion of explosives offenses on Sunday near an air base that the U.S. LONDON British police evacuated homes and arrested several men on suspicion of explosives offenses on Sunday near an air base that the U.S.",
+        "Air Force had been using to facilitate strikes on Iran. A …"
+      ]
+    },
+    "lead2": {
+      "tag": "Top Story",
+      "headline": "Supreme Court vote shadows Maine Sen. Susan Collins in her first bid after abortion rights decision - AP News",
+      "deck": "As Maine Republican Susan Collins seeks a sixth Senate term, some voters are bringing up her 2018 vote to confirm Brett Kavanaugh as a Supreme Court justice. He was part of the court's conservative majority that overturned Roe v. Wade and the constitutional r…",
+      "byline": "By Kimberlee Kruesi",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/maine-jackson-collins-kavanaugh-abortion-supreme-court-8a58211e8456029e068aeecfbb9724bb",
+      "imgSrc": "https://dims.apnews.com/dims4/default/facdfc5/2147483647/strip/true/crop/3907x2603+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2F1b%2F2f21a42a470f26a688011e906ee1%2F8b169007f5424f04854dd5211bd34a56",
+      "teaser": "As Maine Republican Susan Collins seeks a sixth Senate term, some voters are bringing up her 2018 vote to confirm Brett Kavanaugh as a Supreme Court justice. He was part of the cou…",
+      "body": [
+        "As Maine Republican Susan Collins seeks a sixth Senate term, some voters are bringing up her 2018 vote to confirm Brett Kavanaugh as a Supreme Court justice. He was part of the court's conservative majority that overturned Roe v. Wade and the constitutional r…\n\nGORHAM, Maine (AP) For years, Planned Parenthoods endorsement of Susan Collins was enough to persuade Erin Evans to vote for Maines longtime U.S.",
+        "senator, believing that the moderate Republican would…"
+      ]
+    },
+    "lead3": {
+      "tag": "Top Story",
+      "headline": "College football week 4 contenders, pretenders: Texas survives, Michigan's karma and coaches are sweating - Fox News",
+      "deck": "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday.",
+      "byline": "By Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/college-football-week-4-contenders-pretenders-texas-survives-michigans-karma-coaches-sweating",
+      "imgSrc": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/arch-manning-texas-tennessee-victory.jpg",
+      "teaser": "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday.",
+      "body": [
+        "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday. KNOXVILLE, TN - It only took four weeks of action to immerse ourselves in the madness of college football, with upsets and teams already up against the ropes heading into the month of October.",
+        "Are s…"
+      ]
+    },
+    "biz1": {
+      "tag": "Business",
+      "headline": "Ford’s Latest Employee of the Month is a Hawk Named ‘El Charro’ - WSJ",
+      "deck": "To protect 300,000 trucks a year from a persistent pigeon invasion, the automaker turned to an ancient practice: falconry",
+      "byline": "By Ryan Felton",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/autos/fords-factory-hermosillo-mexico-pigeons-hawk-el-charro-b78d90ae",
+      "imgSrc": "https://images.wsj.net/im-81884514/social",
+      "teaser": "To protect 300,000 trucks a year from a persistent pigeon invasion, the automaker turned to an ancient practice: falconry",
+      "body": [
+        "To protect 300,000 trucks a year from a persistent pigeon invasion, the automaker turned to an ancient practice: falconry\n\nFord Motors assembly plant in Hermosillo, Mexico churns out over 300,000 pickup trucks and sports utility vehicles a year, employing 4,300 workers and a security guard known as El Charro.",
+        "El Charro…"
+      ]
+    },
+    "biz2": {
+      "tag": "Business",
+      "headline": "Futures Ahead After Trump's Iran Decision - Investor's Business Daily",
+      "deck": "Micron, SpaceX and Tesla eye buy points with big news this week.",
+      "byline": "By Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-growth-stocks-shrug-off-surging-yields-micron-spacex-tesla-economic-data/",
+      "imgSrc": "https://www.investors.com/wp-content/uploads/2026/06/stock-brain-chip-adobe.jpg",
+      "teaser": "Micron, SpaceX and Tesla eye buy points with big news this week.",
+      "body": [
+        "Micron, SpaceX and Tesla eye buy points with big news this week. Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities.",
+        "…"
+      ]
+    },
+    "biz3": {
+      "tag": "Business",
+      "headline": "Nearly 333 pounds of Buckhead tuna recalled across 5 states over elevated scombrotoxin levels - Fox Business",
+      "deck": "Buckhead tuna sold across five states tested positive for elevated scombrotoxin levels, triggering an FDA Class II recall of nearly 333 pounds.",
+      "byline": "By Michael Sinkewicz",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/lifestyle/nearly-333-pounds-buckhead-tuna-recalled-across-5-states-over-elevated-scombrotoxin-levels",
+      "imgSrc": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/buckhead-tuna-class-two-recall-2026.jpg?ve=1&tl=1",
+      "teaser": "Buckhead tuna sold across five states tested positive for elevated scombrotoxin levels, triggering an FDA Class II recall of nearly 333 pounds.",
+      "body": [
+        "Buckhead tuna sold across five states tested positive for elevated scombrotoxin levels, triggering an FDA Class II recall of nearly 333 pounds. Nearly 333 pounds of tuna distributed across five states are being recalled after testing found elevated levels of a toxin that can cause a form of food poisoning, according to the Food and Drug Admi…"
+      ]
+    },
+    "tech1": {
+      "tag": "Technology",
+      "headline": "Microsoft CEO Says Xbox's \"Streamlining\" Is \"Great To See\" Following Recent Layoffs - techpowerup.com",
+      "deck": "Microsoft CEO Satya Nadella called Xbox's ongoing job cuts \"great to see,\" commenting on the restructuring led by Xbox CEO Asha Sharma. The remark follows Xbox's latest layoffs, which cut 268 more jobs on top of the 1,600 eliminated earlier this year, part of…",
+      "byline": "By Techpowerup.com",
+      "source": "Techpowerup.com",
+      "url": "https://www.techpowerup.com/353123/microsoft-ceo-says-xboxs-streamlining-is-great-to-see-following-recent-layoffs",
+      "imgSrc": "https://www.techpowerup.com/img/aoLF3cP3TZvyyxG1.jpg",
+      "teaser": "Microsoft CEO Satya Nadella called Xbox's ongoing job cuts \"great to see,\" commenting on the restructuring led by Xbox CEO Asha Sharma. The remark follows Xbox's latest layoffs, wh…",
+      "body": [
+        "Microsoft CEO Satya Nadella called Xbox's ongoing job cuts \"great to see,\" commenting on the restructuring led by Xbox CEO Asha Sharma. The remark follows Xbox's latest layoffs, which cut 268 more jobs on top of the 1,600 eliminated earlier this year, part of…\n\nYes, he could have phrased it better.",
+        "But they're coached on how to protect stock prices, not sssssoundth human-like.I can't be the only one that agrees with him though? Other than the RIPs of studio…"
+      ]
+    },
+    "tech2": {
+      "tag": "Technology",
+      "headline": "Silent Hill: Townfall compared on RTX 5080 and PS5 Pro with DLSS 4.5 and PSSR 2 in 4K - GameGPU",
+      "deck": "An extended comparative benchmarking of psychological horror films has been published online. Silent Hill: Townfall, in which the quality of graphics and level...",
+      "byline": "By Evgen Kovalov",
+      "source": "Gamegpu.com",
+      "url": "https://en.gamegpu.com/news/igry/silent-hill-townfall-sravnili-na-rtx-5080-i-ps5-pro-s-dlss-4-5-i-pssr-2-v-4k",
+      "imgSrc": "https://gamegpu.com/images/1_2026/NEWS/Q3/Sent/6/Image_izzxykizzxykizzx_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q3/Sent/6/Image_izzxykizzxykizzx_ggpu.webp?width=1920&height=1080",
+      "teaser": "An extended comparative benchmarking of psychological horror films has been published online. Silent Hill: Townfall, in which the quality of graphics and level...",
+      "body": [
+        "An extended comparative benchmarking of psychological horror films has been published online. Silent Hill: Townfall, in which graphics quality and performance were compared on a PlayStation 5 Pro con…"
+      ]
+    },
+    "tech3": {
+      "tag": "Technology",
+      "headline": "Wolverine Ending And Post-Credits Scene Explained By Video Game's Creative Team - Spoilers - ComicBookMovie.com",
+      "deck": "Wolverine Ending And Post-Credits Scene Explained By Video Game's Creative Team - Spoilers",
+      "byline": "By JoshWilding",
+      "source": "CBM (Comic Book Movie)",
+      "url": "https://comicbookmovie.com/x_men/wolverine/wolverine-ending-and-post-credits-scene-explained-by-video-games-creative-team---spoilers-a230091",
+      "imgSrc": "https://comicbookmovie.com/images/articles/banners/wolverine-ending-and-post-credits-scene-explained-by-video-games-creative-team---spoilers-ab230091.jpg",
+      "teaser": "Wolverine Ending And Post-Credits Scene Explained By Video Game's Creative Team - Spoilers",
+      "body": [
+        "Wolverine Ending And Post-Credits Scene Explained By Video Game's Creative Team - Spoilers\n\nInsomniac Games' Wolverine has proven surprisingly divisive, but love or hate the game, it's clear that it isn't as critically acclaimed as the developer's previous titles, Spider-Man and Ratchet &am…"
+      ]
+    },
+    "sci1": {
+      "tag": "Science",
+      "headline": "Claims China’s BeiDou satellite was refuelled in orbit could change space race - South China Morning Post",
+      "deck": "Research papers suggest the historic operation occurred in February last year, a manoeuvre that could have military implications.",
+      "byline": "By Post Magazine",
+      "source": "Post Magazine",
+      "url": "https://www.scmp.com/news/china/science/article/3368579/claims-chinas-beidou-satellite-was-refuelled-orbit-could-change-space-race",
+      "imgSrc": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/24/6f35f051-146e-4b4a-a642-c3ab6fb4085d_4a550ad0.jpg?itok=wF2sFLF7&v=1790212217",
+      "teaser": "Research papers suggest the historic operation occurred in February last year, a manoeuvre that could have military implications.",
+      "body": [
+        "Research papers suggest the historic operation occurred in February last year, a manoeuvre that could have military implications. Chinese researchers appear to have revealed a previously unknown satellite-to-satellite refuelling operation in high Earth orbit, putting the country at the forefront of a technology that could resha…"
+      ]
+    },
+    "sci2": {
+      "tag": "Science",
+      "headline": "Woolly mammoth to be resurrected with the help of AI: scientists - nypost.com",
+      "deck": "Colossal Biosciences says its woolly mammoth de-extinction project is now targeting the early 2030s, not 2028 as first promised, after discovering it must edit over 150 genes — not 60 using A…",
+      "byline": "By Shane Galvin",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/26/science/ai-enlisted-as-woolly-mammoth-revival-timeline-slips-to-2030s/",
+      "imgSrc": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142541554.jpg?quality=75&strip=all&w=1200",
+      "teaser": "Colossal Biosciences says its woolly mammoth de-extinction project is now targeting the early 2030s, not 2028 as first promised, after discovering it must edit over 150 genes — not…",
+      "body": [
+        "Colossal Biosciences says its woolly mammoth de-extinction project is now targeting the early 2030s, not 2028 as first promised, after discovering it must edit over 150 genes — not 60 using A…\n\nThis comeback is turning into a mammoth task for artificial intelligence.",
+        "Scientists working to de-extinct the woolly mammoth report that the project is taking longer than expected and are relying o…"
+      ]
+    },
+    "sci3": {
+      "tag": "Science",
+      "headline": "Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate - phys.org",
+      "deck": "Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is wrapped in a huge envelope of gas called the circumgalactic medium, or CGM. This reservoir of raw material str…",
+      "byline": "By Phys.Org",
+      "source": "Phys.Org",
+      "url": "https://phys.org/news/2026-09-black-hole-jets-galaxies-visible.html",
+      "imgSrc": "https://scx2.b-cdn.net/gfx/news/hires/2026/asu-astronomers-uncove.jpg",
+      "teaser": "Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is wrapped in a huge envelope of g…",
+      "body": [
+        "Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is wrapped in a huge envelope of gas called the circu…"
+      ]
+    },
+    "world1": {
+      "tag": "World",
+      "headline": "Anthropic, OpenAI sound alarm on AI safety — and seek to shape how it's controlled",
+      "deck": "The CEOs of Anthropic and OpenAI recently declared America's cutting-edge models are so powerful, they're dangerous, and need to be regulated and independently tested before being released. In a rare instance of unity, they have sketched alarming scenarios in…",
+      "byline": "By AP",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled/articleshow/134520269.cms",
+      "imgSrc": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-135904,resizemode-75,msid-134520269/tech/artificial-intelligence/anthropic-openai-sound-alarm-on-ai-safety-and-seek-to-shape-how-its-controlled.jpg",
+      "teaser": "The CEOs of Anthropic and OpenAI recently declared America's cutting-edge models are so powerful, they're dangerous, and need to be regulated and independently tested before being …",
+      "body": [
+        "The CEOs of Anthropic and OpenAI recently declared America's cutting-edge models are so powerful, they're dangerous, and need to be regulated and independently tested before being released. In a rare instance of unity, they have sketched alarming scenarios in…\n\nAs tech titans warned an AI-weary world that their own advanced systems could endanger humanity, the question emerged: What do they have to gain?The answer may lie in the companies' efforts to score …"
+      ]
+    },
+    "world2": {
+      "tag": "World",
+      "headline": "Real Madrid locked in battle with Barcelona over record-breaking Mexican prodigy",
+      "deck": "Real Madrid have spent a fortune in the past few years trying to get their hands on some of the best and proven talents in the world.And unlike the Madrid of yesterday, the club have proven that they ...",
+      "byline": "By Madrid Universal",
+      "source": "Madriduniversal.com",
+      "url": "https://madriduniversal.com/real-madrid-locked-in-battle-with-barcelona-over-record-breaking-mexican-prodigy/",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/e3ebe2a16416e3328798e8b117cecc79cd9e51bed2769cfd76fbcaa9dc5e618e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2F9c2e4c30bf7f4acdc2bffca8e7598273.jpg",
+      "teaser": "Real Madrid have spent a fortune in the past few years trying to get their hands on some of the best and proven talents in the world.And unlike the Madrid of yesterday, the club ha…",
+      "body": [
+        "Real Madrid have spent a fortune in the past few years trying to get their hands on some of the best and proven talents in the world. And unlike the Madrid of yesterday, the club have proven that th…"
+      ]
+    },
+    "world3": {
+      "tag": "World",
+      "headline": "How To Watch The 2026 WNBA Playoffs",
+      "deck": "This season's WNBA playoffs might just be one of the most exciting in the history of the league. Here's where you can catch the action as it happens.",
+      "byline": "By staff@tvline.com (Rick Stevenson)",
+      "source": "TVLine",
+      "url": "https://www.tvline.com/2268567/how-watch-2026-wnba-playoffs/",
+      "imgSrc": "https://www.tvline.com/img/gallery/how-to-watch-the-2026-wnba-playoffs/l-intro-1790329893.jpg",
+      "teaser": "This season's WNBA playoffs might just be one of the most exciting in the history of the league. Here's where you can catch the action as it happens.",
+      "body": [
+        "This season's WNBA playoffs might just be one of the most exciting in the history of the league. Here's where you can catch the action as it happens. This year's playoff slate is one of the tightest the WNBA has ever seen.",
+        "All eight playoff teams have a genuine shot at the title, though some have better odds than others. Let's start with the fron…"
+      ]
+    },
+    "pol1": {
+      "tag": "Politics",
+      "headline": "Men arrested on suspicion of explosives offenses near U.S. air base in Britain in major incident - NBC News",
+      "deck": "LONDON — British police evacuated homes and arrested several men on suspicion of explosives offenses on Sunday near an air base that the U.S.",
+      "byline": "By Freddie Clayton",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/united-kingdom/men-arrested-suspicion-explosives-offences-us-air-base-britain-rcna600052",
+      "imgSrc": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260927-fairford-nd-d2e946.jpg",
+      "teaser": "LONDON — British police evacuated homes and arrested several men on suspicion of explosives offenses on Sunday near an air base that the U.S.",
+      "body": [
+        "LONDON — British police evacuated homes and arrested several men on suspicion of explosives offenses on Sunday near an air base that the U.S. LONDON British police evacuated homes and arrested several men on suspicion of explosives offenses on Sunday near an air base that the U.S.",
+        "Air Force had been using to facilitate strikes on Iran. A …"
+      ]
+    },
+    "pol2": {
+      "tag": "Politics",
+      "headline": "Supreme Court vote shadows Maine Sen. Susan Collins in her first bid after abortion rights decision - AP News",
+      "deck": "As Maine Republican Susan Collins seeks a sixth Senate term, some voters are bringing up her 2018 vote to confirm Brett Kavanaugh as a Supreme Court justice. He was part of the court's conservative majority that overturned Roe v. Wade and the constitutional r…",
+      "byline": "By Kimberlee Kruesi",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/maine-jackson-collins-kavanaugh-abortion-supreme-court-8a58211e8456029e068aeecfbb9724bb",
+      "imgSrc": "https://dims.apnews.com/dims4/default/facdfc5/2147483647/strip/true/crop/3907x2603+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2F1b%2F2f21a42a470f26a688011e906ee1%2F8b169007f5424f04854dd5211bd34a56",
+      "teaser": "As Maine Republican Susan Collins seeks a sixth Senate term, some voters are bringing up her 2018 vote to confirm Brett Kavanaugh as a Supreme Court justice. He was part of the cou…",
+      "body": [
+        "As Maine Republican Susan Collins seeks a sixth Senate term, some voters are bringing up her 2018 vote to confirm Brett Kavanaugh as a Supreme Court justice. He was part of the court's conservative majority that overturned Roe v. Wade and the constitutional r…\n\nGORHAM, Maine (AP) For years, Planned Parenthoods endorsement of Susan Collins was enough to persuade Erin Evans to vote for Maines longtime U.S.",
+        "senator, believing that the moderate Republican would…"
+      ]
+    },
+    "pol3": {
+      "tag": "Politics",
+      "headline": "College football week 4 contenders, pretenders: Texas survives, Michigan's karma and coaches are sweating - Fox News",
+      "deck": "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday.",
+      "byline": "By Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/college-football-week-4-contenders-pretenders-texas-survives-michigans-karma-coaches-sweating",
+      "imgSrc": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/arch-manning-texas-tennessee-victory.jpg",
+      "teaser": "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday.",
+      "body": [
+        "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday. KNOXVILLE, TN - It only took four weeks of action to immerse ourselves in the madness of college football, with upsets and teams already up against the ropes heading into the month of October.",
+        "Are s…"
+      ]
+    },
+    "sport1": {
+      "tag": "Sport",
+      "headline": "College football week 4 contenders, pretenders: Texas survives, Michigan's karma and coaches are sweating - Fox News",
+      "deck": "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday.",
+      "byline": "By Fox News",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/college-football-week-4-contenders-pretenders-texas-survives-michigans-karma-coaches-sweating",
+      "imgSrc": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/arch-manning-texas-tennessee-victory.jpg",
+      "teaser": "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday.",
+      "body": [
+        "Iowa stunned Michigan on a last-second touchdown, and LSU's Lane Kiffin sent Texas A&M fans into panic mode on a wild college football Saturday. KNOXVILLE, TN - It only took four weeks of action to immerse ourselves in the madness of college football, with upsets and teams already up against the ropes heading into the month of October.",
+        "Are s…"
+      ]
+    },
+    "sport2": {
+      "tag": "Sport",
+      "headline": "Sources: Cowboys, Lions make trade inquiries on Joey Porter Jr. - ESPN",
+      "deck": "A handful of teams, including the Cowboys and Lions, have begun making inquiries about the availability of Steelers cornerback Joey Porter Jr., sources told ESPN.",
+      "byline": "By Adam Schefter",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50038725/sources-steelers-field-joey-porter-jr-trade-calls-cowboys-lions",
+      "imgSrc": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0923%2Fr1721001_1296x729_16%2D9.jpg",
+      "teaser": "A handful of teams, including the Cowboys and Lions, have begun making inquiries about the availability of Steelers cornerback Joey Porter Jr., sources told ESPN.",
+      "body": [
+        "A handful of teams, including the Cowboys and Lions, have begun making inquiries about the availability of Steelers cornerback Joey Porter Jr., sources told ESPN. A handful of teams, including the Dallas Cowboys and Detroit Lions, have begun making inquiries about the availability of Pittsburgh Steelers cornerback Joey Porter Jr., league sources told ESPN.",
+        "Th…"
+      ]
+    },
+    "sport3": {
+      "tag": "Sport",
+      "headline": "Berlin Marathon: Tigst Assefa wins but injury halts world record time - BBC",
+      "deck": "Ethiopian runner Tigst Assefa wins the Berlin Marathon but narrowly misses out on breaking the women's world record because of injury.",
+      "byline": "By Tasnim Chowdhury",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/athletics/articles/c6rr4y59n0r0o",
+      "imgSrc": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ab27/live/b81593b0-ba5e-11f1-ab5a-210fdaa1dd09.jpg",
+      "teaser": "Ethiopian runner Tigst Assefa wins the Berlin Marathon but narrowly misses out on breaking the women's world record because of injury.",
+      "body": [
+        "Ethiopian runner Tigst Assefa wins the Berlin Marathon but narrowly misses out on breaking the women's world record because of injury. An injured Tigst Assefa hobbled over the line at the Berlin Marathon on Sunday after looking set to smash the women's world record.",
+        "The Ethiopian still won with the third-fastest time in history in …"
+      ]
+    },
+    "health1": {
+      "tag": "Health",
+      "headline": "The Trump admin said it would prioritize ending mother-to-child HIV transmission. Health workers say it cut services - CNN",
+      "deck": "Dr. Theopista Masenge was at the hospital in Mbeya, Tanzania, rolling out new treatments for children with high HIV viral loads when she got the call: Stop work, now.",
+      "byline": "By Lauren Kent",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/27/africa/hiv-aid-mother-to-child-transmission-aid-cuts-intl",
+      "imgSrc": "https://media.cnn.com/api/v1/images/stellar/prod/ap081212039663.jpg?c=16x9&q=w_800,c_fill",
+      "teaser": "Dr. Theopista Masenge was at the hospital in Mbeya, Tanzania, rolling out new treatments for children with high HIV viral loads when she got the call: Stop work, now.",
+      "body": [
+        "Dr. Theopista Masenge was at the hospital in Mbeya, Tanzania, rolling out new treatments for children with high HIV viral loads when she got the call: Stop work, now. It was January 2025, and the he…"
+      ]
+    },
+    "health2": {
+      "tag": "Health",
+      "headline": "Doctors, Nurses, And EMTs Are Sharing Their \"Dumbest Patient Ever\" Stories - Yahoo",
+      "deck": "\"There was a guy who came to the ER because his iPhone app told him his sleep was of poor quality.\"",
+      "byline": "By Hannah Marder",
+      "source": "Buzzfeed",
+      "url": "https://www.buzzfeed.com/hannahmarder/doctors-are-sharing-the-dumbest-patient-they-ever?origin=bf-yahoo",
+      "imgSrc": "https://s.yimg.com/lo/mysterio/api/3df60976b2aa6e85afd457c8d7def2cc19b7bf42bdbfce4a4499949e33f1e387/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F38e2d0b128c272ff1a380b3bf2948ba8.jpg",
+      "teaser": "\"There was a guy who came to the ER because his iPhone app told him his sleep was of poor quality.\"",
+      "body": [
+        "\"There was a guy who came to the ER because his iPhone app told him his sleep was of poor quality.\"\n\nA while back, redditor the-mailman38asked, \"Doctors and nurses of Reddit, who was the dumbest patient you ever had?\" And...wow. People REALLY need to learn how to do a simple Google search before goi…"
+      ]
+    },
+    "health3": {
+      "tag": "Health",
+      "headline": "A Case Report of Pleomorphic Adenoma of the Lower Lip: An Uncommon Location and a Diagnostic Pitfall - Cureus",
+      "deck": "Pleomorphic adenoma is the most common benign tumor of the salivary glands. Lower lip involvement is uncommon, and its nonspecific clinical appearance may complicate the diagnosis. We report a case of a man in his 30s who presented with a painless lower lip s…",
+      "byline": "By Cureus.com",
+      "source": "Cureus.com",
+      "url": "https://www.cureus.com/articles/531138-a-case-report-of-pleomorphic-adenoma-of-the-lower-lip-an-uncommon-location-and-a-diagnostic-pitfall",
+      "imgSrc": "https://assets.cureus.com/uploads/figure/file/2182648/article_river_72e7e080a3d011f198fba98f6877cc60-B716DC03-B6BA-49FF-9574-34C617836B82.png",
+      "teaser": "Pleomorphic adenoma is the most common benign tumor of the salivary glands. Lower lip involvement is uncommon, and its nonspecific clinical appearance may complicate the diagnosis.…",
+      "body": [
+        "Pleomorphic adenoma is the most common benign tumor of the salivary glands. Lower lip involvement is uncommon, and its nonspecific clinical appearance may complicate the diagnosis. We report a case of a man in his 30s who presented with a painless lower lip s…\n\nISSN: 2168-8184 Public user content licensed CC-BY 4.0 CUREUS® is a registered trademark of Cureus, Inc.",
+        "in the United States."
+      ]
+    },
+    "ent1": {
+      "tag": "Entertainment",
+      "headline": "Rob Bonta’s Paramount-WBD debacle has created political chaos - New York Post",
+      "deck": "Antitrust suits aren’t supposed to be about politics, and yet that’s what’s happening of late.",
+      "byline": "By Charles Gasparino",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/27/business/rob-bontas-paramount-wbd-debacle-has-created-political-chaos/",
+      "imgSrc": "https://nypost.com/wp-content/uploads/sites/2/2026/09/rob-bonta-attorney-general-state-142088205-e1790469388992.jpg?quality=75&strip=all&w=1200",
+      "teaser": "Antitrust suits aren’t supposed to be about politics, and yet that’s what’s happening of late.",
+      "body": [
+        "Antitrust suits aren’t supposed to be about politics, and yet that’s what’s happening of late. Antitrust suits arent supposed to be about politics, and yet thats whats happening of late, whether its Trumps attempt during his first term to block AT&amp;T from buying Time Warner, or California A…"
+      ]
+    },
+    "ent2": {
+      "tag": "Entertainment",
+      "headline": "‘SNL’: Watch Katseye Perform ‘Animal,’ ‘Hootie Frutti’ - Rolling Stone",
+      "deck": "Kayseye debut on SNL by performing two tracks from their new EP, 'Wild'",
+      "byline": "By William Vaillancourt",
+      "source": "Rolling Stone",
+      "url": "http://www.rollingstone.com/music/music-news/snl-watch-katseye-perform-animal-hootie-frutti-wild-1235632299/",
+      "imgSrc": "https://www.rollingstone.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-27-at-2.53.39-AM.png?w=1364&h=767&crop=1",
+      "teaser": "Kayseye debut on SNL by performing two tracks from their new EP, 'Wild'",
+      "body": [
+        "Kayseye debut on SNL by performing two tracks from their new EP, 'Wild'\n\nLos Angeles-based girl group Katseye debuted on Saturday Night Live with performances of two songs from their new EP, Wild. Four members of the six-person group were on stage Saturday for Animal and…"
+      ]
+    },
+    "ent3": {
+      "tag": "Entertainment",
+      "headline": "A Look at the Most Legendary Beauty Moments in MTV VMAs History [PHOTOS] - WWD",
+      "deck": "From Madonna to Nicki Minaj, the wildest hair and makeup moments at the MTV Video Music Awards.",
+      "byline": "By Kaleigh Werner",
+      "source": "WWD",
+      "url": "http://wwd.com/pop-culture/celebrity-news/gallery/best-beauty-moments-at-the-mtv-vmas-photos-1239254247/",
+      "imgSrc": "https://wwd.com/wp-content/uploads/2026/09/MixCollage-25-Sep-2026-04-55-PM-2465.jpg?w=1000&h=563&crop=1",
+      "teaser": "From Madonna to Nicki Minaj, the wildest hair and makeup moments at the MTV Video Music Awards.",
+      "body": [
+        "From Madonna to Nicki Minaj, the wildest hair and makeup moments at the MTV Video Music Awards. Image Credit: Jon Kopaloff/FilmMagic Actress Pamela Anderson arrives at the MTV Video Music Awards in the Palms Casino Resort on Sept. 9, 2007 in Las Vegas, NV."
+      ]
+    },
+    "env1": {
+      "tag": "Environment",
+      "headline": "EU May Delay Methane Rules for a Year",
+      "deck": "The European Union opened the door to oil and gas importers getting an extra year to prepare for the bloc's methane reporting rules, in a bid to safeguard energy security amid disruptions caused by the Iran war.",
+      "byline": "By Ewa Krukowska",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/eu_may_delay_methane_rules_for_a_year-27-sep-2026-184709-article/",
+      "imgSrc": "https://images.rigzone.com/images/news/articles/EU-May-Delay-Methane-Rules-for-a-Year-184709-1200x628.png",
+      "teaser": "The European Union opened the door to oil and gas importers getting an extra year to prepare for the bloc's methane reporting rules, in a bid to safeguard energy security amid disr…",
+      "body": [
+        "The European Union opened the door to oil and gas importers getting an extra year to prepare for the bloc's methane reporting rules, in a bid to safeguard energy security amid disruptions caused by t…"
+      ]
+    },
+    "env2": {
+      "tag": "Environment",
+      "headline": "The Insurance Industry Is on the Wrong Side of the Legal Battle Against Fossil Fuels",
+      "deck": "The US Supreme Court opens its new term on October 5 with oral arguments in Suncor v. Boulder—the most consequential climate case it has heard to date. The fossil fuel defendants are trying to block local governments from suing them for climate deception and …",
+      "byline": "By Charles Slidders",
+      "source": "Ciel.org",
+      "url": "https://www.ciel.org/insurance-industry-fossil-fuel-problem/",
+      "imgSrc": "https://www.commondreams.org/media-library/image.jpg?id=56525375&width=1200&height=600&coordinates=0%2C569%2C0%2C570",
+      "teaser": "The US Supreme Court opens its new term on October 5 with oral arguments in Suncor v. Boulder—the most consequential climate case it has heard to date. The fossil fuel defendants a…",
+      "body": [
+        "The US Supreme Court opens its new term on October 5 with oral arguments in Suncor v. Boulderthe most consequential climate case it has heard to date. The fossil fuel defendants are trying to block l…"
+      ]
+    },
+    "env3": {
+      "tag": "Environment",
+      "headline": "Zero Waste Movement marks 9th anniversary under COP31 banner",
+      "deck": "Marking nine years of environmental impact, the Zero Waste Movement is channeling its global momentum toward COP31 under the theme “From 0 to COP31: Together for the World,” an initiative spearheaded by First Lady Emine Erdoğan and coordinated by the Ministry…",
+      "byline": "By hurriyetdailynews.com",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/zero-waste-movement-marks-9th-anniversary-under-cop31-banner-227410",
+      "imgSrc": "https://image.hurimg.com/i/hurriyet/75/200x200/6ab8e7c24f33a65e8bfdcd25.jpg",
+      "teaser": "Marking nine years of environmental impact, the Zero Waste Movement is channeling its global momentum toward COP31 under the theme “From 0 to COP31: Together for the World,” an ini…",
+      "body": [
+        "ANKARA A large digital billboard in New Yorks Times Square promotes Türkiyes hosting of the upcoming UN Climate Change Conference (COP31). Marking nine years of environmental impact, the Zero Waste…"
+      ]
+    }
+  }
+}
